@@ -1,0 +1,26 @@
+{
+  "questionId": "1802",
+  "frontendId": "1700",
+  "title": "Number of Students Unable to Eat Lunch",
+  "titleSlug": "number-of-students-unable-to-eat-lunch",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "stack",
+    "queue",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Queue",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19468000,
+  "memoryPercentile": 5.639899999999994,
+  "timestamp": 1768797350
+}

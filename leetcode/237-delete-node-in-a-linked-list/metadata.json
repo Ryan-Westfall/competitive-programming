@@ -1,0 +1,20 @@
+{
+  "questionId": "237",
+  "frontendId": "237",
+  "title": "Delete Node in a Linked List",
+  "titleSlug": "delete-node-in-a-linked-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list"
+  ],
+  "tagNames": [
+    "Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 44,
+  "runtimePercentile": 77.52149999999999,
+  "memory": 14208000,
+  "memoryPercentile": 100,
+  "timestamp": 1599639356
+}

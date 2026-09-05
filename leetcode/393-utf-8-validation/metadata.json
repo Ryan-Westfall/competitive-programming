@@ -1,0 +1,22 @@
+{
+  "questionId": "393",
+  "frontendId": "393",
+  "title": "UTF-8 Validation",
+  "titleSlug": "utf-8-validation",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 14.617499999999993,
+  "memory": 18328000,
+  "memoryPercentile": 100,
+  "timestamp": 1740121172
+}

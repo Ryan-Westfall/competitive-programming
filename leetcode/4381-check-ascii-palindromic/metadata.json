@@ -1,0 +1,16 @@
+{
+  "questionId": "4381",
+  "frontendId": "4030",
+  "title": "Check ASCII Palindromic",
+  "titleSlug": "check-ascii-palindromic",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 62.6647,
+  "memory": 19472000,
+  "memoryPercentile": 11.341100000000008,
+  "timestamp": 1787452764
+}

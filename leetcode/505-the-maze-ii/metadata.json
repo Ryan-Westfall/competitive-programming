@@ -1,0 +1,38 @@
+{
+  "questionId": "505",
+  "frontendId": "505",
+  "title": "The Maze II",
+  "titleSlug": "the-maze-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "heap-priority-queue",
+    "matrix",
+    "shortest-path",
+    "dijkstra",
+    "heuristic-search",
+    "a-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path",
+    "Dijkstra's Algorithm",
+    "Heuristic Search",
+    "A* Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 24,
+  "runtimePercentile": 83.17080000000003,
+  "memory": 19992000,
+  "memoryPercentile": 72.92680000000001,
+  "timestamp": 1787952168
+}

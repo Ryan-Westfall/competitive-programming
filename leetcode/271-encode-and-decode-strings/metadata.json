@@ -1,0 +1,24 @@
+{
+  "questionId": "271",
+  "frontendId": "271",
+  "title": "Encode and Decode Strings",
+  "titleSlug": "encode-and-decode-strings",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "string",
+    "design"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Design"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 68,
+  "runtimePercentile": 78.03630000000001,
+  "memory": 19616000,
+  "memoryPercentile": 32.60490000000001,
+  "timestamp": 1788292419
+}

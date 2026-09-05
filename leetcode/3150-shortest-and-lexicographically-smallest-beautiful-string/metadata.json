@@ -1,0 +1,22 @@
+{
+  "questionId": "3150",
+  "frontendId": "2904",
+  "title": "Shortest and Lexicographically Smallest Beautiful String",
+  "titleSlug": "shortest-and-lexicographically-smallest-beautiful-string",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19236000,
+  "memoryPercentile": 73.3066,
+  "timestamp": 1787764611
+}

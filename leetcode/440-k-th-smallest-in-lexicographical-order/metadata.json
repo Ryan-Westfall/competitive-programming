@@ -1,0 +1,20 @@
+{
+  "questionId": "440",
+  "frontendId": "440",
+  "title": "K-th Smallest in Lexicographical Order",
+  "titleSlug": "k-th-smallest-in-lexicographical-order",
+  "difficulty": "Hard",
+  "tags": [
+    "trie"
+  ],
+  "tagNames": [
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19208000,
+  "memoryPercentile": 65.9436,
+  "timestamp": 1784332890
+}

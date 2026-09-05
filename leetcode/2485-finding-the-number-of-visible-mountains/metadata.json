@@ -1,0 +1,26 @@
+{
+  "questionId": "2485",
+  "frontendId": "2345",
+  "title": "Finding the Number of Visible Mountains",
+  "titleSlug": "finding-the-number-of-visible-mountains",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "stack",
+    "sorting",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Sorting",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 123,
+  "runtimePercentile": 86.75429999999997,
+  "memory": 56136000,
+  "memoryPercentile": 64.23819999999998,
+  "timestamp": 1768778280
+}

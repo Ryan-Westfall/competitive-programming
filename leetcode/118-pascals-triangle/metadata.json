@@ -1,0 +1,22 @@
+{
+  "questionId": "118",
+  "frontendId": "118",
+  "title": "Pascal's Triangle",
+  "titleSlug": "pascals-triangle",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 28,
+  "runtimePercentile": 0.6998000000000033,
+  "memory": 13740000,
+  "memoryPercentile": 100,
+  "timestamp": 1599975576
+}

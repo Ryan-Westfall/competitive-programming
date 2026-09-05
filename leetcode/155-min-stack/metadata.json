@@ -1,0 +1,22 @@
+{
+  "questionId": "155",
+  "frontendId": "155",
+  "title": "Min Stack",
+  "titleSlug": "min-stack",
+  "difficulty": "Medium",
+  "tags": [
+    "stack",
+    "design"
+  ],
+  "tagNames": [
+    "Stack",
+    "Design"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 100,
+  "memory": 20564000,
+  "memoryPercentile": 100,
+  "timestamp": 1731204244
+}

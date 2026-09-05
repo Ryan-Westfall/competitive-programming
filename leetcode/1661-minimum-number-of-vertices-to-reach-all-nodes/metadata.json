@@ -1,0 +1,22 @@
+{
+  "questionId": "1661",
+  "frontendId": "1557",
+  "title": "Minimum Number of Vertices to Reach All Nodes",
+  "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes",
+  "difficulty": "Medium",
+  "tags": [
+    "graph",
+    "directed-acyclic-graph"
+  ],
+  "tagNames": [
+    "Graph Theory",
+    "Directed Acyclic Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 95.71079999999999,
+  "memory": 45680000,
+  "memoryPercentile": 59.73010000000001,
+  "timestamp": 1783705141
+}

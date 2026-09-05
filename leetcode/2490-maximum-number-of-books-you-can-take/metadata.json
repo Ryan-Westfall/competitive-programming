@@ -1,0 +1,33 @@
+{
+  "questionId": "2490",
+  "frontendId": "2355",
+  "title": "Maximum Number of Books You Can Take",
+  "titleSlug": "maximum-number-of-books-you-can-take",
+  "difficulty": "Hard",
+  "likes": 304,
+  "dislikes": 41,
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "stack",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "companyTags": [
+    "Amazon"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 269,
+  "runtimePercentile": 5.08439999999998,
+  "memory": 120184000,
+  "memoryPercentile": 5.423499999999987,
+  "timestamp": 1788466474,
+  "timestampIso": "2026-09-03T20:14:34.000Z",
+  "syncedAt": "2026-09-05T02:24:49.822Z"
+}

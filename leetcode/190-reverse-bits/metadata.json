@@ -1,0 +1,22 @@
+{
+  "questionId": "190",
+  "frontendId": "190",
+  "title": "Reverse Bits",
+  "titleSlug": "reverse-bits",
+  "difficulty": "Easy",
+  "tags": [
+    "divide-and-conquer",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 32,
+  "runtimePercentile": 98.9695,
+  "memory": 14184000,
+  "memoryPercentile": 100,
+  "timestamp": 1642091191
+}

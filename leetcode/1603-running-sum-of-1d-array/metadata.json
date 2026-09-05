@@ -1,0 +1,22 @@
+{
+  "questionId": "1603",
+  "frontendId": "1480",
+  "title": "Running Sum of 1d Array",
+  "titleSlug": "running-sum-of-1d-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 40,
+  "runtimePercentile": 4.315800000000002,
+  "memory": 14476000,
+  "memoryPercentile": 100,
+  "timestamp": 1628055895
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "2083",
+  "frontendId": "1952",
+  "title": "Three Divisors",
+  "titleSlug": "three-divisors",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "enumeration",
+    "number-theory",
+    "prime-factorization",
+    "sieve-theory"
+  ],
+  "tagNames": [
+    "Math",
+    "Enumeration",
+    "Number Theory",
+    "Prime Factorization",
+    "Sieve Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19256000,
+  "memoryPercentile": 49.14660000000003,
+  "timestamp": 1787687897
+}

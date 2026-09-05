@@ -1,0 +1,22 @@
+{
+  "questionId": "338",
+  "frontendId": "338",
+  "title": "Counting Bits",
+  "titleSlug": "counting-bits",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 142,
+  "runtimePercentile": 5.009800000000006,
+  "memory": 21012000,
+  "memoryPercentile": 6.619799999999993,
+  "timestamp": 1642087883
+}

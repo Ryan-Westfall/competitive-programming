@@ -1,0 +1,24 @@
+{
+  "questionId": "3275",
+  "frontendId": "3014",
+  "title": "Minimum Number of Pushes to Type Word I",
+  "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "string",
+    "greedy"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19164000,
+  "memoryPercentile": 85.1739,
+  "timestamp": 1785435958
+}

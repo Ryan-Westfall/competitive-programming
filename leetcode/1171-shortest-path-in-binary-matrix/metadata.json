@@ -1,0 +1,24 @@
+{
+  "questionId": "1171",
+  "frontendId": "1091",
+  "title": "Shortest Path in Binary Matrix",
+  "titleSlug": "shortest-path-in-binary-matrix",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 179,
+  "runtimePercentile": 44.65750000000006,
+  "memory": 18200000,
+  "memoryPercentile": 100,
+  "timestamp": 1740255115
+}

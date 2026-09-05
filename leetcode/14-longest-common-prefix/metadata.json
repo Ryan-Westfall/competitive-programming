@@ -1,0 +1,24 @@
+{
+  "questionId": "14",
+  "frontendId": "14",
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "string",
+    "trie"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 2.3184999999999993,
+  "memory": 19172000,
+  "memoryPercentile": 94.93469999999999,
+  "timestamp": 1784327749
+}

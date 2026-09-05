@@ -1,0 +1,24 @@
+{
+  "questionId": "221",
+  "frontendId": "221",
+  "title": "Maximal Square",
+  "titleSlug": "maximal-square",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 91,
+  "runtimePercentile": 41.74149999999997,
+  "memory": 33264000,
+  "memoryPercentile": 29.47860000000005,
+  "timestamp": 1786386550
+}

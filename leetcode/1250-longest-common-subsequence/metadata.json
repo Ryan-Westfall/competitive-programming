@@ -1,0 +1,24 @@
+{
+  "questionId": "1250",
+  "frontendId": "1143",
+  "title": "Longest Common Subsequence",
+  "titleSlug": "longest-common-subsequence",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "dynamic-programming",
+    "longest-common-subsequence"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 407,
+  "runtimePercentile": 36.77269999999971,
+  "memory": 22860000,
+  "memoryPercentile": 87.92670000000001,
+  "timestamp": 1642106994
+}

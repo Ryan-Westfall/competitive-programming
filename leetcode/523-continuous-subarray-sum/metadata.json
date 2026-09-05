@@ -1,0 +1,28 @@
+{
+  "questionId": "523",
+  "frontendId": "523",
+  "title": "Continuous Subarray Sum",
+  "titleSlug": "continuous-subarray-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "prefix-sum",
+    "pigeonhole-principle"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Prefix Sum",
+    "Pigeonhole Principle"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 59,
+  "runtimePercentile": 22.87049999999999,
+  "memory": 39472000,
+  "memoryPercentile": 78.6891000000001,
+  "timestamp": 1784776155
+}

@@ -1,0 +1,16 @@
+{
+  "questionId": "3065",
+  "frontendId": "2879",
+  "title": "Display the First Three Rows",
+  "titleSlug": "display-the-first-three-rows",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "pythondata",
+  "langVerbose": "Pandas",
+  "runtime": 631,
+  "runtimePercentile": 5.02730000000005,
+  "memory": 65984000,
+  "memoryPercentile": 96.7664,
+  "timestamp": 1734157981
+}

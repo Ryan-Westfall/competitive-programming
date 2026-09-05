@@ -1,0 +1,22 @@
+{
+  "questionId": "3656",
+  "frontendId": "3396",
+  "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+  "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17840000,
+  "memoryPercentile": 100,
+  "timestamp": 1734836518
+}

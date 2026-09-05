@@ -1,0 +1,28 @@
+{
+  "questionId": "1022",
+  "frontendId": "980",
+  "title": "Unique Paths III",
+  "titleSlug": "unique-paths-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "backtracking",
+    "bit-manipulation",
+    "matrix",
+    "hamiltonian-path"
+  ],
+  "tagNames": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation",
+    "Matrix",
+    "Hamiltonian Path"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 44,
+  "runtimePercentile": 5.282500000000016,
+  "memory": 14196000,
+  "memoryPercentile": 100,
+  "timestamp": 1635817873
+}

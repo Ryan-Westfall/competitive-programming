@@ -1,0 +1,26 @@
+{
+  "questionId": "395",
+  "frontendId": "395",
+  "title": "Longest Substring with At Least K Repeating Characters",
+  "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "divide-and-conquer",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Divide and Conquer",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 747,
+  "runtimePercentile": 19.276299999999956,
+  "memory": 26684000,
+  "memoryPercentile": 18.232200000000002,
+  "timestamp": 1737345343
+}

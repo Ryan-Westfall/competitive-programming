@@ -1,0 +1,24 @@
+{
+  "questionId": "1055",
+  "frontendId": "1010",
+  "title": "Pairs of Songs With Total Durations Divisible by 60",
+  "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "counting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 14,
+  "runtimePercentile": 87.68189999999998,
+  "memory": 21140000,
+  "memoryPercentile": 100,
+  "timestamp": 1739514328
+}

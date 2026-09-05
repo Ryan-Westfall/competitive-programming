@@ -1,0 +1,26 @@
+{
+  "questionId": "211",
+  "frontendId": "211",
+  "title": "Design Add and Search Words Data Structure",
+  "titleSlug": "design-add-and-search-words-data-structure",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "depth-first-search",
+    "design",
+    "trie"
+  ],
+  "tagNames": [
+    "String",
+    "Depth-First Search",
+    "Design",
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1242,
+  "runtimePercentile": 17.276599999999974,
+  "memory": 64808000,
+  "memoryPercentile": 85.69870000000006,
+  "timestamp": 1731892370
+}

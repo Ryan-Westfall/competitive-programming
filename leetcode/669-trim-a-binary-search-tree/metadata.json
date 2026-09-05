@@ -1,0 +1,26 @@
+{
+  "questionId": "669",
+  "frontendId": "669",
+  "title": "Trim a Binary Search Tree",
+  "titleSlug": "trim-a-binary-search-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 22452000,
+  "memoryPercentile": 36.59499999999999,
+  "timestamp": 1784678111
+}

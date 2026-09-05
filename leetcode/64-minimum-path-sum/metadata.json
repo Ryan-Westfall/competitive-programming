@@ -1,0 +1,24 @@
+{
+  "questionId": "64",
+  "frontendId": "64",
+  "title": "Minimum Path Sum",
+  "titleSlug": "minimum-path-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 39,
+  "runtimePercentile": 12.369899999999983,
+  "memory": 32864000,
+  "memoryPercentile": 6.508800000000008,
+  "timestamp": 1785888317
+}

@@ -1,0 +1,16 @@
+{
+  "questionId": "4370",
+  "frontendId": "4032",
+  "title": "Longest Subarray With at Most K Distinct Prime Factors",
+  "titleSlug": "longest-subarray-with-at-most-k-distinct-prime-factors",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3581,
+  "runtimePercentile": 30.816600000002186,
+  "memory": 41296000,
+  "memoryPercentile": 54.54580000000012,
+  "timestamp": 1787456408
+}

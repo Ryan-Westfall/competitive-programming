@@ -1,0 +1,28 @@
+{
+  "questionId": "23",
+  "frontendId": "23",
+  "title": "Merge k Sorted Lists",
+  "titleSlug": "merge-k-sorted-lists",
+  "difficulty": "Hard",
+  "tags": [
+    "linked-list",
+    "divide-and-conquer",
+    "heap-priority-queue",
+    "merge-sort",
+    "tournament-sort"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Tournament Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 52.025199999999984,
+  "memory": 21896000,
+  "memoryPercentile": 99.9078,
+  "timestamp": 1784838079
+}

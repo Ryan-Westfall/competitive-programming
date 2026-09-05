@@ -1,0 +1,22 @@
+{
+  "questionId": "1421",
+  "frontendId": "1295",
+  "title": "Find Numbers with Even Number of Digits",
+  "titleSlug": "find-numbers-with-even-number-of-digits",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 56,
+  "runtimePercentile": 6.716499999999998,
+  "memory": 14172000,
+  "memoryPercentile": 100,
+  "timestamp": 1624936386
+}

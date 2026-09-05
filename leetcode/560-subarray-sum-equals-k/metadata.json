@@ -1,0 +1,24 @@
+{
+  "questionId": "560",
+  "frontendId": "560",
+  "title": "Subarray Sum Equals K",
+  "titleSlug": "subarray-sum-equals-k",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 35,
+  "runtimePercentile": 46.23660000000001,
+  "memory": 20332000,
+  "memoryPercentile": 100,
+  "timestamp": 1740378312
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "1516",
+  "frontendId": "1415",
+  "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+  "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "backtracking"
+  ],
+  "tagNames": [
+    "String",
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 43,
+  "runtimePercentile": 34.05099999999998,
+  "memory": 21084000,
+  "memoryPercentile": 27.502300000000016,
+  "timestamp": 1783638682
+}

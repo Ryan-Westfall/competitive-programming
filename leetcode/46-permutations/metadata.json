@@ -1,0 +1,22 @@
+{
+  "questionId": "46",
+  "frontendId": "46",
+  "title": "Permutations",
+  "titleSlug": "permutations",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "backtracking"
+  ],
+  "tagNames": [
+    "Array",
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 10.486799999999995,
+  "memory": 16684000,
+  "memoryPercentile": 100,
+  "timestamp": 1732257833
+}

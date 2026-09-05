@@ -1,0 +1,24 @@
+{
+  "questionId": "20",
+  "frontendId": "20",
+  "title": "Valid Parentheses",
+  "titleSlug": "valid-parentheses",
+  "difficulty": "Easy",
+  "tags": [
+    "string",
+    "stack",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 16660000,
+  "memoryPercentile": 100,
+  "timestamp": 1731128347
+}

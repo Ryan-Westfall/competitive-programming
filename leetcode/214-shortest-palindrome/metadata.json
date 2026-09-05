@@ -1,0 +1,32 @@
+{
+  "questionId": "214",
+  "frontendId": "214",
+  "title": "Shortest Palindrome",
+  "titleSlug": "shortest-palindrome",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "rolling-hash",
+    "string-matching",
+    "hash-function",
+    "manacher",
+    "z-algorithm",
+    "knuth-morris-pratt-algorithm"
+  ],
+  "tagNames": [
+    "String",
+    "Rolling Hash",
+    "String Matching",
+    "Hash Function",
+    "Manacher",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3339,
+  "runtimePercentile": 5.028200000000074,
+  "memory": 19736000,
+  "memoryPercentile": 77.11119999999998,
+  "timestamp": 1783309994
+}

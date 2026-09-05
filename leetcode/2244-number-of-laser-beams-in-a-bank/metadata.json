@@ -1,0 +1,26 @@
+{
+  "questionId": "2244",
+  "frontendId": "2125",
+  "title": "Number of Laser Beams in a Bank",
+  "titleSlug": "number-of-laser-beams-in-a-bank",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "string",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "String",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 139,
+  "runtimePercentile": 9.12619999999997,
+  "memory": 16064000,
+  "memoryPercentile": 100,
+  "timestamp": 1644411722
+}

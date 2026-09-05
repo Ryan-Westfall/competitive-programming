@@ -1,0 +1,24 @@
+{
+  "questionId": "59",
+  "frontendId": "59",
+  "title": "Spiral Matrix II",
+  "titleSlug": "spiral-matrix-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "matrix",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19232000,
+  "memoryPercentile": 80.1874,
+  "timestamp": 1787597315
+}

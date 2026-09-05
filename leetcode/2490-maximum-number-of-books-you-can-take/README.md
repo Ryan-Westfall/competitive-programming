@@ -81,4 +81,4 @@ It can be proven that 13 is the maximum number of books you can take.
 See `solution.py` in this folder.
 
 ---
-*Auto-synced by LeetSync on 2026-09-05T02:27:37.803Z*
+*Auto-synced by LeetSync on 2026-09-05T02:41:38.742Z*

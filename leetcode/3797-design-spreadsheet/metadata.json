@@ -1,0 +1,28 @@
+{
+  "questionId": "3797",
+  "frontendId": "3484",
+  "title": "Design Spreadsheet",
+  "titleSlug": "design-spreadsheet",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "design",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Design",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 67,
+  "runtimePercentile": 91.42450000000002,
+  "memory": 26088000,
+  "memoryPercentile": 27.10330000000002,
+  "timestamp": 1782259252
+}

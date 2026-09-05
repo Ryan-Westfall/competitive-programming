@@ -1,0 +1,22 @@
+{
+  "questionId": "1056",
+  "frontendId": "1011",
+  "title": "Capacity To Ship Packages Within D Days",
+  "titleSlug": "capacity-to-ship-packages-within-d-days",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 223,
+  "runtimePercentile": 46.1719999999999,
+  "memory": 23860000,
+  "memoryPercentile": 67.136,
+  "timestamp": 1787352669
+}

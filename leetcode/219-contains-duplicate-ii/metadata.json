@@ -1,0 +1,24 @@
+{
+  "questionId": "219",
+  "frontendId": "219",
+  "title": "Contains Duplicate II",
+  "titleSlug": "contains-duplicate-ii",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 39,
+  "runtimePercentile": 77.8759,
+  "memory": 32252000,
+  "memoryPercentile": 91.67070000000004,
+  "timestamp": 1783207480
+}

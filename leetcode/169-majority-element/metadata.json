@@ -1,0 +1,30 @@
+{
+  "questionId": "169",
+  "frontendId": "169",
+  "title": "Majority Element",
+  "titleSlug": "majority-element",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "divide-and-conquer",
+    "sorting",
+    "counting",
+    "boyer-moore-majority-vote-algorithm"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 71.2996,
+  "memory": 19372000,
+  "memoryPercentile": 100,
+  "timestamp": 1735781662
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "733",
+  "frontendId": "733",
+  "title": "Flood Fill",
+  "titleSlug": "flood-fill",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19396000,
+  "memoryPercentile": 86.08540000000002,
+  "timestamp": 1788210098
+}

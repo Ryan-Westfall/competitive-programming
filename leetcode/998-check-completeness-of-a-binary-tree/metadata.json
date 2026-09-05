@@ -1,0 +1,24 @@
+{
+  "questionId": "998",
+  "frontendId": "958",
+  "title": "Check Completeness of a Binary Tree",
+  "titleSlug": "check-completeness-of-a-binary-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 14.638800000000005,
+  "memory": 17476000,
+  "memoryPercentile": 100,
+  "timestamp": 1733724656
+}

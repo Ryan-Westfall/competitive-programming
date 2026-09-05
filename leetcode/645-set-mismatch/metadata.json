@@ -1,0 +1,26 @@
+{
+  "questionId": "645",
+  "frontendId": "645",
+  "title": "Set Mismatch",
+  "titleSlug": "set-mismatch",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "bit-manipulation",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 19,
+  "runtimePercentile": 38.981399999999994,
+  "memory": 20776000,
+  "memoryPercentile": 47.05159999999999,
+  "timestamp": 1768454236
+}

@@ -1,0 +1,32 @@
+{
+  "questionId": "1865",
+  "frontendId": "1724",
+  "title": "Checking Existence of Edge Length Limited Paths II",
+  "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "depth-first-search",
+    "union-find",
+    "graph",
+    "design",
+    "sorting",
+    "heap-priority-queue",
+    "minimum-spanning-tree"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Union-Find",
+    "Graph Theory",
+    "Design",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Minimum Spanning Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 316,
+  "runtimePercentile": 58.82320000000003,
+  "memory": 59264000,
+  "memoryPercentile": 11.764100000000006,
+  "timestamp": 1784501554
+}

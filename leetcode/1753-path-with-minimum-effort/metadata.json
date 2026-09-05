@@ -4,8 +4,6 @@
   "title": "Path With Minimum Effort",
   "titleSlug": "path-with-minimum-effort",
   "difficulty": "Medium",
-  "likes": 7037,
-  "dislikes": 243,
   "tags": [
     "array",
     "binary-search",
@@ -26,23 +24,11 @@
     "Matrix",
     "Dijkstra's Algorithm"
   ],
-  "companyTags": [
-    "Google",
-    "Microsoft",
-    "Meta",
-    "Bloomberg",
-    "Amazon",
-    "Snowflake",
-    "Nutanix",
-    "Waymo"
-  ],
   "lang": "python3",
   "langVerbose": "Python3",
   "runtime": 384,
   "runtimePercentile": 23.96079999999993,
   "memory": 22380000,
   "memoryPercentile": 11.533999999999978,
-  "timestamp": 1788479388,
-  "timestampIso": "2026-09-03T23:49:48.000Z",
-  "syncedAt": "2026-09-05T02:41:28.839Z"
+  "timestamp": 1788479388
 }

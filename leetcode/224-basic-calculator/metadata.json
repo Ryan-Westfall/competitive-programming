@@ -1,0 +1,26 @@
+{
+  "questionId": "224",
+  "frontendId": "224",
+  "title": "Basic Calculator",
+  "titleSlug": "basic-calculator",
+  "difficulty": "Hard",
+  "tags": [
+    "math",
+    "string",
+    "stack",
+    "recursion"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 22,
+  "runtimePercentile": 99.672,
+  "memory": 18516000,
+  "memoryPercentile": 100,
+  "timestamp": 1739767335
+}

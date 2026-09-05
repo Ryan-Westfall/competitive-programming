@@ -1,0 +1,26 @@
+{
+  "questionId": "98",
+  "frontendId": "98",
+  "title": "Validate Binary Search Tree",
+  "titleSlug": "validate-binary-search-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 34.0911,
+  "memory": 18720000,
+  "memoryPercentile": 100,
+  "timestamp": 1730609982
+}

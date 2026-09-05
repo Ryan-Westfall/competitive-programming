@@ -1,0 +1,34 @@
+{
+  "questionId": "949",
+  "frontendId": "913",
+  "title": "Cat and Mouse",
+  "titleSlug": "cat-and-mouse",
+  "difficulty": "Hard",
+  "tags": [
+    "math",
+    "dynamic-programming",
+    "graph",
+    "topological-sort",
+    "memoization",
+    "minimax-algorithm",
+    "game-theory",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Memoization",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 278,
+  "runtimePercentile": 24.680999999999813,
+  "memory": 20236000,
+  "memoryPercentile": 50.3163,
+  "timestamp": 1784589695
+}

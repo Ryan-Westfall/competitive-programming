@@ -4,8 +4,6 @@
   "title": "Maximal Rectangle",
   "titleSlug": "maximal-rectangle",
   "difficulty": "Hard",
-  "likes": 12271,
-  "dislikes": 229,
   "tags": [
     "array",
     "dynamic-programming",
@@ -20,24 +18,11 @@
     "Matrix",
     "Monotonic Stack"
   ],
-  "companyTags": [
-    "Amazon",
-    "Google",
-    "Bloomberg",
-    "Microsoft",
-    "Meta",
-    "Goldman Sachs",
-    "Salesforce",
-    "Visa",
-    "Sprinklr"
-  ],
   "lang": "python3",
   "langVerbose": "Python3",
   "runtime": 1571,
   "runtimePercentile": 5.928299999999944,
   "memory": 52492000,
   "memoryPercentile": 6.637099999999984,
-  "timestamp": 1788471639,
-  "timestampIso": "2026-09-03T21:40:39.000Z",
-  "syncedAt": "2026-09-05T02:41:34.491Z"
+  "timestamp": 1788471639
 }

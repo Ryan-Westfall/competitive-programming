@@ -1,0 +1,22 @@
+{
+  "questionId": "2045",
+  "frontendId": "1891",
+  "title": "Cutting Ribbons",
+  "titleSlug": "cutting-ribbons",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 181,
+  "runtimePercentile": 98.1367,
+  "memory": 30220000,
+  "memoryPercentile": 100,
+  "timestamp": 1740031140
+}

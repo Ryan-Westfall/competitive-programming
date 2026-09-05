@@ -1,0 +1,26 @@
+{
+  "questionId": "1072",
+  "frontendId": "1019",
+  "title": "Next Greater Node In Linked List",
+  "titleSlug": "next-greater-node-in-linked-list",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "linked-list",
+    "stack",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Linked List",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 20,
+  "runtimePercentile": 88.92009999999999,
+  "memory": 24480000,
+  "memoryPercentile": 61.68989999999998,
+  "timestamp": 1784775993
+}

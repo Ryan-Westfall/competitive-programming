@@ -1,0 +1,24 @@
+{
+  "questionId": "445",
+  "frontendId": "445",
+  "title": "Add Two Numbers II",
+  "titleSlug": "add-two-numbers-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "math",
+    "stack"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Math",
+    "Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19404000,
+  "memoryPercentile": 15.426599999999993,
+  "timestamp": 1785872843
+}

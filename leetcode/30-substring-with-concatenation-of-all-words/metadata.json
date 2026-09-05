@@ -1,0 +1,24 @@
+{
+  "questionId": "30",
+  "frontendId": "30",
+  "title": "Substring with Concatenation of All Words",
+  "titleSlug": "substring-with-concatenation-of-all-words",
+  "difficulty": "Hard",
+  "tags": [
+    "hash-table",
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 28,
+  "runtimePercentile": 44.39249999999997,
+  "memory": 19796000,
+  "memoryPercentile": 90.3082,
+  "timestamp": 1787265528
+}

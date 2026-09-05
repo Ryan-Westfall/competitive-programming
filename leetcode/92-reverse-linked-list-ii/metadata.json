@@ -1,0 +1,20 @@
+{
+  "questionId": "92",
+  "frontendId": "92",
+  "title": "Reverse Linked List II",
+  "titleSlug": "reverse-linked-list-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list"
+  ],
+  "tagNames": [
+    "Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19368000,
+  "memoryPercentile": 65.061,
+  "timestamp": 1785443460
+}

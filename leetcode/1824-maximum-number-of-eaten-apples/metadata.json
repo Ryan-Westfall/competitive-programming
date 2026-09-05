@@ -1,0 +1,24 @@
+{
+  "questionId": "1824",
+  "frontendId": "1705",
+  "title": "Maximum Number of Eaten Apples",
+  "titleSlug": "maximum-number-of-eaten-apples",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "greedy",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 230,
+  "runtimePercentile": 31.827700000000053,
+  "memory": 23616000,
+  "memoryPercentile": 71.35270000000001,
+  "timestamp": 1784772687
+}

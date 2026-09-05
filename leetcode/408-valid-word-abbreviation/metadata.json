@@ -1,0 +1,22 @@
+{
+  "questionId": "408",
+  "frontendId": "408",
+  "title": "Valid Word Abbreviation",
+  "titleSlug": "valid-word-abbreviation",
+  "difficulty": "Easy",
+  "tags": [
+    "two-pointers",
+    "string"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17748000,
+  "memoryPercentile": 100,
+  "timestamp": 1738739829
+}

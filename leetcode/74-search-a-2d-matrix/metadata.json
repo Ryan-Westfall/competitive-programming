@@ -1,0 +1,24 @@
+{
+  "questionId": "74",
+  "frontendId": "74",
+  "title": "Search a 2D Matrix",
+  "titleSlug": "search-a-2d-matrix",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 16972000,
+  "memoryPercentile": 100,
+  "timestamp": 1731296013
+}

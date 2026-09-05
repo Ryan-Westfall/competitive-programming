@@ -1,0 +1,28 @@
+{
+  "questionId": "75",
+  "frontendId": "75",
+  "title": "Sort Colors",
+  "titleSlug": "sort-colors",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "sorting",
+    "quicksort",
+    "bubble-sort"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "Quicksort",
+    "Bubble Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17908000,
+  "memoryPercentile": 100,
+  "timestamp": 1735884271
+}

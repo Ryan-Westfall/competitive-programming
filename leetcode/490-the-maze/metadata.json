@@ -1,0 +1,26 @@
+{
+  "questionId": "490",
+  "frontendId": "490",
+  "title": "The Maze",
+  "titleSlug": "the-maze",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 12,
+  "runtimePercentile": 96.16790000000002,
+  "memory": 22300000,
+  "memoryPercentile": 27.189899999999973,
+  "timestamp": 1787942874
+}

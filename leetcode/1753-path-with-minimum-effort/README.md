@@ -8,9 +8,8 @@
 **Language:** Python3
 **Runtime:** 384 ms (24.0%)
 **Memory:** 22.4 MB (11.5%)
-**Likes/Dislikes:** 7037 / 243
-**Submitted:** 2026-09-03T23:49:48.000Z
-**LeetCode Link:** https://leetcode.com/problems/path-with-minimum-effort/
+**Submitted:** 2026-09-03
+**Link:** https://leetcode.com/problems/path-with-minimum-effort/
 
 ## Description
 
@@ -68,6 +67,3 @@ This is better than the route of [1,2,2,2,5], where the maximum absolute differe
 ## Solution
 
 See `solution.py` in this folder.
-
----
-*Auto-synced by LeetSync on 2026-09-05T02:41:27.924Z*

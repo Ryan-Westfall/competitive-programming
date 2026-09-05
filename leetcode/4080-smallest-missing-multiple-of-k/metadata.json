@@ -1,0 +1,22 @@
+{
+  "questionId": "4080",
+  "frontendId": "3718",
+  "title": "Smallest Missing Multiple of K",
+  "titleSlug": "smallest-missing-multiple-of-k",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19476000,
+  "memoryPercentile": 19.706599999999987,
+  "timestamp": 1787680260
+}

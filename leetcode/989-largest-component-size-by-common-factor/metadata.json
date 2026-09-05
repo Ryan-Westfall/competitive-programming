@@ -1,0 +1,30 @@
+{
+  "questionId": "989",
+  "frontendId": "952",
+  "title": "Largest Component Size by Common Factor",
+  "titleSlug": "largest-component-size-by-common-factor",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "union-find",
+    "number-theory",
+    "prime-factorization"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Union-Find",
+    "Number Theory",
+    "Prime Factorization"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 606,
+  "runtimePercentile": 89.36199999999985,
+  "memory": 29344000,
+  "memoryPercentile": 28.369099999999943,
+  "timestamp": 1787787005
+}

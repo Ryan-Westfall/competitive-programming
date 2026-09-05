@@ -1,0 +1,22 @@
+{
+  "questionId": "50",
+  "frontendId": "50",
+  "title": "Pow(x, n)",
+  "titleSlug": "powx-n",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "recursion"
+  ],
+  "tagNames": [
+    "Math",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19484000,
+  "memoryPercentile": 56.75000000000001,
+  "timestamp": 1787782097
+}

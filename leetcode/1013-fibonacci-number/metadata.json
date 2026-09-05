@@ -1,0 +1,26 @@
+{
+  "questionId": "1013",
+  "frontendId": "509",
+  "title": "Fibonacci Number",
+  "titleSlug": "fibonacci-number",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "dynamic-programming",
+    "recursion",
+    "memoization"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 43,
+  "runtimePercentile": 79.6565,
+  "memory": 19344000,
+  "memoryPercentile": 19.62309999999998,
+  "timestamp": 1785811028
+}

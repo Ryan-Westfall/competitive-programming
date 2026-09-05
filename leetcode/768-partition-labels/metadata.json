@@ -1,0 +1,26 @@
+{
+  "questionId": "768",
+  "frontendId": "763",
+  "title": "Partition Labels",
+  "titleSlug": "partition-labels",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "two-pointers",
+    "string",
+    "greedy"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 40,
+  "runtimePercentile": 5.203400000000004,
+  "memory": 14212000,
+  "memoryPercentile": 100,
+  "timestamp": 1626916550
+}

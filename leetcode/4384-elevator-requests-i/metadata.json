@@ -1,0 +1,22 @@
+{
+  "questionId": "4384",
+  "frontendId": "4020",
+  "title": "Elevator Requests I",
+  "titleSlug": "elevator-requests-i",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19320000,
+  "memoryPercentile": 28.632699999999993,
+  "timestamp": 1786804420
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "1624",
+  "frontendId": "1485",
+  "title": "Clone Binary Tree With Random Pointer",
+  "titleSlug": "clone-binary-tree-with-random-pointer",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 140,
+  "runtimePercentile": 34.61500000000002,
+  "memory": 20684000,
+  "memoryPercentile": 100,
+  "timestamp": 1740448446
+}

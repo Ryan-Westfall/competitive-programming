@@ -1,0 +1,22 @@
+{
+  "questionId": "86",
+  "frontendId": "86",
+  "title": "Partition List",
+  "titleSlug": "partition-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19428000,
+  "memoryPercentile": 8.695,
+  "timestamp": 1785447388
+}

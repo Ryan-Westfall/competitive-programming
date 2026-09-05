@@ -1,0 +1,30 @@
+{
+  "questionId": "3375",
+  "frontendId": "3116",
+  "title": "Kth Smallest Amount With Single Denomination Combination",
+  "titleSlug": "kth-smallest-amount-with-single-denomination-combination",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "math",
+    "binary-search",
+    "bit-manipulation",
+    "combinatorics",
+    "number-theory"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Number Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 127,
+  "runtimePercentile": 64.20890000000006,
+  "memory": 20836000,
+  "memoryPercentile": 8.395800000000007,
+  "timestamp": 1787347578
+}

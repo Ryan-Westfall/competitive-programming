@@ -1,0 +1,26 @@
+{
+  "questionId": "49",
+  "frontendId": "49",
+  "title": "Group Anagrams",
+  "titleSlug": "group-anagrams",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 23,
+  "runtimePercentile": 10.1429,
+  "memory": 21984000,
+  "memoryPercentile": 79.37020000000001,
+  "timestamp": 1730675136
+}

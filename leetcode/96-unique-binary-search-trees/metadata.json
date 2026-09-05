@@ -1,0 +1,28 @@
+{
+  "questionId": "96",
+  "frontendId": "96",
+  "title": "Unique Binary Search Trees",
+  "titleSlug": "unique-binary-search-trees",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "dynamic-programming",
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 32,
+  "runtimePercentile": 0.8832000000000062,
+  "memory": 14132000,
+  "memoryPercentile": 100,
+  "timestamp": 1636350197
+}

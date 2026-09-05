@@ -1,0 +1,22 @@
+{
+  "questionId": "312",
+  "frontendId": "312",
+  "title": "Burst Balloons",
+  "titleSlug": "burst-balloons",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3499,
+  "runtimePercentile": 52.532700000001014,
+  "memory": 49044000,
+  "memoryPercentile": 6.926900000000084,
+  "timestamp": 1788382941
+}

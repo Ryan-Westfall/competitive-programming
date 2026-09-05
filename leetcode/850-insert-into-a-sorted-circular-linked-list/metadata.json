@@ -1,0 +1,20 @@
+{
+  "questionId": "850",
+  "frontendId": "708",
+  "title": "Insert into a Sorted Circular Linked List",
+  "titleSlug": "insert-into-a-sorted-circular-linked-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list"
+  ],
+  "tagNames": [
+    "Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 38,
+  "runtimePercentile": 96.7847,
+  "memory": 18188000,
+  "memoryPercentile": 100,
+  "timestamp": 1734416282
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "744",
+  "frontendId": "743",
+  "title": "Network Delay Time",
+  "titleSlug": "network-delay-time",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "heap-priority-queue",
+    "shortest-path",
+    "dijkstra"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path",
+    "Dijkstra's Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 343,
+  "runtimePercentile": 45.257399999999976,
+  "memory": 21212000,
+  "memoryPercentile": 55.050099999999986,
+  "timestamp": 1784162385
+}

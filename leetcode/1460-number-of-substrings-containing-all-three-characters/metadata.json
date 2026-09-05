@@ -1,0 +1,24 @@
+{
+  "questionId": "1460",
+  "frontendId": "1358",
+  "title": "Number of Substrings Containing All Three Characters",
+  "titleSlug": "number-of-substrings-containing-all-three-characters",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 105,
+  "runtimePercentile": 42.7913999999999,
+  "memory": 19488000,
+  "memoryPercentile": 51.368,
+  "timestamp": 1783286728
+}

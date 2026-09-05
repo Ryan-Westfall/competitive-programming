@@ -1,0 +1,24 @@
+{
+  "questionId": "1447",
+  "frontendId": "1345",
+  "title": "Jump Game IV",
+  "titleSlug": "jump-game-iv",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "breadth-first-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 187,
+  "runtimePercentile": 61.377399999999945,
+  "memory": 33160000,
+  "memoryPercentile": 63.30129999999998,
+  "timestamp": 1787085945
+}

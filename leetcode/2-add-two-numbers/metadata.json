@@ -1,0 +1,24 @@
+{
+  "questionId": "2",
+  "frontendId": "2",
+  "title": "Add Two Numbers",
+  "titleSlug": "add-two-numbers",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "math",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 5,
+  "runtimePercentile": 32.290400000000005,
+  "memory": 16668000,
+  "memoryPercentile": 100,
+  "timestamp": 1731479925
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "1167",
+  "frontendId": "1199",
+  "title": "Minimum Time to Build Blocks",
+  "titleSlug": "minimum-time-to-build-blocks",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "math",
+    "greedy",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4795,
+  "runtimePercentile": 20.355099999999958,
+  "memory": 117184000,
+  "memoryPercentile": 26.54679999999999,
+  "timestamp": 1785711875
+}

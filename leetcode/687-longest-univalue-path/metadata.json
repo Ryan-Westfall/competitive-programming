@@ -1,0 +1,26 @@
+{
+  "questionId": "687",
+  "frontendId": "687",
+  "title": "Longest Univalue Path",
+  "titleSlug": "longest-univalue-path",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-tree",
+    "dp-on-trees"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 48,
+  "runtimePercentile": 49.16919999999995,
+  "memory": 22160000,
+  "memoryPercentile": 42.37159999999999,
+  "timestamp": 1784259467
+}

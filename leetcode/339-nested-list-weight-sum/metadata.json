@@ -1,0 +1,22 @@
+{
+  "questionId": "339",
+  "frontendId": "339",
+  "title": "Nested List Weight Sum",
+  "titleSlug": "nested-list-weight-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17716000,
+  "memoryPercentile": 100,
+  "timestamp": 1739076652
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "792",
+  "frontendId": "704",
+  "title": "Binary Search",
+  "titleSlug": "binary-search",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20532000,
+  "memoryPercentile": 37.245600000000024,
+  "timestamp": 1782851368
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "206",
+  "frontendId": "206",
+  "title": "Reverse Linked List",
+  "titleSlug": "reverse-linked-list",
+  "difficulty": "Easy",
+  "tags": [
+    "linked-list",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20584000,
+  "memoryPercentile": 28.46799999999999,
+  "timestamp": 1781670870
+}

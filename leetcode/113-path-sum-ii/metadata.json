@@ -1,0 +1,26 @@
+{
+  "questionId": "113",
+  "frontendId": "113",
+  "title": "Path Sum II",
+  "titleSlug": "path-sum-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "backtracking",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Backtracking",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 40,
+  "runtimePercentile": 5.388300000000001,
+  "memory": 19812000,
+  "memoryPercentile": 99.9225,
+  "timestamp": 1628108053
+}

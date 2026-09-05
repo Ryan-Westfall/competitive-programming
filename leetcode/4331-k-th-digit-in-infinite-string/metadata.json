@@ -1,0 +1,22 @@
+{
+  "questionId": "4331",
+  "frontendId": "4022",
+  "title": "K-th Digit in Infinite String",
+  "titleSlug": "k-th-digit-in-infinite-string",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Math",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19544000,
+  "memoryPercentile": 11.500799999999995,
+  "timestamp": 1786808567
+}

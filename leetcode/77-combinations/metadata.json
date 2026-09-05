@@ -1,0 +1,20 @@
+{
+  "questionId": "77",
+  "frontendId": "77",
+  "title": "Combinations",
+  "titleSlug": "combinations",
+  "difficulty": "Medium",
+  "tags": [
+    "backtracking"
+  ],
+  "tagNames": [
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 79,
+  "runtimePercentile": 88.9937,
+  "memory": 61444000,
+  "memoryPercentile": 28.258700000000022,
+  "timestamp": 1783635533
+}

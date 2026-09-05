@@ -1,0 +1,32 @@
+{
+  "questionId": "1706",
+  "frontendId": "1584",
+  "title": "Min Cost to Connect All Points",
+  "titleSlug": "min-cost-to-connect-all-points",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "union-find",
+    "graph",
+    "minimum-spanning-tree",
+    "prims-algorithm",
+    "kruskals-algorithm",
+    "boruvkas-algorithm"
+  ],
+  "tagNames": [
+    "Array",
+    "Union-Find",
+    "Graph Theory",
+    "Minimum Spanning Tree",
+    "Prim's Algorithm",
+    "Kruskal's Algorithm",
+    "Borůvka's Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1143,
+  "runtimePercentile": 46.15669999999978,
+  "memory": 109708000,
+  "memoryPercentile": 29.66510000000016,
+  "timestamp": 1784343508
+}

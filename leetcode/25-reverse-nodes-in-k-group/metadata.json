@@ -1,0 +1,22 @@
+{
+  "questionId": "25",
+  "frontendId": "25",
+  "title": "Reverse Nodes in k-Group",
+  "titleSlug": "reverse-nodes-in-k-group",
+  "difficulty": "Hard",
+  "tags": [
+    "linked-list",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20304000,
+  "memoryPercentile": 47.290000000000006,
+  "timestamp": 1785362703
+}

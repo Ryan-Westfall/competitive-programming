@@ -1,0 +1,34 @@
+{
+  "questionId": "948",
+  "frontendId": "912",
+  "title": "Sort an Array",
+  "titleSlug": "sort-an-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "divide-and-conquer",
+    "sorting",
+    "heap-priority-queue",
+    "merge-sort",
+    "bucket-sort",
+    "radix-sort",
+    "counting-sort"
+  ],
+  "tagNames": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 807,
+  "runtimePercentile": 18.091299999999354,
+  "memory": 26264000,
+  "memoryPercentile": 91.2684,
+  "timestamp": 1782862290
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "1284",
+  "frontendId": "1390",
+  "title": "Four Divisors",
+  "titleSlug": "four-divisors",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "prime-factorization",
+    "sieve-theory"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Prime Factorization",
+    "Sieve Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 357,
+  "runtimePercentile": 40.0017000000001,
+  "memory": 20412000,
+  "memoryPercentile": 65.19480000000001,
+  "timestamp": 1787860507
+}

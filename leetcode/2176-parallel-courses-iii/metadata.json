@@ -1,0 +1,28 @@
+{
+  "questionId": "2176",
+  "frontendId": "2050",
+  "title": "Parallel Courses III",
+  "titleSlug": "parallel-courses-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "graph",
+    "topological-sort",
+    "directed-acyclic-graph"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 122,
+  "runtimePercentile": 50.787600000000054,
+  "memory": 64556000,
+  "memoryPercentile": 14.222900000000125,
+  "timestamp": 1782430729
+}

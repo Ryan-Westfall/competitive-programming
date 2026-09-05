@@ -1,0 +1,20 @@
+{
+  "questionId": "520",
+  "frontendId": "520",
+  "title": "Detect Capital",
+  "titleSlug": "detect-capital",
+  "difficulty": "Easy",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19352000,
+  "memoryPercentile": 25.2999,
+  "timestamp": 1768966169
+}

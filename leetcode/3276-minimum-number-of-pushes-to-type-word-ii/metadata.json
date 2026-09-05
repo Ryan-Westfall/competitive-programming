@@ -1,0 +1,28 @@
+{
+  "questionId": "3276",
+  "frontendId": "3016",
+  "title": "Minimum Number of Pushes to Type Word II",
+  "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "greedy",
+    "sorting",
+    "counting"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 94,
+  "runtimePercentile": 85.64160000000012,
+  "memory": 20164000,
+  "memoryPercentile": 17.676000000000034,
+  "timestamp": 1785529192
+}

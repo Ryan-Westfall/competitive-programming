@@ -1,0 +1,24 @@
+{
+  "questionId": "36",
+  "frontendId": "36",
+  "title": "Valid Sudoku",
+  "titleSlug": "valid-sudoku",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 2,
+  "runtimePercentile": 79.1619,
+  "memory": 16652000,
+  "memoryPercentile": 100,
+  "timestamp": 1731132361
+}

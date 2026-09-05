@@ -1,0 +1,26 @@
+{
+  "questionId": "985",
+  "frontendId": "948",
+  "title": "Bag of Tokens",
+  "titleSlug": "bag-of-tokens",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "greedy",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19184000,
+  "memoryPercentile": 97.43869999999998,
+  "timestamp": 1784756402
+}

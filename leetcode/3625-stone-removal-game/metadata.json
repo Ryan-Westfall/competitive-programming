@@ -1,0 +1,22 @@
+{
+  "questionId": "3625",
+  "frontendId": "3360",
+  "title": "Stone Removal Game",
+  "titleSlug": "stone-removal-game",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "simulation"
+  ],
+  "tagNames": [
+    "Math",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19212000,
+  "memoryPercentile": 48.31229999999999,
+  "timestamp": 1787005482
+}

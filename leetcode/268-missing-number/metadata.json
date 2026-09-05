@@ -1,0 +1,30 @@
+{
+  "questionId": "268",
+  "frontendId": "268",
+  "title": "Missing Number",
+  "titleSlug": "missing-number",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "binary-search",
+    "bit-manipulation",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 218,
+  "runtimePercentile": 16.948699999999985,
+  "memory": 15396000,
+  "memoryPercentile": 100,
+  "timestamp": 1642089350
+}

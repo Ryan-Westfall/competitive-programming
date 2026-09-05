@@ -1,0 +1,26 @@
+{
+  "questionId": "4363",
+  "frontendId": "4014",
+  "title": "Minimum Total Price After Applying Discounts",
+  "titleSlug": "minimum-total-price-after-applying-discounts",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "greedy",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 163,
+  "runtimePercentile": 80.07400000000001,
+  "memory": 34004000,
+  "memoryPercentile": 97.71460000000006,
+  "timestamp": 1786245904
+}

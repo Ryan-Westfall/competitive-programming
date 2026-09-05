@@ -1,0 +1,20 @@
+{
+  "questionId": "978",
+  "frontendId": "941",
+  "title": "Valid Mountain Array",
+  "titleSlug": "valid-mountain-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array"
+  ],
+  "tagNames": [
+    "Array"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 173,
+  "runtimePercentile": 5.612800000000026,
+  "memory": 20812000,
+  "memoryPercentile": 6.649899999999999,
+  "timestamp": 1768795826
+}

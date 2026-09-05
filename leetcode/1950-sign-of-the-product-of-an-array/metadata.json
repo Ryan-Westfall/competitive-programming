@@ -1,0 +1,22 @@
+{
+  "questionId": "1950",
+  "frontendId": "1822",
+  "title": "Sign of the Product of an Array",
+  "titleSlug": "sign-of-the-product-of-an-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 78,
+  "runtimePercentile": 1.8978000000000002,
+  "memory": 14596000,
+  "memoryPercentile": 100,
+  "timestamp": 1634806627
+}

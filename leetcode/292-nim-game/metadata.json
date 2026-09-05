@@ -1,0 +1,30 @@
+{
+  "questionId": "292",
+  "frontendId": "292",
+  "title": "Nim Game",
+  "titleSlug": "nim-game",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "brainteaser",
+    "minimax-algorithm",
+    "game-theory",
+    "nim-game",
+    "impartial-game"
+  ],
+  "tagNames": [
+    "Math",
+    "Brainteaser",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Impartial Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19216000,
+  "memoryPercentile": 44.7415,
+  "timestamp": 1784587298
+}

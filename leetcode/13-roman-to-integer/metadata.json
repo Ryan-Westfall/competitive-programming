@@ -1,0 +1,24 @@
+{
+  "questionId": "13",
+  "frontendId": "13",
+  "title": "Roman to Integer",
+  "titleSlug": "roman-to-integer",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "math",
+    "string"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 52,
+  "runtimePercentile": 5.235699999999996,
+  "memory": 14332000,
+  "memoryPercentile": 100,
+  "timestamp": 1601419358
+}

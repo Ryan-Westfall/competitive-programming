@@ -1,0 +1,24 @@
+{
+  "questionId": "1909",
+  "frontendId": "1762",
+  "title": "Buildings With an Ocean View",
+  "titleSlug": "buildings-with-an-ocean-view",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "stack",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 58,
+  "runtimePercentile": 30.93190000000001,
+  "memory": 31796000,
+  "memoryPercentile": 46.22149999999999,
+  "timestamp": 1768773897
+}

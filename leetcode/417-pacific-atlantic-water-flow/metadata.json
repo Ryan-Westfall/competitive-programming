@@ -1,0 +1,26 @@
+{
+  "questionId": "417",
+  "frontendId": "417",
+  "title": "Pacific Atlantic Water Flow",
+  "titleSlug": "pacific-atlantic-water-flow",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 37,
+  "runtimePercentile": 28.73230000000005,
+  "memory": 19064000,
+  "memoryPercentile": 100,
+  "timestamp": 1732761727
+}

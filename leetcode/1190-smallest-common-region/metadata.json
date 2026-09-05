@@ -1,0 +1,34 @@
+{
+  "questionId": "1190",
+  "frontendId": "1257",
+  "title": "Smallest Common Region",
+  "titleSlug": "smallest-common-region",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-lifting",
+    "lowest-common-ancestor"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Lifting",
+    "Lowest Common Ancestor"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 211,
+  "runtimePercentile": 59.47209999999995,
+  "memory": 24024000,
+  "memoryPercentile": 29.05299999999998,
+  "timestamp": 1786163120
+}

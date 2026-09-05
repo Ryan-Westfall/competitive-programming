@@ -1,0 +1,22 @@
+{
+  "questionId": "747",
+  "frontendId": "746",
+  "title": "Min Cost Climbing Stairs",
+  "titleSlug": "min-cost-climbing-stairs",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 6.499000000000004,
+  "memory": 23248000,
+  "memoryPercentile": 5.2775000000000105,
+  "timestamp": 1788302404
+}

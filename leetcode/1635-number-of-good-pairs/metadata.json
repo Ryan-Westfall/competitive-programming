@@ -1,0 +1,26 @@
+{
+  "questionId": "1635",
+  "frontendId": "1512",
+  "title": "Number of Good Pairs",
+  "titleSlug": "number-of-good-pairs",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "counting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17696000,
+  "memoryPercentile": 100,
+  "timestamp": 1736822304
+}

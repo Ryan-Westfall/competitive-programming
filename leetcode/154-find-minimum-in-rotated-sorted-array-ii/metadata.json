@@ -1,0 +1,22 @@
+{
+  "questionId": "154",
+  "frontendId": "154",
+  "title": "Find Minimum in Rotated Sorted Array II",
+  "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 63,
+  "runtimePercentile": 0.4824999999999937,
+  "memory": 15052000,
+  "memoryPercentile": 100,
+  "timestamp": 1642084554
+}

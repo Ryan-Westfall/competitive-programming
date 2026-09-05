@@ -1,0 +1,24 @@
+{
+  "questionId": "3616",
+  "frontendId": "3354",
+  "title": "Make Array Elements Equal to Zero",
+  "titleSlug": "make-array-elements-equal-to-zero",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 46,
+  "runtimePercentile": 88.3598,
+  "memory": 16572000,
+  "memoryPercentile": 100,
+  "timestamp": 1731812003
+}

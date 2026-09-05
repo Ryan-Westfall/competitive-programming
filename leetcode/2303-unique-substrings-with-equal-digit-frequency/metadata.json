@@ -1,0 +1,28 @@
+{
+  "questionId": "2303",
+  "frontendId": "2168",
+  "title": "Unique Substrings With Equal Digit Frequency",
+  "titleSlug": "unique-substrings-with-equal-digit-frequency",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "rolling-hash",
+    "counting",
+    "hash-function"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Rolling Hash",
+    "Counting",
+    "Hash Function"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 934,
+  "runtimePercentile": 75,
+  "memory": 19536000,
+  "memoryPercentile": 90.625,
+  "timestamp": 1784693401
+}

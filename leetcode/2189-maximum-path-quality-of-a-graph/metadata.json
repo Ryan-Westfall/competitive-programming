@@ -1,0 +1,24 @@
+{
+  "questionId": "2189",
+  "frontendId": "2065",
+  "title": "Maximum Path Quality of a Graph",
+  "titleSlug": "maximum-path-quality-of-a-graph",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "backtracking",
+    "graph"
+  ],
+  "tagNames": [
+    "Array",
+    "Backtracking",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 775,
+  "runtimePercentile": 47.615300000000325,
+  "memory": 21984000,
+  "memoryPercentile": 54.92050000000002,
+  "timestamp": 1784064300
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "1667",
+  "frontendId": "1545",
+  "title": "Find Kth Bit in Nth Binary String",
+  "titleSlug": "find-kth-bit-in-nth-binary-string",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "recursion",
+    "simulation"
+  ],
+  "tagNames": [
+    "String",
+    "Recursion",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19324000,
+  "memoryPercentile": 48.38099999999999,
+  "timestamp": 1783631451
+}

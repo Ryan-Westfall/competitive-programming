@@ -1,0 +1,32 @@
+{
+  "questionId": "204",
+  "frontendId": "204",
+  "title": "Count Primes",
+  "titleSlug": "count-primes",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "enumeration",
+    "number-theory",
+    "primality-test",
+    "sieve-theory",
+    "prime-number-sieve"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory",
+    "Primality Test",
+    "Sieve Theory",
+    "Prime Number Sieve"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 9827,
+  "runtimePercentile": 5.006000000001127,
+  "memory": 86276000,
+  "memoryPercentile": 23.614100000000057,
+  "timestamp": 1787790096
+}

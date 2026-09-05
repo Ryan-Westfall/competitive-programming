@@ -1,0 +1,26 @@
+{
+  "questionId": "957",
+  "frontendId": "921",
+  "title": "Minimum Add to Make Parentheses Valid",
+  "titleSlug": "minimum-add-to-make-parentheses-valid",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "stack",
+    "greedy",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17656000,
+  "memoryPercentile": 100,
+  "timestamp": 1739255144
+}

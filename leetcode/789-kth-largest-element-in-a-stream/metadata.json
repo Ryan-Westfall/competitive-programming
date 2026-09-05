@@ -1,0 +1,30 @@
+{
+  "questionId": "789",
+  "frontendId": "703",
+  "title": "Kth Largest Element in a Stream",
+  "titleSlug": "kth-largest-element-in-a-stream",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "design",
+    "binary-search-tree",
+    "heap-priority-queue",
+    "binary-tree",
+    "data-stream"
+  ],
+  "tagNames": [
+    "Tree",
+    "Design",
+    "Binary Search Tree",
+    "Heap (Priority Queue)",
+    "Binary Tree",
+    "Data Stream"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 23,
+  "runtimePercentile": 30.484100000000023,
+  "memory": 25440000,
+  "memoryPercentile": 59.039300000000026,
+  "timestamp": 1788138798
+}

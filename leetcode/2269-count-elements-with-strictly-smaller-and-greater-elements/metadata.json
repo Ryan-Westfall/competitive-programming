@@ -1,0 +1,24 @@
+{
+  "questionId": "2269",
+  "frontendId": "2148",
+  "title": "Count Elements With Strictly Smaller and Greater Elements ",
+  "titleSlug": "count-elements-with-strictly-smaller-and-greater-elements",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "sorting",
+    "counting"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting",
+    "Counting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 62,
+  "runtimePercentile": 6.3725000000000085,
+  "memory": 13940000,
+  "memoryPercentile": 100,
+  "timestamp": 1642912879
+}

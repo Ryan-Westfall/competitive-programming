@@ -1,0 +1,24 @@
+{
+  "questionId": "1539",
+  "frontendId": "1424",
+  "title": "Diagonal Traverse II",
+  "titleSlug": "diagonal-traverse-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "sorting",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 56,
+  "runtimePercentile": 92.34700000000002,
+  "memory": 32300000,
+  "memoryPercentile": 99.7449,
+  "timestamp": 1740115792
+}

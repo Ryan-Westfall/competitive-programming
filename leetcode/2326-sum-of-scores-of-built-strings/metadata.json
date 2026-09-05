@@ -1,0 +1,34 @@
+{
+  "questionId": "2326",
+  "frontendId": "2223",
+  "title": "Sum of Scores of Built Strings",
+  "titleSlug": "sum-of-scores-of-built-strings",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "binary-search",
+    "rolling-hash",
+    "suffix-array",
+    "string-matching",
+    "hash-function",
+    "z-algorithm",
+    "knuth-morris-pratt-algorithm"
+  ],
+  "tagNames": [
+    "String",
+    "Binary Search",
+    "Rolling Hash",
+    "Suffix Array",
+    "String Matching",
+    "Hash Function",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 5789,
+  "runtimePercentile": 5.477599999999976,
+  "memory": 27752000,
+  "memoryPercentile": 6.506499999999995,
+  "timestamp": 1783465938
+}

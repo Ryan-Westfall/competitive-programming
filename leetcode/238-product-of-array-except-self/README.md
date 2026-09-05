@@ -1,0 +1,48 @@
+# 238. Product of Array Except Self (Medium)
+
+**Slug:** `product-of-array-except-self`
+**ID:** 238
+**Difficulty:** Medium
+**Tags:** Array, Prefix Sum
+**Companies:** Amazon, Google, Meta, Microsoft, Bloomberg, Asana, tcs, Apple, Yandex, TikTok, PayPal, Goldman Sachs, Uber, Nvidia, Infosys, Fractal Analytics, eBay, Adobe, Oracle, Salesforce, Flipkart, Zoho, Turing, ZS Associates, FreshWorks, ThousandEyes, Okta, LinkedIn
+**Language:** Python3
+**Runtime:** 23 ms (53.0%)
+**Memory:** 22.3 MB (100.0%)
+**Submitted:** 2024-11-04
+**Link:** https://leetcode.com/problems/product-of-array-except-self/
+
+## Description
+
+<p>Given an integer array <code>nums</code>, return <em>an array</em> <code>answer</code> <em>such that</em> <code>answer[i]</code> <em>is equal to the product of all the elements of</em> <code>nums</code> <em>except</em> <code>nums[i]</code>.</p>
+
+<p>The product of any prefix or suffix of <code>nums</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</p>
+
+<p>You must write an algorithm that runs in&nbsp;<code>O(n)</code>&nbsp;time and without using the division operation.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<pre><strong>Input:</strong> nums = [1,2,3,4]
+<strong>Output:</strong> [24,12,8,6]
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> nums = [-1,1,0,-3,3]
+<strong>Output:</strong> [0,0,9,0,0]
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-30 &lt;= nums[i] &lt;= 30</code></li>
+	<li>The input is generated such that <code>answer[i]</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong>&nbsp;Can you solve the problem in <code>O(1)</code>&nbsp;extra&nbsp;space complexity? (The output array <strong>does not</strong> count as extra space for space complexity analysis.)</p>
+
+
+## Hints
+1. Think how you can efficiently utilize prefix and suffix products to calculate the product of all elements except self for each index. Can you pre-compute the prefix and suffix products in linear time to avoid redundant calculations?
+2. Can you minimize additional space usage by reusing memory or modifying the input array to store intermediate results?
+## Solution
+
+See `solution.py` in this folder.

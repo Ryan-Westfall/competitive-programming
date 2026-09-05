@@ -1,0 +1,24 @@
+{
+  "questionId": "3812",
+  "frontendId": "3517",
+  "title": "Smallest Palindromic Rearrangement I",
+  "titleSlug": "smallest-palindromic-rearrangement-i",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "sorting",
+    "counting-sort"
+  ],
+  "tagNames": [
+    "String",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 321,
+  "runtimePercentile": 28.14349999999996,
+  "memory": 20700000,
+  "memoryPercentile": 90.04799999999999,
+  "timestamp": 1785259715
+}

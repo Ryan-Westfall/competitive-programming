@@ -1,0 +1,34 @@
+{
+  "questionId": "493",
+  "frontendId": "493",
+  "title": "Reverse Pairs",
+  "titleSlug": "reverse-pairs",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "divide-and-conquer",
+    "binary-indexed-tree",
+    "segment-tree",
+    "merge-sort",
+    "ordered-set",
+    "treap"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Ordered Set",
+    "Treap"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 863,
+  "runtimePercentile": 67.4214000000007,
+  "memory": 34596000,
+  "memoryPercentile": 21.37920000000005,
+  "timestamp": 1783033732
+}

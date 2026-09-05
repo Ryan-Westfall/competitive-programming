@@ -1,0 +1,24 @@
+{
+  "questionId": "1345",
+  "frontendId": "1427",
+  "title": "Perform String Shifts",
+  "titleSlug": "perform-string-shifts",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math",
+    "string"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17804000,
+  "memoryPercentile": 100,
+  "timestamp": 1735973903
+}

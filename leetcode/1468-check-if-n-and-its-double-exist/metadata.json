@@ -1,0 +1,28 @@
+{
+  "questionId": "1468",
+  "frontendId": "1346",
+  "title": "Check If N and Its Double Exist",
+  "titleSlug": "check-if-n-and-its-double-exist",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "two-pointers",
+    "binary-search",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 38.8888,
+  "memory": 17744000,
+  "memoryPercentile": 100,
+  "timestamp": 1735627767
+}

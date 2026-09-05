@@ -1,0 +1,22 @@
+{
+  "questionId": "1605",
+  "frontendId": "1482",
+  "title": "Minimum Number of Days to Make m Bouquets",
+  "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 319,
+  "runtimePercentile": 55.28769999999998,
+  "memory": 32232000,
+  "memoryPercentile": 42.698199999999986,
+  "timestamp": 1784838920
+}

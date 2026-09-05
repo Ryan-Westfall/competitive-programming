@@ -1,0 +1,20 @@
+{
+  "questionId": "7",
+  "frontendId": "7",
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "difficulty": "Medium",
+  "tags": [
+    "math"
+  ],
+  "tagNames": [
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 36,
+  "runtimePercentile": 95.1719,
+  "memory": 14156000,
+  "memoryPercentile": 100,
+  "timestamp": 1626403978
+}

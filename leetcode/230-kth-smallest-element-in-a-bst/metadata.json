@@ -1,0 +1,26 @@
+{
+  "questionId": "230",
+  "frontendId": "230",
+  "title": "Kth Smallest Element in a BST",
+  "titleSlug": "kth-smallest-element-in-a-bst",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 28.770800000000005,
+  "memory": 20600000,
+  "memoryPercentile": 100,
+  "timestamp": 1733376702
+}

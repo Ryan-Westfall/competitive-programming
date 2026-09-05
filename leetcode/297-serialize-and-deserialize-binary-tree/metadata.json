@@ -1,0 +1,30 @@
+{
+  "questionId": "297",
+  "frontendId": "297",
+  "title": "Serialize and Deserialize Binary Tree",
+  "titleSlug": "serialize-and-deserialize-binary-tree",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "design",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Design",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 73,
+  "runtimePercentile": 98.14050000000006,
+  "memory": 20356000,
+  "memoryPercentile": 100,
+  "timestamp": 1731908593
+}

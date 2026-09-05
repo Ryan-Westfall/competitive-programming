@@ -1,0 +1,26 @@
+{
+  "questionId": "859",
+  "frontendId": "641",
+  "title": "Design Circular Deque",
+  "titleSlug": "design-circular-deque",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "linked-list",
+    "design",
+    "queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 8,
+  "runtimePercentile": 48.0894,
+  "memory": 20608000,
+  "memoryPercentile": 7.786699999999977,
+  "timestamp": 1785875032
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "2106",
+  "frontendId": "1979",
+  "title": "Find Greatest Common Divisor of Array",
+  "titleSlug": "find-greatest-common-divisor-of-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math",
+    "number-theory",
+    "euclidean-algorithm",
+    "greatest-common-divisor"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Number Theory",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19280000,
+  "memoryPercentile": 82.94409999999998,
+  "timestamp": 1784583733
+}

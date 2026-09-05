@@ -1,0 +1,28 @@
+{
+  "questionId": "2479",
+  "frontendId": "2402",
+  "title": "Meeting Rooms III",
+  "titleSlug": "meeting-rooms-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "sorting",
+    "heap-priority-queue",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 184,
+  "runtimePercentile": 79.71369999999999,
+  "memory": 51524000,
+  "memoryPercentile": 98.8877,
+  "timestamp": 1737328657
+}

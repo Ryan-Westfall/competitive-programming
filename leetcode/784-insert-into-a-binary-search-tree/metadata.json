@@ -1,0 +1,24 @@
+{
+  "questionId": "784",
+  "frontendId": "701",
+  "title": "Insert into a Binary Search Tree",
+  "titleSlug": "insert-into-a-binary-search-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 21040000,
+  "memoryPercentile": 84.6495,
+  "timestamp": 1784261540
+}

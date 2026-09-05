@@ -1,0 +1,26 @@
+{
+  "questionId": "1487",
+  "frontendId": "1386",
+  "title": "Cinema Seat Allocation",
+  "titleSlug": "cinema-seat-allocation",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "greedy",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 51,
+  "runtimePercentile": 40.04399999999998,
+  "memory": 23612000,
+  "memoryPercentile": 8.461700000000008,
+  "timestamp": 1787100203
+}

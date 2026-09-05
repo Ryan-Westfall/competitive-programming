@@ -1,0 +1,26 @@
+{
+  "questionId": "1146",
+  "frontendId": "1071",
+  "title": "Greatest Common Divisor of Strings",
+  "titleSlug": "greatest-common-divisor-of-strings",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "string",
+    "euclidean-algorithm",
+    "greatest-common-divisor"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19412000,
+  "memoryPercentile": 8.801899999999993,
+  "timestamp": 1787689798
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "2198",
+  "frontendId": "2076",
+  "title": "Process Restricted Friend Requests",
+  "titleSlug": "process-restricted-friend-requests",
+  "difficulty": "Hard",
+  "tags": [
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1635,
+  "runtimePercentile": 42.76340000000021,
+  "memory": 19872000,
+  "memoryPercentile": 75.7861,
+  "timestamp": 1783701482
+}

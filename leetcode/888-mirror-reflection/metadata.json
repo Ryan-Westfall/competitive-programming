@@ -1,0 +1,28 @@
+{
+  "questionId": "888",
+  "frontendId": "858",
+  "title": "Mirror Reflection",
+  "titleSlug": "mirror-reflection",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "geometry",
+    "number-theory",
+    "least-common-multiple",
+    "greatest-common-divisor"
+  ],
+  "tagNames": [
+    "Math",
+    "Geometry",
+    "Number Theory",
+    "Least Common Multiple",
+    "Greatest Common Divisor"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 49,
+  "runtimePercentile": 2.9498000000000006,
+  "memory": 13816000,
+  "memoryPercentile": 100,
+  "timestamp": 1659592494
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "2596",
+  "frontendId": "2508",
+  "title": "Add Edges to Make Degrees of All Nodes Even",
+  "titleSlug": "add-edges-to-make-degrees-of-all-nodes-even",
+  "difficulty": "Hard",
+  "tags": [
+    "hash-table",
+    "graph"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 131,
+  "runtimePercentile": 42.62259999999993,
+  "memory": 77592000,
+  "memoryPercentile": 5.385299999999854,
+  "timestamp": 1784062759
+}

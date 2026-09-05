@@ -1,0 +1,28 @@
+{
+  "questionId": "2507",
+  "frontendId": "2427",
+  "title": "Number of Common Factors",
+  "titleSlug": "number-of-common-factors",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "enumeration",
+    "number-theory",
+    "euclidean-algorithm",
+    "greatest-common-divisor"
+  ],
+  "tagNames": [
+    "Math",
+    "Enumeration",
+    "Number Theory",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19400000,
+  "memoryPercentile": 17.296600000000005,
+  "timestamp": 1787858997
+}

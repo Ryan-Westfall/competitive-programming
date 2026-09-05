@@ -1,0 +1,24 @@
+{
+  "questionId": "62",
+  "frontendId": "62",
+  "title": "Unique Paths",
+  "titleSlug": "unique-paths",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "dynamic-programming",
+    "combinatorics"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 51,
+  "runtimePercentile": 0.895200000000008,
+  "memory": 14312000,
+  "memoryPercentile": 100,
+  "timestamp": 1642052370
+}

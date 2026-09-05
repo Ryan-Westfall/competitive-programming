@@ -1,0 +1,22 @@
+{
+  "questionId": "3626",
+  "frontendId": "3345",
+  "title": "Smallest Divisible Digit Product I",
+  "titleSlug": "smallest-divisible-digit-product-i",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Math",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19396000,
+  "memoryPercentile": 36.89359999999997,
+  "timestamp": 1785988225
+}

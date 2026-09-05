@@ -1,0 +1,26 @@
+{
+  "questionId": "3594",
+  "frontendId": "3371",
+  "title": "Identify the Largest Outlier in an Array",
+  "titleSlug": "identify-the-largest-outlier-in-an-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "counting",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Counting",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 113,
+  "runtimePercentile": 88.92919999999998,
+  "memory": 30140000,
+  "memoryPercentile": 70.00009999999999,
+  "timestamp": 1786579011
+}

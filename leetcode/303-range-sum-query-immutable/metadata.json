@@ -1,0 +1,24 @@
+{
+  "questionId": "303",
+  "frontendId": "303",
+  "title": "Range Sum Query - Immutable",
+  "titleSlug": "range-sum-query-immutable",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "design",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Design",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 41.491400000000006,
+  "memory": 21848000,
+  "memoryPercentile": 99.9916,
+  "timestamp": 1736141674
+}

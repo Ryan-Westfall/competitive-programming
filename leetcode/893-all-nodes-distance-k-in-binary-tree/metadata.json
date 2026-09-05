@@ -1,0 +1,28 @@
+{
+  "questionId": "893",
+  "frontendId": "863",
+  "title": "All Nodes Distance K in Binary Tree",
+  "titleSlug": "all-nodes-distance-k-in-binary-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 38,
+  "runtimePercentile": 96.90930000000002,
+  "memory": 17548000,
+  "memoryPercentile": 100,
+  "timestamp": 1733625142
+}

@@ -1,0 +1,16 @@
+{
+  "questionId": "2820",
+  "frontendId": "2703",
+  "title": "Return Length of Arguments Passed",
+  "titleSlug": "return-length-of-arguments-passed",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "typescript",
+  "langVerbose": "TypeScript",
+  "runtime": 54,
+  "runtimePercentile": 8.094599999999984,
+  "memory": 51356000,
+  "memoryPercentile": 100,
+  "timestamp": 1734157914
+}

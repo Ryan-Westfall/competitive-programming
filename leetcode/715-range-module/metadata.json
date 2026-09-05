@@ -1,0 +1,24 @@
+{
+  "questionId": "715",
+  "frontendId": "715",
+  "title": "Range Module",
+  "titleSlug": "range-module",
+  "difficulty": "Hard",
+  "tags": [
+    "design",
+    "segment-tree",
+    "ordered-set"
+  ],
+  "tagNames": [
+    "Design",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1887,
+  "runtimePercentile": 7.356300000000374,
+  "memory": 58780000,
+  "memoryPercentile": 5.677000000000005,
+  "timestamp": 1784675032
+}

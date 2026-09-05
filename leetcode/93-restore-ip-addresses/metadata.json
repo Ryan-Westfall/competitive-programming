@@ -1,0 +1,22 @@
+{
+  "questionId": "93",
+  "frontendId": "93",
+  "title": "Restore IP Addresses",
+  "titleSlug": "restore-ip-addresses",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "backtracking"
+  ],
+  "tagNames": [
+    "String",
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19488000,
+  "memoryPercentile": 29.408499999999997,
+  "timestamp": 1783637501
+}

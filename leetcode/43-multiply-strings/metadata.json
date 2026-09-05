@@ -1,0 +1,24 @@
+{
+  "questionId": "43",
+  "frontendId": "43",
+  "title": "Multiply Strings",
+  "titleSlug": "multiply-strings",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "string",
+    "simulation"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 26,
+  "runtimePercentile": 77.35230000000004,
+  "memory": 14392000,
+  "memoryPercentile": 100,
+  "timestamp": 1636249075
+}

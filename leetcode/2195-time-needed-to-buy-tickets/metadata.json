@@ -1,0 +1,24 @@
+{
+  "questionId": "2195",
+  "frontendId": "2073",
+  "title": "Time Needed to Buy Tickets",
+  "titleSlug": "time-needed-to-buy-tickets",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "queue",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Queue",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19400000,
+  "memoryPercentile": 22.48940000000001,
+  "timestamp": 1768843135
+}

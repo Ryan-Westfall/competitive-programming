@@ -1,0 +1,22 @@
+{
+  "questionId": "1168",
+  "frontendId": "1089",
+  "title": "Duplicate Zeros",
+  "titleSlug": "duplicate-zeros",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 72,
+  "runtimePercentile": 10.293100000000003,
+  "memory": 14860000,
+  "memoryPercentile": 100,
+  "timestamp": 1624939793
+}

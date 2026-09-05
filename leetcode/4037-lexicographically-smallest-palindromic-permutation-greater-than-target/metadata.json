@@ -1,0 +1,24 @@
+{
+  "questionId": "4037",
+  "frontendId": "3734",
+  "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+  "titleSlug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+  "difficulty": "Hard",
+  "tags": [
+    "two-pointers",
+    "string",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 439,
+  "runtimePercentile": 18.438100000000002,
+  "memory": 19484000,
+  "memoryPercentile": 61.88719999999998,
+  "timestamp": 1787877522
+}

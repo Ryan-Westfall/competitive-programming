@@ -1,0 +1,28 @@
+{
+  "questionId": "348",
+  "frontendId": "348",
+  "title": "Design Tic-Tac-Toe",
+  "titleSlug": "design-tic-tac-toe",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "design",
+    "matrix",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Matrix",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 175,
+  "runtimePercentile": 11.76350000000002,
+  "memory": 16940000,
+  "memoryPercentile": 100,
+  "timestamp": 1634878428
+}

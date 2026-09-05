@@ -1,0 +1,22 @@
+{
+  "questionId": "3676",
+  "frontendId": "3370",
+  "title": "Smallest Number With All Set Bits",
+  "titleSlug": "smallest-number-with-all-set-bits",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17396000,
+  "memoryPercentile": 100,
+  "timestamp": 1733021001
+}

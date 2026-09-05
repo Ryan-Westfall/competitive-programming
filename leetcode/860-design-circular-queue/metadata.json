@@ -1,0 +1,26 @@
+{
+  "questionId": "860",
+  "frontendId": "622",
+  "title": "Design Circular Queue",
+  "titleSlug": "design-circular-queue",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "linked-list",
+    "design",
+    "queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 12,
+  "runtimePercentile": 17.75,
+  "memory": 19736000,
+  "memoryPercentile": 98.19850000000001,
+  "timestamp": 1784773888
+}

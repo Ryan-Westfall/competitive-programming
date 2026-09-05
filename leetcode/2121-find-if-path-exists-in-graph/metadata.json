@@ -1,0 +1,26 @@
+{
+  "questionId": "2121",
+  "frontendId": "1971",
+  "title": "Find if Path Exists in Graph",
+  "titleSlug": "find-if-path-exists-in-graph",
+  "difficulty": "Easy",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 443,
+  "runtimePercentile": 49.023900000000104,
+  "memory": 189752000,
+  "memoryPercentile": 16.254099999999763,
+  "timestamp": 1784065926
+}

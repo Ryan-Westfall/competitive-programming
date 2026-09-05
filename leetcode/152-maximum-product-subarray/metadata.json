@@ -1,0 +1,22 @@
+{
+  "questionId": "152",
+  "frontendId": "152",
+  "title": "Maximum Product Subarray",
+  "titleSlug": "maximum-product-subarray",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 158,
+  "runtimePercentile": 7.212699999999995,
+  "memory": 14644000,
+  "memoryPercentile": 100,
+  "timestamp": 1642084082
+}

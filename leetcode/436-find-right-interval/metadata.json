@@ -1,0 +1,24 @@
+{
+  "questionId": "436",
+  "frontendId": "436",
+  "title": "Find Right Interval",
+  "titleSlug": "find-right-interval",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 71,
+  "runtimePercentile": 25.4947,
+  "memory": 24396000,
+  "memoryPercentile": 49.45939999999999,
+  "timestamp": 1784841835
+}

@@ -1,0 +1,32 @@
+{
+  "questionId": "721",
+  "frontendId": "721",
+  "title": "Accounts Merge",
+  "titleSlug": "accounts-merge",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 30,
+  "runtimePercentile": 49.474100000000014,
+  "memory": 22876000,
+  "memoryPercentile": 43.5076,
+  "timestamp": 1734332892
+}

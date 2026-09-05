@@ -1,0 +1,32 @@
+{
+  "questionId": "139",
+  "frontendId": "139",
+  "title": "Word Break",
+  "titleSlug": "word-break",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "dynamic-programming",
+    "trie",
+    "memoization",
+    "brute-force-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Trie",
+    "Memoization",
+    "Brute-Force Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19472000,
+  "memoryPercentile": 26.53930000000002,
+  "timestamp": 1784582928
+}

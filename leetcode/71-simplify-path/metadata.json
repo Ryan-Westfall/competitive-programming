@@ -1,0 +1,22 @@
+{
+  "questionId": "71",
+  "frontendId": "71",
+  "title": "Simplify Path",
+  "titleSlug": "simplify-path",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "stack"
+  ],
+  "tagNames": [
+    "String",
+    "Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 37.6103,
+  "memory": 17892000,
+  "memoryPercentile": 100,
+  "timestamp": 1737956809
+}

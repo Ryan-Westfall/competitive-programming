@@ -1,0 +1,40 @@
+{
+  "questionId": "499",
+  "frontendId": "499",
+  "title": "The Maze III",
+  "titleSlug": "the-maze-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "string",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "heap-priority-queue",
+    "matrix",
+    "shortest-path",
+    "dijkstra",
+    "heuristic-search",
+    "a-search"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path",
+    "Dijkstra's Algorithm",
+    "Heuristic Search",
+    "A* Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 97.7012,
+  "memory": 19644000,
+  "memoryPercentile": 35.6322,
+  "timestamp": 1787958830
+}

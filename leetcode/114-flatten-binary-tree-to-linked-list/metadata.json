@@ -1,0 +1,28 @@
+{
+  "questionId": "114",
+  "frontendId": "114",
+  "title": "Flatten Binary Tree to Linked List",
+  "titleSlug": "flatten-binary-tree-to-linked-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "stack",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19452000,
+  "memoryPercentile": 71.95599999999999,
+  "timestamp": 1785539723
+}

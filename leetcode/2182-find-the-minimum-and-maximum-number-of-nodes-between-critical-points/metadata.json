@@ -1,0 +1,20 @@
+{
+  "questionId": "2182",
+  "frontendId": "2058",
+  "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+  "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list"
+  ],
+  "tagNames": [
+    "Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 91,
+  "runtimePercentile": 35.99470000000002,
+  "memory": 63240000,
+  "memoryPercentile": 20.46590000000005,
+  "timestamp": 1788137619
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "4371",
+  "frontendId": "4010",
+  "title": "Maximize Pair Strength Using GCD",
+  "titleSlug": "maximize-pair-strength-using-gcd",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math",
+    "enumeration",
+    "number-theory"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4427,
+  "runtimePercentile": 42.671000000000014,
+  "memory": 19684000,
+  "memoryPercentile": 23.401100000000003,
+  "timestamp": 1785639225
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "252",
+  "frontendId": "252",
+  "title": "Meeting Rooms",
+  "titleSlug": "meeting-rooms",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "sorting",
+    "quicksort"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting",
+    "Quicksort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 28.661700000000003,
+  "memory": 19480000,
+  "memoryPercentile": 100,
+  "timestamp": 1734676664
+}

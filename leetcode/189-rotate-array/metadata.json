@@ -1,0 +1,24 @@
+{
+  "questionId": "189",
+  "frontendId": "189",
+  "title": "Rotate Array",
+  "titleSlug": "rotate-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 48,
+  "runtimePercentile": 29.482699999999998,
+  "memory": 15336000,
+  "memoryPercentile": 100,
+  "timestamp": 1600613394
+}

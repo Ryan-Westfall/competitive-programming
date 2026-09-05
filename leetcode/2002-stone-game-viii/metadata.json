@@ -1,0 +1,32 @@
+{
+  "questionId": "2002",
+  "frontendId": "1872",
+  "title": "Stone Game VIII",
+  "titleSlug": "stone-game-viii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "math",
+    "dynamic-programming",
+    "minimax-algorithm",
+    "prefix-sum",
+    "game-theory",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 960,
+  "runtimePercentile": 5.18159999999999,
+  "memory": 251492000,
+  "memoryPercentile": 6.327800000000022,
+  "timestamp": 1787532192
+}

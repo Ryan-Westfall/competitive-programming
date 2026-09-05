@@ -1,0 +1,28 @@
+{
+  "questionId": "200",
+  "frontendId": "200",
+  "title": "Number of Islands",
+  "titleSlug": "number-of-islands",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 244,
+  "runtimePercentile": 55.77349999999993,
+  "memory": 19960000,
+  "memoryPercentile": 100,
+  "timestamp": 1737164123
+}

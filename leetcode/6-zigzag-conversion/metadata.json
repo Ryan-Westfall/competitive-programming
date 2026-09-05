@@ -1,0 +1,20 @@
+{
+  "questionId": "6",
+  "frontendId": "6",
+  "title": "Zigzag Conversion",
+  "titleSlug": "zigzag-conversion",
+  "difficulty": "Medium",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 94.2979,
+  "memory": 19372000,
+  "memoryPercentile": 46.533399999999986,
+  "timestamp": 1785122029
+}

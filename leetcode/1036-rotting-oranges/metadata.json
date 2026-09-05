@@ -1,0 +1,24 @@
+{
+  "questionId": "1036",
+  "frontendId": "994",
+  "title": "Rotting Oranges",
+  "titleSlug": "rotting-oranges",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 15.8537,
+  "memory": 16872000,
+  "memoryPercentile": 100,
+  "timestamp": 1732517515
+}

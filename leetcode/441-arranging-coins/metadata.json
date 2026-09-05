@@ -1,0 +1,22 @@
+{
+  "questionId": "441",
+  "frontendId": "441",
+  "title": "Arranging Coins",
+  "titleSlug": "arranging-coins",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Math",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 32,
+  "runtimePercentile": 46.18319999999998,
+  "memory": 14308000,
+  "memoryPercentile": 100,
+  "timestamp": 1636086125
+}

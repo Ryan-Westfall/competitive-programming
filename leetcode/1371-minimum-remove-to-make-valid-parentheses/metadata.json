@@ -1,0 +1,22 @@
+{
+  "questionId": "1371",
+  "frontendId": "1249",
+  "title": "Minimum Remove to Make Valid Parentheses",
+  "titleSlug": "minimum-remove-to-make-valid-parentheses",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "stack"
+  ],
+  "tagNames": [
+    "String",
+    "Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 203,
+  "runtimePercentile": 7.59910000000005,
+  "memory": 20780000,
+  "memoryPercentile": 49.068000000000005,
+  "timestamp": 1738817049
+}

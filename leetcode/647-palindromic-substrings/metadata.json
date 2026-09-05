@@ -1,0 +1,24 @@
+{
+  "questionId": "647",
+  "frontendId": "647",
+  "title": "Palindromic Substrings",
+  "titleSlug": "palindromic-substrings",
+  "difficulty": "Medium",
+  "tags": [
+    "two-pointers",
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 128,
+  "runtimePercentile": 47.05179999999993,
+  "memory": 14380000,
+  "memoryPercentile": 100,
+  "timestamp": 1627879668
+}

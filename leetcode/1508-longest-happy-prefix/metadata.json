@@ -1,0 +1,30 @@
+{
+  "questionId": "1508",
+  "frontendId": "1392",
+  "title": "Longest Happy Prefix",
+  "titleSlug": "longest-happy-prefix",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "rolling-hash",
+    "string-matching",
+    "hash-function",
+    "z-algorithm",
+    "knuth-morris-pratt-algorithm"
+  ],
+  "tagNames": [
+    "String",
+    "Rolling Hash",
+    "String Matching",
+    "Hash Function",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 449,
+  "runtimePercentile": 29.184599999999914,
+  "memory": 20048000,
+  "memoryPercentile": 98.02329999999999,
+  "timestamp": 1783395362
+}

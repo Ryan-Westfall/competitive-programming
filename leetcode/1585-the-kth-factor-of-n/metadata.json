@@ -1,0 +1,24 @@
+{
+  "questionId": "1585",
+  "frontendId": "1492",
+  "title": "The kth Factor of n",
+  "titleSlug": "the-kth-factor-of-n",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "number-theory",
+    "prime-factorization"
+  ],
+  "tagNames": [
+    "Math",
+    "Number Theory",
+    "Prime Factorization"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19396000,
+  "memoryPercentile": 19.924600000000012,
+  "timestamp": 1787867898
+}

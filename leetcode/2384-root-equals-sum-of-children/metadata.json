@@ -1,0 +1,22 @@
+{
+  "questionId": "2384",
+  "frontendId": "2236",
+  "title": "Root Equals Sum of Children",
+  "titleSlug": "root-equals-sum-of-children",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19264000,
+  "memoryPercentile": 48.7179,
+  "timestamp": 1784243892
+}

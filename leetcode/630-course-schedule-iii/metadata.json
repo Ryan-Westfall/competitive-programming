@@ -1,0 +1,26 @@
+{
+  "questionId": "630",
+  "frontendId": "630",
+  "title": "Course Schedule III",
+  "titleSlug": "course-schedule-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "greedy",
+    "sorting",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 46,
+  "runtimePercentile": 67.29359999999996,
+  "memory": 23852000,
+  "memoryPercentile": 16.823600000000006,
+  "timestamp": 1785024326
+}

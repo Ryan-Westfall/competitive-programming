@@ -1,0 +1,30 @@
+{
+  "questionId": "239",
+  "frontendId": "239",
+  "title": "Sliding Window Maximum",
+  "titleSlug": "sliding-window-maximum",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "queue",
+    "sliding-window",
+    "heap-priority-queue",
+    "monotonic-queue",
+    "range-minimum-maximum-query"
+  ],
+  "tagNames": [
+    "Array",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Monotonic Queue",
+    "Range Minimum/Maximum Query"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 179,
+  "runtimePercentile": 77.62119999999997,
+  "memory": 30816000,
+  "memoryPercentile": 100,
+  "timestamp": 1732083960
+}

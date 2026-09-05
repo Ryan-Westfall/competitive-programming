@@ -1,0 +1,24 @@
+{
+  "questionId": "1552",
+  "frontendId": "1441",
+  "title": "Build an Array With Stack Operations",
+  "titleSlug": "build-an-array-with-stack-operations",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "stack",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19508000,
+  "memoryPercentile": 27.459299999999978,
+  "timestamp": 1768514605
+}

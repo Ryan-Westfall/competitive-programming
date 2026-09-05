@@ -1,0 +1,26 @@
+{
+  "questionId": "208",
+  "frontendId": "208",
+  "title": "Implement Trie (Prefix Tree)",
+  "titleSlug": "implement-trie-prefix-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "design",
+    "trie"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Design",
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 46,
+  "runtimePercentile": 31.43999999999999,
+  "memory": 31896000,
+  "memoryPercentile": 81.8203999999999,
+  "timestamp": 1731830861
+}

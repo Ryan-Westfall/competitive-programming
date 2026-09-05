@@ -1,0 +1,22 @@
+{
+  "questionId": "670",
+  "frontendId": "670",
+  "title": "Maximum Swap",
+  "titleSlug": "maximum-swap",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "greedy"
+  ],
+  "tagNames": [
+    "Math",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17616000,
+  "memoryPercentile": 100,
+  "timestamp": 1738132997
+}

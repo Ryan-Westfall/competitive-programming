@@ -1,0 +1,26 @@
+{
+  "questionId": "99",
+  "frontendId": "99",
+  "title": "Recover Binary Search Tree",
+  "titleSlug": "recover-binary-search-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1,
+  "runtimePercentile": 71.2533,
+  "memory": 20536000,
+  "memoryPercentile": 5.352499999999999,
+  "timestamp": 1787780381
+}

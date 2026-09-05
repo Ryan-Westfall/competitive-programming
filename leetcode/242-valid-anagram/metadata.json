@@ -1,0 +1,24 @@
+{
+  "questionId": "242",
+  "frontendId": "242",
+  "title": "Valid Anagram",
+  "titleSlug": "valid-anagram",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "string",
+    "sorting"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 77.34379999999999,
+  "memory": 16640000,
+  "memoryPercentile": 100,
+  "timestamp": 1730078371
+}

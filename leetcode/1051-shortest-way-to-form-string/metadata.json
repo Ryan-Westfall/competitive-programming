@@ -4,8 +4,6 @@
   "title": "Shortest Way to Form String",
   "titleSlug": "shortest-way-to-form-string",
   "difficulty": "Medium",
-  "likes": 1341,
-  "dislikes": 77,
   "tags": [
     "two-pointers",
     "string",
@@ -18,18 +16,11 @@
     "Binary Search",
     "Greedy"
   ],
-  "companyTags": [
-    "Pinterest",
-    "Meta",
-    "Google"
-  ],
   "lang": "python3",
   "langVerbose": "Python3",
   "runtime": 11,
   "runtimePercentile": 38.86219999999999,
   "memory": 19280000,
   "memoryPercentile": 76.27779999999998,
-  "timestamp": 1788480727,
-  "timestampIso": "2026-09-04T00:12:07.000Z",
-  "syncedAt": "2026-09-05T02:41:23.806Z"
+  "timestamp": 1788480727
 }

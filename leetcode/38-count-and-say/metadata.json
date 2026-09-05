@@ -1,0 +1,20 @@
+{
+  "questionId": "38",
+  "frontendId": "38",
+  "title": "Count and Say",
+  "titleSlug": "count-and-say",
+  "difficulty": "Medium",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 75.1697,
+  "memory": 19468000,
+  "memoryPercentile": 13.750599999999988,
+  "timestamp": 1785533900
+}

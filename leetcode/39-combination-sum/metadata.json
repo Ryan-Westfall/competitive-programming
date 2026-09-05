@@ -1,0 +1,22 @@
+{
+  "questionId": "39",
+  "frontendId": "39",
+  "title": "Combination Sum",
+  "titleSlug": "combination-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "backtracking"
+  ],
+  "tagNames": [
+    "Array",
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 51,
+  "runtimePercentile": 5.040100000000018,
+  "memory": 16804000,
+  "memoryPercentile": 100,
+  "timestamp": 1732256671
+}

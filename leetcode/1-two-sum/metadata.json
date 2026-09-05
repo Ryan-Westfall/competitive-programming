@@ -1,0 +1,22 @@
+{
+  "questionId": "1",
+  "frontendId": "1",
+  "title": "Two Sum",
+  "titleSlug": "two-sum",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20508000,
+  "memoryPercentile": 18.44679999999999,
+  "timestamp": 1781752931
+}

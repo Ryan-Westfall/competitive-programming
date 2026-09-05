@@ -1,0 +1,32 @@
+{
+  "questionId": "486",
+  "frontendId": "486",
+  "title": "Predict the Winner",
+  "titleSlug": "predict-the-winner",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "dynamic-programming",
+    "recursion",
+    "minimax-algorithm",
+    "game-theory",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 27.993600000000004,
+  "memory": 20096000,
+  "memoryPercentile": 11.166299999999957,
+  "timestamp": 1785622438
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "494",
+  "frontendId": "494",
+  "title": "Target Sum",
+  "titleSlug": "target-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "backtracking",
+    "knapsack-problem",
+    "0-1-knapsack"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Backtracking",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 168,
+  "runtimePercentile": 33.265200000000014,
+  "memory": 74064000,
+  "memoryPercentile": 28.881400000000276,
+  "timestamp": 1784575782
+}

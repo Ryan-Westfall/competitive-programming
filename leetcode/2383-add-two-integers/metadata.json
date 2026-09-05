@@ -1,0 +1,20 @@
+{
+  "questionId": "2383",
+  "frontendId": "2235",
+  "title": "Add Two Integers",
+  "titleSlug": "add-two-integers",
+  "difficulty": "Easy",
+  "tags": [
+    "math"
+  ],
+  "tagNames": [
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17772000,
+  "memoryPercentile": 100,
+  "timestamp": 1735010056
+}

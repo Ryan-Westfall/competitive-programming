@@ -1,0 +1,22 @@
+{
+  "questionId": "2058",
+  "frontendId": "1929",
+  "title": "Concatenation of Array",
+  "titleSlug": "concatenation-of-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19392000,
+  "memoryPercentile": 42.17150000000002,
+  "timestamp": 1768430402
+}

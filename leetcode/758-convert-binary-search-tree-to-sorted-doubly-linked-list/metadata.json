@@ -1,0 +1,32 @@
+{
+  "questionId": "758",
+  "frontendId": "426",
+  "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+  "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "stack",
+    "tree",
+    "depth-first-search",
+    "binary-search-tree",
+    "binary-tree",
+    "doubly-linked-list"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree",
+    "Doubly-Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 42,
+  "runtimePercentile": 84.14920000000004,
+  "memory": 18568000,
+  "memoryPercentile": 100,
+  "timestamp": 1739765781
+}

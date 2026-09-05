@@ -1,0 +1,24 @@
+{
+  "questionId": "628",
+  "frontendId": "628",
+  "title": "Maximum Product of Three Numbers",
+  "titleSlug": "maximum-product-of-three-numbers",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20380000,
+  "memoryPercentile": 44.23670000000003,
+  "timestamp": 1785036150
+}

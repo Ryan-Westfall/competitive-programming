@@ -1,0 +1,34 @@
+{
+  "questionId": "1613",
+  "frontendId": "1489",
+  "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+  "titleSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+  "difficulty": "Hard",
+  "tags": [
+    "union-find",
+    "graph",
+    "sorting",
+    "minimum-spanning-tree",
+    "strongly-connected-component",
+    "prims-algorithm",
+    "kruskals-algorithm",
+    "boruvkas-algorithm"
+  ],
+  "tagNames": [
+    "Union-Find",
+    "Graph Theory",
+    "Sorting",
+    "Minimum Spanning Tree",
+    "Strongly Connected Component",
+    "Prim's Algorithm",
+    "Kruskal's Algorithm",
+    "Borůvka's Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 443,
+  "runtimePercentile": 69.13899999999984,
+  "memory": 19416000,
+  "memoryPercentile": 68.5589,
+  "timestamp": 1784414158
+}

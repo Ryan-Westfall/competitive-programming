@@ -1,0 +1,22 @@
+{
+  "questionId": "3472",
+  "frontendId": "3173",
+  "title": "Bitwise OR of Adjacent Elements",
+  "titleSlug": "bitwise-or-of-adjacent-elements",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 57.1429,
+  "memory": 17628000,
+  "memoryPercentile": 100,
+  "timestamp": 1735689506
+}

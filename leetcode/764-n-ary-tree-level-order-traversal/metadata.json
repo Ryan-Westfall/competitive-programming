@@ -1,0 +1,22 @@
+{
+  "questionId": "764",
+  "frontendId": "429",
+  "title": "N-ary Tree Level Order Traversal",
+  "titleSlug": "n-ary-tree-level-order-traversal",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "breadth-first-search"
+  ],
+  "tagNames": [
+    "Tree",
+    "Breadth-First Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 52,
+  "runtimePercentile": 73.4067,
+  "memory": 15872000,
+  "memoryPercentile": 100,
+  "timestamp": 1628465036
+}

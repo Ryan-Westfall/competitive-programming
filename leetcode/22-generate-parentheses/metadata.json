@@ -1,0 +1,26 @@
+{
+  "questionId": "22",
+  "frontendId": "22",
+  "title": "Generate Parentheses",
+  "titleSlug": "generate-parentheses",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "dynamic-programming",
+    "backtracking",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17000000,
+  "memoryPercentile": 100,
+  "timestamp": 1731389889
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "56",
+  "frontendId": "56",
+  "title": "Merge Intervals",
+  "titleSlug": "merge-intervals",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "sorting",
+    "quicksort"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting",
+    "Quicksort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 72.9082,
+  "memory": 22380000,
+  "memoryPercentile": 86.73660000000001,
+  "timestamp": 1782848755
+}

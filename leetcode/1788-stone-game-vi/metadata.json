@@ -1,0 +1,34 @@
+{
+  "questionId": "1788",
+  "frontendId": "1686",
+  "title": "Stone Game VI",
+  "titleSlug": "stone-game-vi",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "greedy",
+    "minimax-algorithm",
+    "sorting",
+    "heap-priority-queue",
+    "game-theory",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Minimax",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 119,
+  "runtimePercentile": 79.62489999999994,
+  "memory": 28832000,
+  "memoryPercentile": 84.7775,
+  "timestamp": 1786398169
+}

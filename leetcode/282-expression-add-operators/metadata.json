@@ -1,0 +1,24 @@
+{
+  "questionId": "282",
+  "frontendId": "282",
+  "title": "Expression Add Operators",
+  "titleSlug": "expression-add-operators",
+  "difficulty": "Hard",
+  "tags": [
+    "math",
+    "string",
+    "backtracking"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 537,
+  "runtimePercentile": 10.195900000000035,
+  "memory": 18340000,
+  "memoryPercentile": 100,
+  "timestamp": 1739763716
+}

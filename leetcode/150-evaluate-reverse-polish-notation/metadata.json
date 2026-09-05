@@ -1,0 +1,24 @@
+{
+  "questionId": "150",
+  "frontendId": "150",
+  "title": "Evaluate Reverse Polish Notation",
+  "titleSlug": "evaluate-reverse-polish-notation",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20712000,
+  "memoryPercentile": 10.549299999999985,
+  "timestamp": 1768596231
+}

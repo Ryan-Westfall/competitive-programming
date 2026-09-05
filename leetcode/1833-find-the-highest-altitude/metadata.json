@@ -1,0 +1,22 @@
+{
+  "questionId": "1833",
+  "frontendId": "1732",
+  "title": "Find the Highest Altitude",
+  "titleSlug": "find-the-highest-altitude",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19212000,
+  "memoryPercentile": 52.5967,
+  "timestamp": 1782520787
+}

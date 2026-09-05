@@ -1,0 +1,24 @@
+{
+  "questionId": "1570",
+  "frontendId": "1475",
+  "title": "Final Prices With a Special Discount in a Shop",
+  "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "stack",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1,
+  "runtimePercentile": 64.7361,
+  "memory": 19488000,
+  "memoryPercentile": 6.0201000000000136,
+  "timestamp": 1768613506
+}

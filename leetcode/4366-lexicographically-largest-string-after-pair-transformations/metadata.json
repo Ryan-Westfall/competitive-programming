@@ -1,0 +1,16 @@
+{
+  "questionId": "4366",
+  "frontendId": "4036",
+  "title": "Lexicographically Largest String After Pair Transformations",
+  "titleSlug": "lexicographically-largest-string-after-pair-transformations",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1215,
+  "runtimePercentile": 28.071099999999063,
+  "memory": 41472000,
+  "memoryPercentile": 50.07919999999994,
+  "timestamp": 1788017553
+}

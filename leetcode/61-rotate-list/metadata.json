@@ -1,0 +1,22 @@
+{
+  "questionId": "61",
+  "frontendId": "61",
+  "title": "Rotate List",
+  "titleSlug": "rotate-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19392000,
+  "memoryPercentile": 40.85509999999999,
+  "timestamp": 1785438968
+}

@@ -1,0 +1,20 @@
+{
+  "questionId": "1580",
+  "frontendId": "1470",
+  "title": "Shuffle the Array",
+  "titleSlug": "shuffle-the-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array"
+  ],
+  "tagNames": [
+    "Array"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 64,
+  "runtimePercentile": 53.73829999999998,
+  "memory": 19576000,
+  "memoryPercentile": 17.158900000000003,
+  "timestamp": 1768431339
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "350",
+  "frontendId": "350",
+  "title": "Intersection of Two Arrays II",
+  "titleSlug": "intersection-of-two-arrays-ii",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "two-pointers",
+    "binary-search",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 76,
+  "runtimePercentile": 5.376599999999998,
+  "memory": 14064000,
+  "memoryPercentile": 100,
+  "timestamp": 1600614573
+}

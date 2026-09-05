@@ -1,0 +1,34 @@
+{
+  "questionId": "1307",
+  "frontendId": "1201",
+  "title": "Ugly Number III",
+  "titleSlug": "ugly-number-iii",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "binary-search",
+    "combinatorics",
+    "number-theory",
+    "least-common-multiple",
+    "euclidean-algorithm",
+    "greatest-common-divisor",
+    "inclusion-exclusion-principle"
+  ],
+  "tagNames": [
+    "Math",
+    "Binary Search",
+    "Combinatorics",
+    "Number Theory",
+    "Least Common Multiple",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor",
+    "Inclusion-Exclusion Principle"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19440000,
+  "memoryPercentile": 28.69320000000001,
+  "timestamp": 1787871104
+}

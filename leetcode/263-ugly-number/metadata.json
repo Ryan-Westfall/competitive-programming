@@ -1,0 +1,20 @@
+{
+  "questionId": "263",
+  "frontendId": "263",
+  "title": "Ugly Number",
+  "titleSlug": "ugly-number",
+  "difficulty": "Easy",
+  "tags": [
+    "math"
+  ],
+  "tagNames": [
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19276000,
+  "memoryPercentile": 69.1955,
+  "timestamp": 1787872959
+}

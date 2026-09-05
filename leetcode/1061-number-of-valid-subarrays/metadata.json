@@ -1,0 +1,24 @@
+{
+  "questionId": "1061",
+  "frontendId": "1063",
+  "title": "Number of Valid Subarrays",
+  "titleSlug": "number-of-valid-subarrays",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "stack",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 49,
+  "runtimePercentile": 58.65919999999999,
+  "memory": 23228000,
+  "memoryPercentile": 51.39659999999999,
+  "timestamp": 1768773446
+}

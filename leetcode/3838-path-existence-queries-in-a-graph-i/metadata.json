@@ -1,0 +1,28 @@
+{
+  "questionId": "3838",
+  "frontendId": "3532",
+  "title": "Path Existence Queries in a Graph I",
+  "titleSlug": "path-existence-queries-in-a-graph-i",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "binary-search",
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 235,
+  "runtimePercentile": 19.512500000000003,
+  "memory": 78412000,
+  "memoryPercentile": 5.011100000000037,
+  "timestamp": 1783570959
+}

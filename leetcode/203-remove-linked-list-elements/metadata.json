@@ -1,0 +1,22 @@
+{
+  "questionId": "203",
+  "frontendId": "203",
+  "title": "Remove Linked List Elements",
+  "titleSlug": "remove-linked-list-elements",
+  "difficulty": "Easy",
+  "tags": [
+    "linked-list",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 56,
+  "runtimePercentile": 8.466999999999997,
+  "memory": 17196000,
+  "memoryPercentile": 100,
+  "timestamp": 1636743239
+}

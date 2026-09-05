@@ -1,0 +1,26 @@
+{
+  "questionId": "209",
+  "frontendId": "209",
+  "title": "Minimum Size Subarray Sum",
+  "titleSlug": "minimum-size-subarray-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "sliding-window",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 98.9709,
+  "memory": 28360000,
+  "memoryPercentile": 100,
+  "timestamp": 1734675865
+}

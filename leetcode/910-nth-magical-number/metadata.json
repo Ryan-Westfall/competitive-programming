@@ -1,0 +1,26 @@
+{
+  "questionId": "910",
+  "frontendId": "878",
+  "title": "Nth Magical Number",
+  "titleSlug": "nth-magical-number",
+  "difficulty": "Hard",
+  "tags": [
+    "math",
+    "binary-search",
+    "least-common-multiple",
+    "inclusion-exclusion-principle"
+  ],
+  "tagNames": [
+    "Math",
+    "Binary Search",
+    "Least Common Multiple",
+    "Inclusion-Exclusion Principle"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1,
+  "runtimePercentile": 40.493,
+  "memory": 19284000,
+  "memoryPercentile": 91.5493,
+  "timestamp": 1787692308
+}

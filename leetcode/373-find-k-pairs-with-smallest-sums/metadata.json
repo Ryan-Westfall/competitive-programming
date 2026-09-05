@@ -1,0 +1,22 @@
+{
+  "questionId": "373",
+  "frontendId": "373",
+  "title": "Find K Pairs with Smallest Sums",
+  "titleSlug": "find-k-pairs-with-smallest-sums",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 79,
+  "runtimePercentile": 78.3285,
+  "memory": 39844000,
+  "memoryPercentile": 34.917499999999954,
+  "timestamp": 1768947396
+}

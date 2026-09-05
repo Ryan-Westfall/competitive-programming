@@ -1,0 +1,24 @@
+{
+  "questionId": "1694",
+  "frontendId": "1590",
+  "title": "Make Sum Divisible by P",
+  "titleSlug": "make-sum-divisible-by-p",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 103,
+  "runtimePercentile": 7.737000000000028,
+  "memory": 40084000,
+  "memoryPercentile": 91.29600000000002,
+  "timestamp": 1782596155
+}

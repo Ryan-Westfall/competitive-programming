@@ -1,0 +1,24 @@
+{
+  "questionId": "1028",
+  "frontendId": "986",
+  "title": "Interval List Intersections",
+  "titleSlug": "interval-list-intersections",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "sweep-line"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Sweep Line"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 54.0676,
+  "memory": 17868000,
+  "memoryPercentile": 100,
+  "timestamp": 1733711448
+}

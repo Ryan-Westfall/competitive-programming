@@ -1,0 +1,22 @@
+{
+  "questionId": "27",
+  "frontendId": "27",
+  "title": "Remove Element",
+  "titleSlug": "remove-element",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17548000,
+  "memoryPercentile": 100,
+  "timestamp": 1735627073
+}

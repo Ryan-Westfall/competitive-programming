@@ -1,0 +1,32 @@
+{
+  "questionId": "3681",
+  "frontendId": "3380",
+  "title": "Maximum Area Rectangle With Point Constraints I",
+  "titleSlug": "maximum-area-rectangle-with-point-constraints-i",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "binary-indexed-tree",
+    "segment-tree",
+    "geometry",
+    "sorting",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Geometry",
+    "Sorting",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 38.157799999999995,
+  "memory": 17400000,
+  "memoryPercentile": 100,
+  "timestamp": 1733628311
+}

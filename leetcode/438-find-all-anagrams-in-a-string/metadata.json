@@ -1,0 +1,24 @@
+{
+  "questionId": "438",
+  "frontendId": "438",
+  "title": "Find All Anagrams in a String",
+  "titleSlug": "find-all-anagrams-in-a-string",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 43,
+  "runtimePercentile": 53.5914,
+  "memory": 19900000,
+  "memoryPercentile": 42.43029999999999,
+  "timestamp": 1788223400
+}

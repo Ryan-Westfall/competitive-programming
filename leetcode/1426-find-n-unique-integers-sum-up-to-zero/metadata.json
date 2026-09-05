@@ -1,0 +1,22 @@
+{
+  "questionId": "1426",
+  "frontendId": "1304",
+  "title": "Find N Unique Integers Sum up to Zero",
+  "titleSlug": "find-n-unique-integers-sum-up-to-zero",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 54,
+  "runtimePercentile": 0.13020000000000254,
+  "memory": 14348000,
+  "memoryPercentile": 100,
+  "timestamp": 1634806003
+}

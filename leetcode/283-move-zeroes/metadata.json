@@ -1,0 +1,22 @@
+{
+  "questionId": "283",
+  "frontendId": "283",
+  "title": "Move Zeroes",
+  "titleSlug": "move-zeroes",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 232,
+  "runtimePercentile": 8.469700000000016,
+  "memory": 15056000,
+  "memoryPercentile": 100,
+  "timestamp": 1599673525
+}

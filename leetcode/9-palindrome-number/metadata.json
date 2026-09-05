@@ -1,0 +1,20 @@
+{
+  "questionId": "9",
+  "frontendId": "9",
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "difficulty": "Easy",
+  "tags": [
+    "math"
+  ],
+  "tagNames": [
+    "Math"
+  ],
+  "lang": "python",
+  "langVerbose": "Python",
+  "runtime": 108,
+  "runtimePercentile": 5.0628999999999875,
+  "memory": 13348000,
+  "memoryPercentile": 18.819200000000016,
+  "timestamp": 1606428324
+}

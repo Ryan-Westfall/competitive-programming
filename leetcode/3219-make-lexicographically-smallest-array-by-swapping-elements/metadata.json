@@ -1,0 +1,24 @@
+{
+  "questionId": "3219",
+  "frontendId": "2948",
+  "title": "Make Lexicographically Smallest Array by Swapping Elements",
+  "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "union-find",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Union-Find",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 352,
+  "runtimePercentile": 23.805500000000013,
+  "memory": 46732000,
+  "memoryPercentile": 81.9836,
+  "timestamp": 1788041484
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "105",
+  "frontendId": "105",
+  "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+  "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "divide-and-conquer",
+    "tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 96,
+  "runtimePercentile": 10.371000000000034,
+  "memory": 88352000,
+  "memoryPercentile": 38.94960000000002,
+  "timestamp": 1731895552
+}

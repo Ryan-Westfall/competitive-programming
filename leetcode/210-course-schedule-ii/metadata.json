@@ -1,0 +1,26 @@
+{
+  "questionId": "210",
+  "frontendId": "210",
+  "title": "Course Schedule II",
+  "titleSlug": "course-schedule-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "topological-sort"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 26.791699999999995,
+  "memory": 20272000,
+  "memoryPercentile": 91.19369999999999,
+  "timestamp": 1785023346
+}

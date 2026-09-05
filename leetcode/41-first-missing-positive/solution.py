@@ -1,0 +1,21 @@
+class Solution:
+    def firstMissingPositive(self, nums: List[int]) -> int:
+        for i in range(len(nums)):
+            if nums[i] < 0:
+                nums[i] = 0
+
+        # Index everything
+        for i in range(len(nums)):
+            val = abs(nums[i])
+            if 1 <= val <= len(nums):
+                if nums[val - 1] == 0:
+                    nums[val - 1] = (len(nums) + 1) * -1
+                if nums[val - 1] > 0:
+                    nums[val - 1] = nums[val - 1] * -1
+
+        # Go through greedy with 1
+        for i in range(1, len(nums) + 1):
+            if nums[i - 1] >= 0:
+                return i
+        
+        return i + 1

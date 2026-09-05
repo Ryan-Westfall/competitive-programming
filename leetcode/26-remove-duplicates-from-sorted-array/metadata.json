@@ -1,0 +1,22 @@
+{
+  "questionId": "26",
+  "frontendId": "26",
+  "title": "Remove Duplicates from Sorted Array",
+  "titleSlug": "remove-duplicates-from-sorted-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 18960000,
+  "memoryPercentile": 100,
+  "timestamp": 1735627176
+}

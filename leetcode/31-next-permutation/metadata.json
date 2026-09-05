@@ -1,0 +1,22 @@
+{
+  "questionId": "31",
+  "frontendId": "31",
+  "title": "Next Permutation",
+  "titleSlug": "next-permutation",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1,
+  "runtimePercentile": 7.441299999999998,
+  "memory": 17856000,
+  "memoryPercentile": 100,
+  "timestamp": 1739250952
+}

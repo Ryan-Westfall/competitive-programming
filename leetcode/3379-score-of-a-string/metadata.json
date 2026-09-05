@@ -1,0 +1,20 @@
+{
+  "questionId": "3379",
+  "frontendId": "3110",
+  "title": "Score of a String",
+  "titleSlug": "score-of-a-string",
+  "difficulty": "Easy",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17412000,
+  "memoryPercentile": 100,
+  "timestamp": 1734074694
+}

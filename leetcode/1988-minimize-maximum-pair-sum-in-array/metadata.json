@@ -1,0 +1,26 @@
+{
+  "questionId": "1988",
+  "frontendId": "1877",
+  "title": "Minimize Maximum Pair Sum in Array",
+  "titleSlug": "minimize-maximum-pair-sum-in-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "greedy",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 872,
+  "runtimePercentile": 30.844000000000044,
+  "memory": 34184000,
+  "memoryPercentile": 13.09660000000001,
+  "timestamp": 1788371258
+}

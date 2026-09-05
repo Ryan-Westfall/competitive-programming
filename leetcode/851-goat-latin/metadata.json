@@ -1,0 +1,20 @@
+{
+  "questionId": "851",
+  "frontendId": "824",
+  "title": "Goat Latin",
+  "titleSlug": "goat-latin",
+  "difficulty": "Easy",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17724000,
+  "memoryPercentile": 100,
+  "timestamp": 1739946817
+}

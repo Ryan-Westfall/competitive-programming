@@ -1,0 +1,22 @@
+{
+  "questionId": "962",
+  "frontendId": "926",
+  "title": "Flip String to Monotone Increasing",
+  "titleSlug": "flip-string-to-monotone-increasing",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 216,
+  "runtimePercentile": 18.473899999999922,
+  "memory": 14876000,
+  "memoryPercentile": 100,
+  "timestamp": 1628659038
+}

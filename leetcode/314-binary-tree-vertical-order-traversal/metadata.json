@@ -1,0 +1,30 @@
+{
+  "questionId": "314",
+  "frontendId": "314",
+  "title": "Binary Tree Vertical Order Traversal",
+  "titleSlug": "binary-tree-vertical-order-traversal",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "sorting",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Sorting",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17916000,
+  "memoryPercentile": 100,
+  "timestamp": 1738819216
+}

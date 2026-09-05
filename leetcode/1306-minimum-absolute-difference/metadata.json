@@ -1,0 +1,22 @@
+{
+  "questionId": "1306",
+  "frontendId": "1200",
+  "title": "Minimum Absolute Difference",
+  "titleSlug": "minimum-absolute-difference",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 55,
+  "runtimePercentile": 51.685400000000044,
+  "memory": 31244000,
+  "memoryPercentile": 90.77420000000001,
+  "timestamp": 1782602753
+}

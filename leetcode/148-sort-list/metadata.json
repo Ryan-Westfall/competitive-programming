@@ -1,0 +1,28 @@
+{
+  "questionId": "148",
+  "frontendId": "148",
+  "title": "Sort List",
+  "titleSlug": "sort-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "two-pointers",
+    "divide-and-conquer",
+    "sorting",
+    "merge-sort"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Two Pointers",
+    "Divide and Conquer",
+    "Sorting",
+    "Merge Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 196,
+  "runtimePercentile": 19.94280000000008,
+  "memory": 40652000,
+  "memoryPercentile": 58.08699999999999,
+  "timestamp": 1785796731
+}

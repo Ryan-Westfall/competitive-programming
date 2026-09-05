@@ -1,0 +1,22 @@
+{
+  "questionId": "369",
+  "frontendId": "369",
+  "title": "Plus One Linked List",
+  "titleSlug": "plus-one-linked-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "math"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 51,
+  "runtimePercentile": 20.418799999999973,
+  "memory": 19172000,
+  "memoryPercentile": 73.29839999999999,
+  "timestamp": 1785798676
+}

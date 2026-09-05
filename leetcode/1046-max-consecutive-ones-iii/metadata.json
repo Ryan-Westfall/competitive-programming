@@ -1,0 +1,26 @@
+{
+  "questionId": "1046",
+  "frontendId": "1004",
+  "title": "Max Consecutive Ones III",
+  "titleSlug": "max-consecutive-ones-iii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "sliding-window",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 84,
+  "runtimePercentile": 8.416200000000046,
+  "memory": 17844000,
+  "memoryPercentile": 100,
+  "timestamp": 1734326098
+}

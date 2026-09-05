@@ -1,0 +1,28 @@
+{
+  "questionId": "912",
+  "frontendId": "528",
+  "title": "Random Pick with Weight",
+  "titleSlug": "random-pick-with-weight",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "binary-search",
+    "prefix-sum",
+    "randomized"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Prefix Sum",
+    "Randomized"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 79,
+  "runtimePercentile": 36.40310000000004,
+  "memory": 23480000,
+  "memoryPercentile": 99.81280000000001,
+  "timestamp": 1740271069
+}

@@ -1,0 +1,32 @@
+{
+  "questionId": "269",
+  "frontendId": "269",
+  "title": "Alien Dictionary",
+  "titleSlug": "alien-dictionary",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "string",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "topological-sort",
+    "directed-acyclic-graph"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19512000,
+  "memoryPercentile": 25.1571,
+  "timestamp": 1788298781
+}

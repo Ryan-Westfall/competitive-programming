@@ -1,0 +1,24 @@
+{
+  "questionId": "4350",
+  "frontendId": "4021",
+  "title": "Minimum Operations to Make a Rotated Palindrome I",
+  "titleSlug": "minimum-operations-to-make-a-rotated-palindrome-i",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "string",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 9431,
+  "runtimePercentile": 17.405800000004316,
+  "memory": 19328000,
+  "memoryPercentile": 42.92190000000001,
+  "timestamp": 1786806547
+}

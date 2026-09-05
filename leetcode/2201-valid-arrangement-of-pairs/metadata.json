@@ -1,0 +1,30 @@
+{
+  "questionId": "2201",
+  "frontendId": "2097",
+  "title": "Valid Arrangement of Pairs",
+  "titleSlug": "valid-arrangement-of-pairs",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "graph",
+    "eulerian-circuit",
+    "eulerian-path",
+    "semi-eulerian-graph"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Graph Theory",
+    "Eulerian Circuit",
+    "Eulerian Path",
+    "Semi-Eulerian Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 362,
+  "runtimePercentile": 64.00089999999983,
+  "memory": 106652000,
+  "memoryPercentile": 55.27419999999984,
+  "timestamp": 1786486981
+}

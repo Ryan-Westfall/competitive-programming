@@ -1,0 +1,24 @@
+{
+  "questionId": "167",
+  "frontendId": "167",
+  "title": "Two Sum II - Input Array Is Sorted",
+  "titleSlug": "two-sum-ii-input-array-is-sorted",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 48.863,
+  "memory": 17548000,
+  "memoryPercentile": 100,
+  "timestamp": 1731198257
+}

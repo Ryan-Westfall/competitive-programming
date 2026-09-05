@@ -1,0 +1,28 @@
+{
+  "questionId": "455",
+  "frontendId": "455",
+  "title": "Assign Cookies",
+  "titleSlug": "assign-cookies",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers",
+    "greedy",
+    "sorting",
+    "quicksort"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Quicksort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 136,
+  "runtimePercentile": 9.478699999999984,
+  "memory": 19180000,
+  "memoryPercentile": 100,
+  "timestamp": 1704158072
+}

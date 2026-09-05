@@ -1,0 +1,26 @@
+{
+  "questionId": "382",
+  "frontendId": "382",
+  "title": "Linked List Random Node",
+  "titleSlug": "linked-list-random-node",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "math",
+    "reservoir-sampling",
+    "randomized"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Math",
+    "Reservoir Sampling",
+    "Randomized"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 97.44050000000001,
+  "memory": 23376000,
+  "memoryPercentile": 60.10599999999999,
+  "timestamp": 1785811374
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "4034",
+  "frontendId": "4026",
+  "title": "Maximum Gap Between Stations",
+  "titleSlug": "maximum-gap-between-stations",
+  "difficulty": "Medium",
+  "tags": [
+    "two-pointers",
+    "string",
+    "greedy"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 586,
+  "runtimePercentile": 40.10839999999984,
+  "memory": 28024000,
+  "memoryPercentile": 21.641599999999965,
+  "timestamp": 1786851615
+}

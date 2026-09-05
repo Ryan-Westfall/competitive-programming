@@ -1,0 +1,30 @@
+{
+  "questionId": "253",
+  "frontendId": "253",
+  "title": "Meeting Rooms II",
+  "titleSlug": "meeting-rooms-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "greedy",
+    "sorting",
+    "heap-priority-queue",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 45.23930000000001,
+  "memory": 19920000,
+  "memoryPercentile": 100,
+  "timestamp": 1737163411
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "2319",
+  "frontendId": "2213",
+  "title": "Longest Substring of One Repeating Character",
+  "titleSlug": "longest-substring-of-one-repeating-character",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "string",
+    "segment-tree",
+    "ordered-set"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3407,
+  "runtimePercentile": 18.78169999999762,
+  "memory": 109504000,
+  "memoryPercentile": 23.85859999999962,
+  "timestamp": 1786663167
+}

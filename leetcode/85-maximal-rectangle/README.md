@@ -8,9 +8,8 @@
 **Language:** Python3
 **Runtime:** 1571 ms (5.9%)
 **Memory:** 52.5 MB (6.6%)
-**Likes/Dislikes:** 12271 / 229
-**Submitted:** 2026-09-03T21:40:39.000Z
-**LeetCode Link:** https://leetcode.com/problems/maximal-rectangle/
+**Submitted:** 2026-09-03
+**Link:** https://leetcode.com/problems/maximal-rectangle/
 
 ## Description
 
@@ -53,6 +52,3 @@
 ## Solution
 
 See `solution.py` in this folder.
-
----
-*Auto-synced by LeetSync on 2026-09-05T02:41:33.296Z*

@@ -1,0 +1,24 @@
+{
+  "questionId": "3",
+  "frontendId": "3",
+  "title": "Longest Substring Without Repeating Characters",
+  "titleSlug": "longest-substring-without-repeating-characters",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 17,
+  "runtimePercentile": 71.61850000000001,
+  "memory": 16672000,
+  "memoryPercentile": 100,
+  "timestamp": 1731909630
+}

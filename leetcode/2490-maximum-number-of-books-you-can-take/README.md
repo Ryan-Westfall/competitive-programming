@@ -8,9 +8,8 @@
 **Language:** Python3
 **Runtime:** 269 ms (5.1%)
 **Memory:** 120.2 MB (5.4%)
-**Likes/Dislikes:** 304 / 41
-**Submitted:** 2026-09-03T20:14:34.000Z
-**LeetCode Link:** https://leetcode.com/problems/maximum-number-of-books-you-can-take/
+**Submitted:** 2026-09-03
+**Link:** https://leetcode.com/problems/maximum-number-of-books-you-can-take/
 
 ## Description
 
@@ -79,6 +78,3 @@ It can be proven that 13 is the maximum number of books you can take.
 ## Solution
 
 See `solution.py` in this folder.
-
----
-*Auto-synced by LeetSync on 2026-09-05T02:41:38.742Z*

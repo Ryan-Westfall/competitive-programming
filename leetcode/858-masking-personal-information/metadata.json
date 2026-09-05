@@ -1,0 +1,20 @@
+{
+  "questionId": "858",
+  "frontendId": "831",
+  "title": "Masking Personal Information",
+  "titleSlug": "masking-personal-information",
+  "difficulty": "Medium",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19376000,
+  "memoryPercentile": 39.949400000000004,
+  "timestamp": 1769033000
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "459",
+  "frontendId": "459",
+  "title": "Repeated Substring Pattern",
+  "titleSlug": "repeated-substring-pattern",
+  "difficulty": "Easy",
+  "tags": [
+    "string",
+    "string-matching",
+    "z-algorithm",
+    "knuth-morris-pratt-algorithm"
+  ],
+  "tagNames": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19180000,
+  "memoryPercentile": 91.0698,
+  "timestamp": 1781315348
+}

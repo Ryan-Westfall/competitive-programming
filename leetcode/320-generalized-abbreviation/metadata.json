@@ -1,0 +1,24 @@
+{
+  "questionId": "320",
+  "frontendId": "320",
+  "title": "Generalized Abbreviation",
+  "titleSlug": "generalized-abbreviation",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "backtracking",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "String",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 27,
+  "runtimePercentile": 54.556400000000004,
+  "memory": 25156000,
+  "memoryPercentile": 12.8507,
+  "timestamp": 1785187231
+}

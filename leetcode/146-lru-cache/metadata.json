@@ -1,0 +1,26 @@
+{
+  "questionId": "146",
+  "frontendId": "146",
+  "title": "LRU Cache",
+  "titleSlug": "lru-cache",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "linked-list",
+    "design",
+    "doubly-linked-list"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 27,
+  "runtimePercentile": 85.3767,
+  "memory": 29332000,
+  "memoryPercentile": 84.94059999999999,
+  "timestamp": 1788134471
+}

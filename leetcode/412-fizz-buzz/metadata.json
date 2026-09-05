@@ -1,0 +1,24 @@
+{
+  "questionId": "412",
+  "frontendId": "412",
+  "title": "Fizz Buzz",
+  "titleSlug": "fizz-buzz",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "string",
+    "simulation"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 36,
+  "runtimePercentile": 0.33670000000000666,
+  "memory": 14960000,
+  "memoryPercentile": 100,
+  "timestamp": 1599639912
+}

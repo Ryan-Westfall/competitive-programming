@@ -1,0 +1,22 @@
+{
+  "questionId": "2016",
+  "frontendId": "1887",
+  "title": "Reduction Operations to Make the Array Elements Equal",
+  "titleSlug": "reduction-operations-to-make-the-array-elements-equal",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 122,
+  "runtimePercentile": 48.02890000000003,
+  "memory": 26992000,
+  "memoryPercentile": 86.38000000000001,
+  "timestamp": 1782792382
+}

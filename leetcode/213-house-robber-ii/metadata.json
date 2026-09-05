@@ -1,0 +1,22 @@
+{
+  "questionId": "213",
+  "frontendId": "213",
+  "title": "House Robber II",
+  "titleSlug": "house-robber-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 70,
+  "runtimePercentile": 0.5717999999999952,
+  "memory": 14248000,
+  "memoryPercentile": 100,
+  "timestamp": 1642112901
+}

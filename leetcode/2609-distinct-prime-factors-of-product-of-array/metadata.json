@@ -1,0 +1,38 @@
+{
+  "questionId": "2609",
+  "frontendId": "2521",
+  "title": "Distinct Prime Factors of Product of Array",
+  "titleSlug": "distinct-prime-factors-of-product-of-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "number-theory",
+    "prime-factorization",
+    "euclidean-algorithm",
+    "primality-test",
+    "greatest-common-divisor",
+    "sieve-theory",
+    "prime-number-sieve"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Number Theory",
+    "Prime Factorization",
+    "Euclidean Algorithm",
+    "Primality Test",
+    "Greatest Common Divisor",
+    "Sieve Theory",
+    "Prime Number Sieve"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 78,
+  "runtimePercentile": 50.14969999999994,
+  "memory": 20696000,
+  "memoryPercentile": 40.895599999999995,
+  "timestamp": 1787694469
+}

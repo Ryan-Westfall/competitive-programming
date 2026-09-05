@@ -1,0 +1,24 @@
+{
+  "questionId": "3225",
+  "frontendId": "2958",
+  "title": "Length of Longest Subarray With at Most K Frequency",
+  "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 254,
+  "runtimePercentile": 49.17780000000002,
+  "memory": 35404000,
+  "memoryPercentile": 16.17700000000001,
+  "timestamp": 1786548876
+}

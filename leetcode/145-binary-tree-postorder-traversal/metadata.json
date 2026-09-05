@@ -1,0 +1,26 @@
+{
+  "questionId": "145",
+  "frontendId": "145",
+  "title": "Binary Tree Postorder Traversal",
+  "titleSlug": "binary-tree-postorder-traversal",
+  "difficulty": "Easy",
+  "tags": [
+    "stack",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17884000,
+  "memoryPercentile": 100,
+  "timestamp": 1736494527
+}

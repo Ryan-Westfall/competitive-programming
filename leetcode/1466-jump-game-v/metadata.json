@@ -1,0 +1,24 @@
+{
+  "questionId": "1466",
+  "frontendId": "1340",
+  "title": "Jump Game V",
+  "titleSlug": "jump-game-v",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 379,
+  "runtimePercentile": 7.433400000000151,
+  "memory": 23924000,
+  "memoryPercentile": 41.82620000000004,
+  "timestamp": 1787092674
+}

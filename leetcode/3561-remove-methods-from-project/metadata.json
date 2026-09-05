@@ -1,0 +1,24 @@
+{
+  "questionId": "3561",
+  "frontendId": "3310",
+  "title": "Remove Methods From Project",
+  "titleSlug": "remove-methods-from-project",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 310,
+  "runtimePercentile": 39.86219999999996,
+  "memory": 145432000,
+  "memoryPercentile": 18.961199999999927,
+  "timestamp": 1785899820
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "316",
+  "frontendId": "316",
+  "title": "Remove Duplicate Letters",
+  "titleSlug": "remove-duplicate-letters",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "stack",
+    "greedy",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 64.65339999999999,
+  "memory": 19404000,
+  "memoryPercentile": 16.27499999999999,
+  "timestamp": 1768780660
+}

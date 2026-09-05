@@ -7,9 +7,8 @@
 **Language:** Python3
 **Runtime:** 3 ms (77.3%)
 **Memory:** 19.2 MB (70.8%)
-**Likes/Dislikes:** 286 / 25
-**Submitted:** 2026-09-05T01:28:13.000Z
-**LeetCode Link:** https://leetcode.com/problems/smallest-stable-index-i/
+**Submitted:** 2026-09-05
+**Link:** https://leetcode.com/problems/smallest-stable-index-i/
 
 ## Description
 
@@ -91,6 +90,3 @@
 ## Solution
 
 See `solution.py` in this folder.
-
----
-*Auto-synced by LeetSync on 2026-09-05T02:41:17.775Z*

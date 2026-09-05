@@ -1,0 +1,24 @@
+{
+  "questionId": "160",
+  "frontendId": "160",
+  "title": "Intersection of Two Linked Lists",
+  "titleSlug": "intersection-of-two-linked-lists",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "linked-list",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 188,
+  "runtimePercentile": 6.374100000000036,
+  "memory": 29400000,
+  "memoryPercentile": 100,
+  "timestamp": 1626154808
+}

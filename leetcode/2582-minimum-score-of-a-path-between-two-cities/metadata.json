@@ -1,0 +1,26 @@
+{
+  "questionId": "2582",
+  "frontendId": "2492",
+  "title": "Minimum Score of a Path Between Two Cities",
+  "titleSlug": "minimum-score-of-a-path-between-two-cities",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 202,
+  "runtimePercentile": 51.77179999999987,
+  "memory": 139148000,
+  "memoryPercentile": 6.777899999999692,
+  "timestamp": 1784072272
+}

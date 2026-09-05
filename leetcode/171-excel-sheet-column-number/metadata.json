@@ -1,0 +1,22 @@
+{
+  "questionId": "171",
+  "frontendId": "171",
+  "title": "Excel Sheet Column Number",
+  "titleSlug": "excel-sheet-column-number",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "string"
+  ],
+  "tagNames": [
+    "Math",
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 32,
+  "runtimePercentile": 0.5061999999999962,
+  "memory": 14092000,
+  "memoryPercentile": 100,
+  "timestamp": 1601418341
+}

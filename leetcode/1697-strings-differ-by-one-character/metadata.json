@@ -1,0 +1,26 @@
+{
+  "questionId": "1697",
+  "frontendId": "1554",
+  "title": "Strings Differ by One Character",
+  "titleSlug": "strings-differ-by-one-character",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "rolling-hash",
+    "hash-function"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Rolling Hash",
+    "Hash Function"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1166,
+  "runtimePercentile": 25.00059999999992,
+  "memory": 42816000,
+  "memoryPercentile": 16.071800000000014,
+  "timestamp": 1784687310
+}

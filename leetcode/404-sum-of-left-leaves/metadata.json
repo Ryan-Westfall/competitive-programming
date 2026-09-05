@@ -1,0 +1,26 @@
+{
+  "questionId": "404",
+  "frontendId": "404",
+  "title": "Sum of Left Leaves",
+  "titleSlug": "sum-of-left-leaves",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 36,
+  "runtimePercentile": 0.053700000000008075,
+  "memory": 15212000,
+  "memoryPercentile": 100,
+  "timestamp": 1635998362
+}

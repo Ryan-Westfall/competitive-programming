@@ -1,0 +1,24 @@
+{
+  "questionId": "53",
+  "frontendId": "53",
+  "title": "Maximum Subarray",
+  "titleSlug": "maximum-subarray",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "divide-and-conquer",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1192,
+  "runtimePercentile": 5.0574,
+  "memory": 28860000,
+  "memoryPercentile": 100,
+  "timestamp": 1633496334
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "1128",
+  "frontendId": "1047",
+  "title": "Remove All Adjacent Duplicates In String",
+  "titleSlug": "remove-all-adjacent-duplicates-in-string",
+  "difficulty": "Easy",
+  "tags": [
+    "string",
+    "stack"
+  ],
+  "tagNames": [
+    "String",
+    "Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 23,
+  "runtimePercentile": 31.639099999999992,
+  "memory": 18840000,
+  "memoryPercentile": 100,
+  "timestamp": 1739946937
+}

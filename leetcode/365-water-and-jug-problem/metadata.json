@@ -1,0 +1,32 @@
+{
+  "questionId": "365",
+  "frontendId": "365",
+  "title": "Water and Jug Problem",
+  "titleSlug": "water-and-jug-problem",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "depth-first-search",
+    "breadth-first-search",
+    "bezouts-lemma",
+    "euclidean-algorithm",
+    "greatest-common-divisor",
+    "extended-euclidean-algorithm"
+  ],
+  "tagNames": [
+    "Math",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Bézout's Lemma",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor",
+    "Extended Euclidean Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19504000,
+  "memoryPercentile": 6.06290000000001,
+  "timestamp": 1787783367
+}

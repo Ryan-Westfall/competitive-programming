@@ -1,0 +1,24 @@
+{
+  "questionId": "227",
+  "frontendId": "227",
+  "title": "Basic Calculator II",
+  "titleSlug": "basic-calculator-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "string",
+    "stack"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 97,
+  "runtimePercentile": 10.56989999999996,
+  "memory": 18732000,
+  "memoryPercentile": 100,
+  "timestamp": 1739063637
+}

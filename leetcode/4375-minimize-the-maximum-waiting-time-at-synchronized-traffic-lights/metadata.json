@@ -1,0 +1,22 @@
+{
+  "questionId": "4375",
+  "frontendId": "4025",
+  "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
+  "titleSlug": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "greedy"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1394,
+  "runtimePercentile": 5.006500000000007,
+  "memory": 38132000,
+  "memoryPercentile": 28.270199999999974,
+  "timestamp": 1786850136
+}

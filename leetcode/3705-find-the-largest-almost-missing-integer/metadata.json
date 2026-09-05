@@ -1,0 +1,22 @@
+{
+  "questionId": "3705",
+  "frontendId": "3471",
+  "title": "Find the Largest Almost Missing Integer",
+  "titleSlug": "find-the-largest-almost-missing-integer",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19332000,
+  "memoryPercentile": 36.654800000000016,
+  "timestamp": 1787082206
+}

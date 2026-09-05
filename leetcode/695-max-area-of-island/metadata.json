@@ -1,0 +1,28 @@
+{
+  "questionId": "695",
+  "frontendId": "695",
+  "title": "Max Area of Island",
+  "titleSlug": "max-area-of-island",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 23,
+  "runtimePercentile": 40.5769,
+  "memory": 17212000,
+  "memoryPercentile": 100,
+  "timestamp": 1730699179
+}

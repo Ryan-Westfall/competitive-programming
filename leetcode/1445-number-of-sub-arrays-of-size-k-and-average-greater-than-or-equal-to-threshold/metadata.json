@@ -1,0 +1,22 @@
+{
+  "questionId": "1445",
+  "frontendId": "1343",
+  "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+  "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Array",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 55,
+  "runtimePercentile": 35.212100000000035,
+  "memory": 29816000,
+  "memoryPercentile": 65.79960000000001,
+  "timestamp": 1784761991
+}

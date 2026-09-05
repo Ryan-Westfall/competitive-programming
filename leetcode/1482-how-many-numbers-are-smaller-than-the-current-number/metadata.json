@@ -1,0 +1,26 @@
+{
+  "questionId": "1482",
+  "frontendId": "1365",
+  "title": "How Many Numbers Are Smaller Than the Current Number",
+  "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "sorting",
+    "counting-sort"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19480000,
+  "memoryPercentile": 23.144199999999998,
+  "timestamp": 1768511669
+}

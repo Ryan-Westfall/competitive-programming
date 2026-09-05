@@ -1,0 +1,26 @@
+{
+  "questionId": "617",
+  "frontendId": "617",
+  "title": "Merge Two Binary Trees",
+  "titleSlug": "merge-two-binary-trees",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 96,
+  "runtimePercentile": 5.213300000000002,
+  "memory": 14828000,
+  "memoryPercentile": 100,
+  "timestamp": 1598144947
+}

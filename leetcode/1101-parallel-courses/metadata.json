@@ -1,0 +1,24 @@
+{
+  "questionId": "1101",
+  "frontendId": "1136",
+  "title": "Parallel Courses",
+  "titleSlug": "parallel-courses",
+  "difficulty": "Medium",
+  "tags": [
+    "graph",
+    "topological-sort",
+    "directed-acyclic-graph"
+  ],
+  "tagNames": [
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 9,
+  "runtimePercentile": 74.28889999999998,
+  "memory": 21656000,
+  "memoryPercentile": 32.87829999999998,
+  "timestamp": 1782353438
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "731",
+  "frontendId": "731",
+  "title": "My Calendar II",
+  "titleSlug": "my-calendar-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "design",
+    "segment-tree",
+    "prefix-sum",
+    "ordered-set"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Design",
+    "Segment Tree",
+    "Prefix Sum",
+    "Ordered Set"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 787,
+  "runtimePercentile": 26.65730000000001,
+  "memory": 26148000,
+  "memoryPercentile": 5.095600000000003,
+  "timestamp": 1784321861
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "3349",
+  "frontendId": "3090",
+  "title": "Maximum Length Substring With Two Occurrences",
+  "titleSlug": "maximum-length-substring-with-two-occurrences",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 71.794,
+  "memory": 19336000,
+  "memoryPercentile": 19.928300000000007,
+  "timestamp": 1786682946
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "278",
+  "frontendId": "278",
+  "title": "First Bad Version",
+  "titleSlug": "first-bad-version",
+  "difficulty": "Easy",
+  "tags": [
+    "binary-search",
+    "interactive"
+  ],
+  "tagNames": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 44,
+  "runtimePercentile": 57.21569999999997,
+  "memory": 19108000,
+  "memoryPercentile": 66.83989999999997,
+  "timestamp": 1788192867
+}

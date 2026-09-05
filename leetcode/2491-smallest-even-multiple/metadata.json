@@ -1,0 +1,22 @@
+{
+  "questionId": "2491",
+  "frontendId": "2413",
+  "title": "Smallest Even Multiple",
+  "titleSlug": "smallest-even-multiple",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "number-theory"
+  ],
+  "tagNames": [
+    "Math",
+    "Number Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19192000,
+  "memoryPercentile": 84.22320000000002,
+  "timestamp": 1787783728
+}

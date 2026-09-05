@@ -1,0 +1,22 @@
+{
+  "questionId": "66",
+  "frontendId": "66",
+  "title": "Plus One",
+  "titleSlug": "plus-one",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19248000,
+  "memoryPercentile": 57.03290000000001,
+  "timestamp": 1768795814
+}

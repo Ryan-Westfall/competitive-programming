@@ -1,0 +1,16 @@
+{
+  "questionId": "2809",
+  "frontendId": "2667",
+  "title": "Create Hello World Function",
+  "titleSlug": "create-hello-world-function",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "javascript",
+  "langVerbose": "JavaScript",
+  "runtime": 48,
+  "runtimePercentile": 22.39619999999999,
+  "memory": 48912000,
+  "memoryPercentile": 100,
+  "timestamp": 1733718907
+}

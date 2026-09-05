@@ -1,0 +1,26 @@
+{
+  "questionId": "351",
+  "frontendId": "351",
+  "title": "Android Unlock Patterns",
+  "titleSlug": "android-unlock-patterns",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "backtracking",
+    "bit-manipulation",
+    "bitmask"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Bit Manipulation",
+    "Bitmask"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 589,
+  "runtimePercentile": 30.782600000000215,
+  "memory": 19392000,
+  "memoryPercentile": 75.6721,
+  "timestamp": 1787441926
+}

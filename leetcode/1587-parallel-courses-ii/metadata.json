@@ -1,0 +1,28 @@
+{
+  "questionId": "1587",
+  "frontendId": "1494",
+  "title": "Parallel Courses II",
+  "titleSlug": "parallel-courses-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "bit-manipulation",
+    "graph",
+    "bitmask",
+    "directed-acyclic-graph"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Graph Theory",
+    "Bitmask",
+    "Directed Acyclic Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 298,
+  "runtimePercentile": 90.4451,
+  "memory": 20628000,
+  "memoryPercentile": 57.6433,
+  "timestamp": 1784851322
+}

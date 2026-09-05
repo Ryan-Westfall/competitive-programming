@@ -1,0 +1,26 @@
+{
+  "questionId": "1685",
+  "frontendId": "1563",
+  "title": "Stone Game V",
+  "titleSlug": "stone-game-v",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "math",
+    "dynamic-programming",
+    "game-theory"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 8350,
+  "runtimePercentile": 25.431100000000992,
+  "memory": 85988000,
+  "memoryPercentile": 5.388399999999967,
+  "timestamp": 1787001478
+}

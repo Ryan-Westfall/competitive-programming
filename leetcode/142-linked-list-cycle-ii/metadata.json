@@ -1,0 +1,26 @@
+{
+  "questionId": "142",
+  "frontendId": "142",
+  "title": "Linked List Cycle II",
+  "titleSlug": "linked-list-cycle-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "linked-list",
+    "two-pointers",
+    "floyds-cycle-finding-algorithm"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 60,
+  "runtimePercentile": 14.785500000000024,
+  "memory": 22284000,
+  "memoryPercentile": 75.66329999999999,
+  "timestamp": 1785445227
+}

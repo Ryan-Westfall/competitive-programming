@@ -1,0 +1,22 @@
+{
+  "questionId": "3347",
+  "frontendId": "3069",
+  "title": "Distribute Elements Into Two Arrays I",
+  "titleSlug": "distribute-elements-into-two-arrays-i",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19376000,
+  "memoryPercentile": 24.079899999999988,
+  "timestamp": 1787194218
+}

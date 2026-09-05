@@ -1,0 +1,26 @@
+{
+  "questionId": "300",
+  "frontendId": "300",
+  "title": "Longest Increasing Subsequence",
+  "titleSlug": "longest-increasing-subsequence",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "dynamic-programming",
+    "longest-increasing-subsequence"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Longest Increasing Subsequence"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1761,
+  "runtimePercentile": 12.816900000000881,
+  "memory": 18068000,
+  "memoryPercentile": 100,
+  "timestamp": 1737160414
+}

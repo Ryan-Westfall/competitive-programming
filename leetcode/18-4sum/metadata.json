@@ -1,0 +1,24 @@
+{
+  "questionId": "18",
+  "frontendId": "18",
+  "title": "4Sum",
+  "titleSlug": "4sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 290,
+  "runtimePercentile": 87.64260000000027,
+  "memory": 17836000,
+  "memoryPercentile": 100,
+  "timestamp": 1735272719
+}

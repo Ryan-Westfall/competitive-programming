@@ -1,0 +1,30 @@
+{
+  "questionId": "754",
+  "frontendId": "753",
+  "title": "Cracking the Safe",
+  "titleSlug": "cracking-the-safe",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "depth-first-search",
+    "graph",
+    "eulerian-circuit",
+    "eulerian-path",
+    "eulerian-graph"
+  ],
+  "tagNames": [
+    "String",
+    "Depth-First Search",
+    "Graph Theory",
+    "Eulerian Circuit",
+    "Eulerian Path",
+    "Eulerian Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 6,
+  "runtimePercentile": 76.76770000000002,
+  "memory": 20832000,
+  "memoryPercentile": 68.01350000000004,
+  "timestamp": 1786485376
+}

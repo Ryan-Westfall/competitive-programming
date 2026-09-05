@@ -1,0 +1,28 @@
+{
+  "questionId": "95",
+  "frontendId": "95",
+  "title": "Unique Binary Search Trees II",
+  "titleSlug": "unique-binary-search-trees-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "backtracking",
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 55.387,
+  "memory": 20292000,
+  "memoryPercentile": 66.50719999999998,
+  "timestamp": 1787609144
+}

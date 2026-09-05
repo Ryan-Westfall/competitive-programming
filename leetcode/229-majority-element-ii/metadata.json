@@ -1,0 +1,28 @@
+{
+  "questionId": "229",
+  "frontendId": "229",
+  "title": "Majority Element II",
+  "titleSlug": "majority-element-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "sorting",
+    "counting",
+    "boyer-moore-majority-vote-algorithm"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 92.9957,
+  "memory": 19076000,
+  "memoryPercentile": 100,
+  "timestamp": 1736315413
+}

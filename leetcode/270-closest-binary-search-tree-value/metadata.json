@@ -1,0 +1,28 @@
+{
+  "questionId": "270",
+  "frontendId": "270",
+  "title": "Closest Binary Search Tree Value",
+  "titleSlug": "closest-binary-search-tree-value",
+  "difficulty": "Easy",
+  "tags": [
+    "binary-search",
+    "tree",
+    "depth-first-search",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Binary Search",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19416000,
+  "memoryPercentile": 100,
+  "timestamp": 1733725536
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "124",
+  "frontendId": "124",
+  "title": "Binary Tree Maximum Path Sum",
+  "titleSlug": "binary-tree-maximum-path-sum",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "tree",
+    "depth-first-search",
+    "binary-tree",
+    "dp-on-trees"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 24,
+  "runtimePercentile": 5.814000000000011,
+  "memory": 22084000,
+  "memoryPercentile": 100,
+  "timestamp": 1731900478
+}

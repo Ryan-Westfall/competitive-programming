@@ -1,0 +1,28 @@
+{
+  "questionId": "379",
+  "frontendId": "379",
+  "title": "Design Phone Directory",
+  "titleSlug": "design-phone-directory",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "linked-list",
+    "design",
+    "queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 76.7362,
+  "memory": 23232000,
+  "memoryPercentile": 89.2361,
+  "timestamp": 1786492955
+}

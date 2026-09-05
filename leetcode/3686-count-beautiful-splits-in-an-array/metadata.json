@@ -1,0 +1,22 @@
+{
+  "questionId": "3686",
+  "frontendId": "3388",
+  "title": "Count Beautiful Splits in an Array",
+  "titleSlug": "count-beautiful-splits-in-an-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 9723,
+  "runtimePercentile": 17.243100000000112,
+  "memory": 19556000,
+  "memoryPercentile": 75.862,
+  "timestamp": 1786666794
+}

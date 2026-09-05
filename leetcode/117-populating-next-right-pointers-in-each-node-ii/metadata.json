@@ -1,0 +1,28 @@
+{
+  "questionId": "117",
+  "frontendId": "117",
+  "title": "Populating Next Right Pointers in Each Node II",
+  "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 42,
+  "runtimePercentile": 95.30270000000002,
+  "memory": 20436000,
+  "memoryPercentile": 26.992400000000018,
+  "timestamp": 1785795050
+}

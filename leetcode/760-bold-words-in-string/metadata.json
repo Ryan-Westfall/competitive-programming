@@ -1,0 +1,30 @@
+{
+  "questionId": "760",
+  "frontendId": "758",
+  "title": "Bold Words in String",
+  "titleSlug": "bold-words-in-string",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "trie",
+    "string-matching",
+    "aho-corasick-algorithm"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "String Matching",
+    "Aho–Corasick Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 35,
+  "runtimePercentile": 33.828900000000026,
+  "memory": 19448000,
+  "memoryPercentile": 30.5142,
+  "timestamp": 1784845216
+}

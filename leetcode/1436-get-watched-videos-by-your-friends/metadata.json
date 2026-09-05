@@ -1,0 +1,28 @@
+{
+  "questionId": "1436",
+  "frontendId": "1311",
+  "title": "Get Watched Videos by Your Friends",
+  "titleSlug": "get-watched-videos-by-your-friends",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "breadth-first-search",
+    "graph",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 25,
+  "runtimePercentile": 16.666400000000007,
+  "memory": 21088000,
+  "memoryPercentile": 30.89890000000001,
+  "timestamp": 1784152757
+}

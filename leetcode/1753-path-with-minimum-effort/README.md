@@ -70,4 +70,4 @@ This is better than the route of [1,2,2,2,5], where the maximum absolute differe
 See `solution.py` in this folder.
 
 ---
-*Auto-synced by LeetSync on 2026-09-05T02:24:38.088Z*
+*Auto-synced by LeetSync on 2026-09-05T02:27:27.181Z*

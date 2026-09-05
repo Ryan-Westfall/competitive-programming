@@ -1,0 +1,26 @@
+{
+  "questionId": "355",
+  "frontendId": "355",
+  "title": "Design Twitter",
+  "titleSlug": "design-twitter",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "linked-list",
+    "design",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 15,
+  "runtimePercentile": 55.604899999999994,
+  "memory": 27272000,
+  "memoryPercentile": 99.8396,
+  "timestamp": 1733123036
+}

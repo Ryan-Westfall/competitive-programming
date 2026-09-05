@@ -1,0 +1,26 @@
+{
+  "questionId": "460",
+  "frontendId": "460",
+  "title": "LFU Cache",
+  "titleSlug": "lfu-cache",
+  "difficulty": "Hard",
+  "tags": [
+    "hash-table",
+    "linked-list",
+    "design",
+    "doubly-linked-list"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 180,
+  "runtimePercentile": 22.428100000000054,
+  "memory": 79044000,
+  "memoryPercentile": 28.15680000000002,
+  "timestamp": 1788134488
+}

@@ -1,0 +1,20 @@
+{
+  "questionId": "3918",
+  "frontendId": "3622",
+  "title": "Check Divisibility by Digit Sum and Product",
+  "titleSlug": "check-divisibility-by-digit-sum-and-product",
+  "difficulty": "Easy",
+  "tags": [
+    "math"
+  ],
+  "tagNames": [
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19192000,
+  "memoryPercentile": 90.3744,
+  "timestamp": 1787413510
+}

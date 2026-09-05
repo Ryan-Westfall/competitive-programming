@@ -1,0 +1,28 @@
+{
+  "questionId": "994",
+  "frontendId": "957",
+  "title": "Prison Cells After N Days",
+  "titleSlug": "prison-cells-after-n-days",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "bit-manipulation",
+    "floyds-cycle-finding-algorithm"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Bit Manipulation",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 44,
+  "runtimePercentile": 6.75,
+  "memory": 14064000,
+  "memoryPercentile": 100,
+  "timestamp": 1600606457
+}

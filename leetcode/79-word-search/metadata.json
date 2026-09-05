@@ -1,0 +1,28 @@
+{
+  "questionId": "79",
+  "frontendId": "79",
+  "title": "Word Search",
+  "titleSlug": "word-search",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "string",
+    "backtracking",
+    "depth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Depth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3590,
+  "runtimePercentile": 60.01220000000031,
+  "memory": 16764000,
+  "memoryPercentile": 100,
+  "timestamp": 1732299341
+}

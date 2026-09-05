@@ -1,0 +1,26 @@
+{
+  "questionId": "398",
+  "frontendId": "398",
+  "title": "Random Pick Index",
+  "titleSlug": "random-pick-index",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "math",
+    "reservoir-sampling",
+    "randomized"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Math",
+    "Reservoir Sampling",
+    "Randomized"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 43,
+  "runtimePercentile": 44.434100000000015,
+  "memory": 28072000,
+  "memoryPercentile": 89.534,
+  "timestamp": 1739163675
+}

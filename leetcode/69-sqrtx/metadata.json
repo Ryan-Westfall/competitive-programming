@@ -1,0 +1,24 @@
+{
+  "questionId": "69",
+  "frontendId": "69",
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "binary-search",
+    "newtons-method"
+  ],
+  "tagNames": [
+    "Math",
+    "Binary Search",
+    "Newton's Method"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 5,
+  "runtimePercentile": 37.777,
+  "memory": 17732000,
+  "memoryPercentile": 100,
+  "timestamp": 1737268356
+}

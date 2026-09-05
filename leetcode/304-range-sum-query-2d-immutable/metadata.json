@@ -1,0 +1,26 @@
+{
+  "questionId": "304",
+  "frontendId": "304",
+  "title": "Range Sum Query 2D - Immutable",
+  "titleSlug": "range-sum-query-2d-immutable",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "design",
+    "matrix",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Design",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 111,
+  "runtimePercentile": 68.28769999999997,
+  "memory": 33184000,
+  "memoryPercentile": 93.40129999999999,
+  "timestamp": 1786922233
+}

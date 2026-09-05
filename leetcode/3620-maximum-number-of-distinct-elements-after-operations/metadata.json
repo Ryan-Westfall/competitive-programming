@@ -1,0 +1,24 @@
+{
+  "questionId": "3620",
+  "frontendId": "3397",
+  "title": "Maximum Number of Distinct Elements After Operations",
+  "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "greedy",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 690,
+  "runtimePercentile": 9.174099999999964,
+  "memory": 31728000,
+  "memoryPercentile": 100,
+  "timestamp": 1734837529
+}

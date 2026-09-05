@@ -1,0 +1,36 @@
+{
+  "questionId": "332",
+  "frontendId": "332",
+  "title": "Reconstruct Itinerary",
+  "titleSlug": "reconstruct-itinerary",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "string",
+    "depth-first-search",
+    "graph",
+    "sorting",
+    "heap-priority-queue",
+    "eulerian-circuit",
+    "eulerian-path",
+    "semi-eulerian-graph"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Graph Theory",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Eulerian Circuit",
+    "Eulerian Path",
+    "Semi-Eulerian Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 75.3709,
+  "memory": 20088000,
+  "memoryPercentile": 29.368200000000034,
+  "timestamp": 1786480913
+}

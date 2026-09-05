@@ -1,0 +1,24 @@
+{
+  "questionId": "73",
+  "frontendId": "73",
+  "title": "Set Matrix Zeroes",
+  "titleSlug": "set-matrix-zeroes",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 243,
+  "runtimePercentile": 10.372399999999985,
+  "memory": 16352000,
+  "memoryPercentile": 100,
+  "timestamp": 1642716182
+}

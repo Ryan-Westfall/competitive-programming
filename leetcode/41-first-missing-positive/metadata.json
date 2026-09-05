@@ -1,0 +1,22 @@
+{
+  "questionId": "41",
+  "frontendId": "41",
+  "title": "First Missing Positive",
+  "titleSlug": "first-missing-positive",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 77,
+  "runtimePercentile": 5.399900000000003,
+  "memory": 30852000,
+  "memoryPercentile": 61.39370000000001,
+  "timestamp": 1781929672
+}

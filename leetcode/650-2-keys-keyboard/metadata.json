@@ -1,0 +1,22 @@
+{
+  "questionId": "650",
+  "frontendId": "650",
+  "title": "2 Keys Keyboard",
+  "titleSlug": "2-keys-keyboard",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 117,
+  "runtimePercentile": 33.244899999999944,
+  "memory": 28212000,
+  "memoryPercentile": 18.997499999999967,
+  "timestamp": 1734766830
+}

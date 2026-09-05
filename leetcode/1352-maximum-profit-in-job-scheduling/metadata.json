@@ -1,0 +1,26 @@
+{
+  "questionId": "1352",
+  "frontendId": "1235",
+  "title": "Maximum Profit in Job Scheduling",
+  "titleSlug": "maximum-profit-in-job-scheduling",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "dynamic-programming",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 384,
+  "runtimePercentile": 7.009899999999839,
+  "memory": 129988000,
+  "memoryPercentile": 5.076199999999639,
+  "timestamp": 1788215883
+}

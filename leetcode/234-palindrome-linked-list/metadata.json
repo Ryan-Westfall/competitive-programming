@@ -1,0 +1,26 @@
+{
+  "questionId": "234",
+  "frontendId": "234",
+  "title": "Palindrome Linked List",
+  "titleSlug": "palindrome-linked-list",
+  "difficulty": "Easy",
+  "tags": [
+    "linked-list",
+    "two-pointers",
+    "stack",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 772,
+  "runtimePercentile": 5.009199999999999,
+  "memory": 39412000,
+  "memoryPercentile": 97.1933,
+  "timestamp": 1626318910
+}

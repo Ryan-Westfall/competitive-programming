@@ -1,0 +1,24 @@
+{
+  "questionId": "682",
+  "frontendId": "682",
+  "title": "Baseball Game",
+  "titleSlug": "baseball-game",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "stack",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 18152000,
+  "memoryPercentile": 100,
+  "timestamp": 1736734149
+}

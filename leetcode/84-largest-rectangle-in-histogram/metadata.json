@@ -1,0 +1,26 @@
+{
+  "questionId": "84",
+  "frontendId": "84",
+  "title": "Largest Rectangle in Histogram",
+  "titleSlug": "largest-rectangle-in-histogram",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "stack",
+    "monotonic-stack",
+    "range-minimum-maximum-query"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Monotonic Stack",
+    "Range Minimum/Maximum Query"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 111,
+  "runtimePercentile": 83.04640000000005,
+  "memory": 30452000,
+  "memoryPercentile": 89.94480000000001,
+  "timestamp": 1768760660
+}

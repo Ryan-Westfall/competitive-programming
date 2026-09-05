@@ -1,0 +1,56 @@
+# 3115. Maximum Prime Difference (Medium)
+
+**Slug:** `maximum-prime-difference`
+**ID:** 3115
+**Difficulty:** Medium
+**Tags:** Array, Math, Number Theory, Primality Test
+**Companies:** Unstop
+**Language:** Python3
+**Runtime:** 535 ms (99.7%)
+**Memory:** 29.5 MB (67.8%)
+**Submitted:** 2026-07-20
+**Link:** https://leetcode.com/problems/maximum-prime-difference/
+
+## Description
+
+<p>You are given an integer array <code>nums</code>.</p>
+
+<p>Return an integer that is the <strong>maximum</strong> distance between the <strong>indices</strong> of two (not necessarily different) prime numbers in <code>nums</code><em>.</em></p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [4,2,9,5,3]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">3</span></p>
+
+<p><strong>Explanation:</strong> <code>nums[1]</code>, <code>nums[3]</code>, and <code>nums[4]</code> are prime. So the answer is <code>|4 - 1| = 3</code>.</p>
+</div>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [4,8,2,8]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">0</span></p>
+
+<p><strong>Explanation:</strong> <code>nums[2]</code> is prime. Because there is just one prime number, the answer is <code>|2 - 2| = 0</code>.</p>
+</div>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
+	<li>The input is generated such that the number of prime numbers in the <code>nums</code> is at least one.</li>
+</ul>
+
+
+## Hints
+1. Find all prime numbers in the <code>nums</code>.
+2. Find the first and the last prime number in the <code>nums</code>.
+## Solution
+
+See `solution.py` in this folder.

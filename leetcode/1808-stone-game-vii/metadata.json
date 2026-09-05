@@ -1,0 +1,30 @@
+{
+  "questionId": "1808",
+  "frontendId": "1690",
+  "title": "Stone Game VII",
+  "titleSlug": "stone-game-vii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "dynamic-programming",
+    "minimax-algorithm",
+    "game-theory",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1821,
+  "runtimePercentile": 54.16090000000049,
+  "memory": 42844000,
+  "memoryPercentile": 53.44450000000002,
+  "timestamp": 1786403136
+}

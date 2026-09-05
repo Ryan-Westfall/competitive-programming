@@ -1,0 +1,20 @@
+{
+  "questionId": "65",
+  "frontendId": "65",
+  "title": "Valid Number",
+  "titleSlug": "valid-number",
+  "difficulty": "Hard",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17960000,
+  "memoryPercentile": 100,
+  "timestamp": 1740459225
+}

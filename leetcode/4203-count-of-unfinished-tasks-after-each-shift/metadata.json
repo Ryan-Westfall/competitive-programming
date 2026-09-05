@@ -1,0 +1,24 @@
+{
+  "questionId": "4203",
+  "frontendId": "4012",
+  "title": "Count of Unfinished Tasks After Each Shift",
+  "titleSlug": "count-of-unfinished-tasks-after-each-shift",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 92,
+  "runtimePercentile": 65.40220000000001,
+  "memory": 46308000,
+  "memoryPercentile": 49.33130000000004,
+  "timestamp": 1785642563
+}

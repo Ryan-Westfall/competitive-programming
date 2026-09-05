@@ -1,0 +1,28 @@
+{
+  "questionId": "236",
+  "frontendId": "236",
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-tree",
+    "binary-lifting",
+    "lowest-common-ancestor"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Binary Lifting",
+    "Lowest Common Ancestor"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 59,
+  "runtimePercentile": 100,
+  "memory": 21852000,
+  "memoryPercentile": 100,
+  "timestamp": 1738816386
+}

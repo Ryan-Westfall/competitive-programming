@@ -1,0 +1,22 @@
+{
+  "questionId": "1783",
+  "frontendId": "1664",
+  "title": "Ways to Make a Fair Array",
+  "titleSlug": "ways-to-make-a-fair-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 231,
+  "runtimePercentile": 22.417000000000147,
+  "memory": 27516000,
+  "memoryPercentile": 23.45130000000001,
+  "timestamp": 1782598767
+}

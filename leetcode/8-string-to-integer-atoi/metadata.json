@@ -1,0 +1,20 @@
+{
+  "questionId": "8",
+  "frontendId": "8",
+  "title": "String to Integer (atoi)",
+  "titleSlug": "string-to-integer-atoi",
+  "difficulty": "Medium",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 34.0208,
+  "memory": 18040000,
+  "memoryPercentile": 100,
+  "timestamp": 1740029038
+}

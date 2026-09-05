@@ -1,0 +1,26 @@
+{
+  "questionId": "112",
+  "frontendId": "112",
+  "title": "Path Sum",
+  "titleSlug": "path-sum",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 44,
+  "runtimePercentile": 2.4724999999999957,
+  "memory": 15756000,
+  "memoryPercentile": 100,
+  "timestamp": 1628107127
+}

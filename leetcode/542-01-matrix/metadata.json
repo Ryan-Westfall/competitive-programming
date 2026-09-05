@@ -1,0 +1,26 @@
+{
+  "questionId": "542",
+  "frontendId": "542",
+  "title": "01 Matrix",
+  "titleSlug": "01-matrix",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 91,
+  "runtimePercentile": 92.02070000000005,
+  "memory": 22184000,
+  "memoryPercentile": 57.29079999999999,
+  "timestamp": 1788209385
+}

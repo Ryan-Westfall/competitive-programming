@@ -1,0 +1,28 @@
+{
+  "questionId": "817",
+  "frontendId": "706",
+  "title": "Design HashMap",
+  "titleSlug": "design-hashmap",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "linked-list",
+    "design",
+    "hash-function"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 116,
+  "runtimePercentile": 17.80439999999999,
+  "memory": 23016000,
+  "memoryPercentile": 45.82610000000002,
+  "timestamp": 1735794815
+}

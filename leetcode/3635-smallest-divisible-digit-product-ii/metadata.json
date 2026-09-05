@@ -1,0 +1,28 @@
+{
+  "questionId": "3635",
+  "frontendId": "3348",
+  "title": "Smallest Divisible Digit Product II",
+  "titleSlug": "smallest-divisible-digit-product-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "math",
+    "string",
+    "backtracking",
+    "greedy",
+    "number-theory"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Backtracking",
+    "Greedy",
+    "Number Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 284,
+  "runtimePercentile": 80.8055999999999,
+  "memory": 33768000,
+  "memoryPercentile": 55.02539999999987,
+  "timestamp": 1786137960
+}

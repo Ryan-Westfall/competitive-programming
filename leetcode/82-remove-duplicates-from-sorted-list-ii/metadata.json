@@ -1,0 +1,22 @@
+{
+  "questionId": "82",
+  "frontendId": "82",
+  "title": "Remove Duplicates from Sorted List II",
+  "titleSlug": "remove-duplicates-from-sorted-list-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "two-pointers"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19088000,
+  "memoryPercentile": 99.3784,
+  "timestamp": 1785442500
+}

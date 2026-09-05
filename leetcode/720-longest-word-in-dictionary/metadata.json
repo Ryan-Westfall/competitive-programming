@@ -1,0 +1,28 @@
+{
+  "questionId": "720",
+  "frontendId": "720",
+  "title": "Longest Word in Dictionary",
+  "titleSlug": "longest-word-in-dictionary",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "trie",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 42,
+  "runtimePercentile": 35.91950000000001,
+  "memory": 20484000,
+  "memoryPercentile": 25.9808,
+  "timestamp": 1784330233
+}

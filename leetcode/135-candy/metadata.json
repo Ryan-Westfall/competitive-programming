@@ -1,0 +1,22 @@
+{
+  "questionId": "135",
+  "frontendId": "135",
+  "title": "Candy",
+  "titleSlug": "candy",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "greedy"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 19,
+  "runtimePercentile": 58.553099999999986,
+  "memory": 21412000,
+  "memoryPercentile": 64.3218,
+  "timestamp": 1784514300
+}

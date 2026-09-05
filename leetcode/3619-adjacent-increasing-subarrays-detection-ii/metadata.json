@@ -1,0 +1,22 @@
+{
+  "questionId": "3619",
+  "frontendId": "3350",
+  "title": "Adjacent Increasing Subarrays Detection II",
+  "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1171,
+  "runtimePercentile": 91.33859999999997,
+  "memory": 47852000,
+  "memoryPercentile": 48.03159999999999,
+  "timestamp": 1786572779
+}

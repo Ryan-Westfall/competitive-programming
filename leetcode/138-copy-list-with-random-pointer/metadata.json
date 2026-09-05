@@ -1,0 +1,22 @@
+{
+  "questionId": "138",
+  "frontendId": "138",
+  "title": "Copy List with Random Pointer",
+  "titleSlug": "copy-list-with-random-pointer",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "linked-list"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Linked List"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 55,
+  "runtimePercentile": 13.165500000000005,
+  "memory": 20024000,
+  "memoryPercentile": 58.068499999999986,
+  "timestamp": 1781907578
+}

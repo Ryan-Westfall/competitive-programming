@@ -1,0 +1,26 @@
+{
+  "questionId": "261",
+  "frontendId": "261",
+  "title": "Graph Valid Tree",
+  "titleSlug": "graph-valid-tree",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 44.2449,
+  "memory": 19112000,
+  "memoryPercentile": 100,
+  "timestamp": 1732835846
+}

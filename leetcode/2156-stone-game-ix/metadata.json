@@ -1,0 +1,34 @@
+{
+  "questionId": "2156",
+  "frontendId": "2029",
+  "title": "Stone Game IX",
+  "titleSlug": "stone-game-ix",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "greedy",
+    "minimax-algorithm",
+    "counting",
+    "game-theory",
+    "nim-game",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Minimax",
+    "Counting",
+    "Game Theory",
+    "Nim Game",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 65,
+  "runtimePercentile": 19.24010000000003,
+  "memory": 30532000,
+  "memoryPercentile": 52.15759999999998,
+  "timestamp": 1786888008
+}

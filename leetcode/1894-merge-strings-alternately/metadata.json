@@ -1,0 +1,22 @@
+{
+  "questionId": "1894",
+  "frontendId": "1768",
+  "title": "Merge Strings Alternately",
+  "titleSlug": "merge-strings-alternately",
+  "difficulty": "Easy",
+  "tags": [
+    "two-pointers",
+    "string"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 46,
+  "runtimePercentile": 50.381999999999984,
+  "memory": 19152000,
+  "memoryPercentile": 89.0422,
+  "timestamp": 1786225631
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "317",
+  "frontendId": "317",
+  "title": "Shortest Distance from All Buildings",
+  "titleSlug": "shortest-distance-from-all-buildings",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1642,
+  "runtimePercentile": 82.38459999999957,
+  "memory": 18224000,
+  "memoryPercentile": 100,
+  "timestamp": 1737254621
+}

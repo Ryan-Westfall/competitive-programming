@@ -1,0 +1,28 @@
+{
+  "questionId": "3613",
+  "frontendId": "3387",
+  "title": "Maximize Amount After Two Days of Conversions",
+  "titleSlug": "maximize-amount-after-two-days-of-conversions",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "string",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 15,
+  "runtimePercentile": 24.390299999999986,
+  "memory": 17808000,
+  "memoryPercentile": 100,
+  "timestamp": 1734231003
+}

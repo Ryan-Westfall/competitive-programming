@@ -1,0 +1,26 @@
+{
+  "questionId": "1100",
+  "frontendId": "1135",
+  "title": "Connecting Cities With Minimum Cost",
+  "titleSlug": "connecting-cities-with-minimum-cost",
+  "difficulty": "Medium",
+  "tags": [
+    "union-find",
+    "graph",
+    "heap-priority-queue",
+    "minimum-spanning-tree"
+  ],
+  "tagNames": [
+    "Union-Find",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Minimum Spanning Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 56,
+  "runtimePercentile": 66.66630000000004,
+  "memory": 24640000,
+  "memoryPercentile": 68.55330000000001,
+  "timestamp": 1784490469
+}

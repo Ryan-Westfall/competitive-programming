@@ -1,0 +1,24 @@
+{
+  "questionId": "15",
+  "frontendId": "15",
+  "title": "3Sum",
+  "titleSlug": "3sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 603,
+  "runtimePercentile": 70.69059999999998,
+  "memory": 19680000,
+  "memoryPercentile": 100,
+  "timestamp": 1731200501
+}

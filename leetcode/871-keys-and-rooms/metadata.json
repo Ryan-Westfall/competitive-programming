@@ -1,0 +1,24 @@
+{
+  "questionId": "871",
+  "frontendId": "841",
+  "title": "Keys and Rooms",
+  "titleSlug": "keys-and-rooms",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19620000,
+  "memoryPercentile": 62.8656,
+  "timestamp": 1784590572
+}

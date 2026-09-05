@@ -1,0 +1,22 @@
+{
+  "questionId": "907",
+  "frontendId": "875",
+  "title": "Koko Eating Bananas",
+  "titleSlug": "koko-eating-bananas",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 224,
+  "runtimePercentile": 9.103099999999804,
+  "memory": 20720000,
+  "memoryPercentile": 12.997599999999974,
+  "timestamp": 1787349204
+}

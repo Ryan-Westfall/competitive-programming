@@ -1,0 +1,28 @@
+{
+  "questionId": "212",
+  "frontendId": "212",
+  "title": "Word Search II",
+  "titleSlug": "word-search-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "string",
+    "backtracking",
+    "trie",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Trie",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 5196,
+  "runtimePercentile": 43.989000000002186,
+  "memory": 19060000,
+  "memoryPercentile": 99.9863,
+  "timestamp": 1732504452
+}

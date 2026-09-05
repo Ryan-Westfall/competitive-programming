@@ -1,0 +1,26 @@
+{
+  "questionId": "2039",
+  "frontendId": "1927",
+  "title": "Sum Game",
+  "titleSlug": "sum-game",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "string",
+    "greedy",
+    "game-theory"
+  ],
+  "tagNames": [
+    "Math",
+    "String",
+    "Greedy",
+    "Game Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 67,
+  "runtimePercentile": 31.1695,
+  "memory": 19768000,
+  "memoryPercentile": 85.93430000000001,
+  "timestamp": 1787530588
+}

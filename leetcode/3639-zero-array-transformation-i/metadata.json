@@ -1,0 +1,22 @@
+{
+  "questionId": "3639",
+  "frontendId": "3355",
+  "title": "Zero Array Transformation I",
+  "titleSlug": "zero-array-transformation-i",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 90,
+  "runtimePercentile": 38.30959999999992,
+  "memory": 55464000,
+  "memoryPercentile": 39.99999999999998,
+  "timestamp": 1731813829
+}

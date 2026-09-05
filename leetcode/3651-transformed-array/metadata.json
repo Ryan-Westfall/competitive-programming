@@ -1,0 +1,22 @@
+{
+  "questionId": "3651",
+  "frontendId": "3379",
+  "title": "Transformed Array",
+  "titleSlug": "transformed-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 52,
+  "runtimePercentile": 95.36429999999997,
+  "memory": 17528000,
+  "memoryPercentile": 100,
+  "timestamp": 1733626337
+}

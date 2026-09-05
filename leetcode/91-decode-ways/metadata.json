@@ -1,0 +1,22 @@
+{
+  "questionId": "91",
+  "frontendId": "91",
+  "title": "Decode Ways",
+  "titleSlug": "decode-ways",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19936000,
+  "memoryPercentile": 6.863699999999993,
+  "timestamp": 1788301377
+}

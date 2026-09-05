@@ -1,0 +1,24 @@
+{
+  "questionId": "1876",
+  "frontendId": "1765",
+  "title": "Map of Highest Peak",
+  "titleSlug": "map-of-highest-peak",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 745,
+  "runtimePercentile": 46.122900000000115,
+  "memory": 58160000,
+  "memoryPercentile": 93.13830000000003,
+  "timestamp": 1784149647
+}

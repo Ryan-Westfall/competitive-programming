@@ -1,0 +1,24 @@
+{
+  "questionId": "1764",
+  "frontendId": "1668",
+  "title": "Maximum Repeating Substring",
+  "titleSlug": "maximum-repeating-substring",
+  "difficulty": "Easy",
+  "tags": [
+    "string",
+    "dynamic-programming",
+    "string-matching"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming",
+    "String Matching"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19268000,
+  "memoryPercentile": 53.78299999999999,
+  "timestamp": 1784828463
+}

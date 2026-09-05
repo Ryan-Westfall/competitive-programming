@@ -1,0 +1,24 @@
+{
+  "questionId": "1402",
+  "frontendId": "1277",
+  "title": "Count Square Submatrices with All Ones",
+  "titleSlug": "count-square-submatrices-with-all-ones",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 52,
+  "runtimePercentile": 41.204599999999985,
+  "memory": 22180000,
+  "memoryPercentile": 75.6215,
+  "timestamp": 1786388948
+}

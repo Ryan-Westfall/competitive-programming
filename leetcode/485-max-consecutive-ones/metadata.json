@@ -1,0 +1,20 @@
+{
+  "questionId": "485",
+  "frontendId": "485",
+  "title": "Max Consecutive Ones",
+  "titleSlug": "max-consecutive-ones",
+  "difficulty": "Easy",
+  "tags": [
+    "array"
+  ],
+  "tagNames": [
+    "Array"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 18,
+  "runtimePercentile": 46.028100000000016,
+  "memory": 22052000,
+  "memoryPercentile": 5.143900000000018,
+  "timestamp": 1768432611
+}

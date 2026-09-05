@@ -1,0 +1,24 @@
+{
+  "questionId": "1574",
+  "frontendId": "1464",
+  "title": "Maximum Product of Two Elements in an Array",
+  "titleSlug": "maximum-product-of-two-elements-in-an-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "sorting",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19312000,
+  "memoryPercentile": 23.244299999999996,
+  "timestamp": 1785119430
+}

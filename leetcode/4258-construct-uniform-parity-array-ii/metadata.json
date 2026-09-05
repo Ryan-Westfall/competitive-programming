@@ -1,0 +1,22 @@
+{
+  "questionId": "4258",
+  "frontendId": "3876",
+  "title": "Construct Uniform Parity Array II",
+  "titleSlug": "construct-uniform-parity-array-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 18,
+  "runtimePercentile": 81.82580000000004,
+  "memory": 35252000,
+  "memoryPercentile": 65.5657,
+  "timestamp": 1788458917
+}

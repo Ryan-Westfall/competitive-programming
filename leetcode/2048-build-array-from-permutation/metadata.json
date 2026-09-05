@@ -1,0 +1,22 @@
+{
+  "questionId": "2048",
+  "frontendId": "1920",
+  "title": "Build Array from Permutation",
+  "titleSlug": "build-array-from-permutation",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 124,
+  "runtimePercentile": 7.102099999999997,
+  "memory": 14500000,
+  "memoryPercentile": 100,
+  "timestamp": 1626665465
+}

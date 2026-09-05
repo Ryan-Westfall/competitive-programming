@@ -1,0 +1,26 @@
+{
+  "questionId": "101",
+  "frontendId": "101",
+  "title": "Symmetric Tree",
+  "titleSlug": "symmetric-tree",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 36,
+  "runtimePercentile": 0.7127999999999997,
+  "memory": 14196000,
+  "memoryPercentile": 100,
+  "timestamp": 1601421917
+}

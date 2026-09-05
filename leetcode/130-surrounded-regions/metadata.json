@@ -1,0 +1,28 @@
+{
+  "questionId": "130",
+  "frontendId": "130",
+  "title": "Surrounded Regions",
+  "titleSlug": "surrounded-regions",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 397,
+  "runtimePercentile": 5.079200000000005,
+  "memory": 31704000,
+  "memoryPercentile": 6.736199999999999,
+  "timestamp": 1732681196
+}

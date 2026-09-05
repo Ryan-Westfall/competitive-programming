@@ -1,0 +1,34 @@
+{
+  "questionId": "1014",
+  "frontendId": "973",
+  "title": "K Closest Points to Origin",
+  "titleSlug": "k-closest-points-to-origin",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "divide-and-conquer",
+    "geometry",
+    "sorting",
+    "heap-priority-queue",
+    "quickselect",
+    "k-d-tree"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Divide and Conquer",
+    "Geometry",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect",
+    "K-D Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 95,
+  "runtimePercentile": 10.703199999999956,
+  "memory": 23028000,
+  "memoryPercentile": 99.9935,
+  "timestamp": 1738821353
+}

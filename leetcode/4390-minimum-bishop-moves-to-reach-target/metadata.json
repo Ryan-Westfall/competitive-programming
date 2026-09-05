@@ -1,0 +1,16 @@
+{
+  "questionId": "4390",
+  "frontendId": "4034",
+  "title": "Minimum Bishop Moves to Reach Target",
+  "titleSlug": "minimum-bishop-moves-to-reach-target",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19460000,
+  "memoryPercentile": 8.840900000000005,
+  "timestamp": 1788014709
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "34",
+  "frontendId": "34",
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 4.759699999999995,
+  "memory": 20456000,
+  "memoryPercentile": 91.1255,
+  "timestamp": 1785175004
+}

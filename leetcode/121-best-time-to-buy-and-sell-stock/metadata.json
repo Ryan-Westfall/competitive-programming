@@ -1,0 +1,22 @@
+{
+  "questionId": "121",
+  "frontendId": "121",
+  "title": "Best Time to Buy and Sell Stock",
+  "titleSlug": "best-time-to-buy-and-sell-stock",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 93,
+  "runtimePercentile": 5.108999999999991,
+  "memory": 26956000,
+  "memoryPercentile": 99.96340000000002,
+  "timestamp": 1736230428
+}

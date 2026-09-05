@@ -1,0 +1,20 @@
+{
+  "questionId": "482",
+  "frontendId": "482",
+  "title": "License Key Formatting",
+  "titleSlug": "license-key-formatting",
+  "difficulty": "Easy",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 50.041399999999996,
+  "memory": 22428000,
+  "memoryPercentile": 5.605899999999985,
+  "timestamp": 1769016334
+}

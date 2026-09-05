@@ -1,0 +1,22 @@
+{
+  "questionId": "890",
+  "frontendId": "860",
+  "title": "Lemonade Change",
+  "titleSlug": "lemonade-change",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "greedy"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 6,
+  "runtimePercentile": 29.117099999999986,
+  "memory": 23472000,
+  "memoryPercentile": 39.52960000000001,
+  "timestamp": 1784510799
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "518",
+  "frontendId": "518",
+  "title": "Coin Change II",
+  "titleSlug": "coin-change-ii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "knapsack-problem",
+    "complete-knapsack"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "Complete Knapsack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1289,
+  "runtimePercentile": 16.716099999999766,
+  "memory": 382788000,
+  "memoryPercentile": 5.006100000000022,
+  "timestamp": 1785114846
+}

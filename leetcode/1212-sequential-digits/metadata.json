@@ -1,0 +1,20 @@
+{
+  "questionId": "1212",
+  "frontendId": "1291",
+  "title": "Sequential Digits",
+  "titleSlug": "sequential-digits",
+  "difficulty": "Medium",
+  "tags": [
+    "enumeration"
+  ],
+  "tagNames": [
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19216000,
+  "memoryPercentile": 64.34830000000001,
+  "timestamp": 1783983624
+}

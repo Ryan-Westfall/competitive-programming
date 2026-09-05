@@ -1,0 +1,32 @@
+{
+  "questionId": "1144",
+  "frontendId": "1168",
+  "title": "Optimize Water Distribution in a Village",
+  "titleSlug": "optimize-water-distribution-in-a-village",
+  "difficulty": "Hard",
+  "tags": [
+    "union-find",
+    "graph",
+    "heap-priority-queue",
+    "minimum-spanning-tree",
+    "prims-algorithm",
+    "kruskals-algorithm",
+    "boruvkas-algorithm"
+  ],
+  "tagNames": [
+    "Union-Find",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Minimum Spanning Tree",
+    "Prim's Algorithm",
+    "Kruskal's Algorithm",
+    "Borůvka's Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 53,
+  "runtimePercentile": 84.16269999999999,
+  "memory": 24724000,
+  "memoryPercentile": 94.5701,
+  "timestamp": 1784495899
+}

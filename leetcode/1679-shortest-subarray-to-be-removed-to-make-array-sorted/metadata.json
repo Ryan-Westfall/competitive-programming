@@ -1,0 +1,28 @@
+{
+  "questionId": "1679",
+  "frontendId": "1574",
+  "title": "Shortest Subarray to be Removed to Make Array Sorted",
+  "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "binary-search",
+    "stack",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 8,
+  "runtimePercentile": 100,
+  "memory": 30140000,
+  "memoryPercentile": 100,
+  "timestamp": 1731653269
+}

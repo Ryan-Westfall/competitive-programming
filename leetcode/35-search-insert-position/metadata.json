@@ -1,0 +1,22 @@
+{
+  "questionId": "35",
+  "frontendId": "35",
+  "title": "Search Insert Position",
+  "titleSlug": "search-insert-position",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 18620000,
+  "memoryPercentile": 100,
+  "timestamp": 1734906193
+}

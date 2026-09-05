@@ -1,0 +1,26 @@
+{
+  "questionId": "387",
+  "frontendId": "387",
+  "title": "First Unique Character in a String",
+  "titleSlug": "first-unique-character-in-a-string",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "string",
+    "queue",
+    "counting"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Queue",
+    "Counting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 152,
+  "runtimePercentile": 13.56189999999996,
+  "memory": 13952000,
+  "memoryPercentile": 100,
+  "timestamp": 1599974342
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "16",
+  "frontendId": "16",
+  "title": "3Sum Closest",
+  "titleSlug": "3sum-closest",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 332,
+  "runtimePercentile": 88.10469999999974,
+  "memory": 19464000,
+  "memoryPercentile": 15.66709999999999,
+  "timestamp": 1783202518
+}

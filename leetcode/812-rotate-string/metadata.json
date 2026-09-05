@@ -1,0 +1,22 @@
+{
+  "questionId": "812",
+  "frontendId": "796",
+  "title": "Rotate String",
+  "titleSlug": "rotate-string",
+  "difficulty": "Easy",
+  "tags": [
+    "string",
+    "string-matching"
+  ],
+  "tagNames": [
+    "String",
+    "String Matching"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19108000,
+  "memoryPercentile": 87.07809999999999,
+  "timestamp": 1781315627
+}

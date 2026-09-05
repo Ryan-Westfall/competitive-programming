@@ -1,0 +1,36 @@
+{
+  "questionId": "794",
+  "frontendId": "778",
+  "title": "Swim in Rising Water",
+  "titleSlug": "swim-in-rising-water",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "minimax-algorithm",
+    "heap-priority-queue",
+    "matrix",
+    "dijkstra"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Minimax",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Dijkstra's Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 86,
+  "runtimePercentile": 7.36379999999998,
+  "memory": 19668000,
+  "memoryPercentile": 91.67079999999999,
+  "timestamp": 1788321858
+}

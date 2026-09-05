@@ -1,0 +1,16 @@
+{
+  "questionId": "4373",
+  "frontendId": "4035",
+  "title": "Maximum Valid Split Positions I",
+  "titleSlug": "maximum-valid-split-positions-i",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4550,
+  "runtimePercentile": 37.647899999998245,
+  "memory": 19676000,
+  "memoryPercentile": 40.963699999999996,
+  "timestamp": 1788016549
+}

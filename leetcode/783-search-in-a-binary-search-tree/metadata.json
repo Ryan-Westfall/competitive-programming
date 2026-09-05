@@ -1,0 +1,24 @@
+{
+  "questionId": "783",
+  "frontendId": "700",
+  "title": "Search in a Binary Search Tree",
+  "titleSlug": "search-in-a-binary-search-tree",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 20984000,
+  "memoryPercentile": 41.322900000000004,
+  "timestamp": 1784260674
+}

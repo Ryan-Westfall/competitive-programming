@@ -1,0 +1,24 @@
+{
+  "questionId": "1064",
+  "frontendId": "1015",
+  "title": "Smallest Integer Divisible by K",
+  "titleSlug": "smallest-integer-divisible-by-k",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "math",
+    "pigeonhole-principle"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Math",
+    "Pigeonhole Principle"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 90.32950000000001,
+  "memory": 19388000,
+  "memoryPercentile": 31.977899999999995,
+  "timestamp": 1787862679
+}

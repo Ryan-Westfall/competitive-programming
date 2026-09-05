@@ -1,0 +1,34 @@
+{
+  "questionId": "694",
+  "frontendId": "694",
+  "title": "Number of Distinct Islands",
+  "titleSlug": "number-of-distinct-islands",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "sorting",
+    "matrix",
+    "hash-function"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Sorting",
+    "Matrix",
+    "Hash Function"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 31,
+  "runtimePercentile": 81.00969999999997,
+  "memory": 18712000,
+  "memoryPercentile": 100,
+  "timestamp": 1737330181
+}

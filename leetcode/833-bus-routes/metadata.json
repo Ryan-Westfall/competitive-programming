@@ -1,0 +1,24 @@
+{
+  "questionId": "833",
+  "frontendId": "815",
+  "title": "Bus Routes",
+  "titleSlug": "bus-routes",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "breadth-first-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 781,
+  "runtimePercentile": 29.926400000000363,
+  "memory": 41968000,
+  "memoryPercentile": 76.70619999999984,
+  "timestamp": 1784158301
+}

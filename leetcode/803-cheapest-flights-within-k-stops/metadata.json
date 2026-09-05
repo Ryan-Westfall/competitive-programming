@@ -1,0 +1,30 @@
+{
+  "questionId": "803",
+  "frontendId": "787",
+  "title": "Cheapest Flights Within K Stops",
+  "titleSlug": "cheapest-flights-within-k-stops",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "heap-priority-queue",
+    "shortest-path"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 18,
+  "runtimePercentile": 51.4482,
+  "memory": 20944000,
+  "memoryPercentile": 28.5134,
+  "timestamp": 1788308683
+}

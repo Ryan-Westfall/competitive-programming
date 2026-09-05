@@ -1,0 +1,22 @@
+{
+  "questionId": "3995",
+  "frontendId": "3658",
+  "title": "GCD of Odd and Even Sums",
+  "titleSlug": "gcd-of-odd-and-even-sums",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "number-theory"
+  ],
+  "tagNames": [
+    "Math",
+    "Number Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19272000,
+  "memoryPercentile": 57.13640000000004,
+  "timestamp": 1784147491
+}

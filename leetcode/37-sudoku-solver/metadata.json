@@ -1,0 +1,30 @@
+{
+  "questionId": "37",
+  "frontendId": "37",
+  "title": "Sudoku Solver",
+  "titleSlug": "sudoku-solver",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "backtracking",
+    "matrix",
+    "algorithm-x",
+    "dancing-links"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix",
+    "Algorithm X",
+    "Dancing Links"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3830,
+  "runtimePercentile": 5.009099999998503,
+  "memory": 19796000,
+  "memoryPercentile": 16.13249999999999,
+  "timestamp": 1786062558
+}

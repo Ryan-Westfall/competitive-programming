@@ -1,0 +1,32 @@
+{
+  "questionId": "1617",
+  "frontendId": "1510",
+  "title": "Stone Game IV",
+  "titleSlug": "stone-game-iv",
+  "difficulty": "Hard",
+  "tags": [
+    "math",
+    "dynamic-programming",
+    "minimax-algorithm",
+    "game-theory",
+    "nim-game",
+    "sprague-grundy-theorem",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Sprague–Grundy Theorem",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1196,
+  "runtimePercentile": 19.140899999999537,
+  "memory": 163432000,
+  "memoryPercentile": 5.049499999999906,
+  "timestamp": 1786395644
+}

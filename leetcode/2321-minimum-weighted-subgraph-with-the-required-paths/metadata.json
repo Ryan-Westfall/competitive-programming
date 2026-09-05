@@ -1,0 +1,24 @@
+{
+  "questionId": "2321",
+  "frontendId": "2203",
+  "title": "Minimum Weighted Subgraph With the Required Paths",
+  "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+  "difficulty": "Hard",
+  "tags": [
+    "graph",
+    "heap-priority-queue",
+    "shortest-path"
+  ],
+  "tagNames": [
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 651,
+  "runtimePercentile": 70.69580000000008,
+  "memory": 97108000,
+  "memoryPercentile": 26.586799999999975,
+  "timestamp": 1784176335
+}

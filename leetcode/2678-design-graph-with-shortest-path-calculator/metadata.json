@@ -1,0 +1,26 @@
+{
+  "questionId": "2678",
+  "frontendId": "2642",
+  "title": "Design Graph With Shortest Path Calculator",
+  "titleSlug": "design-graph-with-shortest-path-calculator",
+  "difficulty": "Hard",
+  "tags": [
+    "graph",
+    "design",
+    "heap-priority-queue",
+    "shortest-path"
+  ],
+  "tagNames": [
+    "Graph Theory",
+    "Design",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 179,
+  "runtimePercentile": 93.02320000000003,
+  "memory": 22864000,
+  "memoryPercentile": 91.4728,
+  "timestamp": 1784239912
+}

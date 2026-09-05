@@ -1,0 +1,22 @@
+{
+  "questionId": "24",
+  "frontendId": "24",
+  "title": "Swap Nodes in Pairs",
+  "titleSlug": "swap-nodes-in-pairs",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19176000,
+  "memoryPercentile": 90.6304,
+  "timestamp": 1785258130
+}

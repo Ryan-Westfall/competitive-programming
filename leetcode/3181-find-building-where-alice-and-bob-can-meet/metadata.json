@@ -1,0 +1,32 @@
+{
+  "questionId": "3181",
+  "frontendId": "2940",
+  "title": "Find Building Where Alice and Bob Can Meet",
+  "titleSlug": "find-building-where-alice-and-bob-can-meet",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "stack",
+    "binary-indexed-tree",
+    "segment-tree",
+    "heap-priority-queue",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Stack",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Heap (Priority Queue)",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 774,
+  "runtimePercentile": 27.819400000000407,
+  "memory": 51588000,
+  "memoryPercentile": 11.620400000000156,
+  "timestamp": 1784326002
+}

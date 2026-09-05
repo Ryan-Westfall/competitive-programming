@@ -1,0 +1,22 @@
+{
+  "questionId": "1192",
+  "frontendId": "1231",
+  "title": "Divide Chocolate",
+  "titleSlug": "divide-chocolate",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 78,
+  "runtimePercentile": 34.047100000000015,
+  "memory": 20528000,
+  "memoryPercentile": 19.914500000000004,
+  "timestamp": 1788373257
+}

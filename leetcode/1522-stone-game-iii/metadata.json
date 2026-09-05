@@ -1,0 +1,30 @@
+{
+  "questionId": "1522",
+  "frontendId": "1406",
+  "title": "Stone Game III",
+  "titleSlug": "stone-game-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "math",
+    "dynamic-programming",
+    "minimax-algorithm",
+    "game-theory",
+    "zero-sum-game"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1510,
+  "runtimePercentile": 8.17429999999987,
+  "memory": 135208000,
+  "memoryPercentile": 37.360300000000464,
+  "timestamp": 1785793945
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "78",
+  "frontendId": "78",
+  "title": "Subsets",
+  "titleSlug": "subsets",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "backtracking",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 36,
+  "runtimePercentile": 1.0799000000000032,
+  "memory": 14548000,
+  "memoryPercentile": 100,
+  "timestamp": 1627246483
+}

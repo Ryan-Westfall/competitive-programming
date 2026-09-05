@@ -1,0 +1,36 @@
+{
+  "questionId": "329",
+  "frontendId": "329",
+  "title": "Longest Increasing Path in a Matrix",
+  "titleSlug": "longest-increasing-path-in-a-matrix",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "topological-sort",
+    "memoization",
+    "matrix",
+    "directed-acyclic-graph"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort",
+    "Memoization",
+    "Matrix",
+    "Directed Acyclic Graph"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 215,
+  "runtimePercentile": 8.442100000000028,
+  "memory": 22892000,
+  "memoryPercentile": 54.49030000000002,
+  "timestamp": 1737351941
+}

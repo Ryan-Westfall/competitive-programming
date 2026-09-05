@@ -1,0 +1,24 @@
+{
+  "questionId": "55",
+  "frontendId": "55",
+  "title": "Jump Game",
+  "titleSlug": "jump-game",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "greedy"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1256,
+  "runtimePercentile": 9.4630000000002,
+  "memory": 15232000,
+  "memoryPercentile": 100,
+  "timestamp": 1642316559
+}

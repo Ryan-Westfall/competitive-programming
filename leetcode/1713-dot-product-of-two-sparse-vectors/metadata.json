@@ -1,0 +1,28 @@
+{
+  "questionId": "1713",
+  "frontendId": "1570",
+  "title": "Dot Product of Two Sparse Vectors",
+  "titleSlug": "dot-product-of-two-sparse-vectors",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "two-pointers",
+    "design",
+    "linear-algebra"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Design",
+    "Linear Algebra"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1310,
+  "runtimePercentile": 5.072199999999972,
+  "memory": 21796000,
+  "memoryPercentile": 99.8363,
+  "timestamp": 1738558086
+}

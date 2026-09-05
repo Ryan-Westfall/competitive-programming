@@ -1,0 +1,22 @@
+{
+  "questionId": "4378",
+  "frontendId": "4024",
+  "title": "Nearest Available Drone",
+  "titleSlug": "nearest-available-drone",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Array",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 22.4238,
+  "memory": 19288000,
+  "memoryPercentile": 79.5215,
+  "timestamp": 1786848162
+}

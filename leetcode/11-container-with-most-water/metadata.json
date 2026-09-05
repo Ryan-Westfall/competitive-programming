@@ -1,0 +1,24 @@
+{
+  "questionId": "11",
+  "frontendId": "11",
+  "title": "Container With Most Water",
+  "titleSlug": "container-with-most-water",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "two-pointers",
+    "greedy"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 58,
+  "runtimePercentile": 56.246600000000015,
+  "memory": 29428000,
+  "memoryPercentile": 88.29380000000002,
+  "timestamp": 1784511288
+}

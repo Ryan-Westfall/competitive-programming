@@ -1,0 +1,22 @@
+{
+  "questionId": "52",
+  "frontendId": "52",
+  "title": "N-Queens II",
+  "titleSlug": "n-queens-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "backtracking",
+    "algorithm-x"
+  ],
+  "tagNames": [
+    "Backtracking",
+    "Algorithm X"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 93.7266,
+  "memory": 19280000,
+  "memoryPercentile": 83.88130000000001,
+  "timestamp": 1787270959
+}

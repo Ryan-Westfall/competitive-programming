@@ -1,0 +1,22 @@
+{
+  "questionId": "4060",
+  "frontendId": "3687",
+  "title": "Library Late Fee Calculator",
+  "titleSlug": "library-late-fee-calculator",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19156000,
+  "memoryPercentile": 90.8333,
+  "timestamp": 1784954334
+}

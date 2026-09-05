@@ -1,0 +1,26 @@
+{
+  "questionId": "2793",
+  "frontendId": "2685",
+  "title": "Count the Number of Complete Components",
+  "titleSlug": "count-the-number-of-complete-components",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 50,
+  "runtimePercentile": 37.01729999999997,
+  "memory": 21016000,
+  "memoryPercentile": 16.359499999999983,
+  "timestamp": 1784090423
+}

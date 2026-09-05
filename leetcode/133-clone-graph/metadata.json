@@ -1,0 +1,26 @@
+{
+  "questionId": "133",
+  "frontendId": "133",
+  "title": "Clone Graph",
+  "titleSlug": "clone-graph",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "depth-first-search",
+    "breadth-first-search",
+    "graph"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 31,
+  "runtimePercentile": 99.8692,
+  "memory": 17048000,
+  "memoryPercentile": 100,
+  "timestamp": 1730701058
+}

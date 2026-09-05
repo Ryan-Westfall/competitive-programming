@@ -1,0 +1,26 @@
+{
+  "questionId": "684",
+  "frontendId": "684",
+  "title": "Redundant Connection",
+  "titleSlug": "redundant-connection",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "union-find",
+    "graph"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17680000,
+  "memoryPercentile": 100,
+  "timestamp": 1732932024
+}

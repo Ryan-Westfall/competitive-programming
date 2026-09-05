@@ -1,0 +1,22 @@
+{
+  "questionId": "2212",
+  "frontendId": "2091",
+  "title": "Removing Minimum and Maximum From Array",
+  "titleSlug": "removing-minimum-and-maximum-from-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "greedy"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 34,
+  "runtimePercentile": 19.42900000000002,
+  "memory": 33516000,
+  "memoryPercentile": 67.00109999999998,
+  "timestamp": 1788130190
+}

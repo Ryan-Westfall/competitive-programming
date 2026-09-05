@@ -1,0 +1,24 @@
+{
+  "questionId": "383",
+  "frontendId": "383",
+  "title": "Ransom Note",
+  "titleSlug": "ransom-note",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "string",
+    "counting"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 15,
+  "runtimePercentile": 78.2781,
+  "memory": 19756000,
+  "memoryPercentile": 8.944800000000008,
+  "timestamp": 1788140264
+}

@@ -8,9 +8,8 @@
 **Language:** Python3
 **Runtime:** 11 ms (38.9%)
 **Memory:** 19.3 MB (76.3%)
-**Likes/Dislikes:** 1341 / 77
-**Submitted:** 2026-09-04T00:12:07.000Z
-**LeetCode Link:** https://leetcode.com/problems/shortest-way-to-form-string/
+**Submitted:** 2026-09-04
+**Link:** https://leetcode.com/problems/shortest-way-to-form-string/
 
 ## Description
 
@@ -60,6 +59,3 @@
 ## Solution
 
 See `solution.py` in this folder.
-
----
-*Auto-synced by LeetSync on 2026-09-05T02:41:22.924Z*

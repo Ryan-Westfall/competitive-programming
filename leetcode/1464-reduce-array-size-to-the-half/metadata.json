@@ -1,0 +1,28 @@
+{
+  "questionId": "1464",
+  "frontendId": "1338",
+  "title": "Reduce Array Size to The Half",
+  "titleSlug": "reduce-array-size-to-the-half",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "greedy",
+    "sorting",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 624,
+  "runtimePercentile": 5.095100000000008,
+  "memory": 30932000,
+  "memoryPercentile": 99.5571,
+  "timestamp": 1625716701
+}

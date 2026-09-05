@@ -1,0 +1,24 @@
+{
+  "questionId": "1675",
+  "frontendId": "1552",
+  "title": "Magnetic Force Between Two Balls",
+  "titleSlug": "magnetic-force-between-two-balls",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 391,
+  "runtimePercentile": 74.14369999999954,
+  "memory": 31908000,
+  "memoryPercentile": 24.207299999999957,
+  "timestamp": 1787355076
+}

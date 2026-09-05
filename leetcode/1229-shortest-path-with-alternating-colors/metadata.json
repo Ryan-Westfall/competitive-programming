@@ -1,0 +1,22 @@
+{
+  "questionId": "1229",
+  "frontendId": "1129",
+  "title": "Shortest Path with Alternating Colors",
+  "titleSlug": "shortest-path-with-alternating-colors",
+  "difficulty": "Medium",
+  "tags": [
+    "breadth-first-search",
+    "graph"
+  ],
+  "tagNames": [
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 70.59389999999999,
+  "memory": 19688000,
+  "memoryPercentile": 8.29399999999999,
+  "timestamp": 1784154855
+}

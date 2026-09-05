@@ -1,0 +1,22 @@
+{
+  "questionId": "4033",
+  "frontendId": "3702",
+  "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+  "titleSlug": "longest-subsequence-with-non-zero-bitwise-xor",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 35,
+  "runtimePercentile": 46.7064,
+  "memory": 33116000,
+  "memoryPercentile": 58.37939999999995,
+  "timestamp": 1786835476
+}

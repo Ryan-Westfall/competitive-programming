@@ -1,0 +1,24 @@
+{
+  "questionId": "2297",
+  "frontendId": "2158",
+  "title": "Amount of New Area Painted Each Day",
+  "titleSlug": "amount-of-new-area-painted-each-day",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "segment-tree",
+    "ordered-set"
+  ],
+  "tagNames": [
+    "Array",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7113,
+  "runtimePercentile": 5.630999999999897,
+  "memory": 56616000,
+  "memoryPercentile": 98.5915,
+  "timestamp": 1784600514
+}

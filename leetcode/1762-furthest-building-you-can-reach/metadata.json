@@ -1,0 +1,24 @@
+{
+  "questionId": "1762",
+  "frontendId": "1642",
+  "title": "Furthest Building You Can Reach",
+  "titleSlug": "furthest-building-you-can-reach",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "greedy",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 63,
+  "runtimePercentile": 17.148999999999997,
+  "memory": 28528000,
+  "memoryPercentile": 100,
+  "timestamp": 1737256312
+}

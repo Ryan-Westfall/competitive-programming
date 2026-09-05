@@ -1,0 +1,28 @@
+{
+  "questionId": "215",
+  "frontendId": "215",
+  "title": "Kth Largest Element in an Array",
+  "titleSlug": "kth-largest-element-in-an-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "divide-and-conquer",
+    "sorting",
+    "heap-priority-queue",
+    "quickselect"
+  ],
+  "tagNames": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 127,
+  "runtimePercentile": 13.426199999999959,
+  "memory": 31460000,
+  "memoryPercentile": 15.646199999999983,
+  "timestamp": 1782859670
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "543",
+  "frontendId": "543",
+  "title": "Diameter of Binary Tree",
+  "titleSlug": "diameter-of-binary-tree",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-tree",
+    "dp-on-trees"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 45.34509999999999,
+  "memory": 22368000,
+  "memoryPercentile": 17.842399999999987,
+  "timestamp": 1784676446
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "1023",
+  "frontendId": "981",
+  "title": "Time Based Key-Value Store",
+  "titleSlug": "time-based-key-value-store",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "string",
+    "binary-search",
+    "design"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Binary Search",
+    "Design"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 134,
+  "runtimePercentile": 49.399999999999956,
+  "memory": 73492000,
+  "memoryPercentile": 5.802599999999944,
+  "timestamp": 1731827888
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "374",
+  "frontendId": "374",
+  "title": "Guess Number Higher or Lower",
+  "titleSlug": "guess-number-higher-or-lower",
+  "difficulty": "Easy",
+  "tags": [
+    "binary-search",
+    "interactive"
+  ],
+  "tagNames": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 48,
+  "runtimePercentile": 30.687800000000017,
+  "memory": 19140000,
+  "memoryPercentile": 70.78160000000001,
+  "timestamp": 1788193355
+}

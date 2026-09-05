@@ -1,0 +1,26 @@
+{
+  "questionId": "143",
+  "frontendId": "143",
+  "title": "Reorder List",
+  "titleSlug": "reorder-list",
+  "difficulty": "Medium",
+  "tags": [
+    "linked-list",
+    "two-pointers",
+    "stack",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 27800000,
+  "memoryPercentile": 80.68060000000004,
+  "timestamp": 1784765673
+}

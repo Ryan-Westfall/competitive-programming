@@ -1,0 +1,26 @@
+{
+  "questionId": "2306",
+  "frontendId": "2196",
+  "title": "Create Binary Tree From Descriptions",
+  "titleSlug": "create-binary-tree-from-descriptions",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 129,
+  "runtimePercentile": 70.01040000000003,
+  "memory": 28116000,
+  "memoryPercentile": 19.007400000000004,
+  "timestamp": 1784245206
+}

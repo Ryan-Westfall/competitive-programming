@@ -1,0 +1,22 @@
+{
+  "questionId": "21",
+  "frontendId": "21",
+  "title": "Merge Two Sorted Lists",
+  "titleSlug": "merge-two-sorted-lists",
+  "difficulty": "Easy",
+  "tags": [
+    "linked-list",
+    "recursion"
+  ],
+  "tagNames": [
+    "Linked List",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19252000,
+  "memoryPercentile": 73.8482,
+  "timestamp": 1783468375
+}

@@ -1,0 +1,24 @@
+{
+  "questionId": "10",
+  "frontendId": "10",
+  "title": "Regular Expression Matching",
+  "titleSlug": "regular-expression-matching",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "dynamic-programming",
+    "recursion"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 73.4657,
+  "memory": 21124000,
+  "memoryPercentile": 7.838100000000027,
+  "timestamp": 1785887405
+}

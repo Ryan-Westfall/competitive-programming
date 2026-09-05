@@ -1,0 +1,26 @@
+{
+  "questionId": "310",
+  "frontendId": "310",
+  "title": "Minimum Height Trees",
+  "titleSlug": "minimum-height-trees",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "breadth-first-search",
+    "graph",
+    "topological-sort"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 62,
+  "runtimePercentile": 27.4985,
+  "memory": 27984000,
+  "memoryPercentile": 60.2697,
+  "timestamp": 1788220137
+}

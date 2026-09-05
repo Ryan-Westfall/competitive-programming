@@ -1,0 +1,24 @@
+{
+  "questionId": "968",
+  "frontendId": "932",
+  "title": "Beautiful Array",
+  "titleSlug": "beautiful-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "divide-and-conquer"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Divide and Conquer"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19584000,
+  "memoryPercentile": 8.878999999999994,
+  "timestamp": 1782963374
+}

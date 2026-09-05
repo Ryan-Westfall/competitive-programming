@@ -1,0 +1,30 @@
+{
+  "questionId": "28",
+  "frontendId": "28",
+  "title": "Find the Index of the First Occurrence in a String",
+  "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+  "difficulty": "Easy",
+  "tags": [
+    "two-pointers",
+    "string",
+    "string-matching",
+    "z-algorithm",
+    "knuth-morris-pratt-algorithm",
+    "boyer-moore-string-search-algorithm"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3,
+  "runtimePercentile": 18.148100000000003,
+  "memory": 19272000,
+  "memoryPercentile": 61.834,
+  "timestamp": 1768781626
+}

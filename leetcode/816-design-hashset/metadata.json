@@ -1,0 +1,28 @@
+{
+  "questionId": "816",
+  "frontendId": "705",
+  "title": "Design HashSet",
+  "titleSlug": "design-hashset",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "linked-list",
+    "design",
+    "hash-function"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 107,
+  "runtimePercentile": 24.653899999999986,
+  "memory": 24312000,
+  "memoryPercentile": 76.70630000000001,
+  "timestamp": 1735794103
+}

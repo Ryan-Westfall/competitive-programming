@@ -1,0 +1,24 @@
+{
+  "questionId": "1019",
+  "frontendId": "977",
+  "title": "Squares of a Sorted Array",
+  "titleSlug": "squares-of-a-sorted-array",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 228,
+  "runtimePercentile": 5.0786999999999995,
+  "memory": 15712000,
+  "memoryPercentile": 100,
+  "timestamp": 1624936848
+}

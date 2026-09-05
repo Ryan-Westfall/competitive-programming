@@ -1,0 +1,24 @@
+{
+  "questionId": "735",
+  "frontendId": "735",
+  "title": "Asteroid Collision",
+  "titleSlug": "asteroid-collision",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "stack",
+    "simulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 57.229600000000005,
+  "memory": 18572000,
+  "memoryPercentile": 100,
+  "timestamp": 1733374154
+}

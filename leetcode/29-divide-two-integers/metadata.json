@@ -1,0 +1,22 @@
+{
+  "questionId": "29",
+  "frontendId": "29",
+  "title": "Divide Two Integers",
+  "titleSlug": "divide-two-integers",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 2.0426000000000073,
+  "memory": 19276000,
+  "memoryPercentile": 66.45830000000001,
+  "timestamp": 1787260410
+}

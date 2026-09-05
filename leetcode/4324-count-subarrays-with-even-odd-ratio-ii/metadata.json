@@ -1,0 +1,30 @@
+{
+  "questionId": "4324",
+  "frontendId": "4013",
+  "title": "Count Subarrays With Even Odd Ratio II",
+  "titleSlug": "count-subarrays-with-even-odd-ratio-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "divide-and-conquer",
+    "binary-indexed-tree",
+    "segment-tree",
+    "merge-sort",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 262,
+  "runtimePercentile": 94.11289999999993,
+  "memory": 27988000,
+  "memoryPercentile": 85.8592,
+  "timestamp": 1786744178
+}

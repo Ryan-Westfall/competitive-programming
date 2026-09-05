@@ -1,0 +1,22 @@
+{
+  "questionId": "1626",
+  "frontendId": "1502",
+  "title": "Can Make Arithmetic Progression From Sequence",
+  "titleSlug": "can-make-arithmetic-progression-from-sequence",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1,
+  "runtimePercentile": 30.571600000000004,
+  "memory": 19516000,
+  "memoryPercentile": 9.93070000000002,
+  "timestamp": 1785799551
+}

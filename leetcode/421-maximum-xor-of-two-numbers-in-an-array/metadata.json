@@ -1,0 +1,26 @@
+{
+  "questionId": "421",
+  "frontendId": "421",
+  "title": "Maximum XOR of Two Numbers in an Array",
+  "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "bit-manipulation",
+    "trie"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 5074,
+  "runtimePercentile": 26.635200000000612,
+  "memory": 458416000,
+  "memoryPercentile": 35.16460000000015,
+  "timestamp": 1784680347
+}

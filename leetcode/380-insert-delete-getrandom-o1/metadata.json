@@ -1,0 +1,28 @@
+{
+  "questionId": "380",
+  "frontendId": "380",
+  "title": "Insert Delete GetRandom O(1)",
+  "titleSlug": "insert-delete-getrandom-o1",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "design",
+    "randomized"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Design",
+    "Randomized"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 113,
+  "runtimePercentile": 48.94139999999994,
+  "memory": 57940000,
+  "memoryPercentile": 10.005899999999984,
+  "timestamp": 1737354030
+}

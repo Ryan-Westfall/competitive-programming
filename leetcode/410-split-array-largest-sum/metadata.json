@@ -1,0 +1,28 @@
+{
+  "questionId": "410",
+  "frontendId": "410",
+  "title": "Split Array Largest Sum",
+  "titleSlug": "split-array-largest-sum",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "dynamic-programming",
+    "greedy",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19272000,
+  "memoryPercentile": 82.52429999999998,
+  "timestamp": 1788377753
+}

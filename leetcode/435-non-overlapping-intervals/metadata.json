@@ -1,0 +1,26 @@
+{
+  "questionId": "435",
+  "frontendId": "435",
+  "title": "Non-overlapping Intervals",
+  "titleSlug": "non-overlapping-intervals",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "greedy",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1403,
+  "runtimePercentile": 5.077400000000007,
+  "memory": 53188000,
+  "memoryPercentile": 8.455500000000049,
+  "timestamp": 1642906753
+}

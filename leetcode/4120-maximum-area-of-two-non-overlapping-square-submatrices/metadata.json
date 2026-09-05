@@ -1,0 +1,26 @@
+{
+  "questionId": "4120",
+  "frontendId": "4016",
+  "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
+  "titleSlug": "maximum-area-of-two-non-overlapping-square-submatrices",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "dynamic-programming",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 325,
+  "runtimePercentile": 83.21749999999945,
+  "memory": 50516000,
+  "memoryPercentile": 8.954499999999962,
+  "timestamp": 1786399350
+}

@@ -1,0 +1,28 @@
+{
+  "questionId": "378",
+  "frontendId": "378",
+  "title": "Kth Smallest Element in a Sorted Matrix",
+  "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "sorting",
+    "heap-priority-queue",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 22808000,
+  "memoryPercentile": 68.93260000000001,
+  "timestamp": 1787359525
+}

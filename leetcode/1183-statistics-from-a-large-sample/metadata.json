@@ -1,0 +1,24 @@
+{
+  "questionId": "1183",
+  "frontendId": "1093",
+  "title": "Statistics from a Large Sample",
+  "titleSlug": "statistics-from-a-large-sample",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "probability-and-statistics"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Probability and Statistics"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19404000,
+  "memoryPercentile": 48.7048,
+  "timestamp": 1785172453
+}

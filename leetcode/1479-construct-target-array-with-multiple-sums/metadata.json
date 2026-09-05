@@ -1,0 +1,22 @@
+{
+  "questionId": "1479",
+  "frontendId": "1354",
+  "title": "Construct Target Array With Multiple Sums",
+  "titleSlug": "construct-target-array-with-multiple-sums",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 71.7122,
+  "memory": 25360000,
+  "memoryPercentile": 27.2953,
+  "timestamp": 1768965308
+}

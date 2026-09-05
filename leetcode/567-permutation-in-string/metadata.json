@@ -1,0 +1,26 @@
+{
+  "questionId": "567",
+  "frontendId": "567",
+  "title": "Permutation in String",
+  "titleSlug": "permutation-in-string",
+  "difficulty": "Medium",
+  "tags": [
+    "hash-table",
+    "two-pointers",
+    "string",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 18,
+  "runtimePercentile": 62.09529999999998,
+  "memory": 16800000,
+  "memoryPercentile": 100,
+  "timestamp": 1731998577
+}

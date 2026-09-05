@@ -1,0 +1,22 @@
+{
+  "questionId": "1127",
+  "frontendId": "1046",
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19468000,
+  "memoryPercentile": 36.6527,
+  "timestamp": 1768881883
+}

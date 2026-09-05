@@ -1,0 +1,26 @@
+{
+  "questionId": "199",
+  "frontendId": "199",
+  "title": "Binary Tree Right Side View",
+  "titleSlug": "binary-tree-right-side-view",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19196000,
+  "memoryPercentile": 93.5405,
+  "timestamp": 1785795561
+}

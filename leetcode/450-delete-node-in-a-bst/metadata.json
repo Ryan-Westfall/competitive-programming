@@ -1,0 +1,24 @@
+{
+  "questionId": "450",
+  "frontendId": "450",
+  "title": "Delete Node in a BST",
+  "titleSlug": "delete-node-in-a-bst",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 11.798799999999995,
+  "memory": 21992000,
+  "memoryPercentile": 78.1546,
+  "timestamp": 1784263400
+}

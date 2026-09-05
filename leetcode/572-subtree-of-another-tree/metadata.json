@@ -1,0 +1,28 @@
+{
+  "questionId": "572",
+  "frontendId": "572",
+  "title": "Subtree of Another Tree",
+  "titleSlug": "subtree-of-another-tree",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "string-matching",
+    "binary-tree",
+    "hash-function"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 24,
+  "runtimePercentile": 92.76269999999998,
+  "memory": 16776000,
+  "memoryPercentile": 100,
+  "timestamp": 1730437154
+}

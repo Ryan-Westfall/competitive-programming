@@ -1,0 +1,22 @@
+{
+  "questionId": "481",
+  "frontendId": "481",
+  "title": "Magical String",
+  "titleSlug": "magical-string",
+  "difficulty": "Medium",
+  "tags": [
+    "two-pointers",
+    "string"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 59,
+  "runtimePercentile": 29.327000000000027,
+  "memory": 18996000,
+  "memoryPercentile": 99.8798,
+  "timestamp": 1783205333
+}

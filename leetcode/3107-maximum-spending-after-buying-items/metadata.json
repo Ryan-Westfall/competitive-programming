@@ -1,0 +1,28 @@
+{
+  "questionId": "3107",
+  "frontendId": "2931",
+  "title": "Maximum Spending After Buying Items",
+  "titleSlug": "maximum-spending-after-buying-items",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "greedy",
+    "sorting",
+    "heap-priority-queue",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 187,
+  "runtimePercentile": 25.252600000000125,
+  "memory": 28412000,
+  "memoryPercentile": 91.9192,
+  "timestamp": 1737355233
+}

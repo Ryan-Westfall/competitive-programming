@@ -1,0 +1,30 @@
+{
+  "questionId": "1456",
+  "frontendId": "1334",
+  "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+  "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "graph",
+    "shortest-path",
+    "dijkstra",
+    "bellman-ford-algorithm",
+    "floyd-warshall-algorithm"
+  ],
+  "tagNames": [
+    "Dynamic Programming",
+    "Graph Theory",
+    "Shortest Path",
+    "Dijkstra's Algorithm",
+    "Bellman–Ford Algorithm",
+    "Floyd–Warshall Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 99,
+  "runtimePercentile": 88.00639999999994,
+  "memory": 20460000,
+  "memoryPercentile": 33.12589999999997,
+  "timestamp": 1784243315
+}

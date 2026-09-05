@@ -1,0 +1,26 @@
+{
+  "questionId": "3373",
+  "frontendId": "3115",
+  "title": "Maximum Prime Difference",
+  "titleSlug": "maximum-prime-difference",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "number-theory",
+    "primality-test"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Number Theory",
+    "Primality Test"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 535,
+  "runtimePercentile": 99.7481,
+  "memory": 29460000,
+  "memoryPercentile": 67.75809999999998,
+  "timestamp": 1784586323
+}

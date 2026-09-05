@@ -1,0 +1,28 @@
+{
+  "questionId": "108",
+  "frontendId": "108",
+  "title": "Convert Sorted Array to Binary Search Tree",
+  "titleSlug": "convert-sorted-array-to-binary-search-tree",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "divide-and-conquer",
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Array",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 80,
+  "runtimePercentile": 2.448000000000002,
+  "memory": 16124000,
+  "memoryPercentile": 100,
+  "timestamp": 1599672850
+}

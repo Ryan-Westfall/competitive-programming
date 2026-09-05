@@ -1,0 +1,20 @@
+{
+  "questionId": "1908",
+  "frontendId": "1757",
+  "title": "Recyclable and Low Fat Products",
+  "titleSlug": "recyclable-and-low-fat-products",
+  "difficulty": "Easy",
+  "tags": [
+    "database"
+  ],
+  "tagNames": [
+    "Database"
+  ],
+  "lang": "mysql",
+  "langVerbose": "MySQL",
+  "runtime": 738,
+  "runtimePercentile": 15.0549000000001,
+  "memory": "0B",
+  "memoryPercentile": 100,
+  "timestamp": 1740027943
+}

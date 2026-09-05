@@ -1,0 +1,24 @@
+{
+  "questionId": "110",
+  "frontendId": "110",
+  "title": "Balanced Binary Tree",
+  "titleSlug": "balanced-binary-tree",
+  "difficulty": "Easy",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 29.013600000000004,
+  "memory": 17712000,
+  "memoryPercentile": 100,
+  "timestamp": 1730093660
+}

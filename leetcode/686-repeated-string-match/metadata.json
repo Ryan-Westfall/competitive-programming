@@ -1,0 +1,28 @@
+{
+  "questionId": "686",
+  "frontendId": "686",
+  "title": "Repeated String Match",
+  "titleSlug": "repeated-string-match",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "string-matching",
+    "z-algorithm",
+    "knuth-morris-pratt-algorithm",
+    "boyer-moore-string-search-algorithm"
+  ],
+  "tagNames": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19312000,
+  "memoryPercentile": 40.2395,
+  "timestamp": 1781323001
+}

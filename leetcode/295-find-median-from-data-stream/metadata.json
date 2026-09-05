@@ -1,0 +1,28 @@
+{
+  "questionId": "295",
+  "frontendId": "295",
+  "title": "Find Median from Data Stream",
+  "titleSlug": "find-median-from-data-stream",
+  "difficulty": "Hard",
+  "tags": [
+    "two-pointers",
+    "design",
+    "sorting",
+    "heap-priority-queue",
+    "data-stream"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "Design",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Data Stream"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 211,
+  "runtimePercentile": 29.528299999999913,
+  "memory": 41436000,
+  "memoryPercentile": 92.36719999999998,
+  "timestamp": 1782258007
+}

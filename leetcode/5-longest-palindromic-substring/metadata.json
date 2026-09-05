@@ -1,0 +1,26 @@
+{
+  "questionId": "5",
+  "frontendId": "5",
+  "title": "Longest Palindromic Substring",
+  "titleSlug": "longest-palindromic-substring",
+  "difficulty": "Medium",
+  "tags": [
+    "two-pointers",
+    "string",
+    "dynamic-programming",
+    "manacher"
+  ],
+  "tagNames": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Manacher"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3486,
+  "runtimePercentile": 17.45540000000084,
+  "memory": 13932000,
+  "memoryPercentile": 100,
+  "timestamp": 1644316329
+}

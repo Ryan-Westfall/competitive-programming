@@ -1,0 +1,26 @@
+{
+  "questionId": "202",
+  "frontendId": "202",
+  "title": "Happy Number",
+  "titleSlug": "happy-number",
+  "difficulty": "Easy",
+  "tags": [
+    "hash-table",
+    "math",
+    "two-pointers",
+    "floyds-cycle-finding-algorithm"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Math",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 28,
+  "runtimePercentile": 3.007400000000004,
+  "memory": 13960000,
+  "memoryPercentile": 100,
+  "timestamp": 1599979991
+}

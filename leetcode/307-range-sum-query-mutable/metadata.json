@@ -1,0 +1,30 @@
+{
+  "questionId": "307",
+  "frontendId": "307",
+  "title": "Range Sum Query - Mutable",
+  "titleSlug": "range-sum-query-mutable",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "divide-and-conquer",
+    "design",
+    "binary-indexed-tree",
+    "segment-tree",
+    "sqrt-decomposition"
+  ],
+  "tagNames": [
+    "Array",
+    "Divide and Conquer",
+    "Design",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Sqrt Decomposition"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 716,
+  "runtimePercentile": 45.3559000000001,
+  "memory": 39416000,
+  "memoryPercentile": 35.0823,
+  "timestamp": 1784660135
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "883",
+  "frontendId": "853",
+  "title": "Car Fleet",
+  "titleSlug": "car-fleet",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "stack",
+    "sorting",
+    "monotonic-stack"
+  ],
+  "tagNames": [
+    "Array",
+    "Stack",
+    "Sorting",
+    "Monotonic Stack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 148,
+  "runtimePercentile": 79.26070000000001,
+  "memory": 36616000,
+  "memoryPercentile": 99.00789999999995,
+  "timestamp": 1731303970
+}

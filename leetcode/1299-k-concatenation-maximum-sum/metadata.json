@@ -1,0 +1,22 @@
+{
+  "questionId": "1299",
+  "frontendId": "1191",
+  "title": "K-Concatenation Maximum Sum",
+  "titleSlug": "k-concatenation-maximum-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 195,
+  "runtimePercentile": 5.491400000000051,
+  "memory": 117108000,
+  "memoryPercentile": 5.2024,
+  "timestamp": 1784580395
+}

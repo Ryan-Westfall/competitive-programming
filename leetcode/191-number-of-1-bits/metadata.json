@@ -1,0 +1,22 @@
+{
+  "questionId": "191",
+  "frontendId": "191",
+  "title": "Number of 1 Bits",
+  "titleSlug": "number-of-1-bits",
+  "difficulty": "Easy",
+  "tags": [
+    "divide-and-conquer",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 66,
+  "runtimePercentile": 0.5949000000000013,
+  "memory": 14376000,
+  "memoryPercentile": 100,
+  "timestamp": 1634794747
+}

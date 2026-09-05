@@ -1,0 +1,26 @@
+{
+  "questionId": "3791",
+  "frontendId": "3479",
+  "title": "Fruits Into Baskets III",
+  "titleSlug": "fruits-into-baskets-iii",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "segment-tree",
+    "ordered-set"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 2859,
+  "runtimePercentile": 28.5,
+  "memory": 40764000,
+  "memoryPercentile": 44,
+  "timestamp": 1784679753
+}

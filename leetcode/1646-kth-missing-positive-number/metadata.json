@@ -1,0 +1,22 @@
+{
+  "questionId": "1646",
+  "frontendId": "1539",
+  "title": "Kth Missing Positive Number",
+  "titleSlug": "kth-missing-positive-number",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "binary-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 2,
+  "runtimePercentile": 30.057500000000005,
+  "memory": 18044000,
+  "memoryPercentile": 100,
+  "timestamp": 1739254843
+}

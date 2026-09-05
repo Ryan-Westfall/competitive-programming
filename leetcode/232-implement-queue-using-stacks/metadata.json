@@ -1,0 +1,24 @@
+{
+  "questionId": "232",
+  "frontendId": "232",
+  "title": "Implement Queue using Stacks",
+  "titleSlug": "implement-queue-using-stacks",
+  "difficulty": "Easy",
+  "tags": [
+    "stack",
+    "design",
+    "queue"
+  ],
+  "tagNames": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19616000,
+  "memoryPercentile": 16.47170000000002,
+  "timestamp": 1768862668
+}

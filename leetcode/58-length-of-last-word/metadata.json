@@ -1,0 +1,20 @@
+{
+  "questionId": "58",
+  "frontendId": "58",
+  "title": "Length of Last Word",
+  "titleSlug": "length-of-last-word",
+  "difficulty": "Easy",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19024000,
+  "memoryPercentile": 98.138,
+  "timestamp": 1787595229
+}

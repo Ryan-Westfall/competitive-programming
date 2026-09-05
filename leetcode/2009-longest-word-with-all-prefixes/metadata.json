@@ -1,0 +1,26 @@
+{
+  "questionId": "2009",
+  "frontendId": "1858",
+  "title": "Longest Word With All Prefixes",
+  "titleSlug": "longest-word-with-all-prefixes",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "string",
+    "depth-first-search",
+    "trie"
+  ],
+  "tagNames": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 207,
+  "runtimePercentile": 37.6649999999999,
+  "memory": 60624000,
+  "memoryPercentile": 37.66499999999996,
+  "timestamp": 1785365020
+}

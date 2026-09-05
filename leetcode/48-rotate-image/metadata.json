@@ -1,0 +1,24 @@
+{
+  "questionId": "48",
+  "frontendId": "48",
+  "title": "Rotate Image",
+  "titleSlug": "rotate-image",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
+  "lang": "python",
+  "langVerbose": "Python",
+  "runtime": 20,
+  "runtimePercentile": 1.6176000000000053,
+  "memory": 13224000,
+  "memoryPercentile": 1.6319000000000017,
+  "timestamp": 1628052885
+}

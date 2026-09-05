@@ -1,0 +1,26 @@
+{
+  "questionId": "416",
+  "frontendId": "416",
+  "title": "Partition Equal Subset Sum",
+  "titleSlug": "partition-equal-subset-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "knapsack-problem",
+    "0-1-knapsack"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1362,
+  "runtimePercentile": 33.774000000000754,
+  "memory": 41960000,
+  "memoryPercentile": 24.64120000000003,
+  "timestamp": 1737267582
+}

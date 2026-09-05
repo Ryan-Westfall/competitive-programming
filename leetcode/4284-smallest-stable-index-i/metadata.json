@@ -4,8 +4,6 @@
   "title": "Smallest Stable Index I",
   "titleSlug": "smallest-stable-index-i",
   "difficulty": "Easy",
-  "likes": 286,
-  "dislikes": 25,
   "tags": [
     "array",
     "prefix-sum"
@@ -14,14 +12,11 @@
     "Array",
     "Prefix Sum"
   ],
-  "companyTags": [],
   "lang": "python3",
   "langVerbose": "Python3",
   "runtime": 3,
   "runtimePercentile": 77.2727,
   "memory": 19248000,
   "memoryPercentile": 70.8135,
-  "timestamp": 1788571693,
-  "timestampIso": "2026-09-05T01:28:13.000Z",
-  "syncedAt": "2026-09-05T02:41:18.729Z"
+  "timestamp": 1788571693
 }

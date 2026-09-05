@@ -1,0 +1,22 @@
+{
+  "questionId": "1107",
+  "frontendId": "1151",
+  "title": "Minimum Swaps to Group All 1's Together",
+  "titleSlug": "minimum-swaps-to-group-all-1s-together",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Array",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 77,
+  "runtimePercentile": 20.430499999999927,
+  "memory": 21872000,
+  "memoryPercentile": 100,
+  "timestamp": 1737336029
+}

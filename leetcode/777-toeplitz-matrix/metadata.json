@@ -1,0 +1,22 @@
+{
+  "questionId": "777",
+  "frontendId": "766",
+  "title": "Toeplitz Matrix",
+  "titleSlug": "toeplitz-matrix",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 17780000,
+  "memoryPercentile": 100,
+  "timestamp": 1739164986
+}

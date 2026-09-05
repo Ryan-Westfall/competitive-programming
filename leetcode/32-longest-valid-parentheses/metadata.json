@@ -1,0 +1,26 @@
+{
+  "questionId": "32",
+  "frontendId": "32",
+  "title": "Longest Valid Parentheses",
+  "titleSlug": "longest-valid-parentheses",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "dynamic-programming",
+    "stack",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 90.21220000000001,
+  "memory": 20368000,
+  "memoryPercentile": 79.60340000000002,
+  "timestamp": 1787253520
+}

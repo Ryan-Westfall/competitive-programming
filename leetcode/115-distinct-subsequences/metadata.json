@@ -1,0 +1,22 @@
+{
+  "questionId": "115",
+  "frontendId": "115",
+  "title": "Distinct Subsequences",
+  "titleSlug": "distinct-subsequences",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "cpp",
+  "langVerbose": "C++",
+  "runtime": 27,
+  "runtimePercentile": 71.17450000000004,
+  "memory": 44340000,
+  "memoryPercentile": 20.6,
+  "timestamp": 1788706154
+}

@@ -12,11 +12,11 @@
     "String",
     "Dynamic Programming"
   ],
-  "lang": "cpp",
-  "langVerbose": "C++",
-  "runtime": 27,
-  "runtimePercentile": 71.17450000000004,
-  "memory": 44340000,
-  "memoryPercentile": 20.6,
-  "timestamp": 1788706154
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 773,
+  "runtimePercentile": 16.384799999999824,
+  "memory": 234088000,
+  "memoryPercentile": 9.303699999999917,
+  "timestamp": 1788737340
 }

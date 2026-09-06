@@ -5,9 +5,9 @@
 **Difficulty:** Hard
 **Tags:** String, Dynamic Programming
 **Companies:** Amazon, Meta, Google, Microsoft, Meesho, Bloomberg, Zoho, Salesforce
-**Language:** C++
-**Runtime:** 27 ms (71.2%)
-**Memory:** 44.3 MB (20.6%)
+**Language:** Python3
+**Runtime:** 773 ms (16.4%)
+**Memory:** 234.1 MB (9.3%)
 **Submitted:** 2026-09-06
 **Link:** https://leetcode.com/problems/distinct-subsequences/
 
@@ -54,4 +54,4 @@ As shown below, there are 5 ways you can generate &quot;bag&quot; from s.
 
 ## Solution
 
-See `solution.cpp` in this folder.
+See `solution.py` in this folder.

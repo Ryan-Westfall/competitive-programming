@@ -5,8 +5,8 @@
 **Difficulty:** Medium
 **Tags:** Array, Prefix Sum
 **Language:** Python3
-**Runtime:** 203 ms (41.9%)
-**Memory:** 33 MB (51.3%)
+**Runtime:** 185 ms (48.3%)
+**Memory:** 33.1 MB (43.5%)
 **Submitted:** 2026-09-06
 **Link:** https://leetcode.com/problems/smallest-stable-index-ii/
 

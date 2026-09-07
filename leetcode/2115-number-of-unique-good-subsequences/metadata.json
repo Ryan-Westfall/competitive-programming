@@ -1,0 +1,22 @@
+{
+  "questionId": "2115",
+  "frontendId": "1987",
+  "title": "Number of Unique Good Subsequences",
+  "titleSlug": "number-of-unique-good-subsequences",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 91,
+  "runtimePercentile": 28.377900000000025,
+  "memory": 20160000,
+  "memoryPercentile": 8.108099999999993,
+  "timestamp": 1788749741
+}

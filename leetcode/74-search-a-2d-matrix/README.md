@@ -6,9 +6,9 @@
 **Tags:** Array, Binary Search, Matrix
 **Companies:** Amazon, Google, Meta, Microsoft, Goldman Sachs, tcs, SAP, Bloomberg, Oracle, Adobe, TikTok, Apple, Nutanix, Yandex
 **Language:** Python3
-**Runtime:** 0 ms (100.0%)
-**Memory:** 17 MB (100.0%)
-**Submitted:** 2024-11-11
+**Runtime:** 40 ms (0.0%)
+**Memory:** 19.6 MB (13.8%)
+**Submitted:** 2026-09-07
 **Link:** https://leetcode.com/problems/search-a-2d-matrix/
 
 ## Description

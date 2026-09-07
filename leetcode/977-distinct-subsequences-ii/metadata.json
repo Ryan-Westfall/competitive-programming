@@ -1,0 +1,22 @@
+{
+  "questionId": "977",
+  "frontendId": "940",
+  "title": "Distinct Subsequences II",
+  "titleSlug": "distinct-subsequences-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 89.58340000000001,
+  "memory": 19276000,
+  "memoryPercentile": 72.39579999999998,
+  "timestamp": 1788748140
+}

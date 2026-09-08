@@ -1,0 +1,28 @@
+{
+  "questionId": "753",
+  "frontendId": "752",
+  "title": "Open the Lock",
+  "titleSlug": "open-the-lock",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "string",
+    "breadth-first-search",
+    "bidirectional-search"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Breadth-First Search",
+    "Bidirectional Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 328,
+  "runtimePercentile": 70.21180000000025,
+  "memory": 20284000,
+  "memoryPercentile": 89.8426,
+  "timestamp": 1788898119
+}

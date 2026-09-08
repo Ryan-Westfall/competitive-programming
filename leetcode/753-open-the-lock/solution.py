@@ -10,34 +10,20 @@ class Solution:
         while queue:
             for _ in range(len(queue)):
                 node = queue.popleft()
-
-                # print()
-
                 if node == target:
                     return totalMoves
 
                 for i in range(4):
-                    # 1. Left Move (Subtract 1)
-                    left_digit = str((int(node[i]) - 1) % 10)
-                    leftMove = node[:i] + left_digit + node[i+1:]
-                    
-                    if leftMove not in visit:
-                        visit.add(leftMove)
-                        queue.append(leftMove)
-                        
-                    # 2. Right Move (Add 1)
-                    right_digit = str((int(node[i]) + 1) % 10)
-                    rightMove = node[:i] + right_digit + node[i+1:]
-                    
-                    if rightMove not in visit:
-                        visit.add(rightMove)           
-                        queue.append(rightMove)
+                    digits = list(node)
+
+                    for change in (-1, 1):
+                        digits[i] = str((int(node[i]) + change) % 10)
+                        next_node = ''.join(digits)
+
+                        if next_node not in visit:
+                            visit.add(next_node)
+                            queue.append(next_node)
             
             totalMoves += 1
 
         return -1
-
-
-
-
-        

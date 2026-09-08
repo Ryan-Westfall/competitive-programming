@@ -6,8 +6,8 @@
 **Tags:** Array, Hash Table, String, Breadth-First Search, Bidirectional Search
 **Companies:** Amazon, Palo Alto Networks, Meta, Microsoft, Uber, Bloomberg, Snap, Goldman Sachs, TikTok, Google, eBay, DE Shaw
 **Language:** Python3
-**Runtime:** 328 ms (70.2%)
-**Memory:** 20.3 MB (89.8%)
+**Runtime:** 326 ms (71.7%)
+**Memory:** 20.5 MB (52.2%)
 **Submitted:** 2026-09-08
 **Link:** https://leetcode.com/problems/open-the-lock/
 

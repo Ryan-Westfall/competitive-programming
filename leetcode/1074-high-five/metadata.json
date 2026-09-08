@@ -1,0 +1,26 @@
+{
+  "questionId": "1074",
+  "frontendId": "1086",
+  "title": "High Five",
+  "titleSlug": "high-five",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "sorting",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19380000,
+  "memoryPercentile": 98.05349999999999,
+  "timestamp": 1788839887
+}

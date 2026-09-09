@@ -5,9 +5,9 @@
 **Difficulty:** Medium
 **Tags:** Math
 **Language:** Python3
-**Runtime:** 3 ms (20.1%)
-**Memory:** 19.3 MB (52.3%)
-**Submitted:** 2026-09-08
+**Runtime:** 0 ms (100.0%)
+**Memory:** 19.3 MB (13.6%)
+**Submitted:** 2026-09-09
 **Link:** https://leetcode.com/problems/count-commas-in-range-ii/
 
 ## Description

@@ -1,0 +1,24 @@
+{
+  "questionId": "305",
+  "frontendId": "305",
+  "title": "Number of Islands II",
+  "titleSlug": "number-of-islands-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "union-find"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 64,
+  "runtimePercentile": 86.4617,
+  "memory": 26068000,
+  "memoryPercentile": 5.687900000000015,
+  "timestamp": 1788972278
+}

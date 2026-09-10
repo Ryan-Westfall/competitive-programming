@@ -2,8 +2,8 @@
   "count-nodes-equal-to-average-of-subtree": {
     "title": "Count Nodes Equal to Average of Subtree",
     "frontendId": "2265",
-    "updatedAt": "2026-09-10T20:32:28.256Z",
-    "preview": "Testing Notes\n\nOkay, this is looking good.\ndfadsf",
+    "updatedAt": "2026-09-10T20:42:15.829Z",
+    "preview": "Got to do dfs on this and return back a tuple declaring subTreeSum and subTreeN",
     "path": "leetcode/2347-count-nodes-equal-to-average-of-subtree/notes.md"
   }
 }

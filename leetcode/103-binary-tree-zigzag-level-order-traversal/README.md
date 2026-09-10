@@ -6,8 +6,8 @@
 **Tags:** Tree, Breadth-First Search, Binary Tree
 **Companies:** Microsoft, Amazon, Google, Bloomberg, Sigmoid, Meta, Oracle, Yandex, Nutanix, Adobe, Citadel, TikTok, Goldman Sachs, Walmart Labs, Palo Alto Networks, LinkedIn
 **Language:** Python3
-**Runtime:** 47 ms (0.4%)
-**Memory:** 19.4 MB (50.6%)
+**Runtime:** 0 ms (100.0%)
+**Memory:** 19.5 MB (15.7%)
 **Submitted:** 2026-09-10
 **Link:** https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 

@@ -1,0 +1,1016 @@
+{
+  "updatedAt": "2026-09-10T18:28:01.734Z",
+  "totalUniqueProblems": 584,
+  "leetcodeCount": 584,
+  "codeforcesCount": 0,
+  "difficultyCounts": {
+    "Easy": 168,
+    "Medium": 329,
+    "Hard": 87
+  },
+  "allTags": [
+    {
+      "tag": "array",
+      "count": 306
+    },
+    {
+      "tag": "string",
+      "count": 121
+    },
+    {
+      "tag": "hash-table",
+      "count": 107
+    },
+    {
+      "tag": "math",
+      "count": 102
+    },
+    {
+      "tag": "depth-first-search",
+      "count": 83
+    },
+    {
+      "tag": "dynamic-programming",
+      "count": 74
+    },
+    {
+      "tag": "breadth-first-search",
+      "count": 72
+    },
+    {
+      "tag": "sorting",
+      "count": 70
+    },
+    {
+      "tag": "tree",
+      "count": 58
+    },
+    {
+      "tag": "binary-search",
+      "count": 58
+    },
+    {
+      "tag": "two-pointers",
+      "count": 57
+    },
+    {
+      "tag": "binary-tree",
+      "count": 55
+    },
+    {
+      "tag": "matrix",
+      "count": 46
+    },
+    {
+      "tag": "linked-list",
+      "count": 44
+    },
+    {
+      "tag": "graph",
+      "count": 43
+    },
+    {
+      "tag": "greedy",
+      "count": 41
+    },
+    {
+      "tag": "heap-priority-queue",
+      "count": 40
+    },
+    {
+      "tag": "stack",
+      "count": 40
+    },
+    {
+      "tag": "design",
+      "count": 31
+    },
+    {
+      "tag": "backtracking",
+      "count": 28
+    },
+    {
+      "tag": "bit-manipulation",
+      "count": 27
+    },
+    {
+      "tag": "union-find",
+      "count": 25
+    },
+    {
+      "tag": "prefix-sum",
+      "count": 24
+    },
+    {
+      "tag": "divide-and-conquer",
+      "count": 23
+    },
+    {
+      "tag": "simulation",
+      "count": 23
+    },
+    {
+      "tag": "sliding-window",
+      "count": 19
+    },
+    {
+      "tag": "binary-search-tree",
+      "count": 16
+    },
+    {
+      "tag": "recursion",
+      "count": 15
+    },
+    {
+      "tag": "monotonic-stack",
+      "count": 15
+    },
+    {
+      "tag": "number-theory",
+      "count": 15
+    },
+    {
+      "tag": "counting",
+      "count": 14
+    },
+    {
+      "tag": "segment-tree",
+      "count": 14
+    },
+    {
+      "tag": "enumeration",
+      "count": 13
+    },
+    {
+      "tag": "game-theory",
+      "count": 13
+    },
+    {
+      "tag": "minimax-algorithm",
+      "count": 12
+    },
+    {
+      "tag": "zero-sum-game",
+      "count": 10
+    },
+    {
+      "tag": "trie",
+      "count": 10
+    },
+    {
+      "tag": "string-matching",
+      "count": 10
+    },
+    {
+      "tag": "topological-sort",
+      "count": 9
+    },
+    {
+      "tag": "hash-function",
+      "count": 9
+    },
+    {
+      "tag": "queue",
+      "count": 9
+    },
+    {
+      "tag": "directed-acyclic-graph",
+      "count": 8
+    },
+    {
+      "tag": "ordered-set",
+      "count": 8
+    },
+    {
+      "tag": "binary-indexed-tree",
+      "count": 8
+    },
+    {
+      "tag": "greatest-common-divisor",
+      "count": 7
+    },
+    {
+      "tag": "shortest-path",
+      "count": 7
+    },
+    {
+      "tag": "merge-sort",
+      "count": 7
+    },
+    {
+      "tag": "euclidean-algorithm",
+      "count": 6
+    },
+    {
+      "tag": "dijkstra",
+      "count": 6
+    },
+    {
+      "tag": "z-algorithm",
+      "count": 6
+    },
+    {
+      "tag": "knuth-morris-pratt-algorithm",
+      "count": 6
+    },
+    {
+      "tag": "memoization",
+      "count": 5
+    },
+    {
+      "tag": "minimum-spanning-tree",
+      "count": 5
+    },
+    {
+      "tag": "prime-factorization",
+      "count": 5
+    },
+    {
+      "tag": "floyds-cycle-finding-algorithm",
+      "count": 5
+    },
+    {
+      "tag": "rolling-hash",
+      "count": 5
+    },
+    {
+      "tag": "binary-lifting",
+      "count": 4
+    },
+    {
+      "tag": "lowest-common-ancestor",
+      "count": 4
+    },
+    {
+      "tag": "sieve-theory",
+      "count": 4
+    },
+    {
+      "tag": "doubly-linked-list",
+      "count": 4
+    },
+    {
+      "tag": "bracket-sequences",
+      "count": 4
+    },
+    {
+      "tag": "quicksort",
+      "count": 4
+    },
+    {
+      "tag": "knapsack-problem",
+      "count": 4
+    },
+    {
+      "tag": "randomized",
+      "count": 4
+    },
+    {
+      "tag": "geometry",
+      "count": 3
+    },
+    {
+      "tag": "quickselect",
+      "count": 3
+    },
+    {
+      "tag": "pigeonhole-principle",
+      "count": 3
+    },
+    {
+      "tag": "prims-algorithm",
+      "count": 3
+    },
+    {
+      "tag": "kruskals-algorithm",
+      "count": 3
+    },
+    {
+      "tag": "boruvkas-algorithm",
+      "count": 3
+    },
+    {
+      "tag": "dp-on-trees",
+      "count": 3
+    },
+    {
+      "tag": "combinatorics",
+      "count": 3
+    },
+    {
+      "tag": "least-common-multiple",
+      "count": 3
+    },
+    {
+      "tag": "counting-sort",
+      "count": 3
+    },
+    {
+      "tag": "bitmask",
+      "count": 3
+    },
+    {
+      "tag": "nim-game",
+      "count": 3
+    },
+    {
+      "tag": "primality-test",
+      "count": 3
+    },
+    {
+      "tag": "eulerian-circuit",
+      "count": 3
+    },
+    {
+      "tag": "eulerian-path",
+      "count": 3
+    },
+    {
+      "tag": "data-stream",
+      "count": 3
+    },
+    {
+      "tag": "algorithm-x",
+      "count": 3
+    },
+    {
+      "tag": "bidirectional-search",
+      "count": 2
+    },
+    {
+      "tag": "inclusion-exclusion-principle",
+      "count": 2
+    },
+    {
+      "tag": "boyer-moore-majority-vote-algorithm",
+      "count": 2
+    },
+    {
+      "tag": "prime-number-sieve",
+      "count": 2
+    },
+    {
+      "tag": "manacher",
+      "count": 2
+    },
+    {
+      "tag": "semi-eulerian-graph",
+      "count": 2
+    },
+    {
+      "tag": "range-minimum-maximum-query",
+      "count": 2
+    },
+    {
+      "tag": "interactive",
+      "count": 2
+    },
+    {
+      "tag": "boyer-moore-string-search-algorithm",
+      "count": 2
+    },
+    {
+      "tag": "sqrt-decomposition",
+      "count": 2
+    },
+    {
+      "tag": "complete-knapsack",
+      "count": 2
+    },
+    {
+      "tag": "bucket-sort",
+      "count": 2
+    },
+    {
+      "tag": "reservoir-sampling",
+      "count": 2
+    },
+    {
+      "tag": "0-1-knapsack",
+      "count": 2
+    },
+    {
+      "tag": "heuristic-search",
+      "count": 2
+    },
+    {
+      "tag": "a-search",
+      "count": 2
+    },
+    {
+      "tag": "k-d-tree",
+      "count": 1
+    },
+    {
+      "tag": "hamiltonian-path",
+      "count": 1
+    },
+    {
+      "tag": "sweep-line",
+      "count": 1
+    },
+    {
+      "tag": "probability-and-statistics",
+      "count": 1
+    },
+    {
+      "tag": "longest-common-subsequence",
+      "count": 1
+    },
+    {
+      "tag": "brute-force-search",
+      "count": 1
+    },
+    {
+      "tag": "bellman-ford-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "floyd-warshall-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "strongly-connected-component",
+      "count": 1
+    },
+    {
+      "tag": "sprague-grundy-theorem",
+      "count": 1
+    },
+    {
+      "tag": "linear-algebra",
+      "count": 1
+    },
+    {
+      "tag": "database",
+      "count": 1
+    },
+    {
+      "tag": "tournament-sort",
+      "count": 1
+    },
+    {
+      "tag": "suffix-array",
+      "count": 1
+    },
+    {
+      "tag": "monotonic-queue",
+      "count": 1
+    },
+    {
+      "tag": "brainteaser",
+      "count": 1
+    },
+    {
+      "tag": "impartial-game",
+      "count": 1
+    },
+    {
+      "tag": "longest-increasing-subsequence",
+      "count": 1
+    },
+    {
+      "tag": "bezouts-lemma",
+      "count": 1
+    },
+    {
+      "tag": "extended-euclidean-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "dancing-links",
+      "count": 1
+    },
+    {
+      "tag": "treap",
+      "count": 1
+    },
+    {
+      "tag": "newtons-method",
+      "count": 1
+    },
+    {
+      "tag": "bubble-sort",
+      "count": 1
+    },
+    {
+      "tag": "eulerian-graph",
+      "count": 1
+    },
+    {
+      "tag": "aho-corasick-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "ternary-search",
+      "count": 1
+    },
+    {
+      "tag": "radix-sort",
+      "count": 1
+    }
+  ],
+  "leetcodeTags": [
+    {
+      "tag": "array",
+      "count": 306
+    },
+    {
+      "tag": "string",
+      "count": 121
+    },
+    {
+      "tag": "hash-table",
+      "count": 107
+    },
+    {
+      "tag": "math",
+      "count": 102
+    },
+    {
+      "tag": "depth-first-search",
+      "count": 83
+    },
+    {
+      "tag": "dynamic-programming",
+      "count": 74
+    },
+    {
+      "tag": "breadth-first-search",
+      "count": 72
+    },
+    {
+      "tag": "sorting",
+      "count": 70
+    },
+    {
+      "tag": "tree",
+      "count": 58
+    },
+    {
+      "tag": "binary-search",
+      "count": 58
+    },
+    {
+      "tag": "two-pointers",
+      "count": 57
+    },
+    {
+      "tag": "binary-tree",
+      "count": 55
+    },
+    {
+      "tag": "matrix",
+      "count": 46
+    },
+    {
+      "tag": "linked-list",
+      "count": 44
+    },
+    {
+      "tag": "graph",
+      "count": 43
+    },
+    {
+      "tag": "greedy",
+      "count": 41
+    },
+    {
+      "tag": "heap-priority-queue",
+      "count": 40
+    },
+    {
+      "tag": "stack",
+      "count": 40
+    },
+    {
+      "tag": "design",
+      "count": 31
+    },
+    {
+      "tag": "backtracking",
+      "count": 28
+    },
+    {
+      "tag": "bit-manipulation",
+      "count": 27
+    },
+    {
+      "tag": "union-find",
+      "count": 25
+    },
+    {
+      "tag": "prefix-sum",
+      "count": 24
+    },
+    {
+      "tag": "divide-and-conquer",
+      "count": 23
+    },
+    {
+      "tag": "simulation",
+      "count": 23
+    },
+    {
+      "tag": "sliding-window",
+      "count": 19
+    },
+    {
+      "tag": "binary-search-tree",
+      "count": 16
+    },
+    {
+      "tag": "monotonic-stack",
+      "count": 15
+    },
+    {
+      "tag": "number-theory",
+      "count": 15
+    },
+    {
+      "tag": "recursion",
+      "count": 15
+    },
+    {
+      "tag": "counting",
+      "count": 14
+    },
+    {
+      "tag": "segment-tree",
+      "count": 14
+    },
+    {
+      "tag": "enumeration",
+      "count": 13
+    },
+    {
+      "tag": "game-theory",
+      "count": 13
+    },
+    {
+      "tag": "minimax-algorithm",
+      "count": 12
+    },
+    {
+      "tag": "zero-sum-game",
+      "count": 10
+    },
+    {
+      "tag": "trie",
+      "count": 10
+    },
+    {
+      "tag": "string-matching",
+      "count": 10
+    },
+    {
+      "tag": "topological-sort",
+      "count": 9
+    },
+    {
+      "tag": "queue",
+      "count": 9
+    },
+    {
+      "tag": "hash-function",
+      "count": 9
+    },
+    {
+      "tag": "directed-acyclic-graph",
+      "count": 8
+    },
+    {
+      "tag": "binary-indexed-tree",
+      "count": 8
+    },
+    {
+      "tag": "ordered-set",
+      "count": 8
+    },
+    {
+      "tag": "shortest-path",
+      "count": 7
+    },
+    {
+      "tag": "greatest-common-divisor",
+      "count": 7
+    },
+    {
+      "tag": "merge-sort",
+      "count": 7
+    },
+    {
+      "tag": "dijkstra",
+      "count": 6
+    },
+    {
+      "tag": "euclidean-algorithm",
+      "count": 6
+    },
+    {
+      "tag": "z-algorithm",
+      "count": 6
+    },
+    {
+      "tag": "knuth-morris-pratt-algorithm",
+      "count": 6
+    },
+    {
+      "tag": "prime-factorization",
+      "count": 5
+    },
+    {
+      "tag": "memoization",
+      "count": 5
+    },
+    {
+      "tag": "floyds-cycle-finding-algorithm",
+      "count": 5
+    },
+    {
+      "tag": "rolling-hash",
+      "count": 5
+    },
+    {
+      "tag": "minimum-spanning-tree",
+      "count": 5
+    },
+    {
+      "tag": "doubly-linked-list",
+      "count": 4
+    },
+    {
+      "tag": "sieve-theory",
+      "count": 4
+    },
+    {
+      "tag": "bracket-sequences",
+      "count": 4
+    },
+    {
+      "tag": "binary-lifting",
+      "count": 4
+    },
+    {
+      "tag": "lowest-common-ancestor",
+      "count": 4
+    },
+    {
+      "tag": "randomized",
+      "count": 4
+    },
+    {
+      "tag": "knapsack-problem",
+      "count": 4
+    },
+    {
+      "tag": "quicksort",
+      "count": 4
+    },
+    {
+      "tag": "data-stream",
+      "count": 3
+    },
+    {
+      "tag": "combinatorics",
+      "count": 3
+    },
+    {
+      "tag": "least-common-multiple",
+      "count": 3
+    },
+    {
+      "tag": "pigeonhole-principle",
+      "count": 3
+    },
+    {
+      "tag": "primality-test",
+      "count": 3
+    },
+    {
+      "tag": "bitmask",
+      "count": 3
+    },
+    {
+      "tag": "algorithm-x",
+      "count": 3
+    },
+    {
+      "tag": "nim-game",
+      "count": 3
+    },
+    {
+      "tag": "eulerian-circuit",
+      "count": 3
+    },
+    {
+      "tag": "eulerian-path",
+      "count": 3
+    },
+    {
+      "tag": "counting-sort",
+      "count": 3
+    },
+    {
+      "tag": "dp-on-trees",
+      "count": 3
+    },
+    {
+      "tag": "prims-algorithm",
+      "count": 3
+    },
+    {
+      "tag": "kruskals-algorithm",
+      "count": 3
+    },
+    {
+      "tag": "boruvkas-algorithm",
+      "count": 3
+    },
+    {
+      "tag": "quickselect",
+      "count": 3
+    },
+    {
+      "tag": "geometry",
+      "count": 3
+    },
+    {
+      "tag": "bidirectional-search",
+      "count": 2
+    },
+    {
+      "tag": "interactive",
+      "count": 2
+    },
+    {
+      "tag": "heuristic-search",
+      "count": 2
+    },
+    {
+      "tag": "a-search",
+      "count": 2
+    },
+    {
+      "tag": "inclusion-exclusion-principle",
+      "count": 2
+    },
+    {
+      "tag": "prime-number-sieve",
+      "count": 2
+    },
+    {
+      "tag": "sqrt-decomposition",
+      "count": 2
+    },
+    {
+      "tag": "semi-eulerian-graph",
+      "count": 2
+    },
+    {
+      "tag": "reservoir-sampling",
+      "count": 2
+    },
+    {
+      "tag": "complete-knapsack",
+      "count": 2
+    },
+    {
+      "tag": "0-1-knapsack",
+      "count": 2
+    },
+    {
+      "tag": "manacher",
+      "count": 2
+    },
+    {
+      "tag": "bucket-sort",
+      "count": 2
+    },
+    {
+      "tag": "boyer-moore-string-search-algorithm",
+      "count": 2
+    },
+    {
+      "tag": "range-minimum-maximum-query",
+      "count": 2
+    },
+    {
+      "tag": "boyer-moore-majority-vote-algorithm",
+      "count": 2
+    },
+    {
+      "tag": "bezouts-lemma",
+      "count": 1
+    },
+    {
+      "tag": "extended-euclidean-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "eulerian-graph",
+      "count": 1
+    },
+    {
+      "tag": "sprague-grundy-theorem",
+      "count": 1
+    },
+    {
+      "tag": "dancing-links",
+      "count": 1
+    },
+    {
+      "tag": "probability-and-statistics",
+      "count": 1
+    },
+    {
+      "tag": "aho-corasick-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "tournament-sort",
+      "count": 1
+    },
+    {
+      "tag": "brainteaser",
+      "count": 1
+    },
+    {
+      "tag": "impartial-game",
+      "count": 1
+    },
+    {
+      "tag": "brute-force-search",
+      "count": 1
+    },
+    {
+      "tag": "strongly-connected-component",
+      "count": 1
+    },
+    {
+      "tag": "bellman-ford-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "floyd-warshall-algorithm",
+      "count": 1
+    },
+    {
+      "tag": "suffix-array",
+      "count": 1
+    },
+    {
+      "tag": "treap",
+      "count": 1
+    },
+    {
+      "tag": "radix-sort",
+      "count": 1
+    },
+    {
+      "tag": "ternary-search",
+      "count": 1
+    },
+    {
+      "tag": "database",
+      "count": 1
+    },
+    {
+      "tag": "k-d-tree",
+      "count": 1
+    },
+    {
+      "tag": "linear-algebra",
+      "count": 1
+    },
+    {
+      "tag": "newtons-method",
+      "count": 1
+    },
+    {
+      "tag": "longest-increasing-subsequence",
+      "count": 1
+    },
+    {
+      "tag": "bubble-sort",
+      "count": 1
+    },
+    {
+      "tag": "sweep-line",
+      "count": 1
+    },
+    {
+      "tag": "monotonic-queue",
+      "count": 1
+    },
+    {
+      "tag": "longest-common-subsequence",
+      "count": 1
+    },
+    {
+      "tag": "hamiltonian-path",
+      "count": 1
+    }
+  ],
+  "codeforcesTags": []
+}

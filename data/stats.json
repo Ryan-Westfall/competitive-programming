@@ -1,0 +1,102 @@
+{
+  "updatedAt": "2026-09-10T18:28:01.742Z",
+  "leetcode": {
+    "uniqueSolved": 584,
+    "totalSubmissions": 584
+  },
+  "codeforces": {
+    "uniqueSolved": 0,
+    "totalSubmissions": 0
+  },
+  "total": {
+    "uniqueSolved": 584,
+    "submissions": 584
+  },
+  "tags": [
+    {
+      "tag": "array",
+      "count": 306
+    },
+    {
+      "tag": "string",
+      "count": 121
+    },
+    {
+      "tag": "hash-table",
+      "count": 107
+    },
+    {
+      "tag": "math",
+      "count": 102
+    },
+    {
+      "tag": "depth-first-search",
+      "count": 83
+    },
+    {
+      "tag": "dynamic-programming",
+      "count": 74
+    },
+    {
+      "tag": "breadth-first-search",
+      "count": 72
+    },
+    {
+      "tag": "sorting",
+      "count": 70
+    },
+    {
+      "tag": "tree",
+      "count": 58
+    },
+    {
+      "tag": "binary-search",
+      "count": 58
+    },
+    {
+      "tag": "two-pointers",
+      "count": 57
+    },
+    {
+      "tag": "binary-tree",
+      "count": 55
+    },
+    {
+      "tag": "matrix",
+      "count": 46
+    },
+    {
+      "tag": "linked-list",
+      "count": 44
+    },
+    {
+      "tag": "graph",
+      "count": 43
+    },
+    {
+      "tag": "greedy",
+      "count": 41
+    },
+    {
+      "tag": "heap-priority-queue",
+      "count": 40
+    },
+    {
+      "tag": "stack",
+      "count": 40
+    },
+    {
+      "tag": "design",
+      "count": 31
+    },
+    {
+      "tag": "backtracking",
+      "count": 28
+    }
+  ],
+  "difficulties": {
+    "Easy": 168,
+    "Medium": 329,
+    "Hard": 87
+  }
+}

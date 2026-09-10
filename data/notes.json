@@ -5,5 +5,12 @@
     "updatedAt": "2026-09-10T20:42:15.829Z",
     "preview": "Got to do dfs on this and return back a tuple declaring subTreeSum and subTreeN",
     "path": "leetcode/2347-count-nodes-equal-to-average-of-subtree/notes.md"
+  },
+  "binary-tree-zigzag-level-order-traversal": {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frontendId": "103",
+    "updatedAt": "2026-09-10T20:57:43.475Z",
+    "preview": "You gotaa zig and zag",
+    "path": "leetcode/103-binary-tree-zigzag-level-order-traversal/notes.md"
   }
 }

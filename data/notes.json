@@ -16,8 +16,8 @@
   "number-of-islands-ii": {
     "title": "Number of Islands II",
     "frontendId": "305",
-    "updatedAt": "2026-09-10T23:10:20.145Z",
-    "preview": "UnionFind pattern applied to the problem.",
+    "updatedAt": "2026-09-10T23:36:27.963Z",
+    "preview": "UnionFind pattern applied to the problem. If there is a unionfind match, you decrement count as there is 1 less island.",
     "path": "leetcode/305-number-of-islands-ii/notes.md"
   }
 }

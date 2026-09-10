@@ -6,8 +6,8 @@
 **Tags:** Array, Hash Table, Union-Find
 **Companies:** Uber, Google, Meta, Amazon, Waymo
 **Language:** Python3
-**Runtime:** 64 ms (86.5%)
-**Memory:** 26.1 MB (5.7%)
+**Runtime:** 64 ms (86.4%)
+**Memory:** 26.1 MB (5.3%)
 **Submitted:** 2026-09-09
 **Link:** https://leetcode.com/problems/number-of-islands-ii/
 

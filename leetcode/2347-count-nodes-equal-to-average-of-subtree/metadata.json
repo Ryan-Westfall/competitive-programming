@@ -1,0 +1,24 @@
+{
+  "questionId": "2347",
+  "frontendId": "2265",
+  "title": "Count Nodes Equal to Average of Subtree",
+  "titleSlug": "count-nodes-equal-to-average-of-subtree",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 53,
+  "runtimePercentile": 49.720599999999976,
+  "memory": 19436000,
+  "memoryPercentile": 92.3651,
+  "timestamp": 1789004139
+}

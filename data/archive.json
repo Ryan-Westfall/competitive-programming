@@ -9,6 +9,8 @@
     "_ts": 1789004139,
     "difficulty": "Medium",
     "frontendId": "2265",
+    "questionId": "2347",
+    "dir": "leetcode/2347-count-nodes-equal-to-average-of-subtree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -30,6 +32,8 @@
     "_ts": 1788999489,
     "difficulty": "Medium",
     "frontendId": "103",
+    "questionId": "103",
+    "dir": "leetcode/103-binary-tree-zigzag-level-order-traversal",
     "tags": [
       "tree",
       "breadth-first-search",
@@ -51,6 +55,8 @@
     "_ts": 1788972278,
     "difficulty": "Hard",
     "frontendId": "305",
+    "questionId": "305",
+    "dir": "leetcode/305-number-of-islands-ii",
     "tags": [
       "array",
       "hash-table",
@@ -72,6 +78,8 @@
     "_ts": 1788912898,
     "difficulty": "Medium",
     "frontendId": "3871",
+    "questionId": "4248",
+    "dir": "leetcode/4248-count-commas-in-range-ii",
     "tags": [
       "math"
     ],
@@ -89,6 +97,8 @@
     "_ts": 1788898753,
     "difficulty": "Medium",
     "frontendId": "752",
+    "questionId": "753",
+    "dir": "leetcode/753-open-the-lock",
     "tags": [
       "array",
       "hash-table",
@@ -114,6 +124,8 @@
     "_ts": 1788888162,
     "difficulty": "Medium",
     "frontendId": "107",
+    "questionId": "107",
+    "dir": "leetcode/107-binary-tree-level-order-traversal-ii",
     "tags": [
       "tree",
       "breadth-first-search",
@@ -135,6 +147,8 @@
     "_ts": 1788884676,
     "difficulty": "Easy",
     "frontendId": "111",
+    "questionId": "111",
+    "dir": "leetcode/111-minimum-depth-of-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -158,6 +172,8 @@
     "_ts": 1788839887,
     "difficulty": "Easy",
     "frontendId": "1086",
+    "questionId": "1074",
+    "dir": "leetcode/1074-high-five",
     "tags": [
       "array",
       "hash-table",
@@ -181,6 +197,8 @@
     "_ts": 1788832940,
     "difficulty": "Easy",
     "frontendId": "3870",
+    "questionId": "4245",
+    "dir": "leetcode/4245-count-commas-in-range",
     "tags": [
       "math"
     ],
@@ -198,6 +216,8 @@
     "_ts": 1788757055,
     "difficulty": "Medium",
     "frontendId": "240",
+    "questionId": "240",
+    "dir": "leetcode/240-search-a-2d-matrix-ii",
     "tags": [
       "array",
       "binary-search",
@@ -221,6 +241,8 @@
     "_ts": 1788756787,
     "difficulty": "Medium",
     "frontendId": "74",
+    "questionId": "74",
+    "dir": "leetcode/74-search-a-2d-matrix",
     "tags": [
       "array",
       "binary-search",
@@ -242,6 +264,8 @@
     "_ts": 1788749741,
     "difficulty": "Hard",
     "frontendId": "1987",
+    "questionId": "2115",
+    "dir": "leetcode/2115-number-of-unique-good-subsequences",
     "tags": [
       "string",
       "dynamic-programming"
@@ -261,6 +285,8 @@
     "_ts": 1788748140,
     "difficulty": "Hard",
     "frontendId": "940",
+    "questionId": "977",
+    "dir": "leetcode/977-distinct-subsequences-ii",
     "tags": [
       "string",
       "dynamic-programming"
@@ -280,6 +306,8 @@
     "_ts": 1788737340,
     "difficulty": "Hard",
     "frontendId": "115",
+    "questionId": "115",
+    "dir": "leetcode/115-distinct-subsequences",
     "tags": [
       "string",
       "dynamic-programming"
@@ -299,6 +327,8 @@
     "_ts": 1788661740,
     "difficulty": "Medium",
     "frontendId": "3904",
+    "questionId": "4285",
+    "dir": "leetcode/4285-smallest-stable-index-ii",
     "tags": [
       "array",
       "prefix-sum"
@@ -318,6 +348,8 @@
     "_ts": 1788571693,
     "difficulty": "Easy",
     "frontendId": "3903",
+    "questionId": "4284",
+    "dir": "leetcode/4284-smallest-stable-index-i",
     "tags": [
       "array",
       "prefix-sum"
@@ -337,6 +369,8 @@
     "_ts": 1788480727,
     "difficulty": "Medium",
     "frontendId": "1055",
+    "questionId": "1051",
+    "dir": "leetcode/1051-shortest-way-to-form-string",
     "tags": [
       "two-pointers",
       "string",
@@ -360,6 +394,8 @@
     "_ts": 1788479388,
     "difficulty": "Medium",
     "frontendId": "1631",
+    "questionId": "1753",
+    "dir": "leetcode/1753-path-with-minimum-effort",
     "tags": [
       "array",
       "binary-search",
@@ -391,6 +427,8 @@
     "_ts": 1788471639,
     "difficulty": "Hard",
     "frontendId": "85",
+    "questionId": "85",
+    "dir": "leetcode/85-maximal-rectangle",
     "tags": [
       "array",
       "dynamic-programming",
@@ -416,6 +454,8 @@
     "_ts": 1788466474,
     "difficulty": "Hard",
     "frontendId": "2355",
+    "questionId": "2490",
+    "dir": "leetcode/2490-maximum-number-of-books-you-can-take",
     "tags": [
       "array",
       "dynamic-programming",
@@ -439,6 +479,8 @@
     "_ts": 1788458917,
     "difficulty": "Medium",
     "frontendId": "3876",
+    "questionId": "4258",
+    "dir": "leetcode/4258-construct-uniform-parity-array-ii",
     "tags": [
       "array",
       "math"
@@ -458,6 +500,8 @@
     "_ts": 1788382941,
     "difficulty": "Hard",
     "frontendId": "312",
+    "questionId": "312",
+    "dir": "leetcode/312-burst-balloons",
     "tags": [
       "array",
       "dynamic-programming"
@@ -477,6 +521,8 @@
     "_ts": 1788377753,
     "difficulty": "Hard",
     "frontendId": "410",
+    "questionId": "410",
+    "dir": "leetcode/410-split-array-largest-sum",
     "tags": [
       "array",
       "binary-search",
@@ -502,6 +548,8 @@
     "_ts": 1788373257,
     "difficulty": "Hard",
     "frontendId": "1231",
+    "questionId": "1192",
+    "dir": "leetcode/1192-divide-chocolate",
     "tags": [
       "array",
       "binary-search"
@@ -521,6 +569,8 @@
     "_ts": 1788371258,
     "difficulty": "Medium",
     "frontendId": "1877",
+    "questionId": "1988",
+    "dir": "leetcode/1988-minimize-maximum-pair-sum-in-array",
     "tags": [
       "array",
       "two-pointers",
@@ -544,6 +594,8 @@
     "_ts": 1788322445,
     "difficulty": "Easy",
     "frontendId": "3875",
+    "questionId": "4256",
+    "dir": "leetcode/4256-construct-uniform-parity-array-i",
     "tags": [
       "array",
       "math"
@@ -563,6 +615,8 @@
     "_ts": 1788321858,
     "difficulty": "Hard",
     "frontendId": "778",
+    "questionId": "794",
+    "dir": "leetcode/794-swim-in-rising-water",
     "tags": [
       "array",
       "binary-search",
@@ -596,6 +650,8 @@
     "_ts": 1788308683,
     "difficulty": "Medium",
     "frontendId": "787",
+    "questionId": "803",
+    "dir": "leetcode/803-cheapest-flights-within-k-stops",
     "tags": [
       "dynamic-programming",
       "depth-first-search",
@@ -623,6 +679,8 @@
     "_ts": 1788305579,
     "difficulty": "Medium",
     "frontendId": "309",
+    "questionId": "309",
+    "dir": "leetcode/309-best-time-to-buy-and-sell-stock-with-cooldown",
     "tags": [
       "array",
       "dynamic-programming"
@@ -642,6 +700,8 @@
     "_ts": 1788302404,
     "difficulty": "Easy",
     "frontendId": "746",
+    "questionId": "747",
+    "dir": "leetcode/747-min-cost-climbing-stairs",
     "tags": [
       "array",
       "dynamic-programming"
@@ -661,6 +721,8 @@
     "_ts": 1788301377,
     "difficulty": "Medium",
     "frontendId": "91",
+    "questionId": "91",
+    "dir": "leetcode/91-decode-ways",
     "tags": [
       "string",
       "dynamic-programming"
@@ -680,6 +742,8 @@
     "_ts": 1788298781,
     "difficulty": "Hard",
     "frontendId": "269",
+    "questionId": "269",
+    "dir": "leetcode/269-alien-dictionary",
     "tags": [
       "array",
       "string",
@@ -709,6 +773,8 @@
     "_ts": 1788292419,
     "difficulty": "Medium",
     "frontendId": "271",
+    "questionId": "271",
+    "dir": "leetcode/271-encode-and-decode-strings",
     "tags": [
       "array",
       "string",
@@ -730,6 +796,8 @@
     "_ts": 1788287789,
     "difficulty": "Medium",
     "frontendId": "3568",
+    "questionId": "3870",
+    "dir": "leetcode/3870-minimum-moves-to-clean-the-classroom",
     "tags": [
       "array",
       "hash-table",
@@ -755,6 +823,8 @@
     "_ts": 1788223400,
     "difficulty": "Medium",
     "frontendId": "438",
+    "questionId": "438",
+    "dir": "leetcode/438-find-all-anagrams-in-a-string",
     "tags": [
       "hash-table",
       "string",
@@ -776,6 +846,8 @@
     "_ts": 1788220137,
     "difficulty": "Medium",
     "frontendId": "310",
+    "questionId": "310",
+    "dir": "leetcode/310-minimum-height-trees",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -799,6 +871,8 @@
     "_ts": 1788215883,
     "difficulty": "Hard",
     "frontendId": "1235",
+    "questionId": "1352",
+    "dir": "leetcode/1352-maximum-profit-in-job-scheduling",
     "tags": [
       "array",
       "binary-search",
@@ -822,6 +896,8 @@
     "_ts": 1788210098,
     "difficulty": "Easy",
     "frontendId": "733",
+    "questionId": "733",
+    "dir": "leetcode/733-flood-fill",
     "tags": [
       "array",
       "depth-first-search",
@@ -845,6 +921,8 @@
     "_ts": 1788209385,
     "difficulty": "Medium",
     "frontendId": "542",
+    "questionId": "542",
+    "dir": "leetcode/542-01-matrix",
     "tags": [
       "array",
       "dynamic-programming",
@@ -868,6 +946,8 @@
     "_ts": 1788193355,
     "difficulty": "Easy",
     "frontendId": "374",
+    "questionId": "374",
+    "dir": "leetcode/374-guess-number-higher-or-lower",
     "tags": [
       "binary-search",
       "interactive"
@@ -887,6 +967,8 @@
     "_ts": 1788192867,
     "difficulty": "Easy",
     "frontendId": "278",
+    "questionId": "278",
+    "dir": "leetcode/278-first-bad-version",
     "tags": [
       "binary-search",
       "interactive"
@@ -906,6 +988,8 @@
     "_ts": 1788140857,
     "difficulty": "Easy",
     "frontendId": "409",
+    "questionId": "409",
+    "dir": "leetcode/409-longest-palindrome",
     "tags": [
       "hash-table",
       "string",
@@ -927,6 +1011,8 @@
     "_ts": 1788140392,
     "difficulty": "Easy",
     "frontendId": "876",
+    "questionId": "908",
+    "dir": "leetcode/908-middle-of-the-linked-list",
     "tags": [
       "linked-list",
       "two-pointers"
@@ -946,6 +1032,8 @@
     "_ts": 1788140264,
     "difficulty": "Easy",
     "frontendId": "383",
+    "questionId": "383",
+    "dir": "leetcode/383-ransom-note",
     "tags": [
       "hash-table",
       "string",
@@ -967,6 +1055,8 @@
     "_ts": 1788138798,
     "difficulty": "Easy",
     "frontendId": "703",
+    "questionId": "789",
+    "dir": "leetcode/789-kth-largest-element-in-a-stream",
     "tags": [
       "tree",
       "design",
@@ -994,6 +1084,8 @@
     "_ts": 1788137619,
     "difficulty": "Medium",
     "frontendId": "2058",
+    "questionId": "2182",
+    "dir": "leetcode/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
     "tags": [
       "linked-list"
     ],
@@ -1011,6 +1103,8 @@
     "_ts": 1788134488,
     "difficulty": "Hard",
     "frontendId": "460",
+    "questionId": "460",
+    "dir": "leetcode/460-lfu-cache",
     "tags": [
       "hash-table",
       "linked-list",
@@ -1034,6 +1128,8 @@
     "_ts": 1788134471,
     "difficulty": "Medium",
     "frontendId": "146",
+    "questionId": "146",
+    "dir": "leetcode/146-lru-cache",
     "tags": [
       "hash-table",
       "linked-list",
@@ -1057,6 +1153,8 @@
     "_ts": 1788133294,
     "difficulty": "Medium",
     "frontendId": "33",
+    "questionId": "33",
+    "dir": "leetcode/33-search-in-rotated-sorted-array",
     "tags": [
       "array",
       "binary-search"
@@ -1076,6 +1174,8 @@
     "_ts": 1788133059,
     "difficulty": "Medium",
     "frontendId": "81",
+    "questionId": "81",
+    "dir": "leetcode/81-search-in-rotated-sorted-array-ii",
     "tags": [
       "array",
       "binary-search"
@@ -1095,6 +1195,8 @@
     "_ts": 1788130190,
     "difficulty": "Medium",
     "frontendId": "2091",
+    "questionId": "2212",
+    "dir": "leetcode/2212-removing-minimum-and-maximum-from-array",
     "tags": [
       "array",
       "greedy"
@@ -1114,6 +1216,8 @@
     "_ts": 1788041484,
     "difficulty": "Medium",
     "frontendId": "2948",
+    "questionId": "3219",
+    "dir": "leetcode/3219-make-lexicographically-smallest-array-by-swapping-elements",
     "tags": [
       "array",
       "union-find",
@@ -1135,6 +1239,8 @@
     "_ts": 1788038120,
     "difficulty": "Easy",
     "frontendId": "800",
+    "questionId": "818",
+    "dir": "leetcode/818-similar-rgb-color",
     "tags": [
       "math",
       "string",
@@ -1156,6 +1262,8 @@
     "_ts": 1788017553,
     "difficulty": "Medium",
     "frontendId": "4036",
+    "questionId": "4366",
+    "dir": "leetcode/4366-lexicographically-largest-string-after-pair-transformations",
     "tags": [],
     "tagNames": []
   },
@@ -1169,6 +1277,8 @@
     "_ts": 1788016549,
     "difficulty": "Medium",
     "frontendId": "4035",
+    "questionId": "4373",
+    "dir": "leetcode/4373-maximum-valid-split-positions-i",
     "tags": [],
     "tagNames": []
   },
@@ -1182,6 +1292,8 @@
     "_ts": 1788014709,
     "difficulty": "Medium",
     "frontendId": "4034",
+    "questionId": "4390",
+    "dir": "leetcode/4390-minimum-bishop-moves-to-reach-target",
     "tags": [],
     "tagNames": []
   },
@@ -1195,6 +1307,8 @@
     "_ts": 1787958830,
     "difficulty": "Hard",
     "frontendId": "499",
+    "questionId": "499",
+    "dir": "leetcode/499-the-maze-iii",
     "tags": [
       "array",
       "string",
@@ -1232,6 +1346,8 @@
     "_ts": 1787952168,
     "difficulty": "Medium",
     "frontendId": "505",
+    "questionId": "505",
+    "dir": "leetcode/505-the-maze-ii",
     "tags": [
       "array",
       "depth-first-search",
@@ -1267,6 +1383,8 @@
     "_ts": 1787942874,
     "difficulty": "Medium",
     "frontendId": "490",
+    "questionId": "490",
+    "dir": "leetcode/490-the-maze",
     "tags": [
       "array",
       "depth-first-search",
@@ -1290,6 +1408,8 @@
     "_ts": 1787877522,
     "difficulty": "Hard",
     "frontendId": "3734",
+    "questionId": "4037",
+    "dir": "leetcode/4037-lexicographically-smallest-palindromic-permutation-greater-than-target",
     "tags": [
       "two-pointers",
       "string",
@@ -1311,6 +1431,8 @@
     "_ts": 1787872959,
     "difficulty": "Easy",
     "frontendId": "263",
+    "questionId": "263",
+    "dir": "leetcode/263-ugly-number",
     "tags": [
       "math"
     ],
@@ -1328,6 +1450,8 @@
     "_ts": 1787871672,
     "difficulty": "Medium",
     "frontendId": "264",
+    "questionId": "264",
+    "dir": "leetcode/264-ugly-number-ii",
     "tags": [
       "hash-table",
       "math",
@@ -1351,6 +1475,8 @@
     "_ts": 1787871104,
     "difficulty": "Medium",
     "frontendId": "1201",
+    "questionId": "1307",
+    "dir": "leetcode/1307-ugly-number-iii",
     "tags": [
       "math",
       "binary-search",
@@ -1382,6 +1508,8 @@
     "_ts": 1787867898,
     "difficulty": "Medium",
     "frontendId": "1492",
+    "questionId": "1585",
+    "dir": "leetcode/1585-the-kth-factor-of-n",
     "tags": [
       "math",
       "number-theory",
@@ -1403,6 +1531,8 @@
     "_ts": 1787862679,
     "difficulty": "Medium",
     "frontendId": "1015",
+    "questionId": "1064",
+    "dir": "leetcode/1064-smallest-integer-divisible-by-k",
     "tags": [
       "hash-table",
       "math",
@@ -1424,6 +1554,8 @@
     "_ts": 1787860507,
     "difficulty": "Medium",
     "frontendId": "1390",
+    "questionId": "1284",
+    "dir": "leetcode/1284-four-divisors",
     "tags": [
       "array",
       "math",
@@ -1447,6 +1579,8 @@
     "_ts": 1787858997,
     "difficulty": "Easy",
     "frontendId": "2427",
+    "questionId": "2507",
+    "dir": "leetcode/2507-number-of-common-factors",
     "tags": [
       "math",
       "enumeration",
@@ -1472,6 +1606,8 @@
     "_ts": 1787846949,
     "difficulty": "Medium",
     "frontendId": "3720",
+    "questionId": "4020",
+    "dir": "leetcode/4020-lexicographically-smallest-permutation-greater-than-target",
     "tags": [
       "hash-table",
       "string",
@@ -1497,6 +1633,8 @@
     "_ts": 1787790096,
     "difficulty": "Medium",
     "frontendId": "204",
+    "questionId": "204",
+    "dir": "leetcode/204-count-primes",
     "tags": [
       "array",
       "math",
@@ -1526,6 +1664,8 @@
     "_ts": 1787787005,
     "difficulty": "Hard",
     "frontendId": "952",
+    "questionId": "989",
+    "dir": "leetcode/989-largest-component-size-by-common-factor",
     "tags": [
       "array",
       "hash-table",
@@ -1553,6 +1693,8 @@
     "_ts": 1787783728,
     "difficulty": "Easy",
     "frontendId": "2413",
+    "questionId": "2491",
+    "dir": "leetcode/2491-smallest-even-multiple",
     "tags": [
       "math",
       "number-theory"
@@ -1572,6 +1714,8 @@
     "_ts": 1787783367,
     "difficulty": "Medium",
     "frontendId": "365",
+    "questionId": "365",
+    "dir": "leetcode/365-water-and-jug-problem",
     "tags": [
       "math",
       "depth-first-search",
@@ -1601,6 +1745,8 @@
     "_ts": 1787782097,
     "difficulty": "Medium",
     "frontendId": "50",
+    "questionId": "50",
+    "dir": "leetcode/50-powx-n",
     "tags": [
       "math",
       "recursion"
@@ -1620,6 +1766,8 @@
     "_ts": 1787780381,
     "difficulty": "Medium",
     "frontendId": "99",
+    "questionId": "99",
+    "dir": "leetcode/99-recover-binary-search-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -1643,6 +1791,8 @@
     "_ts": 1787764611,
     "difficulty": "Medium",
     "frontendId": "2904",
+    "questionId": "3150",
+    "dir": "leetcode/3150-shortest-and-lexicographically-smallest-beautiful-string",
     "tags": [
       "string",
       "sliding-window"
@@ -1662,6 +1812,8 @@
     "_ts": 1787694469,
     "difficulty": "Medium",
     "frontendId": "2521",
+    "questionId": "2609",
+    "dir": "leetcode/2609-distinct-prime-factors-of-product-of-array",
     "tags": [
       "array",
       "hash-table",
@@ -1697,6 +1849,8 @@
     "_ts": 1787692308,
     "difficulty": "Hard",
     "frontendId": "878",
+    "questionId": "910",
+    "dir": "leetcode/910-nth-magical-number",
     "tags": [
       "math",
       "binary-search",
@@ -1720,6 +1874,8 @@
     "_ts": 1787689798,
     "difficulty": "Easy",
     "frontendId": "1071",
+    "questionId": "1146",
+    "dir": "leetcode/1146-greatest-common-divisor-of-strings",
     "tags": [
       "math",
       "string",
@@ -1743,6 +1899,8 @@
     "_ts": 1787687897,
     "difficulty": "Easy",
     "frontendId": "1952",
+    "questionId": "2083",
+    "dir": "leetcode/2083-three-divisors",
     "tags": [
       "math",
       "enumeration",
@@ -1768,6 +1926,8 @@
     "_ts": 1787680260,
     "difficulty": "Easy",
     "frontendId": "3718",
+    "questionId": "4080",
+    "dir": "leetcode/4080-smallest-missing-multiple-of-k",
     "tags": [
       "array",
       "hash-table"
@@ -1787,6 +1947,8 @@
     "_ts": 1787613121,
     "difficulty": "Medium",
     "frontendId": "89",
+    "questionId": "89",
+    "dir": "leetcode/89-gray-code",
     "tags": [
       "math",
       "backtracking",
@@ -1808,6 +1970,8 @@
     "_ts": 1787609144,
     "difficulty": "Medium",
     "frontendId": "95",
+    "questionId": "95",
+    "dir": "leetcode/95-unique-binary-search-trees-ii",
     "tags": [
       "dynamic-programming",
       "backtracking",
@@ -1833,6 +1997,8 @@
     "_ts": 1787597315,
     "difficulty": "Medium",
     "frontendId": "59",
+    "questionId": "59",
+    "dir": "leetcode/59-spiral-matrix-ii",
     "tags": [
       "array",
       "matrix",
@@ -1854,6 +2020,8 @@
     "_ts": 1787595229,
     "difficulty": "Easy",
     "frontendId": "58",
+    "questionId": "58",
+    "dir": "leetcode/58-length-of-last-word",
     "tags": [
       "string"
     ],
@@ -1871,6 +2039,8 @@
     "_ts": 1787532192,
     "difficulty": "Hard",
     "frontendId": "1872",
+    "questionId": "2002",
+    "dir": "leetcode/2002-stone-game-viii",
     "tags": [
       "array",
       "math",
@@ -1900,6 +2070,8 @@
     "_ts": 1787530588,
     "difficulty": "Medium",
     "frontendId": "1927",
+    "questionId": "2039",
+    "dir": "leetcode/2039-sum-game",
     "tags": [
       "math",
       "string",
@@ -1923,6 +2095,8 @@
     "_ts": 1787456408,
     "difficulty": "Medium",
     "frontendId": "4032",
+    "questionId": "4370",
+    "dir": "leetcode/4370-longest-subarray-with-at-most-k-distinct-prime-factors",
     "tags": [],
     "tagNames": []
   },
@@ -1936,6 +2110,8 @@
     "_ts": 1787453876,
     "difficulty": "Medium",
     "frontendId": "4031",
+    "questionId": "4383",
+    "dir": "leetcode/4383-find-all-numbers-disappeared-in-an-array-ii",
     "tags": [],
     "tagNames": []
   },
@@ -1949,6 +2125,8 @@
     "_ts": 1787452764,
     "difficulty": "Easy",
     "frontendId": "4030",
+    "questionId": "4381",
+    "dir": "leetcode/4381-check-ascii-palindromic",
     "tags": [],
     "tagNames": []
   },
@@ -1962,6 +2140,8 @@
     "_ts": 1787441926,
     "difficulty": "Medium",
     "frontendId": "351",
+    "questionId": "351",
+    "dir": "leetcode/351-android-unlock-patterns",
     "tags": [
       "dynamic-programming",
       "backtracking",
@@ -1985,6 +2165,8 @@
     "_ts": 1787413510,
     "difficulty": "Easy",
     "frontendId": "3622",
+    "questionId": "3918",
+    "dir": "leetcode/3918-check-divisibility-by-digit-sum-and-product",
     "tags": [
       "math"
     ],
@@ -2002,6 +2184,8 @@
     "_ts": 1787359525,
     "difficulty": "Medium",
     "frontendId": "378",
+    "questionId": "378",
+    "dir": "leetcode/378-kth-smallest-element-in-a-sorted-matrix",
     "tags": [
       "array",
       "binary-search",
@@ -2027,6 +2211,8 @@
     "_ts": 1787355076,
     "difficulty": "Medium",
     "frontendId": "1552",
+    "questionId": "1675",
+    "dir": "leetcode/1675-magnetic-force-between-two-balls",
     "tags": [
       "array",
       "binary-search",
@@ -2048,6 +2234,8 @@
     "_ts": 1787352669,
     "difficulty": "Medium",
     "frontendId": "1011",
+    "questionId": "1056",
+    "dir": "leetcode/1056-capacity-to-ship-packages-within-d-days",
     "tags": [
       "array",
       "binary-search"
@@ -2067,6 +2255,8 @@
     "_ts": 1787349204,
     "difficulty": "Medium",
     "frontendId": "875",
+    "questionId": "907",
+    "dir": "leetcode/907-koko-eating-bananas",
     "tags": [
       "array",
       "binary-search"
@@ -2086,6 +2276,8 @@
     "_ts": 1787347578,
     "difficulty": "Hard",
     "frontendId": "3116",
+    "questionId": "3375",
+    "dir": "leetcode/3375-kth-smallest-amount-with-single-denomination-combination",
     "tags": [
       "array",
       "math",
@@ -2113,6 +2305,8 @@
     "_ts": 1787270959,
     "difficulty": "Hard",
     "frontendId": "52",
+    "questionId": "52",
+    "dir": "leetcode/52-n-queens-ii",
     "tags": [
       "backtracking",
       "algorithm-x"
@@ -2132,6 +2326,8 @@
     "_ts": 1787268660,
     "difficulty": "Medium",
     "frontendId": "47",
+    "questionId": "47",
+    "dir": "leetcode/47-permutations-ii",
     "tags": [
       "array",
       "backtracking",
@@ -2153,6 +2349,8 @@
     "_ts": 1787265528,
     "difficulty": "Hard",
     "frontendId": "30",
+    "questionId": "30",
+    "dir": "leetcode/30-substring-with-concatenation-of-all-words",
     "tags": [
       "hash-table",
       "string",
@@ -2174,6 +2372,8 @@
     "_ts": 1787260410,
     "difficulty": "Medium",
     "frontendId": "29",
+    "questionId": "29",
+    "dir": "leetcode/29-divide-two-integers",
     "tags": [
       "math",
       "bit-manipulation"
@@ -2193,6 +2393,8 @@
     "_ts": 1787253520,
     "difficulty": "Hard",
     "frontendId": "32",
+    "questionId": "32",
+    "dir": "leetcode/32-longest-valid-parentheses",
     "tags": [
       "string",
       "dynamic-programming",
@@ -2216,6 +2418,8 @@
     "_ts": 1787194218,
     "difficulty": "Easy",
     "frontendId": "3069",
+    "questionId": "3347",
+    "dir": "leetcode/3347-distribute-elements-into-two-arrays-i",
     "tags": [
       "array",
       "simulation"
@@ -2235,6 +2439,8 @@
     "_ts": 1787100203,
     "difficulty": "Medium",
     "frontendId": "1386",
+    "questionId": "1487",
+    "dir": "leetcode/1487-cinema-seat-allocation",
     "tags": [
       "array",
       "hash-table",
@@ -2258,6 +2464,8 @@
     "_ts": 1787096809,
     "difficulty": "Medium",
     "frontendId": "308",
+    "questionId": "308",
+    "dir": "leetcode/308-range-sum-query-2d-mutable",
     "tags": [
       "array",
       "design",
@@ -2285,6 +2493,8 @@
     "_ts": 1787092674,
     "difficulty": "Hard",
     "frontendId": "1340",
+    "questionId": "1466",
+    "dir": "leetcode/1466-jump-game-v",
     "tags": [
       "array",
       "dynamic-programming",
@@ -2306,6 +2516,8 @@
     "_ts": 1787085945,
     "difficulty": "Hard",
     "frontendId": "1345",
+    "questionId": "1447",
+    "dir": "leetcode/1447-jump-game-iv",
     "tags": [
       "array",
       "hash-table",
@@ -2327,6 +2539,8 @@
     "_ts": 1787082206,
     "difficulty": "Easy",
     "frontendId": "3471",
+    "questionId": "3705",
+    "dir": "leetcode/3705-find-the-largest-almost-missing-integer",
     "tags": [
       "array",
       "hash-table"
@@ -2346,6 +2560,8 @@
     "_ts": 1787006568,
     "difficulty": "Medium",
     "frontendId": "1306",
+    "questionId": "1428",
+    "dir": "leetcode/1428-jump-game-iii",
     "tags": [
       "array",
       "depth-first-search",
@@ -2367,6 +2583,8 @@
     "_ts": 1787005482,
     "difficulty": "Easy",
     "frontendId": "3360",
+    "questionId": "3625",
+    "dir": "leetcode/3625-stone-removal-game",
     "tags": [
       "math",
       "simulation"
@@ -2386,6 +2604,8 @@
     "_ts": 1787001478,
     "difficulty": "Hard",
     "frontendId": "1563",
+    "questionId": "1685",
+    "dir": "leetcode/1685-stone-game-v",
     "tags": [
       "array",
       "math",
@@ -2409,6 +2629,8 @@
     "_ts": 1786922233,
     "difficulty": "Medium",
     "frontendId": "304",
+    "questionId": "304",
+    "dir": "leetcode/304-range-sum-query-2d-immutable",
     "tags": [
       "array",
       "design",
@@ -2432,6 +2654,8 @@
     "_ts": 1786888008,
     "difficulty": "Medium",
     "frontendId": "2029",
+    "questionId": "2156",
+    "dir": "leetcode/2156-stone-game-ix",
     "tags": [
       "array",
       "math",
@@ -2463,6 +2687,8 @@
     "_ts": 1786851615,
     "difficulty": "Medium",
     "frontendId": "4026",
+    "questionId": "4034",
+    "dir": "leetcode/4034-maximum-gap-between-stations",
     "tags": [
       "two-pointers",
       "string",
@@ -2484,6 +2710,8 @@
     "_ts": 1786850136,
     "difficulty": "Medium",
     "frontendId": "4025",
+    "questionId": "4375",
+    "dir": "leetcode/4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
     "tags": [
       "array",
       "greedy"
@@ -2503,6 +2731,8 @@
     "_ts": 1786848162,
     "difficulty": "Easy",
     "frontendId": "4024",
+    "questionId": "4378",
+    "dir": "leetcode/4378-nearest-available-drone",
     "tags": [
       "array",
       "enumeration"
@@ -2522,6 +2752,8 @@
     "_ts": 1786835476,
     "difficulty": "Medium",
     "frontendId": "3702",
+    "questionId": "4033",
+    "dir": "leetcode/4033-longest-subsequence-with-non-zero-bitwise-xor",
     "tags": [
       "array",
       "bit-manipulation"
@@ -2541,6 +2773,8 @@
     "_ts": 1786808567,
     "difficulty": "Medium",
     "frontendId": "4022",
+    "questionId": "4331",
+    "dir": "leetcode/4331-k-th-digit-in-infinite-string",
     "tags": [
       "math",
       "binary-search"
@@ -2560,6 +2794,8 @@
     "_ts": 1786806547,
     "difficulty": "Medium",
     "frontendId": "4021",
+    "questionId": "4350",
+    "dir": "leetcode/4350-minimum-operations-to-make-a-rotated-palindrome-i",
     "tags": [
       "math",
       "string",
@@ -2581,6 +2817,8 @@
     "_ts": 1786804420,
     "difficulty": "Easy",
     "frontendId": "4020",
+    "questionId": "4384",
+    "dir": "leetcode/4384-elevator-requests-i",
     "tags": [
       "array",
       "simulation"
@@ -2600,6 +2838,8 @@
     "_ts": 1786744178,
     "difficulty": "Hard",
     "frontendId": "4013",
+    "questionId": "4324",
+    "dir": "leetcode/4324-count-subarrays-with-even-odd-ratio-ii",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -2627,6 +2867,8 @@
     "_ts": 1786682946,
     "difficulty": "Easy",
     "frontendId": "3090",
+    "questionId": "3349",
+    "dir": "leetcode/3349-maximum-length-substring-with-two-occurrences",
     "tags": [
       "hash-table",
       "string",
@@ -2648,6 +2890,8 @@
     "_ts": 1786666794,
     "difficulty": "Medium",
     "frontendId": "3388",
+    "questionId": "3686",
+    "dir": "leetcode/3686-count-beautiful-splits-in-an-array",
     "tags": [
       "array",
       "dynamic-programming"
@@ -2667,6 +2911,8 @@
     "_ts": 1786663167,
     "difficulty": "Hard",
     "frontendId": "2213",
+    "questionId": "2319",
+    "dir": "leetcode/2319-longest-substring-of-one-repeating-character",
     "tags": [
       "array",
       "string",
@@ -2690,6 +2936,8 @@
     "_ts": 1786579011,
     "difficulty": "Medium",
     "frontendId": "3371",
+    "questionId": "3594",
+    "dir": "leetcode/3594-identify-the-largest-outlier-in-an-array",
     "tags": [
       "array",
       "hash-table",
@@ -2713,6 +2961,8 @@
     "_ts": 1786572779,
     "difficulty": "Medium",
     "frontendId": "3350",
+    "questionId": "3619",
+    "dir": "leetcode/3619-adjacent-increasing-subarrays-detection-ii",
     "tags": [
       "array",
       "binary-search"
@@ -2732,6 +2982,8 @@
     "_ts": 1786548876,
     "difficulty": "Medium",
     "frontendId": "2958",
+    "questionId": "3225",
+    "dir": "leetcode/3225-length-of-longest-subarray-with-at-most-k-frequency",
     "tags": [
       "array",
       "hash-table",
@@ -2753,6 +3005,8 @@
     "_ts": 1786492955,
     "difficulty": "Medium",
     "frontendId": "379",
+    "questionId": "379",
+    "dir": "leetcode/379-design-phone-directory",
     "tags": [
       "array",
       "hash-table",
@@ -2778,6 +3032,8 @@
     "_ts": 1786486981,
     "difficulty": "Hard",
     "frontendId": "2097",
+    "questionId": "2201",
+    "dir": "leetcode/2201-valid-arrangement-of-pairs",
     "tags": [
       "array",
       "depth-first-search",
@@ -2805,6 +3061,8 @@
     "_ts": 1786485376,
     "difficulty": "Hard",
     "frontendId": "753",
+    "questionId": "754",
+    "dir": "leetcode/754-cracking-the-safe",
     "tags": [
       "string",
       "depth-first-search",
@@ -2832,6 +3090,8 @@
     "_ts": 1786480913,
     "difficulty": "Hard",
     "frontendId": "332",
+    "questionId": "332",
+    "dir": "leetcode/332-reconstruct-itinerary",
     "tags": [
       "array",
       "string",
@@ -2865,6 +3125,8 @@
     "_ts": 1786469598,
     "difficulty": "Easy",
     "frontendId": "2996",
+    "questionId": "3236",
+    "dir": "leetcode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum",
     "tags": [
       "array",
       "hash-table",
@@ -2886,6 +3148,8 @@
     "_ts": 1786403136,
     "difficulty": "Medium",
     "frontendId": "1690",
+    "questionId": "1808",
+    "dir": "leetcode/1808-stone-game-vii",
     "tags": [
       "array",
       "math",
@@ -2913,6 +3177,8 @@
     "_ts": 1786399350,
     "difficulty": "Medium",
     "frontendId": "4016",
+    "questionId": "4120",
+    "dir": "leetcode/4120-maximum-area-of-two-non-overlapping-square-submatrices",
     "tags": [
       "array",
       "binary-search",
@@ -2936,6 +3202,8 @@
     "_ts": 1786398169,
     "difficulty": "Medium",
     "frontendId": "1686",
+    "questionId": "1788",
+    "dir": "leetcode/1788-stone-game-vi",
     "tags": [
       "array",
       "math",
@@ -2967,6 +3235,8 @@
     "_ts": 1786395644,
     "difficulty": "Hard",
     "frontendId": "1510",
+    "questionId": "1617",
+    "dir": "leetcode/1617-stone-game-iv",
     "tags": [
       "math",
       "dynamic-programming",
@@ -2996,6 +3266,8 @@
     "_ts": 1786388948,
     "difficulty": "Medium",
     "frontendId": "1277",
+    "questionId": "1402",
+    "dir": "leetcode/1402-count-square-submatrices-with-all-ones",
     "tags": [
       "array",
       "dynamic-programming",
@@ -3017,6 +3289,8 @@
     "_ts": 1786386550,
     "difficulty": "Medium",
     "frontendId": "221",
+    "questionId": "221",
+    "dir": "leetcode/221-maximal-square",
     "tags": [
       "array",
       "dynamic-programming",
@@ -3038,6 +3312,8 @@
     "_ts": 1786292715,
     "difficulty": "Medium",
     "frontendId": "1140",
+    "questionId": "1240",
+    "dir": "leetcode/1240-stone-game-ii",
     "tags": [
       "array",
       "math",
@@ -3067,6 +3343,8 @@
     "_ts": 1786246508,
     "difficulty": "Medium",
     "frontendId": "4015",
+    "questionId": "4352",
+    "dir": "leetcode/4352-weighted-sum-of-a-tree",
     "tags": [
       "array",
       "tree",
@@ -3088,6 +3366,8 @@
     "_ts": 1786245904,
     "difficulty": "Medium",
     "frontendId": "4014",
+    "questionId": "4363",
+    "dir": "leetcode/4363-minimum-total-price-after-applying-discounts",
     "tags": [
       "array",
       "two-pointers",
@@ -3111,6 +3391,8 @@
     "_ts": 1786225631,
     "difficulty": "Easy",
     "frontendId": "1768",
+    "questionId": "1894",
+    "dir": "leetcode/1894-merge-strings-alternately",
     "tags": [
       "two-pointers",
       "string"
@@ -3130,6 +3412,8 @@
     "_ts": 1786163120,
     "difficulty": "Medium",
     "frontendId": "1257",
+    "questionId": "1190",
+    "dir": "leetcode/1190-smallest-common-region",
     "tags": [
       "array",
       "hash-table",
@@ -3161,6 +3445,8 @@
     "_ts": 1786161850,
     "difficulty": "Medium",
     "frontendId": "3302",
+    "questionId": "3584",
+    "dir": "leetcode/3584-find-the-lexicographically-smallest-valid-sequence",
     "tags": [
       "two-pointers",
       "string",
@@ -3184,6 +3470,8 @@
     "_ts": 1786137960,
     "difficulty": "Hard",
     "frontendId": "3348",
+    "questionId": "3635",
+    "dir": "leetcode/3635-smallest-divisible-digit-product-ii",
     "tags": [
       "math",
       "string",
@@ -3209,6 +3497,8 @@
     "_ts": 1786062558,
     "difficulty": "Hard",
     "frontendId": "37",
+    "questionId": "37",
+    "dir": "leetcode/37-sudoku-solver",
     "tags": [
       "array",
       "hash-table",
@@ -3236,6 +3526,8 @@
     "_ts": 1785988225,
     "difficulty": "Easy",
     "frontendId": "3345",
+    "questionId": "3626",
+    "dir": "leetcode/3626-smallest-divisible-digit-product-i",
     "tags": [
       "math",
       "enumeration"
@@ -3255,6 +3547,8 @@
     "_ts": 1785899820,
     "difficulty": "Medium",
     "frontendId": "3310",
+    "questionId": "3561",
+    "dir": "leetcode/3561-remove-methods-from-project",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -3276,6 +3570,8 @@
     "_ts": 1785889269,
     "difficulty": "Medium",
     "frontendId": "63",
+    "questionId": "63",
+    "dir": "leetcode/63-unique-paths-ii",
     "tags": [
       "array",
       "dynamic-programming",
@@ -3297,6 +3593,8 @@
     "_ts": 1785888317,
     "difficulty": "Medium",
     "frontendId": "64",
+    "questionId": "64",
+    "dir": "leetcode/64-minimum-path-sum",
     "tags": [
       "array",
       "dynamic-programming",
@@ -3318,6 +3616,8 @@
     "_ts": 1785887405,
     "difficulty": "Hard",
     "frontendId": "10",
+    "questionId": "10",
+    "dir": "leetcode/10-regular-expression-matching",
     "tags": [
       "string",
       "dynamic-programming",
@@ -3339,6 +3639,8 @@
     "_ts": 1785883746,
     "difficulty": "Medium",
     "frontendId": "45",
+    "questionId": "45",
+    "dir": "leetcode/45-jump-game-ii",
     "tags": [
       "array",
       "dynamic-programming",
@@ -3360,6 +3662,8 @@
     "_ts": 1785875032,
     "difficulty": "Medium",
     "frontendId": "641",
+    "questionId": "859",
+    "dir": "leetcode/859-design-circular-deque",
     "tags": [
       "array",
       "linked-list",
@@ -3383,6 +3687,8 @@
     "_ts": 1785872843,
     "difficulty": "Medium",
     "frontendId": "445",
+    "questionId": "445",
+    "dir": "leetcode/445-add-two-numbers-ii",
     "tags": [
       "linked-list",
       "math",
@@ -3404,6 +3710,8 @@
     "_ts": 1785869160,
     "difficulty": "Easy",
     "frontendId": "3731",
+    "questionId": "4107",
+    "dir": "leetcode/4107-find-missing-elements",
     "tags": [
       "array",
       "hash-table",
@@ -3425,6 +3733,8 @@
     "_ts": 1785811374,
     "difficulty": "Medium",
     "frontendId": "382",
+    "questionId": "382",
+    "dir": "leetcode/382-linked-list-random-node",
     "tags": [
       "linked-list",
       "math",
@@ -3448,6 +3758,8 @@
     "_ts": 1785811028,
     "difficulty": "Easy",
     "frontendId": "509",
+    "questionId": "1013",
+    "dir": "leetcode/1013-fibonacci-number",
     "tags": [
       "math",
       "dynamic-programming",
@@ -3471,6 +3783,8 @@
     "_ts": 1785799551,
     "difficulty": "Easy",
     "frontendId": "1502",
+    "questionId": "1626",
+    "dir": "leetcode/1626-can-make-arithmetic-progression-from-sequence",
     "tags": [
       "array",
       "sorting"
@@ -3490,6 +3804,8 @@
     "_ts": 1785798676,
     "difficulty": "Medium",
     "frontendId": "369",
+    "questionId": "369",
+    "dir": "leetcode/369-plus-one-linked-list",
     "tags": [
       "linked-list",
       "math"
@@ -3509,6 +3825,8 @@
     "_ts": 1785796731,
     "difficulty": "Medium",
     "frontendId": "148",
+    "questionId": "148",
+    "dir": "leetcode/148-sort-list",
     "tags": [
       "linked-list",
       "two-pointers",
@@ -3534,6 +3852,8 @@
     "_ts": 1785795561,
     "difficulty": "Medium",
     "frontendId": "199",
+    "questionId": "199",
+    "dir": "leetcode/199-binary-tree-right-side-view",
     "tags": [
       "tree",
       "depth-first-search",
@@ -3557,6 +3877,8 @@
     "_ts": 1785795050,
     "difficulty": "Medium",
     "frontendId": "117",
+    "questionId": "117",
+    "dir": "leetcode/117-populating-next-right-pointers-in-each-node-ii",
     "tags": [
       "linked-list",
       "tree",
@@ -3582,6 +3904,8 @@
     "_ts": 1785793945,
     "difficulty": "Hard",
     "frontendId": "1406",
+    "questionId": "1522",
+    "dir": "leetcode/1522-stone-game-iii",
     "tags": [
       "array",
       "math",
@@ -3609,6 +3933,8 @@
     "_ts": 1785711875,
     "difficulty": "Hard",
     "frontendId": "1199",
+    "questionId": "1167",
+    "dir": "leetcode/1167-minimum-time-to-build-blocks",
     "tags": [
       "array",
       "math",
@@ -3632,6 +3958,8 @@
     "_ts": 1785706587,
     "difficulty": "Medium",
     "frontendId": "877",
+    "questionId": "909",
+    "dir": "leetcode/909-stone-game",
     "tags": [
       "array",
       "math",
@@ -3659,6 +3987,8 @@
     "_ts": 1785643017,
     "difficulty": "Medium",
     "frontendId": "4011",
+    "questionId": "4323",
+    "dir": "leetcode/4323-count-subarrays-with-even-odd-ratio-i",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -3686,6 +4016,8 @@
     "_ts": 1785642563,
     "difficulty": "Medium",
     "frontendId": "4012",
+    "questionId": "4203",
+    "dir": "leetcode/4203-count-of-unfinished-tasks-after-each-shift",
     "tags": [
       "array",
       "binary-search",
@@ -3707,6 +4039,8 @@
     "_ts": 1785639225,
     "difficulty": "Easy",
     "frontendId": "4010",
+    "questionId": "4371",
+    "dir": "leetcode/4371-maximize-pair-strength-using-gcd",
     "tags": [
       "array",
       "math",
@@ -3730,6 +4064,8 @@
     "_ts": 1785622438,
     "difficulty": "Medium",
     "frontendId": "486",
+    "questionId": "486",
+    "dir": "leetcode/486-predict-the-winner",
     "tags": [
       "array",
       "math",
@@ -3759,6 +4095,8 @@
     "_ts": 1785539723,
     "difficulty": "Medium",
     "frontendId": "114",
+    "questionId": "114",
+    "dir": "leetcode/114-flatten-binary-tree-to-linked-list",
     "tags": [
       "linked-list",
       "stack",
@@ -3784,6 +4122,8 @@
     "_ts": 1785537469,
     "difficulty": "Medium",
     "frontendId": "109",
+    "questionId": "109",
+    "dir": "leetcode/109-convert-sorted-list-to-binary-search-tree",
     "tags": [
       "linked-list",
       "divide-and-conquer",
@@ -3809,6 +4149,8 @@
     "_ts": 1785533900,
     "difficulty": "Medium",
     "frontendId": "38",
+    "questionId": "38",
+    "dir": "leetcode/38-count-and-say",
     "tags": [
       "string"
     ],
@@ -3826,6 +4168,8 @@
     "_ts": 1785529192,
     "difficulty": "Medium",
     "frontendId": "3016",
+    "questionId": "3276",
+    "dir": "leetcode/3276-minimum-number-of-pushes-to-type-word-ii",
     "tags": [
       "hash-table",
       "string",
@@ -3851,6 +4195,8 @@
     "_ts": 1785447388,
     "difficulty": "Medium",
     "frontendId": "86",
+    "questionId": "86",
+    "dir": "leetcode/86-partition-list",
     "tags": [
       "linked-list",
       "two-pointers"
@@ -3870,6 +4216,8 @@
     "_ts": 1785445227,
     "difficulty": "Medium",
     "frontendId": "142",
+    "questionId": "142",
+    "dir": "leetcode/142-linked-list-cycle-ii",
     "tags": [
       "hash-table",
       "linked-list",
@@ -3893,6 +4241,8 @@
     "_ts": 1785443460,
     "difficulty": "Medium",
     "frontendId": "92",
+    "questionId": "92",
+    "dir": "leetcode/92-reverse-linked-list-ii",
     "tags": [
       "linked-list"
     ],
@@ -3910,6 +4260,8 @@
     "_ts": 1785442500,
     "difficulty": "Medium",
     "frontendId": "82",
+    "questionId": "82",
+    "dir": "leetcode/82-remove-duplicates-from-sorted-list-ii",
     "tags": [
       "linked-list",
       "two-pointers"
@@ -3929,6 +4281,8 @@
     "_ts": 1785439944,
     "difficulty": "Easy",
     "frontendId": "83",
+    "questionId": "83",
+    "dir": "leetcode/83-remove-duplicates-from-sorted-list",
     "tags": [
       "linked-list"
     ],
@@ -3946,6 +4300,8 @@
     "_ts": 1785438968,
     "difficulty": "Medium",
     "frontendId": "61",
+    "questionId": "61",
+    "dir": "leetcode/61-rotate-list",
     "tags": [
       "linked-list",
       "two-pointers"
@@ -3965,6 +4321,8 @@
     "_ts": 1785435958,
     "difficulty": "Easy",
     "frontendId": "3014",
+    "questionId": "3275",
+    "dir": "leetcode/3275-minimum-number-of-pushes-to-type-word-i",
     "tags": [
       "math",
       "string",
@@ -3986,6 +4344,8 @@
     "_ts": 1785365020,
     "difficulty": "Medium",
     "frontendId": "1858",
+    "questionId": "2009",
+    "dir": "leetcode/2009-longest-word-with-all-prefixes",
     "tags": [
       "array",
       "string",
@@ -4009,6 +4369,8 @@
     "_ts": 1785362703,
     "difficulty": "Hard",
     "frontendId": "25",
+    "questionId": "25",
+    "dir": "leetcode/25-reverse-nodes-in-k-group",
     "tags": [
       "linked-list",
       "recursion"
@@ -4028,6 +4390,8 @@
     "_ts": 1785259715,
     "difficulty": "Medium",
     "frontendId": "3517",
+    "questionId": "3812",
+    "dir": "leetcode/3812-smallest-palindromic-rearrangement-i",
     "tags": [
       "string",
       "sorting",
@@ -4049,6 +4413,8 @@
     "_ts": 1785258130,
     "difficulty": "Medium",
     "frontendId": "24",
+    "questionId": "24",
+    "dir": "leetcode/24-swap-nodes-in-pairs",
     "tags": [
       "linked-list",
       "recursion"
@@ -4068,6 +4434,8 @@
     "_ts": 1785193594,
     "difficulty": "Medium",
     "frontendId": "12",
+    "questionId": "12",
+    "dir": "leetcode/12-integer-to-roman",
     "tags": [
       "hash-table",
       "math",
@@ -4089,6 +4457,8 @@
     "_ts": 1785191426,
     "difficulty": "Hard",
     "frontendId": "465",
+    "questionId": "465",
+    "dir": "leetcode/465-optimal-account-balancing",
     "tags": [
       "array",
       "dynamic-programming",
@@ -4114,6 +4484,8 @@
     "_ts": 1785187231,
     "difficulty": "Medium",
     "frontendId": "320",
+    "questionId": "320",
+    "dir": "leetcode/320-generalized-abbreviation",
     "tags": [
       "string",
       "backtracking",
@@ -4135,6 +4507,8 @@
     "_ts": 1785175004,
     "difficulty": "Medium",
     "frontendId": "34",
+    "questionId": "34",
+    "dir": "leetcode/34-find-first-and-last-position-of-element-in-sorted-array",
     "tags": [
       "array",
       "binary-search"
@@ -4154,6 +4528,8 @@
     "_ts": 1785172453,
     "difficulty": "Medium",
     "frontendId": "1093",
+    "questionId": "1183",
+    "dir": "leetcode/1183-statistics-from-a-large-sample",
     "tags": [
       "array",
       "math",
@@ -4175,6 +4551,8 @@
     "_ts": 1785122029,
     "difficulty": "Medium",
     "frontendId": "6",
+    "questionId": "6",
+    "dir": "leetcode/6-zigzag-conversion",
     "tags": [
       "string"
     ],
@@ -4192,6 +4570,8 @@
     "_ts": 1785119430,
     "difficulty": "Easy",
     "frontendId": "1464",
+    "questionId": "1574",
+    "dir": "leetcode/1574-maximum-product-of-two-elements-in-an-array",
     "tags": [
       "array",
       "sorting",
@@ -4213,6 +4593,8 @@
     "_ts": 1785119072,
     "difficulty": "Medium",
     "frontendId": "322",
+    "questionId": "322",
+    "dir": "leetcode/322-coin-change",
     "tags": [
       "array",
       "dynamic-programming",
@@ -4238,6 +4620,8 @@
     "_ts": 1785114846,
     "difficulty": "Medium",
     "frontendId": "518",
+    "questionId": "518",
+    "dir": "leetcode/518-coin-change-ii",
     "tags": [
       "array",
       "dynamic-programming",
@@ -4261,6 +4645,8 @@
     "_ts": 1785036150,
     "difficulty": "Easy",
     "frontendId": "628",
+    "questionId": "628",
+    "dir": "leetcode/628-maximum-product-of-three-numbers",
     "tags": [
       "array",
       "math",
@@ -4282,6 +4668,8 @@
     "_ts": 1785033539,
     "difficulty": "Medium",
     "frontendId": "1462",
+    "questionId": "1558",
+    "dir": "leetcode/1558-course-schedule-iv",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -4305,6 +4693,8 @@
     "_ts": 1785024326,
     "difficulty": "Hard",
     "frontendId": "630",
+    "questionId": "630",
+    "dir": "leetcode/630-course-schedule-iii",
     "tags": [
       "array",
       "greedy",
@@ -4328,6 +4718,8 @@
     "_ts": 1785023346,
     "difficulty": "Medium",
     "frontendId": "210",
+    "questionId": "210",
+    "dir": "leetcode/210-course-schedule-ii",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -4351,6 +4743,8 @@
     "_ts": 1785022188,
     "difficulty": "Medium",
     "frontendId": "207",
+    "questionId": "207",
+    "dir": "leetcode/207-course-schedule",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -4376,6 +4770,8 @@
     "_ts": 1784954334,
     "difficulty": "Easy",
     "frontendId": "3687",
+    "questionId": "4060",
+    "dir": "leetcode/4060-library-late-fee-calculator",
     "tags": [
       "array",
       "simulation"
@@ -4395,6 +4791,8 @@
     "_ts": 1784851322,
     "difficulty": "Hard",
     "frontendId": "1494",
+    "questionId": "1587",
+    "dir": "leetcode/1587-parallel-courses-ii",
     "tags": [
       "dynamic-programming",
       "bit-manipulation",
@@ -4420,6 +4818,8 @@
     "_ts": 1784845216,
     "difficulty": "Medium",
     "frontendId": "758",
+    "questionId": "760",
+    "dir": "leetcode/760-bold-words-in-string",
     "tags": [
       "array",
       "hash-table",
@@ -4447,6 +4847,8 @@
     "_ts": 1784841835,
     "difficulty": "Medium",
     "frontendId": "436",
+    "questionId": "436",
+    "dir": "leetcode/436-find-right-interval",
     "tags": [
       "array",
       "binary-search",
@@ -4468,6 +4870,8 @@
     "_ts": 1784840383,
     "difficulty": "Easy",
     "frontendId": "88",
+    "questionId": "88",
+    "dir": "leetcode/88-merge-sorted-array",
     "tags": [
       "array",
       "two-pointers",
@@ -4489,6 +4893,8 @@
     "_ts": 1784838920,
     "difficulty": "Medium",
     "frontendId": "1482",
+    "questionId": "1605",
+    "dir": "leetcode/1605-minimum-number-of-days-to-make-m-bouquets",
     "tags": [
       "array",
       "binary-search"
@@ -4508,6 +4914,8 @@
     "_ts": 1784838079,
     "difficulty": "Hard",
     "frontendId": "23",
+    "questionId": "23",
+    "dir": "leetcode/23-merge-k-sorted-lists",
     "tags": [
       "linked-list",
       "divide-and-conquer",
@@ -4533,6 +4941,8 @@
     "_ts": 1784828463,
     "difficulty": "Easy",
     "frontendId": "1668",
+    "questionId": "1764",
+    "dir": "leetcode/1764-maximum-repeating-substring",
     "tags": [
       "string",
       "dynamic-programming",
@@ -4554,6 +4964,8 @@
     "_ts": 1784827224,
     "difficulty": "Easy",
     "frontendId": "1507",
+    "questionId": "1283",
+    "dir": "leetcode/1283-reformat-date",
     "tags": [
       "string"
     ],
@@ -4571,6 +4983,8 @@
     "_ts": 1784776155,
     "difficulty": "Medium",
     "frontendId": "523",
+    "questionId": "523",
+    "dir": "leetcode/523-continuous-subarray-sum",
     "tags": [
       "array",
       "hash-table",
@@ -4596,6 +5010,8 @@
     "_ts": 1784775993,
     "difficulty": "Medium",
     "frontendId": "1019",
+    "questionId": "1072",
+    "dir": "leetcode/1072-next-greater-node-in-linked-list",
     "tags": [
       "array",
       "linked-list",
@@ -4619,6 +5035,8 @@
     "_ts": 1784773888,
     "difficulty": "Medium",
     "frontendId": "622",
+    "questionId": "860",
+    "dir": "leetcode/860-design-circular-queue",
     "tags": [
       "array",
       "linked-list",
@@ -4642,6 +5060,8 @@
     "_ts": 1784772687,
     "difficulty": "Medium",
     "frontendId": "1705",
+    "questionId": "1824",
+    "dir": "leetcode/1824-maximum-number-of-eaten-apples",
     "tags": [
       "array",
       "greedy",
@@ -4663,6 +5083,8 @@
     "_ts": 1784766071,
     "difficulty": "Medium",
     "frontendId": "797",
+    "questionId": "813",
+    "dir": "leetcode/813-all-paths-from-source-to-target",
     "tags": [
       "backtracking",
       "depth-first-search",
@@ -4688,6 +5110,8 @@
     "_ts": 1784765673,
     "difficulty": "Medium",
     "frontendId": "143",
+    "questionId": "143",
+    "dir": "leetcode/143-reorder-list",
     "tags": [
       "linked-list",
       "two-pointers",
@@ -4711,6 +5135,8 @@
     "_ts": 1784761991,
     "difficulty": "Medium",
     "frontendId": "1343",
+    "questionId": "1445",
+    "dir": "leetcode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
     "tags": [
       "array",
       "sliding-window"
@@ -4730,6 +5156,8 @@
     "_ts": 1784761977,
     "difficulty": "Medium",
     "frontendId": "1052",
+    "questionId": "1138",
+    "dir": "leetcode/1138-grumpy-bookstore-owner",
     "tags": [
       "array",
       "sliding-window"
@@ -4749,6 +5177,8 @@
     "_ts": 1784756402,
     "difficulty": "Medium",
     "frontendId": "948",
+    "questionId": "985",
+    "dir": "leetcode/985-bag-of-tokens",
     "tags": [
       "array",
       "two-pointers",
@@ -4772,6 +5202,8 @@
     "_ts": 1784693401,
     "difficulty": "Medium",
     "frontendId": "2168",
+    "questionId": "2303",
+    "dir": "leetcode/2303-unique-substrings-with-equal-digit-frequency",
     "tags": [
       "hash-table",
       "string",
@@ -4797,6 +5229,8 @@
     "_ts": 1784687310,
     "difficulty": "Medium",
     "frontendId": "1554",
+    "questionId": "1697",
+    "dir": "leetcode/1697-strings-differ-by-one-character",
     "tags": [
       "hash-table",
       "string",
@@ -4820,6 +5254,8 @@
     "_ts": 1784680347,
     "difficulty": "Medium",
     "frontendId": "421",
+    "questionId": "421",
+    "dir": "leetcode/421-maximum-xor-of-two-numbers-in-an-array",
     "tags": [
       "array",
       "hash-table",
@@ -4843,6 +5279,8 @@
     "_ts": 1784679753,
     "difficulty": "Medium",
     "frontendId": "3479",
+    "questionId": "3791",
+    "dir": "leetcode/3791-fruits-into-baskets-iii",
     "tags": [
       "array",
       "binary-search",
@@ -4866,6 +5304,8 @@
     "_ts": 1784678111,
     "difficulty": "Medium",
     "frontendId": "669",
+    "questionId": "669",
+    "dir": "leetcode/669-trim-a-binary-search-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -4889,6 +5329,8 @@
     "_ts": 1784676446,
     "difficulty": "Easy",
     "frontendId": "543",
+    "questionId": "543",
+    "dir": "leetcode/543-diameter-of-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -4912,6 +5354,8 @@
     "_ts": 1784675032,
     "difficulty": "Hard",
     "frontendId": "715",
+    "questionId": "715",
+    "dir": "leetcode/715-range-module",
     "tags": [
       "design",
       "segment-tree",
@@ -4933,6 +5377,8 @@
     "_ts": 1784660135,
     "difficulty": "Medium",
     "frontendId": "307",
+    "questionId": "307",
+    "dir": "leetcode/307-range-sum-query-mutable",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -4960,6 +5406,8 @@
     "_ts": 1784600514,
     "difficulty": "Hard",
     "frontendId": "2158",
+    "questionId": "2297",
+    "dir": "leetcode/2297-amount-of-new-area-painted-each-day",
     "tags": [
       "array",
       "segment-tree",
@@ -4981,6 +5429,8 @@
     "_ts": 1784598949,
     "difficulty": "Medium",
     "frontendId": "2031",
+    "questionId": "510",
+    "dir": "leetcode/510-count-subarrays-with-more-ones-than-zeros",
     "tags": [
       "array",
       "hash-table",
@@ -5012,6 +5462,8 @@
     "_ts": 1784590572,
     "difficulty": "Medium",
     "frontendId": "841",
+    "questionId": "871",
+    "dir": "leetcode/871-keys-and-rooms",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -5033,6 +5485,8 @@
     "_ts": 1784589695,
     "difficulty": "Hard",
     "frontendId": "913",
+    "questionId": "949",
+    "dir": "leetcode/949-cat-and-mouse",
     "tags": [
       "math",
       "dynamic-programming",
@@ -5064,6 +5518,8 @@
     "_ts": 1784587298,
     "difficulty": "Easy",
     "frontendId": "292",
+    "questionId": "292",
+    "dir": "leetcode/292-nim-game",
     "tags": [
       "math",
       "brainteaser",
@@ -5091,6 +5547,8 @@
     "_ts": 1784586323,
     "difficulty": "Medium",
     "frontendId": "3115",
+    "questionId": "3373",
+    "dir": "leetcode/3373-maximum-prime-difference",
     "tags": [
       "array",
       "math",
@@ -5114,6 +5572,8 @@
     "_ts": 1784583733,
     "difficulty": "Easy",
     "frontendId": "1979",
+    "questionId": "2106",
+    "dir": "leetcode/2106-find-greatest-common-divisor-of-array",
     "tags": [
       "array",
       "math",
@@ -5139,6 +5599,8 @@
     "_ts": 1784582928,
     "difficulty": "Medium",
     "frontendId": "139",
+    "questionId": "139",
+    "dir": "leetcode/139-word-break",
     "tags": [
       "array",
       "hash-table",
@@ -5168,6 +5630,8 @@
     "_ts": 1784581401,
     "difficulty": "Medium",
     "frontendId": "97",
+    "questionId": "97",
+    "dir": "leetcode/97-interleaving-string",
     "tags": [
       "string",
       "dynamic-programming"
@@ -5187,6 +5651,8 @@
     "_ts": 1784580395,
     "difficulty": "Medium",
     "frontendId": "1191",
+    "questionId": "1299",
+    "dir": "leetcode/1299-k-concatenation-maximum-sum",
     "tags": [
       "array",
       "dynamic-programming"
@@ -5206,6 +5672,8 @@
     "_ts": 1784577030,
     "difficulty": "Medium",
     "frontendId": "198",
+    "questionId": "198",
+    "dir": "leetcode/198-house-robber",
     "tags": [
       "array",
       "dynamic-programming"
@@ -5225,6 +5693,8 @@
     "_ts": 1784575782,
     "difficulty": "Medium",
     "frontendId": "494",
+    "questionId": "494",
+    "dir": "leetcode/494-target-sum",
     "tags": [
       "array",
       "dynamic-programming",
@@ -5250,6 +5720,8 @@
     "_ts": 1784514708,
     "difficulty": "Easy",
     "frontendId": "70",
+    "questionId": "70",
+    "dir": "leetcode/70-climbing-stairs",
     "tags": [
       "math",
       "dynamic-programming",
@@ -5271,6 +5743,8 @@
     "_ts": 1784514300,
     "difficulty": "Hard",
     "frontendId": "135",
+    "questionId": "135",
+    "dir": "leetcode/135-candy",
     "tags": [
       "array",
       "greedy"
@@ -5290,6 +5764,8 @@
     "_ts": 1784511288,
     "difficulty": "Medium",
     "frontendId": "11",
+    "questionId": "11",
+    "dir": "leetcode/11-container-with-most-water",
     "tags": [
       "array",
       "two-pointers",
@@ -5311,6 +5787,8 @@
     "_ts": 1784510799,
     "difficulty": "Easy",
     "frontendId": "860",
+    "questionId": "890",
+    "dir": "leetcode/890-lemonade-change",
     "tags": [
       "array",
       "greedy"
@@ -5330,6 +5808,8 @@
     "_ts": 1784501554,
     "difficulty": "Hard",
     "frontendId": "1724",
+    "questionId": "1865",
+    "dir": "leetcode/1865-checking-existence-of-edge-length-limited-paths-ii",
     "tags": [
       "depth-first-search",
       "union-find",
@@ -5359,6 +5839,8 @@
     "_ts": 1784495899,
     "difficulty": "Hard",
     "frontendId": "1168",
+    "questionId": "1144",
+    "dir": "leetcode/1144-optimize-water-distribution-in-a-village",
     "tags": [
       "union-find",
       "graph",
@@ -5388,6 +5870,8 @@
     "_ts": 1784490469,
     "difficulty": "Medium",
     "frontendId": "1135",
+    "questionId": "1100",
+    "dir": "leetcode/1100-connecting-cities-with-minimum-cost",
     "tags": [
       "union-find",
       "graph",
@@ -5411,6 +5895,8 @@
     "_ts": 1784414158,
     "difficulty": "Hard",
     "frontendId": "1489",
+    "questionId": "1613",
+    "dir": "leetcode/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
     "tags": [
       "union-find",
       "graph",
@@ -5442,6 +5928,8 @@
     "_ts": 1784343508,
     "difficulty": "Medium",
     "frontendId": "1584",
+    "questionId": "1706",
+    "dir": "leetcode/1706-min-cost-to-connect-all-points",
     "tags": [
       "array",
       "union-find",
@@ -5471,6 +5959,8 @@
     "_ts": 1784332890,
     "difficulty": "Hard",
     "frontendId": "440",
+    "questionId": "440",
+    "dir": "leetcode/440-k-th-smallest-in-lexicographical-order",
     "tags": [
       "trie"
     ],
@@ -5488,6 +5978,8 @@
     "_ts": 1784330233,
     "difficulty": "Medium",
     "frontendId": "720",
+    "questionId": "720",
+    "dir": "leetcode/720-longest-word-in-dictionary",
     "tags": [
       "array",
       "hash-table",
@@ -5513,6 +6005,8 @@
     "_ts": 1784327749,
     "difficulty": "Easy",
     "frontendId": "14",
+    "questionId": "14",
+    "dir": "leetcode/14-longest-common-prefix",
     "tags": [
       "array",
       "string",
@@ -5534,6 +6028,8 @@
     "_ts": 1784326002,
     "difficulty": "Hard",
     "frontendId": "2940",
+    "questionId": "3181",
+    "dir": "leetcode/3181-find-building-where-alice-and-bob-can-meet",
     "tags": [
       "array",
       "binary-search",
@@ -5563,6 +6059,8 @@
     "_ts": 1784321861,
     "difficulty": "Medium",
     "frontendId": "731",
+    "questionId": "731",
+    "dir": "leetcode/731-my-calendar-ii",
     "tags": [
       "array",
       "binary-search",
@@ -5590,6 +6088,8 @@
     "_ts": 1784263400,
     "difficulty": "Medium",
     "frontendId": "450",
+    "questionId": "450",
+    "dir": "leetcode/450-delete-node-in-a-bst",
     "tags": [
       "tree",
       "binary-search-tree",
@@ -5611,6 +6111,8 @@
     "_ts": 1784261540,
     "difficulty": "Medium",
     "frontendId": "701",
+    "questionId": "784",
+    "dir": "leetcode/784-insert-into-a-binary-search-tree",
     "tags": [
       "tree",
       "binary-search-tree",
@@ -5632,6 +6134,8 @@
     "_ts": 1784260674,
     "difficulty": "Easy",
     "frontendId": "700",
+    "questionId": "783",
+    "dir": "leetcode/783-search-in-a-binary-search-tree",
     "tags": [
       "tree",
       "binary-search-tree",
@@ -5653,6 +6157,8 @@
     "_ts": 1784259467,
     "difficulty": "Medium",
     "frontendId": "687",
+    "questionId": "687",
+    "dir": "leetcode/687-longest-univalue-path",
     "tags": [
       "tree",
       "depth-first-search",
@@ -5676,6 +6182,8 @@
     "_ts": 1784245206,
     "difficulty": "Medium",
     "frontendId": "2196",
+    "questionId": "2306",
+    "dir": "leetcode/2306-create-binary-tree-from-descriptions",
     "tags": [
       "array",
       "hash-table",
@@ -5699,6 +6207,8 @@
     "_ts": 1784243892,
     "difficulty": "Easy",
     "frontendId": "2236",
+    "questionId": "2384",
+    "dir": "leetcode/2384-root-equals-sum-of-children",
     "tags": [
       "tree",
       "binary-tree"
@@ -5718,6 +6228,8 @@
     "_ts": 1784243315,
     "difficulty": "Medium",
     "frontendId": "1334",
+    "questionId": "1456",
+    "dir": "leetcode/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
     "tags": [
       "dynamic-programming",
       "graph",
@@ -5745,6 +6257,8 @@
     "_ts": 1784239912,
     "difficulty": "Hard",
     "frontendId": "2642",
+    "questionId": "2678",
+    "dir": "leetcode/2678-design-graph-with-shortest-path-calculator",
     "tags": [
       "graph",
       "design",
@@ -5768,6 +6282,8 @@
     "_ts": 1784176335,
     "difficulty": "Hard",
     "frontendId": "2203",
+    "questionId": "2321",
+    "dir": "leetcode/2321-minimum-weighted-subgraph-with-the-required-paths",
     "tags": [
       "graph",
       "heap-priority-queue",
@@ -5789,6 +6305,8 @@
     "_ts": 1784162385,
     "difficulty": "Medium",
     "frontendId": "743",
+    "questionId": "744",
+    "dir": "leetcode/744-network-delay-time",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -5816,6 +6334,8 @@
     "_ts": 1784158301,
     "difficulty": "Hard",
     "frontendId": "815",
+    "questionId": "833",
+    "dir": "leetcode/833-bus-routes",
     "tags": [
       "array",
       "hash-table",
@@ -5837,6 +6357,8 @@
     "_ts": 1784154855,
     "difficulty": "Medium",
     "frontendId": "1129",
+    "questionId": "1229",
+    "dir": "leetcode/1229-shortest-path-with-alternating-colors",
     "tags": [
       "breadth-first-search",
       "graph"
@@ -5856,6 +6378,8 @@
     "_ts": 1784152757,
     "difficulty": "Medium",
     "frontendId": "1311",
+    "questionId": "1436",
+    "dir": "leetcode/1436-get-watched-videos-by-your-friends",
     "tags": [
       "array",
       "hash-table",
@@ -5881,6 +6405,8 @@
     "_ts": 1784149647,
     "difficulty": "Medium",
     "frontendId": "1765",
+    "questionId": "1876",
+    "dir": "leetcode/1876-map-of-highest-peak",
     "tags": [
       "array",
       "breadth-first-search",
@@ -5902,6 +6428,8 @@
     "_ts": 1784147491,
     "difficulty": "Easy",
     "frontendId": "3658",
+    "questionId": "3995",
+    "dir": "leetcode/3995-gcd-of-odd-and-even-sums",
     "tags": [
       "math",
       "number-theory"
@@ -5921,6 +6449,8 @@
     "_ts": 1784090423,
     "difficulty": "Medium",
     "frontendId": "2685",
+    "questionId": "2793",
+    "dir": "leetcode/2793-count-the-number-of-complete-components",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -5944,6 +6474,8 @@
     "_ts": 1784081769,
     "difficulty": "Easy",
     "frontendId": "463",
+    "questionId": "463",
+    "dir": "leetcode/463-island-perimeter",
     "tags": [
       "array",
       "depth-first-search",
@@ -5967,6 +6499,8 @@
     "_ts": 1784072272,
     "difficulty": "Medium",
     "frontendId": "2492",
+    "questionId": "2582",
+    "dir": "leetcode/2582-minimum-score-of-a-path-between-two-cities",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -5990,6 +6524,8 @@
     "_ts": 1784065926,
     "difficulty": "Easy",
     "frontendId": "1971",
+    "questionId": "2121",
+    "dir": "leetcode/2121-find-if-path-exists-in-graph",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -6013,6 +6549,8 @@
     "_ts": 1784064300,
     "difficulty": "Hard",
     "frontendId": "2065",
+    "questionId": "2189",
+    "dir": "leetcode/2189-maximum-path-quality-of-a-graph",
     "tags": [
       "array",
       "backtracking",
@@ -6034,6 +6572,8 @@
     "_ts": 1784062759,
     "difficulty": "Hard",
     "frontendId": "2508",
+    "questionId": "2596",
+    "dir": "leetcode/2596-add-edges-to-make-degrees-of-all-nodes-even",
     "tags": [
       "hash-table",
       "graph"
@@ -6053,6 +6593,8 @@
     "_ts": 1783983624,
     "difficulty": "Medium",
     "frontendId": "1291",
+    "questionId": "1212",
+    "dir": "leetcode/1212-sequential-digits",
     "tags": [
       "enumeration"
     ],
@@ -6070,6 +6612,8 @@
     "_ts": 1783705141,
     "difficulty": "Medium",
     "frontendId": "1557",
+    "questionId": "1661",
+    "dir": "leetcode/1661-minimum-number-of-vertices-to-reach-all-nodes",
     "tags": [
       "graph",
       "directed-acyclic-graph"
@@ -6089,6 +6633,8 @@
     "_ts": 1783701482,
     "difficulty": "Hard",
     "frontendId": "2076",
+    "questionId": "2198",
+    "dir": "leetcode/2198-process-restricted-friend-requests",
     "tags": [
       "union-find",
       "graph"
@@ -6108,6 +6654,8 @@
     "_ts": 1783641220,
     "difficulty": "Medium",
     "frontendId": "128",
+    "questionId": "128",
+    "dir": "leetcode/128-longest-consecutive-sequence",
     "tags": [
       "array",
       "hash-table",
@@ -6129,6 +6677,8 @@
     "_ts": 1783638682,
     "difficulty": "Medium",
     "frontendId": "1415",
+    "questionId": "1516",
+    "dir": "leetcode/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
     "tags": [
       "string",
       "backtracking"
@@ -6148,6 +6698,8 @@
     "_ts": 1783637501,
     "difficulty": "Medium",
     "frontendId": "93",
+    "questionId": "93",
+    "dir": "leetcode/93-restore-ip-addresses",
     "tags": [
       "string",
       "backtracking"
@@ -6167,6 +6719,8 @@
     "_ts": 1783635533,
     "difficulty": "Medium",
     "frontendId": "77",
+    "questionId": "77",
+    "dir": "leetcode/77-combinations",
     "tags": [
       "backtracking"
     ],
@@ -6184,6 +6738,8 @@
     "_ts": 1783633896,
     "difficulty": "Medium",
     "frontendId": "394",
+    "questionId": "394",
+    "dir": "leetcode/394-decode-string",
     "tags": [
       "string",
       "stack",
@@ -6205,6 +6761,8 @@
     "_ts": 1783631451,
     "difficulty": "Medium",
     "frontendId": "1545",
+    "questionId": "1667",
+    "dir": "leetcode/1667-find-kth-bit-in-nth-binary-string",
     "tags": [
       "string",
       "recursion",
@@ -6226,6 +6784,8 @@
     "_ts": 1783570959,
     "difficulty": "Medium",
     "frontendId": "3532",
+    "questionId": "3838",
+    "dir": "leetcode/3838-path-existence-queries-in-a-graph-i",
     "tags": [
       "array",
       "hash-table",
@@ -6251,6 +6811,8 @@
     "_ts": 1783468375,
     "difficulty": "Easy",
     "frontendId": "21",
+    "questionId": "21",
+    "dir": "leetcode/21-merge-two-sorted-lists",
     "tags": [
       "linked-list",
       "recursion"
@@ -6270,6 +6832,8 @@
     "_ts": 1783465938,
     "difficulty": "Hard",
     "frontendId": "2223",
+    "questionId": "2326",
+    "dir": "leetcode/2326-sum-of-scores-of-built-strings",
     "tags": [
       "string",
       "binary-search",
@@ -6301,6 +6865,8 @@
     "_ts": 1783395362,
     "difficulty": "Hard",
     "frontendId": "1392",
+    "questionId": "1508",
+    "dir": "leetcode/1508-longest-happy-prefix",
     "tags": [
       "string",
       "rolling-hash",
@@ -6328,6 +6894,8 @@
     "_ts": 1783389583,
     "difficulty": "Easy",
     "frontendId": "3754",
+    "questionId": "4135",
+    "dir": "leetcode/4135-concatenate-non-zero-digits-and-multiply-by-sum-i",
     "tags": [
       "math"
     ],
@@ -6345,6 +6913,8 @@
     "_ts": 1783309994,
     "difficulty": "Hard",
     "frontendId": "214",
+    "questionId": "214",
+    "dir": "leetcode/214-shortest-palindrome",
     "tags": [
       "string",
       "rolling-hash",
@@ -6374,6 +6944,8 @@
     "_ts": 1783289414,
     "difficulty": "Medium",
     "frontendId": "424",
+    "questionId": "424",
+    "dir": "leetcode/424-longest-repeating-character-replacement",
     "tags": [
       "hash-table",
       "string",
@@ -6395,6 +6967,8 @@
     "_ts": 1783286728,
     "difficulty": "Medium",
     "frontendId": "1358",
+    "questionId": "1460",
+    "dir": "leetcode/1460-number-of-substrings-containing-all-three-characters",
     "tags": [
       "hash-table",
       "string",
@@ -6416,6 +6990,8 @@
     "_ts": 1783207480,
     "difficulty": "Easy",
     "frontendId": "219",
+    "questionId": "219",
+    "dir": "leetcode/219-contains-duplicate-ii",
     "tags": [
       "array",
       "hash-table",
@@ -6437,6 +7013,8 @@
     "_ts": 1783205333,
     "difficulty": "Medium",
     "frontendId": "481",
+    "questionId": "481",
+    "dir": "leetcode/481-magical-string",
     "tags": [
       "two-pointers",
       "string"
@@ -6456,6 +7034,8 @@
     "_ts": 1783202518,
     "difficulty": "Medium",
     "frontendId": "16",
+    "questionId": "16",
+    "dir": "leetcode/16-3sum-closest",
     "tags": [
       "array",
       "two-pointers",
@@ -6477,6 +7057,8 @@
     "_ts": 1783034053,
     "difficulty": "Easy",
     "frontendId": "141",
+    "questionId": "141",
+    "dir": "leetcode/141-linked-list-cycle",
     "tags": [
       "hash-table",
       "linked-list",
@@ -6500,6 +7082,8 @@
     "_ts": 1783033732,
     "difficulty": "Hard",
     "frontendId": "493",
+    "questionId": "493",
+    "dir": "leetcode/493-reverse-pairs",
     "tags": [
       "array",
       "binary-search",
@@ -6531,6 +7115,8 @@
     "_ts": 1782965360,
     "difficulty": "Medium",
     "frontendId": "106",
+    "questionId": "106",
+    "dir": "leetcode/106-construct-binary-tree-from-inorder-and-postorder-traversal",
     "tags": [
       "array",
       "hash-table",
@@ -6556,6 +7142,8 @@
     "_ts": 1782963374,
     "difficulty": "Medium",
     "frontendId": "932",
+    "questionId": "968",
+    "dir": "leetcode/968-beautiful-array",
     "tags": [
       "array",
       "math",
@@ -6577,6 +7165,8 @@
     "_ts": 1782958622,
     "difficulty": "Medium",
     "frontendId": "147",
+    "questionId": "147",
+    "dir": "leetcode/147-insertion-sort-list",
     "tags": [
       "linked-list",
       "sorting"
@@ -6596,6 +7186,8 @@
     "_ts": 1782862290,
     "difficulty": "Medium",
     "frontendId": "912",
+    "questionId": "948",
+    "dir": "leetcode/948-sort-an-array",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -6627,6 +7219,8 @@
     "_ts": 1782859670,
     "difficulty": "Medium",
     "frontendId": "215",
+    "questionId": "215",
+    "dir": "leetcode/215-kth-largest-element-in-an-array",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -6652,6 +7246,8 @@
     "_ts": 1782853570,
     "difficulty": "Medium",
     "frontendId": "633",
+    "questionId": "633",
+    "dir": "leetcode/633-sum-of-square-numbers",
     "tags": [
       "math",
       "two-pointers",
@@ -6673,6 +7269,8 @@
     "_ts": 1782851368,
     "difficulty": "Easy",
     "frontendId": "704",
+    "questionId": "792",
+    "dir": "leetcode/792-binary-search",
     "tags": [
       "array",
       "binary-search"
@@ -6692,6 +7290,8 @@
     "_ts": 1782849844,
     "difficulty": "Medium",
     "frontendId": "852",
+    "questionId": "882",
+    "dir": "leetcode/882-peak-index-in-a-mountain-array",
     "tags": [
       "array",
       "binary-search",
@@ -6713,6 +7313,8 @@
     "_ts": 1782848755,
     "difficulty": "Medium",
     "frontendId": "56",
+    "questionId": "56",
+    "dir": "leetcode/56-merge-intervals",
     "tags": [
       "array",
       "sorting",
@@ -6734,6 +7336,8 @@
     "_ts": 1782792382,
     "difficulty": "Medium",
     "frontendId": "1887",
+    "questionId": "2016",
+    "dir": "leetcode/2016-reduction-operations-to-make-the-array-elements-equal",
     "tags": [
       "array",
       "sorting"
@@ -6753,6 +7357,8 @@
     "_ts": 1782602753,
     "difficulty": "Easy",
     "frontendId": "1200",
+    "questionId": "1306",
+    "dir": "leetcode/1306-minimum-absolute-difference",
     "tags": [
       "array",
       "sorting"
@@ -6772,6 +7378,8 @@
     "_ts": 1782598767,
     "difficulty": "Medium",
     "frontendId": "1664",
+    "questionId": "1783",
+    "dir": "leetcode/1783-ways-to-make-a-fair-array",
     "tags": [
       "array",
       "prefix-sum"
@@ -6791,6 +7399,8 @@
     "_ts": 1782596155,
     "difficulty": "Medium",
     "frontendId": "1590",
+    "questionId": "1694",
+    "dir": "leetcode/1694-make-sum-divisible-by-p",
     "tags": [
       "array",
       "hash-table",
@@ -6812,6 +7422,8 @@
     "_ts": 1782520787,
     "difficulty": "Easy",
     "frontendId": "1732",
+    "questionId": "1833",
+    "dir": "leetcode/1833-find-the-highest-altitude",
     "tags": [
       "array",
       "prefix-sum"
@@ -6831,6 +7443,8 @@
     "_ts": 1782430729,
     "difficulty": "Hard",
     "frontendId": "2050",
+    "questionId": "2176",
+    "dir": "leetcode/2176-parallel-courses-iii",
     "tags": [
       "array",
       "dynamic-programming",
@@ -6856,6 +7470,8 @@
     "_ts": 1782353438,
     "difficulty": "Medium",
     "frontendId": "1136",
+    "questionId": "1101",
+    "dir": "leetcode/1101-parallel-courses",
     "tags": [
       "graph",
       "topological-sort",
@@ -6877,6 +7493,8 @@
     "_ts": 1782259252,
     "difficulty": "Medium",
     "frontendId": "3484",
+    "questionId": "3797",
+    "dir": "leetcode/3797-design-spreadsheet",
     "tags": [
       "array",
       "hash-table",
@@ -6902,6 +7520,8 @@
     "_ts": 1782258007,
     "difficulty": "Hard",
     "frontendId": "295",
+    "questionId": "295",
+    "dir": "leetcode/295-find-median-from-data-stream",
     "tags": [
       "two-pointers",
       "design",
@@ -6927,6 +7547,8 @@
     "_ts": 1781929672,
     "difficulty": "Hard",
     "frontendId": "41",
+    "questionId": "41",
+    "dir": "leetcode/41-first-missing-positive",
     "tags": [
       "array",
       "hash-table"
@@ -6946,6 +7568,8 @@
     "_ts": 1781907578,
     "difficulty": "Medium",
     "frontendId": "138",
+    "questionId": "138",
+    "dir": "leetcode/138-copy-list-with-random-pointer",
     "tags": [
       "hash-table",
       "linked-list"
@@ -6965,6 +7589,8 @@
     "_ts": 1781752931,
     "difficulty": "Easy",
     "frontendId": "1",
+    "questionId": "1",
+    "dir": "leetcode/1-two-sum",
     "tags": [
       "array",
       "hash-table"
@@ -6984,6 +7610,8 @@
     "_ts": 1781670870,
     "difficulty": "Easy",
     "frontendId": "206",
+    "questionId": "206",
+    "dir": "leetcode/206-reverse-linked-list",
     "tags": [
       "linked-list",
       "recursion"
@@ -7003,6 +7631,8 @@
     "_ts": 1781670243,
     "difficulty": "Medium",
     "frontendId": "328",
+    "questionId": "328",
+    "dir": "leetcode/328-odd-even-linked-list",
     "tags": [
       "linked-list"
     ],
@@ -7020,6 +7650,8 @@
     "_ts": 1781323001,
     "difficulty": "Medium",
     "frontendId": "686",
+    "questionId": "686",
+    "dir": "leetcode/686-repeated-string-match",
     "tags": [
       "string",
       "string-matching",
@@ -7045,6 +7677,8 @@
     "_ts": 1781315627,
     "difficulty": "Easy",
     "frontendId": "796",
+    "questionId": "812",
+    "dir": "leetcode/812-rotate-string",
     "tags": [
       "string",
       "string-matching"
@@ -7064,6 +7698,8 @@
     "_ts": 1781315348,
     "difficulty": "Easy",
     "frontendId": "459",
+    "questionId": "459",
+    "dir": "leetcode/459-repeated-substring-pattern",
     "tags": [
       "string",
       "string-matching",
@@ -7087,6 +7723,8 @@
     "_ts": 1769033000,
     "difficulty": "Medium",
     "frontendId": "831",
+    "questionId": "858",
+    "dir": "leetcode/858-masking-personal-information",
     "tags": [
       "string"
     ],
@@ -7104,6 +7742,8 @@
     "_ts": 1769016334,
     "difficulty": "Easy",
     "frontendId": "482",
+    "questionId": "482",
+    "dir": "leetcode/482-license-key-formatting",
     "tags": [
       "string"
     ],
@@ -7121,6 +7761,8 @@
     "_ts": 1768966169,
     "difficulty": "Easy",
     "frontendId": "520",
+    "questionId": "520",
+    "dir": "leetcode/520-detect-capital",
     "tags": [
       "string"
     ],
@@ -7138,6 +7780,8 @@
     "_ts": 1768965308,
     "difficulty": "Hard",
     "frontendId": "1354",
+    "questionId": "1479",
+    "dir": "leetcode/1479-construct-target-array-with-multiple-sums",
     "tags": [
       "array",
       "heap-priority-queue"
@@ -7157,6 +7801,8 @@
     "_ts": 1768947396,
     "difficulty": "Medium",
     "frontendId": "373",
+    "questionId": "373",
+    "dir": "leetcode/373-find-k-pairs-with-smallest-sums",
     "tags": [
       "array",
       "heap-priority-queue"
@@ -7176,6 +7822,8 @@
     "_ts": 1768881883,
     "difficulty": "Easy",
     "frontendId": "1046",
+    "questionId": "1127",
+    "dir": "leetcode/1127-last-stone-weight",
     "tags": [
       "array",
       "heap-priority-queue"
@@ -7195,6 +7843,8 @@
     "_ts": 1768862668,
     "difficulty": "Easy",
     "frontendId": "232",
+    "questionId": "232",
+    "dir": "leetcode/232-implement-queue-using-stacks",
     "tags": [
       "stack",
       "design",
@@ -7216,6 +7866,8 @@
     "_ts": 1768843135,
     "difficulty": "Easy",
     "frontendId": "2073",
+    "questionId": "2195",
+    "dir": "leetcode/2195-time-needed-to-buy-tickets",
     "tags": [
       "array",
       "queue",
@@ -7237,6 +7889,8 @@
     "_ts": 1768797350,
     "difficulty": "Easy",
     "frontendId": "1700",
+    "questionId": "1802",
+    "dir": "leetcode/1802-number-of-students-unable-to-eat-lunch",
     "tags": [
       "array",
       "stack",
@@ -7260,6 +7914,8 @@
     "_ts": 1768795826,
     "difficulty": "Easy",
     "frontendId": "941",
+    "questionId": "978",
+    "dir": "leetcode/978-valid-mountain-array",
     "tags": [
       "array"
     ],
@@ -7277,6 +7933,8 @@
     "_ts": 1768795814,
     "difficulty": "Easy",
     "frontendId": "66",
+    "questionId": "66",
+    "dir": "leetcode/66-plus-one",
     "tags": [
       "array",
       "math"
@@ -7296,6 +7954,8 @@
     "_ts": 1768781626,
     "difficulty": "Easy",
     "frontendId": "28",
+    "questionId": "28",
+    "dir": "leetcode/28-find-the-index-of-the-first-occurrence-in-a-string",
     "tags": [
       "two-pointers",
       "string",
@@ -7323,6 +7983,8 @@
     "_ts": 1768780660,
     "difficulty": "Medium",
     "frontendId": "316",
+    "questionId": "316",
+    "dir": "leetcode/316-remove-duplicate-letters",
     "tags": [
       "string",
       "stack",
@@ -7346,6 +8008,8 @@
     "_ts": 1768780653,
     "difficulty": "Medium",
     "frontendId": "1081",
+    "questionId": "1159",
+    "dir": "leetcode/1159-smallest-subsequence-of-distinct-characters",
     "tags": [
       "string",
       "stack",
@@ -7369,6 +8033,8 @@
     "_ts": 1768778280,
     "difficulty": "Medium",
     "frontendId": "2345",
+    "questionId": "2485",
+    "dir": "leetcode/2485-finding-the-number-of-visible-mountains",
     "tags": [
       "array",
       "stack",
@@ -7392,6 +8058,8 @@
     "_ts": 1768773897,
     "difficulty": "Medium",
     "frontendId": "1762",
+    "questionId": "1909",
+    "dir": "leetcode/1909-buildings-with-an-ocean-view",
     "tags": [
       "array",
       "stack",
@@ -7413,6 +8081,8 @@
     "_ts": 1768773446,
     "difficulty": "Hard",
     "frontendId": "1063",
+    "questionId": "1061",
+    "dir": "leetcode/1061-number-of-valid-subarrays",
     "tags": [
       "array",
       "stack",
@@ -7434,6 +8104,8 @@
     "_ts": 1768760660,
     "difficulty": "Hard",
     "frontendId": "84",
+    "questionId": "84",
+    "dir": "leetcode/84-largest-rectangle-in-histogram",
     "tags": [
       "array",
       "stack",
@@ -7457,6 +8129,8 @@
     "_ts": 1768620276,
     "difficulty": "Medium",
     "frontendId": "739",
+    "questionId": "739",
+    "dir": "leetcode/739-daily-temperatures",
     "tags": [
       "array",
       "stack",
@@ -7478,6 +8152,8 @@
     "_ts": 1768613506,
     "difficulty": "Easy",
     "frontendId": "1475",
+    "questionId": "1570",
+    "dir": "leetcode/1570-final-prices-with-a-special-discount-in-a-shop",
     "tags": [
       "array",
       "stack",
@@ -7499,6 +8175,8 @@
     "_ts": 1768599655,
     "difficulty": "Medium",
     "frontendId": "636",
+    "questionId": "636",
+    "dir": "leetcode/636-exclusive-time-of-functions",
     "tags": [
       "array",
       "stack"
@@ -7518,6 +8196,8 @@
     "_ts": 1768596231,
     "difficulty": "Medium",
     "frontendId": "150",
+    "questionId": "150",
+    "dir": "leetcode/150-evaluate-reverse-polish-notation",
     "tags": [
       "array",
       "math",
@@ -7539,6 +8219,8 @@
     "_ts": 1768514605,
     "difficulty": "Medium",
     "frontendId": "1441",
+    "questionId": "1552",
+    "dir": "leetcode/1552-build-an-array-with-stack-operations",
     "tags": [
       "array",
       "stack",
@@ -7560,6 +8242,8 @@
     "_ts": 1768513338,
     "difficulty": "Easy",
     "frontendId": "448",
+    "questionId": "448",
+    "dir": "leetcode/448-find-all-numbers-disappeared-in-an-array",
     "tags": [
       "array",
       "hash-table"
@@ -7579,6 +8263,8 @@
     "_ts": 1768511669,
     "difficulty": "Easy",
     "frontendId": "1365",
+    "questionId": "1482",
+    "dir": "leetcode/1482-how-many-numbers-are-smaller-than-the-current-number",
     "tags": [
       "array",
       "hash-table",
@@ -7602,6 +8288,8 @@
     "_ts": 1768454236,
     "difficulty": "Easy",
     "frontendId": "645",
+    "questionId": "645",
+    "dir": "leetcode/645-set-mismatch",
     "tags": [
       "array",
       "hash-table",
@@ -7625,6 +8313,8 @@
     "_ts": 1768432611,
     "difficulty": "Easy",
     "frontendId": "485",
+    "questionId": "485",
+    "dir": "leetcode/485-max-consecutive-ones",
     "tags": [
       "array"
     ],
@@ -7642,6 +8332,8 @@
     "_ts": 1768431339,
     "difficulty": "Easy",
     "frontendId": "1470",
+    "questionId": "1580",
+    "dir": "leetcode/1580-shuffle-the-array",
     "tags": [
       "array"
     ],
@@ -7659,6 +8351,8 @@
     "_ts": 1768430402,
     "difficulty": "Easy",
     "frontendId": "1929",
+    "questionId": "2058",
+    "dir": "leetcode/2058-concatenation-of-array",
     "tags": [
       "array",
       "simulation"
@@ -7678,6 +8372,8 @@
     "_ts": 1740462445,
     "difficulty": "Medium",
     "frontendId": "162",
+    "questionId": "162",
+    "dir": "leetcode/162-find-peak-element",
     "tags": [
       "array",
       "binary-search"
@@ -7697,6 +8393,8 @@
     "_ts": 1740460750,
     "difficulty": "Medium",
     "frontendId": "129",
+    "questionId": "129",
+    "dir": "leetcode/129-sum-root-to-leaf-numbers",
     "tags": [
       "tree",
       "depth-first-search",
@@ -7718,6 +8416,8 @@
     "_ts": 1740459225,
     "difficulty": "Hard",
     "frontendId": "65",
+    "questionId": "65",
+    "dir": "leetcode/65-valid-number",
     "tags": [
       "string"
     ],
@@ -7735,6 +8435,8 @@
     "_ts": 1740451063,
     "difficulty": "Medium",
     "frontendId": "791",
+    "questionId": "807",
+    "dir": "leetcode/807-custom-sort-string",
     "tags": [
       "hash-table",
       "string",
@@ -7756,6 +8458,8 @@
     "_ts": 1740448446,
     "difficulty": "Medium",
     "frontendId": "1485",
+    "questionId": "1624",
+    "dir": "leetcode/1624-clone-binary-tree-with-random-pointer",
     "tags": [
       "hash-table",
       "tree",
@@ -7781,6 +8485,8 @@
     "_ts": 1740446640,
     "difficulty": "Easy",
     "frontendId": "163",
+    "questionId": "163",
+    "dir": "leetcode/163-missing-ranges",
     "tags": [
       "array"
     ],
@@ -7798,6 +8504,8 @@
     "_ts": 1740378312,
     "difficulty": "Medium",
     "frontendId": "560",
+    "questionId": "560",
+    "dir": "leetcode/560-subarray-sum-equals-k",
     "tags": [
       "array",
       "hash-table",
@@ -7819,6 +8527,8 @@
     "_ts": 1740271069,
     "difficulty": "Medium",
     "frontendId": "528",
+    "questionId": "912",
+    "dir": "leetcode/912-random-pick-with-weight",
     "tags": [
       "array",
       "math",
@@ -7844,6 +8554,8 @@
     "_ts": 1740270203,
     "difficulty": "Easy",
     "frontendId": "680",
+    "questionId": "680",
+    "dir": "leetcode/680-valid-palindrome-ii",
     "tags": [
       "two-pointers",
       "string",
@@ -7865,6 +8577,8 @@
     "_ts": 1740255115,
     "difficulty": "Medium",
     "frontendId": "1091",
+    "questionId": "1171",
+    "dir": "leetcode/1171-shortest-path-in-binary-matrix",
     "tags": [
       "array",
       "breadth-first-search",
@@ -7886,6 +8600,8 @@
     "_ts": 1740253212,
     "difficulty": "Hard",
     "frontendId": "987",
+    "questionId": "1029",
+    "dir": "leetcode/1029-vertical-order-traversal-of-a-binary-tree",
     "tags": [
       "hash-table",
       "tree",
@@ -7913,6 +8629,8 @@
     "_ts": 1740121172,
     "difficulty": "Medium",
     "frontendId": "393",
+    "questionId": "393",
+    "dir": "leetcode/393-utf-8-validation",
     "tags": [
       "array",
       "bit-manipulation"
@@ -7932,6 +8650,8 @@
     "_ts": 1740115792,
     "difficulty": "Medium",
     "frontendId": "1424",
+    "questionId": "1539",
+    "dir": "leetcode/1539-diagonal-traverse-ii",
     "tags": [
       "array",
       "sorting",
@@ -7953,6 +8673,8 @@
     "_ts": 1740031140,
     "difficulty": "Medium",
     "frontendId": "1891",
+    "questionId": "2045",
+    "dir": "leetcode/2045-cutting-ribbons",
     "tags": [
       "array",
       "binary-search"
@@ -7972,6 +8694,8 @@
     "_ts": 1740029038,
     "difficulty": "Medium",
     "frontendId": "8",
+    "questionId": "8",
+    "dir": "leetcode/8-string-to-integer-atoi",
     "tags": [
       "string"
     ],
@@ -7989,6 +8713,8 @@
     "_ts": 1740027943,
     "difficulty": "Easy",
     "frontendId": "1757",
+    "questionId": "1908",
+    "dir": "leetcode/1908-recyclable-and-low-fat-products",
     "tags": [
       "database"
     ],
@@ -8006,6 +8732,8 @@
     "_ts": 1739948144,
     "difficulty": "Medium",
     "frontendId": "249",
+    "questionId": "249",
+    "dir": "leetcode/249-group-shifted-strings",
     "tags": [
       "array",
       "hash-table",
@@ -8027,6 +8755,8 @@
     "_ts": 1739946937,
     "difficulty": "Easy",
     "frontendId": "1047",
+    "questionId": "1128",
+    "dir": "leetcode/1128-remove-all-adjacent-duplicates-in-string",
     "tags": [
       "string",
       "stack"
@@ -8046,6 +8776,8 @@
     "_ts": 1739946817,
     "difficulty": "Easy",
     "frontendId": "824",
+    "questionId": "851",
+    "dir": "leetcode/851-goat-latin",
     "tags": [
       "string"
     ],
@@ -8063,6 +8795,8 @@
     "_ts": 1739767335,
     "difficulty": "Hard",
     "frontendId": "224",
+    "questionId": "224",
+    "dir": "leetcode/224-basic-calculator",
     "tags": [
       "math",
       "string",
@@ -8086,6 +8820,8 @@
     "_ts": 1739765781,
     "difficulty": "Medium",
     "frontendId": "426",
+    "questionId": "758",
+    "dir": "leetcode/758-convert-binary-search-tree-to-sorted-doubly-linked-list",
     "tags": [
       "linked-list",
       "stack",
@@ -8115,6 +8851,8 @@
     "_ts": 1739763716,
     "difficulty": "Hard",
     "frontendId": "282",
+    "questionId": "282",
+    "dir": "leetcode/282-expression-add-operators",
     "tags": [
       "math",
       "string",
@@ -8136,6 +8874,8 @@
     "_ts": 1739605238,
     "difficulty": "Hard",
     "frontendId": "127",
+    "questionId": "127",
+    "dir": "leetcode/127-word-ladder",
     "tags": [
       "hash-table",
       "string",
@@ -8159,6 +8899,8 @@
     "_ts": 1739514328,
     "difficulty": "Medium",
     "frontendId": "1010",
+    "questionId": "1055",
+    "dir": "leetcode/1055-pairs-of-songs-with-total-durations-divisible-by-60",
     "tags": [
       "array",
       "hash-table",
@@ -8180,6 +8922,8 @@
     "_ts": 1739255144,
     "difficulty": "Medium",
     "frontendId": "921",
+    "questionId": "957",
+    "dir": "leetcode/957-minimum-add-to-make-parentheses-valid",
     "tags": [
       "string",
       "stack",
@@ -8203,6 +8947,8 @@
     "_ts": 1739254843,
     "difficulty": "Easy",
     "frontendId": "1539",
+    "questionId": "1646",
+    "dir": "leetcode/1646-kth-missing-positive-number",
     "tags": [
       "array",
       "binary-search"
@@ -8222,6 +8968,8 @@
     "_ts": 1739250952,
     "difficulty": "Medium",
     "frontendId": "31",
+    "questionId": "31",
+    "dir": "leetcode/31-next-permutation",
     "tags": [
       "array",
       "two-pointers"
@@ -8241,6 +8989,8 @@
     "_ts": 1739164986,
     "difficulty": "Easy",
     "frontendId": "766",
+    "questionId": "777",
+    "dir": "leetcode/777-toeplitz-matrix",
     "tags": [
       "array",
       "matrix"
@@ -8260,6 +9010,8 @@
     "_ts": 1739163675,
     "difficulty": "Medium",
     "frontendId": "398",
+    "questionId": "398",
+    "dir": "leetcode/398-random-pick-index",
     "tags": [
       "hash-table",
       "math",
@@ -8283,6 +9035,8 @@
     "_ts": 1739146274,
     "difficulty": "Medium",
     "frontendId": "498",
+    "questionId": "498",
+    "dir": "leetcode/498-diagonal-traverse",
     "tags": [
       "array",
       "matrix",
@@ -8304,6 +9058,8 @@
     "_ts": 1739076652,
     "difficulty": "Medium",
     "frontendId": "339",
+    "questionId": "339",
+    "dir": "leetcode/339-nested-list-weight-sum",
     "tags": [
       "depth-first-search",
       "breadth-first-search"
@@ -8323,6 +9079,8 @@
     "_ts": 1739064733,
     "difficulty": "Medium",
     "frontendId": "347",
+    "questionId": "347",
+    "dir": "leetcode/347-top-k-frequent-elements",
     "tags": [
       "array",
       "hash-table",
@@ -8354,6 +9112,8 @@
     "_ts": 1739063637,
     "difficulty": "Medium",
     "frontendId": "227",
+    "questionId": "227",
+    "dir": "leetcode/227-basic-calculator-ii",
     "tags": [
       "math",
       "string",
@@ -8375,6 +9135,8 @@
     "_ts": 1738821353,
     "difficulty": "Medium",
     "frontendId": "973",
+    "questionId": "1014",
+    "dir": "leetcode/1014-k-closest-points-to-origin",
     "tags": [
       "array",
       "math",
@@ -8406,6 +9168,8 @@
     "_ts": 1738819719,
     "difficulty": "Easy",
     "frontendId": "938",
+    "questionId": "975",
+    "dir": "leetcode/975-range-sum-of-bst",
     "tags": [
       "tree",
       "depth-first-search",
@@ -8429,6 +9193,8 @@
     "_ts": 1738819216,
     "difficulty": "Medium",
     "frontendId": "314",
+    "questionId": "314",
+    "dir": "leetcode/314-binary-tree-vertical-order-traversal",
     "tags": [
       "hash-table",
       "tree",
@@ -8456,6 +9222,8 @@
     "_ts": 1738817897,
     "difficulty": "Medium",
     "frontendId": "1650",
+    "questionId": "1790",
+    "dir": "leetcode/1790-lowest-common-ancestor-of-a-binary-tree-iii",
     "tags": [
       "hash-table",
       "two-pointers",
@@ -8483,6 +9251,8 @@
     "_ts": 1738817049,
     "difficulty": "Medium",
     "frontendId": "1249",
+    "questionId": "1371",
+    "dir": "leetcode/1371-minimum-remove-to-make-valid-parentheses",
     "tags": [
       "string",
       "stack"
@@ -8502,6 +9272,8 @@
     "_ts": 1738816386,
     "difficulty": "Medium",
     "frontendId": "236",
+    "questionId": "236",
+    "dir": "leetcode/236-lowest-common-ancestor-of-a-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -8527,6 +9299,8 @@
     "_ts": 1738739829,
     "difficulty": "Easy",
     "frontendId": "408",
+    "questionId": "408",
+    "dir": "leetcode/408-valid-word-abbreviation",
     "tags": [
       "two-pointers",
       "string"
@@ -8546,6 +9320,8 @@
     "_ts": 1738558086,
     "difficulty": "Medium",
     "frontendId": "1570",
+    "questionId": "1713",
+    "dir": "leetcode/1713-dot-product-of-two-sparse-vectors",
     "tags": [
       "array",
       "hash-table",
@@ -8571,6 +9347,8 @@
     "_ts": 1738132997,
     "difficulty": "Medium",
     "frontendId": "670",
+    "questionId": "670",
+    "dir": "leetcode/670-maximum-swap",
     "tags": [
       "math",
       "greedy"
@@ -8590,6 +9368,8 @@
     "_ts": 1737958499,
     "difficulty": "Easy",
     "frontendId": "125",
+    "questionId": "125",
+    "dir": "leetcode/125-valid-palindrome",
     "tags": [
       "two-pointers",
       "string"
@@ -8609,6 +9389,8 @@
     "_ts": 1737956809,
     "difficulty": "Medium",
     "frontendId": "71",
+    "questionId": "71",
+    "dir": "leetcode/71-simplify-path",
     "tags": [
       "string",
       "stack"
@@ -8628,6 +9410,8 @@
     "_ts": 1737355233,
     "difficulty": "Hard",
     "frontendId": "2931",
+    "questionId": "3107",
+    "dir": "leetcode/3107-maximum-spending-after-buying-items",
     "tags": [
       "array",
       "greedy",
@@ -8653,6 +9437,8 @@
     "_ts": 1737354030,
     "difficulty": "Medium",
     "frontendId": "380",
+    "questionId": "380",
+    "dir": "leetcode/380-insert-delete-getrandom-o1",
     "tags": [
       "array",
       "hash-table",
@@ -8678,6 +9464,8 @@
     "_ts": 1737351941,
     "difficulty": "Hard",
     "frontendId": "329",
+    "questionId": "329",
+    "dir": "leetcode/329-longest-increasing-path-in-a-matrix",
     "tags": [
       "array",
       "dynamic-programming",
@@ -8711,6 +9499,8 @@
     "_ts": 1737345343,
     "difficulty": "Medium",
     "frontendId": "395",
+    "questionId": "395",
+    "dir": "leetcode/395-longest-substring-with-at-least-k-repeating-characters",
     "tags": [
       "hash-table",
       "string",
@@ -8734,6 +9524,8 @@
     "_ts": 1737337268,
     "difficulty": "Medium",
     "frontendId": "2134",
+    "questionId": "2255",
+    "dir": "leetcode/2255-minimum-swaps-to-group-all-1s-together-ii",
     "tags": [
       "array",
       "sliding-window"
@@ -8753,6 +9545,8 @@
     "_ts": 1737336029,
     "difficulty": "Medium",
     "frontendId": "1151",
+    "questionId": "1107",
+    "dir": "leetcode/1107-minimum-swaps-to-group-all-1s-together",
     "tags": [
       "array",
       "sliding-window"
@@ -8772,6 +9566,8 @@
     "_ts": 1737330181,
     "difficulty": "Medium",
     "frontendId": "694",
+    "questionId": "694",
+    "dir": "leetcode/694-number-of-distinct-islands",
     "tags": [
       "array",
       "hash-table",
@@ -8803,6 +9599,8 @@
     "_ts": 1737328657,
     "difficulty": "Hard",
     "frontendId": "2402",
+    "questionId": "2479",
+    "dir": "leetcode/2479-meeting-rooms-iii",
     "tags": [
       "array",
       "hash-table",
@@ -8828,6 +9626,8 @@
     "_ts": 1737268356,
     "difficulty": "Easy",
     "frontendId": "69",
+    "questionId": "69",
+    "dir": "leetcode/69-sqrtx",
     "tags": [
       "math",
       "binary-search",
@@ -8849,6 +9649,8 @@
     "_ts": 1737267582,
     "difficulty": "Medium",
     "frontendId": "416",
+    "questionId": "416",
+    "dir": "leetcode/416-partition-equal-subset-sum",
     "tags": [
       "array",
       "dynamic-programming",
@@ -8872,6 +9674,8 @@
     "_ts": 1737256312,
     "difficulty": "Medium",
     "frontendId": "1642",
+    "questionId": "1762",
+    "dir": "leetcode/1762-furthest-building-you-can-reach",
     "tags": [
       "array",
       "greedy",
@@ -8893,6 +9697,8 @@
     "_ts": 1737254621,
     "difficulty": "Hard",
     "frontendId": "317",
+    "questionId": "317",
+    "dir": "leetcode/317-shortest-distance-from-all-buildings",
     "tags": [
       "array",
       "breadth-first-search",
@@ -8914,6 +9720,8 @@
     "_ts": 1737164123,
     "difficulty": "Medium",
     "frontendId": "200",
+    "questionId": "200",
+    "dir": "leetcode/200-number-of-islands",
     "tags": [
       "array",
       "depth-first-search",
@@ -8939,6 +9747,8 @@
     "_ts": 1737163411,
     "difficulty": "Medium",
     "frontendId": "253",
+    "questionId": "253",
+    "dir": "leetcode/253-meeting-rooms-ii",
     "tags": [
       "array",
       "two-pointers",
@@ -8966,6 +9776,8 @@
     "_ts": 1737161651,
     "difficulty": "Easy",
     "frontendId": "67",
+    "questionId": "67",
+    "dir": "leetcode/67-add-binary",
     "tags": [
       "math",
       "string",
@@ -8989,6 +9801,8 @@
     "_ts": 1737161556,
     "difficulty": "Easy",
     "frontendId": "415",
+    "questionId": "415",
+    "dir": "leetcode/415-add-strings",
     "tags": [
       "math",
       "string",
@@ -9010,6 +9824,8 @@
     "_ts": 1737160414,
     "difficulty": "Medium",
     "frontendId": "300",
+    "questionId": "300",
+    "dir": "leetcode/300-longest-increasing-subsequence",
     "tags": [
       "array",
       "binary-search",
@@ -9033,6 +9849,8 @@
     "_ts": 1736822304,
     "difficulty": "Easy",
     "frontendId": "1512",
+    "questionId": "1635",
+    "dir": "leetcode/1635-number-of-good-pairs",
     "tags": [
       "array",
       "hash-table",
@@ -9056,6 +9874,8 @@
     "_ts": 1736734149,
     "difficulty": "Easy",
     "frontendId": "682",
+    "questionId": "682",
+    "dir": "leetcode/682-baseball-game",
     "tags": [
       "array",
       "stack",
@@ -9077,6 +9897,8 @@
     "_ts": 1736647377,
     "difficulty": "Easy",
     "frontendId": "94",
+    "questionId": "94",
+    "dir": "leetcode/94-binary-tree-inorder-traversal",
     "tags": [
       "stack",
       "tree",
@@ -9100,6 +9922,8 @@
     "_ts": 1736562764,
     "difficulty": "Easy",
     "frontendId": "144",
+    "questionId": "144",
+    "dir": "leetcode/144-binary-tree-preorder-traversal",
     "tags": [
       "stack",
       "tree",
@@ -9123,6 +9947,8 @@
     "_ts": 1736494527,
     "difficulty": "Easy",
     "frontendId": "145",
+    "questionId": "145",
+    "dir": "leetcode/145-binary-tree-postorder-traversal",
     "tags": [
       "stack",
       "tree",
@@ -9146,6 +9972,8 @@
     "_ts": 1736402026,
     "difficulty": "Easy",
     "frontendId": "344",
+    "questionId": "344",
+    "dir": "leetcode/344-reverse-string",
     "tags": [
       "two-pointers",
       "string"
@@ -9165,6 +9993,8 @@
     "_ts": 1736315413,
     "difficulty": "Medium",
     "frontendId": "229",
+    "questionId": "229",
+    "dir": "leetcode/229-majority-element-ii",
     "tags": [
       "array",
       "hash-table",
@@ -9190,6 +10020,8 @@
     "_ts": 1736231110,
     "difficulty": "Medium",
     "frontendId": "122",
+    "questionId": "122",
+    "dir": "leetcode/122-best-time-to-buy-and-sell-stock-ii",
     "tags": [
       "array",
       "dynamic-programming",
@@ -9211,6 +10043,8 @@
     "_ts": 1736230428,
     "difficulty": "Easy",
     "frontendId": "121",
+    "questionId": "121",
+    "dir": "leetcode/121-best-time-to-buy-and-sell-stock",
     "tags": [
       "array",
       "dynamic-programming"
@@ -9230,6 +10064,8 @@
     "_ts": 1736141674,
     "difficulty": "Easy",
     "frontendId": "303",
+    "questionId": "303",
+    "dir": "leetcode/303-range-sum-query-immutable",
     "tags": [
       "array",
       "design",
@@ -9251,6 +10087,8 @@
     "_ts": 1735973903,
     "difficulty": "Easy",
     "frontendId": "1427",
+    "questionId": "1345",
+    "dir": "leetcode/1345-perform-string-shifts",
     "tags": [
       "array",
       "math",
@@ -9272,6 +10110,8 @@
     "_ts": 1735884271,
     "difficulty": "Medium",
     "frontendId": "75",
+    "questionId": "75",
+    "dir": "leetcode/75-sort-colors",
     "tags": [
       "array",
       "two-pointers",
@@ -9297,6 +10137,8 @@
     "_ts": 1735794815,
     "difficulty": "Easy",
     "frontendId": "706",
+    "questionId": "817",
+    "dir": "leetcode/817-design-hashmap",
     "tags": [
       "array",
       "hash-table",
@@ -9322,6 +10164,8 @@
     "_ts": 1735794103,
     "difficulty": "Easy",
     "frontendId": "705",
+    "questionId": "816",
+    "dir": "leetcode/816-design-hashset",
     "tags": [
       "array",
       "hash-table",
@@ -9347,6 +10191,8 @@
     "_ts": 1735781662,
     "difficulty": "Easy",
     "frontendId": "169",
+    "questionId": "169",
+    "dir": "leetcode/169-majority-element",
     "tags": [
       "array",
       "hash-table",
@@ -9374,6 +10220,8 @@
     "_ts": 1735689506,
     "difficulty": "Easy",
     "frontendId": "3173",
+    "questionId": "3472",
+    "dir": "leetcode/3472-bitwise-or-of-adjacent-elements",
     "tags": [
       "array",
       "bit-manipulation"
@@ -9393,6 +10241,8 @@
     "_ts": 1735627767,
     "difficulty": "Easy",
     "frontendId": "1346",
+    "questionId": "1468",
+    "dir": "leetcode/1468-check-if-n-and-its-double-exist",
     "tags": [
       "array",
       "hash-table",
@@ -9418,6 +10268,8 @@
     "_ts": 1735627176,
     "difficulty": "Easy",
     "frontendId": "26",
+    "questionId": "26",
+    "dir": "leetcode/26-remove-duplicates-from-sorted-array",
     "tags": [
       "array",
       "two-pointers"
@@ -9437,6 +10289,8 @@
     "_ts": 1735627073,
     "difficulty": "Easy",
     "frontendId": "27",
+    "questionId": "27",
+    "dir": "leetcode/27-remove-element",
     "tags": [
       "array",
       "two-pointers"
@@ -9456,6 +10310,8 @@
     "_ts": 1735451592,
     "difficulty": "Easy",
     "frontendId": "3263",
+    "questionId": "3577",
+    "dir": "leetcode/3577-convert-doubly-linked-list-to-array-i",
     "tags": [
       "array",
       "linked-list",
@@ -9477,6 +10333,8 @@
     "_ts": 1735335811,
     "difficulty": "Medium",
     "frontendId": "80",
+    "questionId": "80",
+    "dir": "leetcode/80-remove-duplicates-from-sorted-array-ii",
     "tags": [
       "array",
       "two-pointers"
@@ -9496,6 +10354,8 @@
     "_ts": 1735272719,
     "difficulty": "Medium",
     "frontendId": "18",
+    "questionId": "18",
+    "dir": "leetcode/18-4sum",
     "tags": [
       "array",
       "two-pointers",
@@ -9517,6 +10377,8 @@
     "_ts": 1735101710,
     "difficulty": "Easy",
     "frontendId": "1119",
+    "questionId": "1089",
+    "dir": "leetcode/1089-remove-vowels-from-a-string",
     "tags": [
       "string"
     ],
@@ -9534,6 +10396,8 @@
     "_ts": 1735010056,
     "difficulty": "Easy",
     "frontendId": "2235",
+    "questionId": "2383",
+    "dir": "leetcode/2383-add-two-integers",
     "tags": [
       "math"
     ],
@@ -9551,6 +10415,8 @@
     "_ts": 1734906193,
     "difficulty": "Easy",
     "frontendId": "35",
+    "questionId": "35",
+    "dir": "leetcode/35-search-insert-position",
     "tags": [
       "array",
       "binary-search"
@@ -9570,6 +10436,8 @@
     "_ts": 1734837529,
     "difficulty": "Medium",
     "frontendId": "3397",
+    "questionId": "3620",
+    "dir": "leetcode/3620-maximum-number-of-distinct-elements-after-operations",
     "tags": [
       "array",
       "greedy",
@@ -9591,6 +10459,8 @@
     "_ts": 1734836518,
     "difficulty": "Easy",
     "frontendId": "3396",
+    "questionId": "3656",
+    "dir": "leetcode/3656-minimum-number-of-operations-to-make-elements-in-array-distinct",
     "tags": [
       "array",
       "hash-table"
@@ -9610,6 +10480,8 @@
     "_ts": 1734766830,
     "difficulty": "Medium",
     "frontendId": "650",
+    "questionId": "650",
+    "dir": "leetcode/650-2-keys-keyboard",
     "tags": [
       "math",
       "dynamic-programming"
@@ -9629,6 +10501,8 @@
     "_ts": 1734676664,
     "difficulty": "Easy",
     "frontendId": "252",
+    "questionId": "252",
+    "dir": "leetcode/252-meeting-rooms",
     "tags": [
       "array",
       "sorting",
@@ -9650,6 +10524,8 @@
     "_ts": 1734675865,
     "difficulty": "Medium",
     "frontendId": "209",
+    "questionId": "209",
+    "dir": "leetcode/209-minimum-size-subarray-sum",
     "tags": [
       "array",
       "binary-search",
@@ -9673,6 +10549,8 @@
     "_ts": 1734498960,
     "difficulty": "Hard",
     "frontendId": "1216",
+    "questionId": "1178",
+    "dir": "leetcode/1178-valid-palindrome-iii",
     "tags": [
       "string",
       "dynamic-programming"
@@ -9692,6 +10570,8 @@
     "_ts": 1734416282,
     "difficulty": "Medium",
     "frontendId": "708",
+    "questionId": "850",
+    "dir": "leetcode/850-insert-into-a-sorted-circular-linked-list",
     "tags": [
       "linked-list"
     ],
@@ -9709,6 +10589,8 @@
     "_ts": 1734332892,
     "difficulty": "Medium",
     "frontendId": "721",
+    "questionId": "721",
+    "dir": "leetcode/721-accounts-merge",
     "tags": [
       "array",
       "hash-table",
@@ -9738,6 +10620,8 @@
     "_ts": 1734326098,
     "difficulty": "Medium",
     "frontendId": "1004",
+    "questionId": "1046",
+    "dir": "leetcode/1046-max-consecutive-ones-iii",
     "tags": [
       "array",
       "binary-search",
@@ -9761,6 +10645,8 @@
     "_ts": 1734231003,
     "difficulty": "Medium",
     "frontendId": "3387",
+    "questionId": "3613",
+    "dir": "leetcode/3613-maximize-amount-after-two-days-of-conversions",
     "tags": [
       "array",
       "string",
@@ -9786,6 +10672,8 @@
     "_ts": 1734230552,
     "difficulty": "Easy",
     "frontendId": "3386",
+    "questionId": "3632",
+    "dir": "leetcode/3632-button-with-longest-push-time",
     "tags": [
       "array"
     ],
@@ -9803,6 +10691,8 @@
     "_ts": 1734157981,
     "difficulty": "Easy",
     "frontendId": "2879",
+    "questionId": "3065",
+    "dir": "leetcode/3065-display-the-first-three-rows",
     "tags": [],
     "tagNames": []
   },
@@ -9816,6 +10706,8 @@
     "_ts": 1734157914,
     "difficulty": "Easy",
     "frontendId": "2703",
+    "questionId": "2820",
+    "dir": "leetcode/2820-return-length-of-arguments-passed",
     "tags": [],
     "tagNames": []
   },
@@ -9829,6 +10721,8 @@
     "_ts": 1734074694,
     "difficulty": "Easy",
     "frontendId": "3110",
+    "questionId": "3379",
+    "dir": "leetcode/3379-score-of-a-string",
     "tags": [
       "string"
     ],
@@ -9846,6 +10740,8 @@
     "_ts": 1733813951,
     "difficulty": "Hard",
     "frontendId": "827",
+    "questionId": "854",
+    "dir": "leetcode/854-making-a-large-island",
     "tags": [
       "array",
       "depth-first-search",
@@ -9871,6 +10767,8 @@
     "_ts": 1733812758,
     "difficulty": "Medium",
     "frontendId": "116",
+    "questionId": "116",
+    "dir": "leetcode/116-populating-next-right-pointers-in-each-node",
     "tags": [
       "linked-list",
       "tree",
@@ -9896,6 +10794,8 @@
     "_ts": 1733725536,
     "difficulty": "Easy",
     "frontendId": "270",
+    "questionId": "270",
+    "dir": "leetcode/270-closest-binary-search-tree-value",
     "tags": [
       "binary-search",
       "tree",
@@ -9921,6 +10821,8 @@
     "_ts": 1733724656,
     "difficulty": "Medium",
     "frontendId": "958",
+    "questionId": "998",
+    "dir": "leetcode/998-check-completeness-of-a-binary-tree",
     "tags": [
       "tree",
       "breadth-first-search",
@@ -9942,6 +10844,8 @@
     "_ts": 1733718907,
     "difficulty": "Easy",
     "frontendId": "2667",
+    "questionId": "2809",
+    "dir": "leetcode/2809-create-hello-world-function",
     "tags": [],
     "tagNames": []
   },
@@ -9955,6 +10859,8 @@
     "_ts": 1733711448,
     "difficulty": "Medium",
     "frontendId": "986",
+    "questionId": "1028",
+    "dir": "leetcode/1028-interval-list-intersections",
     "tags": [
       "array",
       "two-pointers",
@@ -9976,6 +10882,8 @@
     "_ts": 1733710080,
     "difficulty": "Easy",
     "frontendId": "346",
+    "questionId": "346",
+    "dir": "leetcode/346-moving-average-from-data-stream",
     "tags": [
       "array",
       "design",
@@ -9999,6 +10907,8 @@
     "_ts": 1733628311,
     "difficulty": "Medium",
     "frontendId": "3380",
+    "questionId": "3681",
+    "dir": "leetcode/3681-maximum-area-rectangle-with-point-constraints-i",
     "tags": [
       "array",
       "math",
@@ -10028,6 +10938,8 @@
     "_ts": 1733626337,
     "difficulty": "Easy",
     "frontendId": "3379",
+    "questionId": "3651",
+    "dir": "leetcode/3651-transformed-array",
     "tags": [
       "array",
       "simulation"
@@ -10047,6 +10959,8 @@
     "_ts": 1733625142,
     "difficulty": "Medium",
     "frontendId": "863",
+    "questionId": "893",
+    "dir": "leetcode/893-all-nodes-distance-k-in-binary-tree",
     "tags": [
       "hash-table",
       "tree",
@@ -10072,6 +10986,8 @@
     "_ts": 1733376702,
     "difficulty": "Medium",
     "frontendId": "230",
+    "questionId": "230",
+    "dir": "leetcode/230-kth-smallest-element-in-a-bst",
     "tags": [
       "tree",
       "depth-first-search",
@@ -10095,6 +11011,8 @@
     "_ts": 1733374154,
     "difficulty": "Medium",
     "frontendId": "735",
+    "questionId": "735",
+    "dir": "leetcode/735-asteroid-collision",
     "tags": [
       "array",
       "stack",
@@ -10116,6 +11034,8 @@
     "_ts": 1733123036,
     "difficulty": "Medium",
     "frontendId": "355",
+    "questionId": "355",
+    "dir": "leetcode/355-design-twitter",
     "tags": [
       "hash-table",
       "linked-list",
@@ -10139,6 +11059,8 @@
     "_ts": 1733021001,
     "difficulty": "Easy",
     "frontendId": "3370",
+    "questionId": "3676",
+    "dir": "leetcode/3676-smallest-number-with-all-set-bits",
     "tags": [
       "math",
       "bit-manipulation"
@@ -10158,6 +11080,8 @@
     "_ts": 1732932024,
     "difficulty": "Medium",
     "frontendId": "684",
+    "questionId": "684",
+    "dir": "leetcode/684-redundant-connection",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -10181,6 +11105,8 @@
     "_ts": 1732929774,
     "difficulty": "Medium",
     "frontendId": "323",
+    "questionId": "323",
+    "dir": "leetcode/323-number-of-connected-components-in-an-undirected-graph",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -10204,6 +11130,8 @@
     "_ts": 1732835846,
     "difficulty": "Medium",
     "frontendId": "261",
+    "questionId": "261",
+    "dir": "leetcode/261-graph-valid-tree",
     "tags": [
       "depth-first-search",
       "breadth-first-search",
@@ -10227,6 +11155,8 @@
     "_ts": 1732761727,
     "difficulty": "Medium",
     "frontendId": "417",
+    "questionId": "417",
+    "dir": "leetcode/417-pacific-atlantic-water-flow",
     "tags": [
       "array",
       "depth-first-search",
@@ -10250,6 +11180,8 @@
     "_ts": 1732681196,
     "difficulty": "Medium",
     "frontendId": "130",
+    "questionId": "130",
+    "dir": "leetcode/130-surrounded-regions",
     "tags": [
       "array",
       "depth-first-search",
@@ -10275,6 +11207,8 @@
     "_ts": 1732679043,
     "difficulty": "Medium",
     "frontendId": "621",
+    "questionId": "621",
+    "dir": "leetcode/621-task-scheduler",
     "tags": [
       "array",
       "hash-table",
@@ -10302,6 +11236,8 @@
     "_ts": 1732517515,
     "difficulty": "Medium",
     "frontendId": "994",
+    "questionId": "1036",
+    "dir": "leetcode/1036-rotting-oranges",
     "tags": [
       "array",
       "breadth-first-search",
@@ -10323,6 +11259,8 @@
     "_ts": 1732504452,
     "difficulty": "Hard",
     "frontendId": "212",
+    "questionId": "212",
+    "dir": "leetcode/212-word-search-ii",
     "tags": [
       "array",
       "string",
@@ -10348,6 +11286,8 @@
     "_ts": 1732499061,
     "difficulty": "Hard",
     "frontendId": "51",
+    "questionId": "51",
+    "dir": "leetcode/51-n-queens",
     "tags": [
       "array",
       "backtracking",
@@ -10369,6 +11309,8 @@
     "_ts": 1732346314,
     "difficulty": "Medium",
     "frontendId": "40",
+    "questionId": "40",
+    "dir": "leetcode/40-combination-sum-ii",
     "tags": [
       "array",
       "backtracking"
@@ -10388,6 +11330,8 @@
     "_ts": 1732344484,
     "difficulty": "Medium",
     "frontendId": "90",
+    "questionId": "90",
+    "dir": "leetcode/90-subsets-ii",
     "tags": [
       "array",
       "backtracking",
@@ -10409,6 +11353,8 @@
     "_ts": 1732299341,
     "difficulty": "Medium",
     "frontendId": "79",
+    "questionId": "79",
+    "dir": "leetcode/79-word-search",
     "tags": [
       "array",
       "string",
@@ -10434,6 +11380,8 @@
     "_ts": 1732257833,
     "difficulty": "Medium",
     "frontendId": "46",
+    "questionId": "46",
+    "dir": "leetcode/46-permutations",
     "tags": [
       "array",
       "backtracking"
@@ -10453,6 +11401,8 @@
     "_ts": 1732256671,
     "difficulty": "Medium",
     "frontendId": "39",
+    "questionId": "39",
+    "dir": "leetcode/39-combination-sum",
     "tags": [
       "array",
       "backtracking"
@@ -10472,6 +11422,8 @@
     "_ts": 1732173151,
     "difficulty": "Medium",
     "frontendId": "17",
+    "questionId": "17",
+    "dir": "leetcode/17-letter-combinations-of-a-phone-number",
     "tags": [
       "hash-table",
       "string",
@@ -10493,6 +11445,8 @@
     "_ts": 1732086844,
     "difficulty": "Hard",
     "frontendId": "76",
+    "questionId": "76",
+    "dir": "leetcode/76-minimum-window-substring",
     "tags": [
       "hash-table",
       "string",
@@ -10514,6 +11468,8 @@
     "_ts": 1732083960,
     "difficulty": "Hard",
     "frontendId": "239",
+    "questionId": "239",
+    "dir": "leetcode/239-sliding-window-maximum",
     "tags": [
       "array",
       "queue",
@@ -10541,6 +11497,8 @@
     "_ts": 1731998577,
     "difficulty": "Medium",
     "frontendId": "567",
+    "questionId": "567",
+    "dir": "leetcode/567-permutation-in-string",
     "tags": [
       "hash-table",
       "two-pointers",
@@ -10564,6 +11522,8 @@
     "_ts": 1731909630,
     "difficulty": "Medium",
     "frontendId": "3",
+    "questionId": "3",
+    "dir": "leetcode/3-longest-substring-without-repeating-characters",
     "tags": [
       "hash-table",
       "string",
@@ -10585,6 +11545,8 @@
     "_ts": 1731908593,
     "difficulty": "Hard",
     "frontendId": "297",
+    "questionId": "297",
+    "dir": "leetcode/297-serialize-and-deserialize-binary-tree",
     "tags": [
       "string",
       "tree",
@@ -10612,6 +11574,8 @@
     "_ts": 1731900478,
     "difficulty": "Hard",
     "frontendId": "124",
+    "questionId": "124",
+    "dir": "leetcode/124-binary-tree-maximum-path-sum",
     "tags": [
       "dynamic-programming",
       "tree",
@@ -10637,6 +11601,8 @@
     "_ts": 1731895552,
     "difficulty": "Medium",
     "frontendId": "105",
+    "questionId": "105",
+    "dir": "leetcode/105-construct-binary-tree-from-preorder-and-inorder-traversal",
     "tags": [
       "array",
       "hash-table",
@@ -10662,6 +11628,8 @@
     "_ts": 1731892370,
     "difficulty": "Medium",
     "frontendId": "211",
+    "questionId": "211",
+    "dir": "leetcode/211-design-add-and-search-words-data-structure",
     "tags": [
       "string",
       "depth-first-search",
@@ -10685,6 +11653,8 @@
     "_ts": 1731830861,
     "difficulty": "Medium",
     "frontendId": "208",
+    "questionId": "208",
+    "dir": "leetcode/208-implement-trie-prefix-tree",
     "tags": [
       "hash-table",
       "string",
@@ -10708,6 +11678,8 @@
     "_ts": 1731829435,
     "difficulty": "Hard",
     "frontendId": "4",
+    "questionId": "4",
+    "dir": "leetcode/4-median-of-two-sorted-arrays",
     "tags": [
       "array",
       "binary-search",
@@ -10729,6 +11701,8 @@
     "_ts": 1731827888,
     "difficulty": "Medium",
     "frontendId": "981",
+    "questionId": "1023",
+    "dir": "leetcode/1023-time-based-key-value-store",
     "tags": [
       "hash-table",
       "string",
@@ -10752,6 +11726,8 @@
     "_ts": 1731813829,
     "difficulty": "Medium",
     "frontendId": "3355",
+    "questionId": "3639",
+    "dir": "leetcode/3639-zero-array-transformation-i",
     "tags": [
       "array",
       "prefix-sum"
@@ -10771,6 +11747,8 @@
     "_ts": 1731812003,
     "difficulty": "Easy",
     "frontendId": "3354",
+    "questionId": "3616",
+    "dir": "leetcode/3616-make-array-elements-equal-to-zero",
     "tags": [
       "array",
       "simulation",
@@ -10792,6 +11770,8 @@
     "_ts": 1731807915,
     "difficulty": "Medium",
     "frontendId": "153",
+    "questionId": "153",
+    "dir": "leetcode/153-find-minimum-in-rotated-sorted-array",
     "tags": [
       "array",
       "binary-search"
@@ -10811,6 +11791,8 @@
     "_ts": 1731653269,
     "difficulty": "Medium",
     "frontendId": "1574",
+    "questionId": "1679",
+    "dir": "leetcode/1679-shortest-subarray-to-be-removed-to-make-array-sorted",
     "tags": [
       "array",
       "two-pointers",
@@ -10836,6 +11818,8 @@
     "_ts": 1731479925,
     "difficulty": "Medium",
     "frontendId": "2",
+    "questionId": "2",
+    "dir": "leetcode/2-add-two-numbers",
     "tags": [
       "linked-list",
       "math",
@@ -10857,6 +11841,8 @@
     "_ts": 1731478656,
     "difficulty": "Medium",
     "frontendId": "287",
+    "questionId": "287",
+    "dir": "leetcode/287-find-the-duplicate-number",
     "tags": [
       "array",
       "two-pointers",
@@ -10884,6 +11870,8 @@
     "_ts": 1731389889,
     "difficulty": "Medium",
     "frontendId": "22",
+    "questionId": "22",
+    "dir": "leetcode/22-generate-parentheses",
     "tags": [
       "string",
       "dynamic-programming",
@@ -10907,6 +11895,8 @@
     "_ts": 1731303970,
     "difficulty": "Medium",
     "frontendId": "853",
+    "questionId": "883",
+    "dir": "leetcode/883-car-fleet",
     "tags": [
       "array",
       "stack",
@@ -10930,6 +11920,8 @@
     "_ts": 1731217604,
     "difficulty": "Medium",
     "frontendId": "19",
+    "questionId": "19",
+    "dir": "leetcode/19-remove-nth-node-from-end-of-list",
     "tags": [
       "linked-list",
       "two-pointers"
@@ -10949,6 +11941,8 @@
     "_ts": 1731207334,
     "difficulty": "Easy",
     "frontendId": "3349",
+    "questionId": "3612",
+    "dir": "leetcode/3612-adjacent-increasing-subarrays-detection-i",
     "tags": [
       "array"
     ],
@@ -10966,6 +11960,8 @@
     "_ts": 1731204244,
     "difficulty": "Medium",
     "frontendId": "155",
+    "questionId": "155",
+    "dir": "leetcode/155-min-stack",
     "tags": [
       "stack",
       "design"
@@ -10985,6 +11981,8 @@
     "_ts": 1731202424,
     "difficulty": "Hard",
     "frontendId": "42",
+    "questionId": "42",
+    "dir": "leetcode/42-trapping-rain-water",
     "tags": [
       "array",
       "two-pointers",
@@ -11010,6 +12008,8 @@
     "_ts": 1731200501,
     "difficulty": "Medium",
     "frontendId": "15",
+    "questionId": "15",
+    "dir": "leetcode/15-3sum",
     "tags": [
       "array",
       "two-pointers",
@@ -11031,6 +12031,8 @@
     "_ts": 1731198257,
     "difficulty": "Medium",
     "frontendId": "167",
+    "questionId": "167",
+    "dir": "leetcode/167-two-sum-ii-input-array-is-sorted",
     "tags": [
       "array",
       "two-pointers",
@@ -11052,6 +12054,8 @@
     "_ts": 1731132361,
     "difficulty": "Medium",
     "frontendId": "36",
+    "questionId": "36",
+    "dir": "leetcode/36-valid-sudoku",
     "tags": [
       "array",
       "hash-table",
@@ -11073,6 +12077,8 @@
     "_ts": 1731128347,
     "difficulty": "Easy",
     "frontendId": "20",
+    "questionId": "20",
+    "dir": "leetcode/20-valid-parentheses",
     "tags": [
       "string",
       "stack",
@@ -11094,6 +12100,8 @@
     "_ts": 1730701058,
     "difficulty": "Medium",
     "frontendId": "133",
+    "questionId": "133",
+    "dir": "leetcode/133-clone-graph",
     "tags": [
       "hash-table",
       "depth-first-search",
@@ -11117,6 +12125,8 @@
     "_ts": 1730699179,
     "difficulty": "Medium",
     "frontendId": "695",
+    "questionId": "695",
+    "dir": "leetcode/695-max-area-of-island",
     "tags": [
       "array",
       "depth-first-search",
@@ -11142,6 +12152,8 @@
     "_ts": 1730682127,
     "difficulty": "Medium",
     "frontendId": "238",
+    "questionId": "238",
+    "dir": "leetcode/238-product-of-array-except-self",
     "tags": [
       "array",
       "prefix-sum"
@@ -11161,6 +12173,8 @@
     "_ts": 1730675136,
     "difficulty": "Medium",
     "frontendId": "49",
+    "questionId": "49",
+    "dir": "leetcode/49-group-anagrams",
     "tags": [
       "array",
       "hash-table",
@@ -11184,6 +12198,8 @@
     "_ts": 1730609982,
     "difficulty": "Medium",
     "frontendId": "98",
+    "questionId": "98",
+    "dir": "leetcode/98-validate-binary-search-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11207,6 +12223,8 @@
     "_ts": 1730596090,
     "difficulty": "Medium",
     "frontendId": "1448",
+    "questionId": "1544",
+    "dir": "leetcode/1544-count-good-nodes-in-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11230,6 +12248,8 @@
     "_ts": 1730524444,
     "difficulty": "Medium",
     "frontendId": "235",
+    "questionId": "235",
+    "dir": "leetcode/235-lowest-common-ancestor-of-a-binary-search-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11257,6 +12277,8 @@
     "_ts": 1730438435,
     "difficulty": "Medium",
     "frontendId": "102",
+    "questionId": "102",
+    "dir": "leetcode/102-binary-tree-level-order-traversal",
     "tags": [
       "tree",
       "breadth-first-search",
@@ -11278,6 +12300,8 @@
     "_ts": 1730437154,
     "difficulty": "Easy",
     "frontendId": "572",
+    "questionId": "572",
+    "dir": "leetcode/572-subtree-of-another-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11303,6 +12327,8 @@
     "_ts": 1730435983,
     "difficulty": "Easy",
     "frontendId": "100",
+    "questionId": "100",
+    "dir": "leetcode/100-same-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11326,6 +12352,8 @@
     "_ts": 1730093660,
     "difficulty": "Easy",
     "frontendId": "110",
+    "questionId": "110",
+    "dir": "leetcode/110-balanced-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11347,6 +12375,8 @@
     "_ts": 1730090263,
     "difficulty": "Easy",
     "frontendId": "104",
+    "questionId": "104",
+    "dir": "leetcode/104-maximum-depth-of-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11370,6 +12400,8 @@
     "_ts": 1730089569,
     "difficulty": "Easy",
     "frontendId": "226",
+    "questionId": "226",
+    "dir": "leetcode/226-invert-binary-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11393,6 +12425,8 @@
     "_ts": 1730078371,
     "difficulty": "Easy",
     "frontendId": "242",
+    "questionId": "242",
+    "dir": "leetcode/242-valid-anagram",
     "tags": [
       "hash-table",
       "string",
@@ -11414,6 +12448,8 @@
     "_ts": 1730077957,
     "difficulty": "Easy",
     "frontendId": "217",
+    "questionId": "217",
+    "dir": "leetcode/217-contains-duplicate",
     "tags": [
       "array",
       "hash-table",
@@ -11435,6 +12471,8 @@
     "_ts": 1704158072,
     "difficulty": "Easy",
     "frontendId": "455",
+    "questionId": "455",
+    "dir": "leetcode/455-assign-cookies",
     "tags": [
       "array",
       "two-pointers",
@@ -11460,6 +12498,8 @@
     "_ts": 1659592494,
     "difficulty": "Medium",
     "frontendId": "858",
+    "questionId": "888",
+    "dir": "leetcode/888-mirror-reflection",
     "tags": [
       "math",
       "geometry",
@@ -11485,6 +12525,8 @@
     "_ts": 1659506902,
     "difficulty": "Medium",
     "frontendId": "729",
+    "questionId": "729",
+    "dir": "leetcode/729-my-calendar-i",
     "tags": [
       "array",
       "binary-search",
@@ -11510,6 +12552,8 @@
     "_ts": 1644898082,
     "difficulty": "Medium",
     "frontendId": "72",
+    "questionId": "72",
+    "dir": "leetcode/72-edit-distance",
     "tags": [
       "string",
       "dynamic-programming"
@@ -11529,6 +12573,8 @@
     "_ts": 1644411722,
     "difficulty": "Medium",
     "frontendId": "2125",
+    "questionId": "2244",
+    "dir": "leetcode/2244-number-of-laser-beams-in-a-bank",
     "tags": [
       "array",
       "math",
@@ -11552,6 +12598,8 @@
     "_ts": 1644316329,
     "difficulty": "Medium",
     "frontendId": "5",
+    "questionId": "5",
+    "dir": "leetcode/5-longest-palindromic-substring",
     "tags": [
       "two-pointers",
       "string",
@@ -11575,6 +12623,8 @@
     "_ts": 1642912879,
     "difficulty": "Easy",
     "frontendId": "2148",
+    "questionId": "2269",
+    "dir": "leetcode/2269-count-elements-with-strictly-smaller-and-greater-elements",
     "tags": [
       "array",
       "sorting",
@@ -11596,6 +12646,8 @@
     "_ts": 1642911199,
     "difficulty": "Medium",
     "frontendId": "57",
+    "questionId": "57",
+    "dir": "leetcode/57-insert-interval",
     "tags": [
       "array"
     ],
@@ -11613,6 +12665,8 @@
     "_ts": 1642906753,
     "difficulty": "Medium",
     "frontendId": "435",
+    "questionId": "435",
+    "dir": "leetcode/435-non-overlapping-intervals",
     "tags": [
       "array",
       "dynamic-programming",
@@ -11636,6 +12690,8 @@
     "_ts": 1642807421,
     "difficulty": "Medium",
     "frontendId": "54",
+    "questionId": "54",
+    "dir": "leetcode/54-spiral-matrix",
     "tags": [
       "array",
       "matrix",
@@ -11657,6 +12713,8 @@
     "_ts": 1642716182,
     "difficulty": "Medium",
     "frontendId": "73",
+    "questionId": "73",
+    "dir": "leetcode/73-set-matrix-zeroes",
     "tags": [
       "array",
       "hash-table",
@@ -11678,6 +12736,8 @@
     "_ts": 1642316559,
     "difficulty": "Medium",
     "frontendId": "55",
+    "questionId": "55",
+    "dir": "leetcode/55-jump-game",
     "tags": [
       "array",
       "dynamic-programming",
@@ -11699,6 +12759,8 @@
     "_ts": 1642112901,
     "difficulty": "Medium",
     "frontendId": "213",
+    "questionId": "213",
+    "dir": "leetcode/213-house-robber-ii",
     "tags": [
       "array",
       "dynamic-programming"
@@ -11718,6 +12780,8 @@
     "_ts": 1642106994,
     "difficulty": "Medium",
     "frontendId": "1143",
+    "questionId": "1250",
+    "dir": "leetcode/1250-longest-common-subsequence",
     "tags": [
       "string",
       "dynamic-programming",
@@ -11739,6 +12803,8 @@
     "_ts": 1642091191,
     "difficulty": "Easy",
     "frontendId": "190",
+    "questionId": "190",
+    "dir": "leetcode/190-reverse-bits",
     "tags": [
       "divide-and-conquer",
       "bit-manipulation"
@@ -11758,6 +12824,8 @@
     "_ts": 1642089350,
     "difficulty": "Easy",
     "frontendId": "268",
+    "questionId": "268",
+    "dir": "leetcode/268-missing-number",
     "tags": [
       "array",
       "hash-table",
@@ -11785,6 +12853,8 @@
     "_ts": 1642087883,
     "difficulty": "Easy",
     "frontendId": "338",
+    "questionId": "338",
+    "dir": "leetcode/338-counting-bits",
     "tags": [
       "dynamic-programming",
       "bit-manipulation"
@@ -11804,6 +12874,8 @@
     "_ts": 1642085323,
     "difficulty": "Medium",
     "frontendId": "371",
+    "questionId": "371",
+    "dir": "leetcode/371-sum-of-two-integers",
     "tags": [
       "math",
       "bit-manipulation"
@@ -11823,6 +12895,8 @@
     "_ts": 1642084554,
     "difficulty": "Hard",
     "frontendId": "154",
+    "questionId": "154",
+    "dir": "leetcode/154-find-minimum-in-rotated-sorted-array-ii",
     "tags": [
       "array",
       "binary-search"
@@ -11842,6 +12916,8 @@
     "_ts": 1642084082,
     "difficulty": "Medium",
     "frontendId": "152",
+    "questionId": "152",
+    "dir": "leetcode/152-maximum-product-subarray",
     "tags": [
       "array",
       "dynamic-programming"
@@ -11861,6 +12937,8 @@
     "_ts": 1642052370,
     "difficulty": "Medium",
     "frontendId": "62",
+    "questionId": "62",
+    "dir": "leetcode/62-unique-paths",
     "tags": [
       "math",
       "dynamic-programming",
@@ -11882,6 +12960,8 @@
     "_ts": 1636743239,
     "difficulty": "Easy",
     "frontendId": "203",
+    "questionId": "203",
+    "dir": "leetcode/203-remove-linked-list-elements",
     "tags": [
       "linked-list",
       "recursion"
@@ -11901,6 +12981,8 @@
     "_ts": 1636350197,
     "difficulty": "Medium",
     "frontendId": "96",
+    "questionId": "96",
+    "dir": "leetcode/96-unique-binary-search-trees",
     "tags": [
       "math",
       "dynamic-programming",
@@ -11926,6 +13008,8 @@
     "_ts": 1636249075,
     "difficulty": "Medium",
     "frontendId": "43",
+    "questionId": "43",
+    "dir": "leetcode/43-multiply-strings",
     "tags": [
       "math",
       "string",
@@ -11947,6 +13031,8 @@
     "_ts": 1636086125,
     "difficulty": "Easy",
     "frontendId": "441",
+    "questionId": "441",
+    "dir": "leetcode/441-arranging-coins",
     "tags": [
       "math",
       "binary-search"
@@ -11966,6 +13052,8 @@
     "_ts": 1635998362,
     "difficulty": "Easy",
     "frontendId": "404",
+    "questionId": "404",
+    "dir": "leetcode/404-sum-of-left-leaves",
     "tags": [
       "tree",
       "depth-first-search",
@@ -11989,6 +13077,8 @@
     "_ts": 1635817873,
     "difficulty": "Hard",
     "frontendId": "980",
+    "questionId": "1022",
+    "dir": "leetcode/1022-unique-paths-iii",
     "tags": [
       "array",
       "backtracking",
@@ -12014,6 +13104,8 @@
     "_ts": 1634878428,
     "difficulty": "Medium",
     "frontendId": "348",
+    "questionId": "348",
+    "dir": "leetcode/348-design-tic-tac-toe",
     "tags": [
       "array",
       "hash-table",
@@ -12039,6 +13131,8 @@
     "_ts": 1634875562,
     "difficulty": "Medium",
     "frontendId": "1344",
+    "questionId": "1446",
+    "dir": "leetcode/1446-angle-between-hands-of-a-clock",
     "tags": [
       "math"
     ],
@@ -12056,6 +13150,8 @@
     "_ts": 1634806627,
     "difficulty": "Easy",
     "frontendId": "1822",
+    "questionId": "1950",
+    "dir": "leetcode/1950-sign-of-the-product-of-an-array",
     "tags": [
       "array",
       "math"
@@ -12075,6 +13171,8 @@
     "_ts": 1634806003,
     "difficulty": "Easy",
     "frontendId": "1304",
+    "questionId": "1426",
+    "dir": "leetcode/1426-find-n-unique-integers-sum-up-to-zero",
     "tags": [
       "array",
       "math"
@@ -12094,6 +13192,8 @@
     "_ts": 1634794747,
     "difficulty": "Easy",
     "frontendId": "191",
+    "questionId": "191",
+    "dir": "leetcode/191-number-of-1-bits",
     "tags": [
       "divide-and-conquer",
       "bit-manipulation"
@@ -12113,6 +13213,8 @@
     "_ts": 1633496334,
     "difficulty": "Medium",
     "frontendId": "53",
+    "questionId": "53",
+    "dir": "leetcode/53-maximum-subarray",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -12134,6 +13236,8 @@
     "_ts": 1628659038,
     "difficulty": "Medium",
     "frontendId": "926",
+    "questionId": "962",
+    "dir": "leetcode/962-flip-string-to-monotone-increasing",
     "tags": [
       "string",
       "dynamic-programming"
@@ -12153,6 +13257,8 @@
     "_ts": 1628465036,
     "difficulty": "Medium",
     "frontendId": "429",
+    "questionId": "764",
+    "dir": "leetcode/764-n-ary-tree-level-order-traversal",
     "tags": [
       "tree",
       "breadth-first-search"
@@ -12172,6 +13278,8 @@
     "_ts": 1628108053,
     "difficulty": "Medium",
     "frontendId": "113",
+    "questionId": "113",
+    "dir": "leetcode/113-path-sum-ii",
     "tags": [
       "backtracking",
       "tree",
@@ -12195,6 +13303,8 @@
     "_ts": 1628107127,
     "difficulty": "Easy",
     "frontendId": "112",
+    "questionId": "112",
+    "dir": "leetcode/112-path-sum",
     "tags": [
       "tree",
       "depth-first-search",
@@ -12218,6 +13328,8 @@
     "_ts": 1628055895,
     "difficulty": "Easy",
     "frontendId": "1480",
+    "questionId": "1603",
+    "dir": "leetcode/1603-running-sum-of-1d-array",
     "tags": [
       "array",
       "prefix-sum"
@@ -12237,6 +13349,8 @@
     "_ts": 1628052885,
     "difficulty": "Medium",
     "frontendId": "48",
+    "questionId": "48",
+    "dir": "leetcode/48-rotate-image",
     "tags": [
       "array",
       "math",
@@ -12258,6 +13372,8 @@
     "_ts": 1627879668,
     "difficulty": "Medium",
     "frontendId": "647",
+    "questionId": "647",
+    "dir": "leetcode/647-palindromic-substrings",
     "tags": [
       "two-pointers",
       "string",
@@ -12279,6 +13395,8 @@
     "_ts": 1627246483,
     "difficulty": "Medium",
     "frontendId": "78",
+    "questionId": "78",
+    "dir": "leetcode/78-subsets",
     "tags": [
       "array",
       "backtracking",
@@ -12300,6 +13418,8 @@
     "_ts": 1626916550,
     "difficulty": "Medium",
     "frontendId": "763",
+    "questionId": "768",
+    "dir": "leetcode/768-partition-labels",
     "tags": [
       "hash-table",
       "two-pointers",
@@ -12323,6 +13443,8 @@
     "_ts": 1626665465,
     "difficulty": "Easy",
     "frontendId": "1920",
+    "questionId": "2048",
+    "dir": "leetcode/2048-build-array-from-permutation",
     "tags": [
       "array",
       "simulation"
@@ -12342,6 +13464,8 @@
     "_ts": 1626403978,
     "difficulty": "Medium",
     "frontendId": "7",
+    "questionId": "7",
+    "dir": "leetcode/7-reverse-integer",
     "tags": [
       "math"
     ],
@@ -12359,6 +13483,8 @@
     "_ts": 1626318910,
     "difficulty": "Easy",
     "frontendId": "234",
+    "questionId": "234",
+    "dir": "leetcode/234-palindrome-linked-list",
     "tags": [
       "linked-list",
       "two-pointers",
@@ -12382,6 +13508,8 @@
     "_ts": 1626154808,
     "difficulty": "Easy",
     "frontendId": "160",
+    "questionId": "160",
+    "dir": "leetcode/160-intersection-of-two-linked-lists",
     "tags": [
       "hash-table",
       "linked-list",
@@ -12403,6 +13531,8 @@
     "_ts": 1625716701,
     "difficulty": "Medium",
     "frontendId": "1338",
+    "questionId": "1464",
+    "dir": "leetcode/1464-reduce-array-size-to-the-half",
     "tags": [
       "array",
       "hash-table",
@@ -12428,6 +13558,8 @@
     "_ts": 1624939793,
     "difficulty": "Easy",
     "frontendId": "1089",
+    "questionId": "1168",
+    "dir": "leetcode/1168-duplicate-zeros",
     "tags": [
       "array",
       "two-pointers"
@@ -12447,6 +13579,8 @@
     "_ts": 1624936848,
     "difficulty": "Easy",
     "frontendId": "977",
+    "questionId": "1019",
+    "dir": "leetcode/1019-squares-of-a-sorted-array",
     "tags": [
       "array",
       "two-pointers",
@@ -12468,6 +13602,8 @@
     "_ts": 1624936386,
     "difficulty": "Easy",
     "frontendId": "1295",
+    "questionId": "1421",
+    "dir": "leetcode/1421-find-numbers-with-even-number-of-digits",
     "tags": [
       "array",
       "math"
@@ -12487,6 +13623,8 @@
     "_ts": 1606428324,
     "difficulty": "Easy",
     "frontendId": "9",
+    "questionId": "9",
+    "dir": "leetcode/9-palindrome-number",
     "tags": [
       "math"
     ],
@@ -12504,6 +13642,8 @@
     "_ts": 1601421917,
     "difficulty": "Easy",
     "frontendId": "101",
+    "questionId": "101",
+    "dir": "leetcode/101-symmetric-tree",
     "tags": [
       "tree",
       "depth-first-search",
@@ -12527,6 +13667,8 @@
     "_ts": 1601419358,
     "difficulty": "Easy",
     "frontendId": "13",
+    "questionId": "13",
+    "dir": "leetcode/13-roman-to-integer",
     "tags": [
       "hash-table",
       "math",
@@ -12548,6 +13690,8 @@
     "_ts": 1601418341,
     "difficulty": "Easy",
     "frontendId": "171",
+    "questionId": "171",
+    "dir": "leetcode/171-excel-sheet-column-number",
     "tags": [
       "math",
       "string"
@@ -12567,6 +13711,8 @@
     "_ts": 1600614573,
     "difficulty": "Easy",
     "frontendId": "350",
+    "questionId": "350",
+    "dir": "leetcode/350-intersection-of-two-arrays-ii",
     "tags": [
       "array",
       "hash-table",
@@ -12592,6 +13738,8 @@
     "_ts": 1600613394,
     "difficulty": "Medium",
     "frontendId": "189",
+    "questionId": "189",
+    "dir": "leetcode/189-rotate-array",
     "tags": [
       "array",
       "math",
@@ -12613,6 +13761,8 @@
     "_ts": 1600611269,
     "difficulty": "Easy",
     "frontendId": "136",
+    "questionId": "136",
+    "dir": "leetcode/136-single-number",
     "tags": [
       "array",
       "bit-manipulation"
@@ -12632,6 +13782,8 @@
     "_ts": 1600606457,
     "difficulty": "Medium",
     "frontendId": "957",
+    "questionId": "994",
+    "dir": "leetcode/994-prison-cells-after-n-days",
     "tags": [
       "array",
       "hash-table",
@@ -12657,6 +13809,8 @@
     "_ts": 1599979991,
     "difficulty": "Easy",
     "frontendId": "202",
+    "questionId": "202",
+    "dir": "leetcode/202-happy-number",
     "tags": [
       "hash-table",
       "math",
@@ -12680,6 +13834,8 @@
     "_ts": 1599975576,
     "difficulty": "Easy",
     "frontendId": "118",
+    "questionId": "118",
+    "dir": "leetcode/118-pascals-triangle",
     "tags": [
       "array",
       "dynamic-programming"
@@ -12699,6 +13855,8 @@
     "_ts": 1599974342,
     "difficulty": "Easy",
     "frontendId": "387",
+    "questionId": "387",
+    "dir": "leetcode/387-first-unique-character-in-a-string",
     "tags": [
       "hash-table",
       "string",
@@ -12722,6 +13880,8 @@
     "_ts": 1599673525,
     "difficulty": "Easy",
     "frontendId": "283",
+    "questionId": "283",
+    "dir": "leetcode/283-move-zeroes",
     "tags": [
       "array",
       "two-pointers"
@@ -12741,6 +13901,8 @@
     "_ts": 1599672850,
     "difficulty": "Easy",
     "frontendId": "108",
+    "questionId": "108",
+    "dir": "leetcode/108-convert-sorted-array-to-binary-search-tree",
     "tags": [
       "array",
       "divide-and-conquer",
@@ -12766,6 +13928,8 @@
     "_ts": 1599639912,
     "difficulty": "Easy",
     "frontendId": "412",
+    "questionId": "412",
+    "dir": "leetcode/412-fizz-buzz",
     "tags": [
       "math",
       "string",
@@ -12787,6 +13951,8 @@
     "_ts": 1599639356,
     "difficulty": "Medium",
     "frontendId": "237",
+    "questionId": "237",
+    "dir": "leetcode/237-delete-node-in-a-linked-list",
     "tags": [
       "linked-list"
     ],
@@ -12804,6 +13970,8 @@
     "_ts": 1598144947,
     "difficulty": "Easy",
     "frontendId": "617",
+    "questionId": "617",
+    "dir": "leetcode/617-merge-two-binary-trees",
     "tags": [
       "tree",
       "depth-first-search",

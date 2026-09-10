@@ -2,14 +2,11 @@
 
 **Problem:** count-nodes-equal-to-average-of-subtree
 **Frontend ID:** 2265
-**Updated:** 2026-09-10T20:32:28.256Z
+**Updated:** 2026-09-10T20:42:15.829Z
 
 ---
 
-Testing Notes
-
-Okay, this is looking good.
-dfadsf
+Got to do dfs on this and return back a tuple declaring subTreeSum and subTreeN
 
 ---
 *Synced via LeetSync extension from ryan-westfall.info*

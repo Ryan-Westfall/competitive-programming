@@ -1,0 +1,24 @@
+{
+  "questionId": "103",
+  "frontendId": "103",
+  "title": "Binary Tree Zigzag Level Order Traversal",
+  "titleSlug": "binary-tree-zigzag-level-order-traversal",
+  "difficulty": "Medium",
+  "tags": [
+    "tree",
+    "breadth-first-search",
+    "binary-tree"
+  ],
+  "tagNames": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 47,
+  "runtimePercentile": 0.4057999999999964,
+  "memory": 19440000,
+  "memoryPercentile": 50.6229,
+  "timestamp": 1788999189
+}

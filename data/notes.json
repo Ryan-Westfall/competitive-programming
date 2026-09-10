@@ -12,5 +12,12 @@
     "updatedAt": "2026-09-10T20:57:43.475Z",
     "preview": "You gotaa zig and zag",
     "path": "leetcode/103-binary-tree-zigzag-level-order-traversal/notes.md"
+  },
+  "number-of-islands-ii": {
+    "title": "Number of Islands II",
+    "frontendId": "305",
+    "updatedAt": "2026-09-10T23:10:20.145Z",
+    "preview": "UnionFind pattern applied to the problem.",
+    "path": "leetcode/305-number-of-islands-ii/notes.md"
   }
 }

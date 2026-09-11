@@ -73,6 +73,8 @@ function main() {
         _ts: meta.timestamp || Math.floor(Date.now() / 1000),
         difficulty,
         frontendId: meta.frontendId || null,
+        questionId: meta.questionId || null,
+        dir: `leetcode/${dir}`, // full dir for fetching README/notes
         tags,
         tagNames: meta.tagNames || tags.map(t => t.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '))
       });

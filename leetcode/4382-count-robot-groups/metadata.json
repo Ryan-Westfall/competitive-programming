@@ -1,0 +1,16 @@
+{
+  "questionId": "4382",
+  "frontendId": "4045",
+  "title": "Count Robot Groups",
+  "titleSlug": "count-robot-groups",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 47,
+  "runtimePercentile": 89.2398,
+  "memory": 38552000,
+  "memoryPercentile": 64.84960000000002,
+  "timestamp": 1789149912
+}

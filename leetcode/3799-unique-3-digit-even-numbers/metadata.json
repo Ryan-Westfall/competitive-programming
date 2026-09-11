@@ -1,0 +1,26 @@
+{
+  "questionId": "3799",
+  "frontendId": "3483",
+  "title": "Unique 3-Digit Even Numbers",
+  "titleSlug": "unique-3-digit-even-numbers",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table",
+    "recursion",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 7,
+  "runtimePercentile": 97.3626,
+  "memory": 19248000,
+  "memoryPercentile": 72.5275,
+  "timestamp": 1789149839
+}

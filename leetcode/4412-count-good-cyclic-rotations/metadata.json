@@ -1,0 +1,16 @@
+{
+  "questionId": "4412",
+  "frontendId": "4044",
+  "title": "Count Good Cyclic Rotations",
+  "titleSlug": "count-good-cyclic-rotations",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 149,
+  "runtimePercentile": 32.8936,
+  "memory": 32508000,
+  "memoryPercentile": 8.300599999999992,
+  "timestamp": 1789149921
+}

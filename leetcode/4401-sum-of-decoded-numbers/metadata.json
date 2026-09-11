@@ -1,0 +1,16 @@
+{
+  "questionId": "4401",
+  "frontendId": "4039",
+  "title": "Sum of Decoded Numbers",
+  "titleSlug": "sum-of-decoded-numbers",
+  "difficulty": "Medium",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 375,
+  "runtimePercentile": 98.77660000000003,
+  "memory": 32076000,
+  "memoryPercentile": 79.49940000000001,
+  "timestamp": 1789157615
+}

@@ -2,8 +2,8 @@
   "count-nodes-equal-to-average-of-subtree": {
     "title": "Count Nodes Equal to Average of Subtree",
     "frontendId": "2265",
-    "updatedAt": "2026-09-10T20:42:15.829Z",
-    "preview": "Got to do dfs on this and return back a tuple declaring subTreeSum and subTreeN",
+    "updatedAt": "2026-09-11T04:19:49.837Z",
+    "preview": "Got to do dfs on this and return back a tuple declaring subTreeSum and subTreeN. This is a classic dfs type problem, don't think dp.",
     "path": "leetcode/2347-count-nodes-equal-to-average-of-subtree/notes.md"
   },
   "binary-tree-zigzag-level-order-traversal": {

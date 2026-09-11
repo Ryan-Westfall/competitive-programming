@@ -1,0 +1,16 @@
+{
+  "questionId": "4410",
+  "frontendId": "4038",
+  "title": "Count Integers Appearing in a Single Block",
+  "titleSlug": "count-integers-appearing-in-a-single-block",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19312000,
+  "memoryPercentile": 34.082599999999985,
+  "timestamp": 1789153312
+}

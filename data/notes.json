@@ -19,5 +19,12 @@
     "updatedAt": "2026-09-10T23:36:27.963Z",
     "preview": "UnionFind pattern applied to the problem. If there is a unionfind match, you decrement count as there is 1 less island.",
     "path": "leetcode/305-number-of-islands-ii/notes.md"
+  },
+  "count-commas-in-range-ii": {
+    "title": "Count Commas in Range II",
+    "frontendId": "3871",
+    "updatedAt": "2026-09-11T04:27:24.687Z",
+    "preview": "You got to do some math and multiply by the Power.\n\nThere's a number of ways to solve this one.",
+    "path": "leetcode/4248-count-commas-in-range-ii/notes.md"
   }
 }

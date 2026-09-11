@@ -1,0 +1,16 @@
+{
+  "questionId": "4411",
+  "frontendId": "4043",
+  "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+  "titleSlug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 63,
+  "runtimePercentile": 57.352300000000014,
+  "memory": 19300000,
+  "memoryPercentile": 69.5673,
+  "timestamp": 1789149960
+}

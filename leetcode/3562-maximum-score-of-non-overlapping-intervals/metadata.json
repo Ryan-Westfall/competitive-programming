@@ -1,0 +1,26 @@
+{
+  "questionId": "3562",
+  "frontendId": "3414",
+  "title": "Maximum Score of Non-overlapping Intervals",
+  "titleSlug": "maximum-score-of-non-overlapping-intervals",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "dynamic-programming",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1801,
+  "runtimePercentile": 22.80639999999999,
+  "memory": 199676000,
+  "memoryPercentile": 7.016799999999979,
+  "timestamp": 1789253262
+}

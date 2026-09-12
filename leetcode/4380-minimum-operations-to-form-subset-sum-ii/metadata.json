@@ -1,0 +1,16 @@
+{
+  "questionId": "4380",
+  "frontendId": "4041",
+  "title": "Minimum Operations to Form Subset Sum II",
+  "titleSlug": "minimum-operations-to-form-subset-sum-ii",
+  "difficulty": "Hard",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 14629,
+  "runtimePercentile": 32.01260000000079,
+  "memory": 19632000,
+  "memoryPercentile": 40.48490000000001,
+  "timestamp": 1789173823
+}

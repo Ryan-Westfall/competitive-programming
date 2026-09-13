@@ -1,0 +1,24 @@
+{
+  "questionId": "940",
+  "frontendId": "904",
+  "title": "Fruit Into Baskets",
+  "titleSlug": "fruit-into-baskets",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 246,
+  "runtimePercentile": 8.813399999999817,
+  "memory": 26128000,
+  "memoryPercentile": 14.13939999999998,
+  "timestamp": 1789261747
+}

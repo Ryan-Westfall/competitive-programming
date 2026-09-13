@@ -6,8 +6,8 @@
 **Tags:** Array, Hash Table, Sliding Window
 **Companies:** Amazon, Google, Bloomberg, Meta, Microsoft, Salesforce, TikTok, Couchbase, Adobe, ServiceNow
 **Language:** Python3
-**Runtime:** 246 ms (8.8%)
-**Memory:** 26.1 MB (14.1%)
+**Runtime:** 191 ms (44.8%)
+**Memory:** 25.8 MB (84.5%)
 **Submitted:** 2026-09-13
 **Link:** https://leetcode.com/problems/fruit-into-baskets/
 

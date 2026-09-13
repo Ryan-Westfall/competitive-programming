@@ -1,0 +1,22 @@
+{
+  "questionId": "864",
+  "frontendId": "835",
+  "title": "Image Overlap",
+  "titleSlug": "image-overlap",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 576,
+  "runtimePercentile": 26.44979999999987,
+  "memory": 19784000,
+  "memoryPercentile": 49.99990000000002,
+  "timestamp": 1789260643
+}

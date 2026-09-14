@@ -1,0 +1,30 @@
+{
+  "questionId": "3715",
+  "frontendId": "3413",
+  "title": "Maximum Coins From K Consecutive Bags",
+  "titleSlug": "maximum-coins-from-k-consecutive-bags",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "binary-search",
+    "greedy",
+    "sliding-window",
+    "sorting",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Sliding Window",
+    "Sorting",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 775,
+  "runtimePercentile": 46.9536999999997,
+  "memory": 74800000,
+  "memoryPercentile": 5.019500000000004,
+  "timestamp": 1789416348
+}

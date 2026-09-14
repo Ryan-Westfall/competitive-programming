@@ -1,0 +1,22 @@
+{
+  "questionId": "866",
+  "frontendId": "836",
+  "title": "Rectangle Overlap",
+  "titleSlug": "rectangle-overlap",
+  "difficulty": "Easy",
+  "tags": [
+    "math",
+    "geometry"
+  ],
+  "tagNames": [
+    "Math",
+    "Geometry"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 47,
+  "runtimePercentile": 0.00009999999999969755,
+  "memory": 19372000,
+  "memoryPercentile": 19.52950000000002,
+  "timestamp": 1789352738
+}

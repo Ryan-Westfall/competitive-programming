@@ -40,5 +40,12 @@
     "updatedAt": "2026-09-15T20:36:28.280Z",
     "preview": "More interval dp",
     "path": "leetcode/2559-maximum-number-of-non-overlapping-palindrome-substrings/notes.md"
+  },
+  "pascals-triangle-ii": {
+    "title": "Pascal's Triangle II",
+    "frontendId": "119",
+    "updatedAt": "2026-09-15T20:42:16.818Z",
+    "preview": "DP is how I solved this.",
+    "path": "leetcode/119-pascals-triangle-ii/notes.md"
   }
 }

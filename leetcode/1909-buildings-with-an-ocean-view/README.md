@@ -6,9 +6,9 @@
 **Tags:** Array, Stack, Monotonic Stack
 **Companies:** Meta, Anduril, Amazon
 **Language:** Python3
-**Runtime:** 58 ms (30.6%)
-**Memory:** 31.8 MB (46.5%)
-**Submitted:** 2026-01-18
+**Runtime:** 12 ms (89.5%)
+**Memory:** 31.8 MB (45.8%)
+**Submitted:** 2026-09-15
 **Link:** https://leetcode.com/problems/buildings-with-an-ocean-view/
 
 ## Description

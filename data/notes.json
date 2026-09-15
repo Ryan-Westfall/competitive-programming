@@ -47,5 +47,12 @@
     "updatedAt": "2026-09-15T20:42:16.818Z",
     "preview": "DP is how I solved this.",
     "path": "leetcode/119-pascals-triangle-ii/notes.md"
+  },
+  "palindromic-substrings": {
+    "title": "Palindromic Substrings",
+    "frontendId": "647",
+    "updatedAt": "2026-09-15T20:43:57.549Z",
+    "preview": "Interval Dynamic Programming.",
+    "path": "leetcode/647-palindromic-substrings/notes.md"
   }
 }

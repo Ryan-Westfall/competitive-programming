@@ -6,8 +6,8 @@
 **Tags:** Two Pointers, String, Dynamic Programming, Greedy
 **Companies:** Microsoft, Oracle, SoFi, Salesforce, LinkedIn
 **Language:** Python3
-**Runtime:** 5508 ms (5.2%)
-**Memory:** 229.9 MB (7.2%)
+**Runtime:** 6924 ms (5.2%)
+**Memory:** 212.3 MB (9.8%)
 **Submitted:** 2026-09-15
 **Link:** https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 

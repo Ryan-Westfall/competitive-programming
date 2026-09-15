@@ -32,7 +32,7 @@ jobs:
           node-version: '20'
 
       - name: Generate archive files
-        run: node scripts/generate_archive.mjs
+        run: node .github/workflows/generate_archive.mjs
 
       - name: Check for changes
         id: check_changes

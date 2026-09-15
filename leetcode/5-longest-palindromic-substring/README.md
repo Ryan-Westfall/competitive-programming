@@ -4,9 +4,9 @@
 **ID:** 5
 **Difficulty:** Medium
 **Tags:** Two Pointers, String, Dynamic Programming, Manacher
-**Companies:** Amazon, Google, Bloomberg, Microsoft, Meta, tcs, Infosys, Visa, Adobe, Apple, Goldman Sachs, Yandex, EPAM Systems, Tinkoff, Cognizant, TikTok, Oracle, Uber, IBM, eBay, Accenture, HSBC, athenahealth, Autodesk, ZS Associates, HashedIn, Nvidia, Cisco, Zoho, Walmart Labs, PhonePe, Deloitte, SAP, Salesforce, Softwire, LinkedIn, Huawei, JPMorgan Chase, BlackRock, Morgan Stanley, Grab, Shopee, Accolite, persistent systems, Palo Alto Networks, Citadel, MAQ Software, Wix
+**Companies:** Amazon, Google, Bloomberg, Microsoft, Meta, tcs, Infosys, Visa, Adobe, Apple, Goldman Sachs, Yandex, EPAM Systems, Tinkoff, Cognizant, Oracle, TikTok, Uber, IBM, eBay, Accenture, HSBC, athenahealth, Autodesk, ZS Associates, HashedIn, Nvidia, Cisco, Zoho, Walmart Labs, PhonePe, Deloitte, SAP, Salesforce, Softwire, LinkedIn, Huawei, JPMorgan Chase, BlackRock, Morgan Stanley, Grab, Shopee, Accolite, persistent systems, Palo Alto Networks, Citadel, MAQ Software, Wix
 **Language:** Python3
-**Runtime:** 3486 ms (17.5%)
+**Runtime:** 3486 ms (17.3%)
 **Memory:** 13.9 MB (100.0%)
 **Submitted:** 2022-02-08
 **Link:** https://leetcode.com/problems/longest-palindromic-substring/

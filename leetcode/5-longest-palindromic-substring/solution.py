@@ -1,25 +1,18 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        maxSubstring = ""
-        
-        for i in range(len(s)):
-            l = r = i
-            
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                temp = s[l:r+1]
-                if len(temp) > len(maxSubstring):
-                    maxSubstring = temp
-                l -= 1
-                r += 1
-            
-            l = i
-            r = i + 1
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                temp = s[l:r+1]
-                if len(temp) > len(maxSubstring):
-                    maxSubstring = temp
-                l -= 1
-                r += 1
-                
-                
-        return maxSubstring
+
+        n = len(s)
+        dp = [[False] * n for _ in range(n)]
+
+        ans = ""
+
+        for l in range(n - 1, -1, -1):
+            for r in range(l, n):
+
+                if s[l] == s[r] and (r - l <= 2 or dp[l + 1][r - 1]):
+                    dp[l][r] = True
+
+                    if r - l + 1 > len(ans):
+                        ans = s[l:r + 1]
+
+        return ans

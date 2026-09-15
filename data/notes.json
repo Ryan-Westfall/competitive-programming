@@ -33,5 +33,12 @@
     "updatedAt": "2026-09-15T20:26:18.762Z",
     "preview": "Interval DP. Fun.",
     "path": "leetcode/5-longest-palindromic-substring/notes.md"
+  },
+  "maximum-number-of-non-overlapping-palindrome-substrings": {
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "frontendId": "2472",
+    "updatedAt": "2026-09-15T20:36:28.280Z",
+    "preview": "More interval dp",
+    "path": "leetcode/2559-maximum-number-of-non-overlapping-palindrome-substrings/notes.md"
   }
 }

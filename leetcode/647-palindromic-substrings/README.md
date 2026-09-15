@@ -6,9 +6,9 @@
 **Tags:** Two Pointers, String, Dynamic Programming
 **Companies:** Meta, Amazon, Google, Microsoft, Bloomberg, Akamai, Pure Storage, Intuit, IBM, Capital One, Citadel, Salesforce, Oracle, Apple, PayPal, Anduril, Cisco, Goldman Sachs, Walmart Labs, Epic Systems, Netskope, Cognizant, LinkedIn
 **Language:** Python3
-**Runtime:** 128 ms (46.1%)
-**Memory:** 14.4 MB (100.0%)
-**Submitted:** 2021-08-02
+**Runtime:** 232 ms (24.5%)
+**Memory:** 27.1 MB (16.7%)
+**Submitted:** 2026-09-15
 **Link:** https://leetcode.com/problems/palindromic-substrings/
 
 ## Description

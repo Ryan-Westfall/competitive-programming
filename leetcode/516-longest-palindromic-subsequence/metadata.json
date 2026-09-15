@@ -1,0 +1,22 @@
+{
+  "questionId": "516",
+  "frontendId": "516",
+  "title": "Longest Palindromic Subsequence",
+  "titleSlug": "longest-palindromic-subsequence",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 631,
+  "runtimePercentile": 72.18959999999956,
+  "memory": 258852000,
+  "memoryPercentile": 5.721099999999941,
+  "timestamp": 1789436562
+}

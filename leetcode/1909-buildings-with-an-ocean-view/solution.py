@@ -1,10 +1,11 @@
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
-        stack = []
+        n = len(heights)
+        maxSeen = float('-inf')
+        ans = []
+        for r in range(n - 1, -1, -1):
+            if heights[r] > maxSeen:
+                ans.append(r)
+                maxSeen = heights[r]
 
-        for i in range(len(heights)):
-            while stack and heights[stack[-1]] <= heights[i]:
-                stack.pop()
-            stack.append(i)
-
-        return stack
+        return ans[::-1]

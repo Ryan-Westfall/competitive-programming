@@ -17,15 +17,19 @@ class Solution:
         # Prefix DP:
         # dp[i] = max number of non-overlapping palindromes
         #         in s[0:i]
-        dp = [0] * (n + 1)
+        @cache
+        def dp(i):
+            if i >= n:
+                return 0
 
-        for i in range(1, n + 1):
-            # Don't use a palindrome ending at i - 1
-            dp[i] = dp[i - 1]
+            # Don't start a palindrome at i
+            ans = dp(i + 1)
 
-            # Try every substring ending at i - 1
-            for l in range(i - k + 1):
-                if is_pal(l, i - 1):
-                    dp[i] = max(dp[i], dp[l] + 1)
+            # Try every palindrome starting at i
+            for r in range(i + k - 1, n):
+                if is_pal(i, r):
+                    ans = max(ans, 1 + dp(r + 1))
 
-        return dp[n]
+            return ans
+
+        return dp(0)

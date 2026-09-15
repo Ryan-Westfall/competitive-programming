@@ -26,5 +26,12 @@
     "updatedAt": "2026-09-11T04:27:24.687Z",
     "preview": "You got to do some math and multiply by the Power.\n\nThere's a number of ways to solve this one.",
     "path": "leetcode/4248-count-commas-in-range-ii/notes.md"
+  },
+  "longest-palindromic-substring": {
+    "title": "Longest Palindromic Substring",
+    "frontendId": "5",
+    "updatedAt": "2026-09-15T20:26:18.762Z",
+    "preview": "Interval DP. Fun.",
+    "path": "leetcode/5-longest-palindromic-substring/notes.md"
   }
 }

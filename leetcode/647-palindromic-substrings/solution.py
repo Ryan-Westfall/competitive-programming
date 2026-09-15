@@ -1,21 +1,29 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        output = 0
+
+        @cache
+        def isPalindrome(l,r):
+            if l >= r:
+                return True
+
+            if s[l] != s[r]:
+                return False
+
+            return isPalindrome(l+1, r-1)
         
-        for i in range(len(s)):
-            l = r = i
-            
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                output += 1
-                l -= 1
-                r += 1
-            
-            l = i
-            r = i + 1
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                output += 1
-                l -= 1
-                r += 1
-                
-                
-        return output
+        @cache
+        def dp(l,r):
+            if l > r:
+                return 0
+
+            if l == r:
+                return 1
+
+            left = dp(l+1, r)
+            right = dp(l, r-1)
+            overlap = dp(l+1, r-1)
+
+            return isPalindrome(l, r) + left + right - overlap
+
+
+        return dp(0, len(s) - 1)

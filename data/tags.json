@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-15T19:35:25.157Z",
-  "totalUniqueProblems": 584,
-  "leetcodeCount": 584,
+  "updatedAt": "2026-09-15T19:43:16.822Z",
+  "totalUniqueProblems": 601,
+  "leetcodeCount": 601,
   "codeforcesCount": 0,
   "difficultyCounts": {
-    "Easy": 168,
-    "Medium": 329,
-    "Hard": 87
+    "Easy": 173,
+    "Medium": 337,
+    "Hard": 91
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 306
+      "count": 312
     },
     {
       "tag": "string",
-      "count": 121
+      "count": 123
     },
     {
       "tag": "hash-table",
-      "count": 107
+      "count": 109
     },
     {
       "tag": "math",
-      "count": 102
+      "count": 103
     },
     {
       "tag": "depth-first-search",
@@ -31,7 +31,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 74
+      "count": 78
     },
     {
       "tag": "breadth-first-search",
@@ -39,19 +39,19 @@
     },
     {
       "tag": "sorting",
-      "count": 70
+      "count": 72
+    },
+    {
+      "tag": "binary-search",
+      "count": 60
     },
     {
       "tag": "tree",
       "count": 58
     },
     {
-      "tag": "binary-search",
-      "count": 58
-    },
-    {
       "tag": "two-pointers",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "binary-tree",
@@ -59,19 +59,19 @@
     },
     {
       "tag": "matrix",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "linked-list",
       "count": 44
     },
     {
-      "tag": "graph",
+      "tag": "greedy",
       "count": 43
     },
     {
-      "tag": "greedy",
-      "count": 41
+      "tag": "graph",
+      "count": 43
     },
     {
       "tag": "heap-priority-queue",
@@ -94,12 +94,12 @@
       "count": 27
     },
     {
-      "tag": "union-find",
+      "tag": "prefix-sum",
       "count": 25
     },
     {
-      "tag": "prefix-sum",
-      "count": 24
+      "tag": "union-find",
+      "count": 25
     },
     {
       "tag": "divide-and-conquer",
@@ -111,15 +111,15 @@
     },
     {
       "tag": "sliding-window",
-      "count": 19
+      "count": 21
+    },
+    {
+      "tag": "recursion",
+      "count": 16
     },
     {
       "tag": "binary-search-tree",
       "count": 16
-    },
-    {
-      "tag": "recursion",
-      "count": 15
     },
     {
       "tag": "monotonic-stack",
@@ -134,12 +134,12 @@
       "count": 14
     },
     {
-      "tag": "segment-tree",
+      "tag": "enumeration",
       "count": 14
     },
     {
-      "tag": "enumeration",
-      "count": 13
+      "tag": "segment-tree",
+      "count": 14
     },
     {
       "tag": "game-theory",
@@ -234,6 +234,10 @@
       "count": 5
     },
     {
+      "tag": "geometry",
+      "count": 4
+    },
+    {
       "tag": "binary-lifting",
       "count": 4
     },
@@ -264,10 +268,6 @@
     {
       "tag": "randomized",
       "count": 4
-    },
-    {
-      "tag": "geometry",
-      "count": 3
     },
     {
       "tag": "quickselect",
@@ -513,19 +513,19 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 306
+      "count": 312
     },
     {
       "tag": "string",
-      "count": 121
+      "count": 123
     },
     {
       "tag": "hash-table",
-      "count": 107
+      "count": 109
     },
     {
       "tag": "math",
-      "count": 102
+      "count": 103
     },
     {
       "tag": "depth-first-search",
@@ -533,27 +533,27 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 74
+      "count": 78
+    },
+    {
+      "tag": "sorting",
+      "count": 72
     },
     {
       "tag": "breadth-first-search",
       "count": 72
     },
     {
-      "tag": "sorting",
-      "count": 70
+      "tag": "binary-search",
+      "count": 60
+    },
+    {
+      "tag": "two-pointers",
+      "count": 58
     },
     {
       "tag": "tree",
       "count": 58
-    },
-    {
-      "tag": "binary-search",
-      "count": 58
-    },
-    {
-      "tag": "two-pointers",
-      "count": 57
     },
     {
       "tag": "binary-tree",
@@ -561,26 +561,26 @@
     },
     {
       "tag": "matrix",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "linked-list",
       "count": 44
     },
     {
+      "tag": "greedy",
+      "count": 43
+    },
+    {
       "tag": "graph",
       "count": 43
     },
     {
-      "tag": "greedy",
-      "count": 41
-    },
-    {
-      "tag": "heap-priority-queue",
+      "tag": "stack",
       "count": 40
     },
     {
-      "tag": "stack",
+      "tag": "heap-priority-queue",
       "count": 40
     },
     {
@@ -596,12 +596,12 @@
       "count": 27
     },
     {
-      "tag": "union-find",
+      "tag": "prefix-sum",
       "count": 25
     },
     {
-      "tag": "prefix-sum",
-      "count": 24
+      "tag": "union-find",
+      "count": 25
     },
     {
       "tag": "divide-and-conquer",
@@ -613,7 +613,11 @@
     },
     {
       "tag": "sliding-window",
-      "count": 19
+      "count": 21
+    },
+    {
+      "tag": "recursion",
+      "count": 16
     },
     {
       "tag": "binary-search-tree",
@@ -628,8 +632,8 @@
       "count": 15
     },
     {
-      "tag": "recursion",
-      "count": 15
+      "tag": "enumeration",
+      "count": 14
     },
     {
       "tag": "counting",
@@ -638,10 +642,6 @@
     {
       "tag": "segment-tree",
       "count": 14
-    },
-    {
-      "tag": "enumeration",
-      "count": 13
     },
     {
       "tag": "game-theory",
@@ -734,6 +734,10 @@
     {
       "tag": "minimum-spanning-tree",
       "count": 5
+    },
+    {
+      "tag": "geometry",
+      "count": 4
     },
     {
       "tag": "doubly-linked-list",
@@ -832,8 +836,8 @@
       "count": 3
     },
     {
-      "tag": "geometry",
-      "count": 3
+      "tag": "manacher",
+      "count": 2
     },
     {
       "tag": "bidirectional-search",
@@ -877,10 +881,6 @@
     },
     {
       "tag": "0-1-knapsack",
-      "count": 2
-    },
-    {
-      "tag": "manacher",
       "count": 2
     },
     {

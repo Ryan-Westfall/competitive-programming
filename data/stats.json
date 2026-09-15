@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-09-15T19:35:25.171Z",
+  "updatedAt": "2026-09-15T19:43:16.827Z",
   "leetcode": {
-    "uniqueSolved": 584,
-    "totalSubmissions": 584
+    "uniqueSolved": 601,
+    "totalSubmissions": 601
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 584,
-    "submissions": 584
+    "uniqueSolved": 601,
+    "submissions": 601
   },
   "tags": [
     {
       "tag": "array",
-      "count": 306
+      "count": 312
     },
     {
       "tag": "string",
-      "count": 121
+      "count": 123
     },
     {
       "tag": "hash-table",
-      "count": 107
+      "count": 109
     },
     {
       "tag": "math",
-      "count": 102
+      "count": 103
     },
     {
       "tag": "depth-first-search",
@@ -35,7 +35,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 74
+      "count": 78
     },
     {
       "tag": "breadth-first-search",
@@ -43,19 +43,19 @@
     },
     {
       "tag": "sorting",
-      "count": 70
+      "count": 72
+    },
+    {
+      "tag": "binary-search",
+      "count": 60
     },
     {
       "tag": "tree",
       "count": 58
     },
     {
-      "tag": "binary-search",
-      "count": 58
-    },
-    {
       "tag": "two-pointers",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "binary-tree",
@@ -63,19 +63,19 @@
     },
     {
       "tag": "matrix",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "linked-list",
       "count": 44
     },
     {
-      "tag": "graph",
+      "tag": "greedy",
       "count": 43
     },
     {
-      "tag": "greedy",
-      "count": 41
+      "tag": "graph",
+      "count": 43
     },
     {
       "tag": "heap-priority-queue",
@@ -95,8 +95,8 @@
     }
   ],
   "difficulties": {
-    "Easy": 168,
-    "Medium": 329,
-    "Hard": 87
+    "Easy": 173,
+    "Medium": 337,
+    "Hard": 91
   }
 }

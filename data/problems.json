@@ -1,6 +1,388 @@
 [
   {
     "platform": "leetcode",
+    "id": "buildings-with-an-ocean-view",
+    "title": "Buildings With an Ocean View",
+    "url": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
+    "language": "python3",
+    "solvedAt": "2026-09-15T19:43:00.000Z",
+    "difficulty": "Medium",
+    "frontendId": "1762",
+    "questionId": "1909",
+    "dir": "leetcode/1909-buildings-with-an-ocean-view",
+    "tags": [
+      "array",
+      "stack",
+      "monotonic-stack"
+    ],
+    "tagNames": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "palindromic-substrings",
+    "title": "Palindromic Substrings",
+    "url": "https://leetcode.com/problems/palindromic-substrings/",
+    "language": "python3",
+    "solvedAt": "2026-09-15T03:31:18.000Z",
+    "difficulty": "Medium",
+    "frontendId": "647",
+    "questionId": "647",
+    "dir": "leetcode/647-palindromic-substrings",
+    "tags": [
+      "two-pointers",
+      "string",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "language": "python3",
+    "solvedAt": "2026-09-15T03:15:50.000Z",
+    "difficulty": "Medium",
+    "frontendId": "5",
+    "questionId": "5",
+    "dir": "leetcode/5-longest-palindromic-substring",
+    "tags": [
+      "two-pointers",
+      "string",
+      "dynamic-programming",
+      "manacher"
+    ],
+    "tagNames": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Manacher"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "maximum-number-of-non-overlapping-palindrome-substrings",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+    "language": "python3",
+    "solvedAt": "2026-09-15T02:54:31.000Z",
+    "difficulty": "Hard",
+    "frontendId": "2472",
+    "questionId": "2559",
+    "dir": "leetcode/2559-maximum-number-of-non-overlapping-palindrome-substrings",
+    "tags": [
+      "two-pointers",
+      "string",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "tagNames": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "longest-palindromic-subsequence",
+    "title": "Longest Palindromic Subsequence",
+    "url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "language": "python3",
+    "solvedAt": "2026-09-15T01:42:42.000Z",
+    "difficulty": "Medium",
+    "frontendId": "516",
+    "questionId": "516",
+    "dir": "leetcode/516-longest-palindromic-subsequence",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "pascals-triangle-ii",
+    "title": "Pascal's Triangle II",
+    "url": "https://leetcode.com/problems/pascals-triangle-ii/",
+    "language": "python3",
+    "solvedAt": "2026-09-14T23:49:12.000Z",
+    "difficulty": "Easy",
+    "frontendId": "119",
+    "questionId": "119",
+    "dir": "leetcode/119-pascals-triangle-ii",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "maximum-coins-from-k-consecutive-bags",
+    "title": "Maximum Coins From K Consecutive Bags",
+    "url": "https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/",
+    "language": "python3",
+    "solvedAt": "2026-09-14T20:05:48.000Z",
+    "difficulty": "Medium",
+    "frontendId": "3413",
+    "questionId": "3715",
+    "dir": "leetcode/3715-maximum-coins-from-k-consecutive-bags",
+    "tags": [
+      "array",
+      "binary-search",
+      "greedy",
+      "sliding-window",
+      "sorting",
+      "prefix-sum"
+    ],
+    "tagNames": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "rectangle-overlap",
+    "title": "Rectangle Overlap",
+    "url": "https://leetcode.com/problems/rectangle-overlap/",
+    "language": "python3",
+    "solvedAt": "2026-09-14T02:25:38.000Z",
+    "difficulty": "Easy",
+    "frontendId": "836",
+    "questionId": "866",
+    "dir": "leetcode/866-rectangle-overlap",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "tagNames": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "fruit-into-baskets",
+    "title": "Fruit Into Baskets",
+    "url": "https://leetcode.com/problems/fruit-into-baskets/",
+    "language": "python3",
+    "solvedAt": "2026-09-13T01:11:18.000Z",
+    "difficulty": "Medium",
+    "frontendId": "904",
+    "questionId": "940",
+    "dir": "leetcode/940-fruit-into-baskets",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "image-overlap",
+    "title": "Image Overlap",
+    "url": "https://leetcode.com/problems/image-overlap/",
+    "language": "python3",
+    "solvedAt": "2026-09-13T00:55:54.000Z",
+    "difficulty": "Medium",
+    "frontendId": "835",
+    "questionId": "864",
+    "dir": "leetcode/864-image-overlap",
+    "tags": [
+      "array",
+      "matrix"
+    ],
+    "tagNames": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "maximum-score-of-non-overlapping-intervals",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+    "language": "python3",
+    "solvedAt": "2026-09-12T22:47:42.000Z",
+    "difficulty": "Hard",
+    "frontendId": "3414",
+    "questionId": "3562",
+    "dir": "leetcode/3562-maximum-score-of-non-overlapping-intervals",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "tagNames": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "minimum-operations-to-form-subset-sum-ii",
+    "title": "Minimum Operations to Form Subset Sum II",
+    "url": "https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/",
+    "language": "python3",
+    "solvedAt": "2026-09-12T00:43:43.000Z",
+    "difficulty": "Hard",
+    "frontendId": "4041",
+    "questionId": "4380",
+    "dir": "leetcode/4380-minimum-operations-to-form-subset-sum-ii",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "minimum-operations-to-form-subset-sum-i",
+    "title": "Minimum Operations to Form Subset Sum I",
+    "url": "https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/",
+    "language": "python3",
+    "solvedAt": "2026-09-12T00:29:31.000Z",
+    "difficulty": "Medium",
+    "frontendId": "4040",
+    "questionId": "4379",
+    "dir": "leetcode/4379-minimum-operations-to-form-subset-sum-i",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "sum-of-decoded-numbers",
+    "title": "Sum of Decoded Numbers",
+    "url": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T20:13:35.000Z",
+    "difficulty": "Medium",
+    "frontendId": "4039",
+    "questionId": "4401",
+    "dir": "leetcode/4401-sum-of-decoded-numbers",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "count-integers-appearing-in-a-single-block",
+    "title": "Count Integers Appearing in a Single Block",
+    "url": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T19:01:52.000Z",
+    "difficulty": "Easy",
+    "frontendId": "4038",
+    "questionId": "4410",
+    "dir": "leetcode/4410-count-integers-appearing-in-a-single-block",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+    "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+    "url": "https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T18:06:00.000Z",
+    "difficulty": "Easy",
+    "frontendId": "4043",
+    "questionId": "4411",
+    "dir": "leetcode/4411-count-rotations-with-exactly-k-equal-adjacent-pairs",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "count-good-cyclic-rotations",
+    "title": "Count Good Cyclic Rotations",
+    "url": "https://leetcode.com/problems/count-good-cyclic-rotations/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T18:05:21.000Z",
+    "difficulty": "Medium",
+    "frontendId": "4044",
+    "questionId": "4412",
+    "dir": "leetcode/4412-count-good-cyclic-rotations",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "count-robot-groups",
+    "title": "Count Robot Groups",
+    "url": "https://leetcode.com/problems/count-robot-groups/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T18:05:12.000Z",
+    "difficulty": "Medium",
+    "frontendId": "4045",
+    "questionId": "4382",
+    "dir": "leetcode/4382-count-robot-groups",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "minimum-cost-path-with-at-most-k-turns",
+    "title": "Minimum Cost Path With At Most K Turns",
+    "url": "https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T18:04:51.000Z",
+    "difficulty": "Hard",
+    "frontendId": "4046",
+    "questionId": "4367",
+    "dir": "leetcode/4367-minimum-cost-path-with-at-most-k-turns",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
+    "id": "unique-3-digit-even-numbers",
+    "title": "Unique 3-Digit Even Numbers",
+    "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+    "language": "python3",
+    "solvedAt": "2026-09-11T18:03:59.000Z",
+    "difficulty": "Easy",
+    "frontendId": "3483",
+    "questionId": "3799",
+    "dir": "leetcode/3799-unique-3-digit-even-numbers",
+    "tags": [
+      "array",
+      "hash-table",
+      "recursion",
+      "enumeration"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Recursion",
+      "Enumeration"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "count-nodes-equal-to-average-of-subtree",
     "title": "Count Nodes Equal to Average of Subtree",
     "url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/",
@@ -7717,28 +8099,6 @@
   },
   {
     "platform": "leetcode",
-    "id": "buildings-with-an-ocean-view",
-    "title": "Buildings With an Ocean View",
-    "url": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
-    "language": "python3",
-    "solvedAt": "2026-01-18T22:04:57.000Z",
-    "difficulty": "Medium",
-    "frontendId": "1762",
-    "questionId": "1909",
-    "dir": "leetcode/1909-buildings-with-an-ocean-view",
-    "tags": [
-      "array",
-      "stack",
-      "monotonic-stack"
-    ],
-    "tagNames": [
-      "Array",
-      "Stack",
-      "Monotonic Stack"
-    ]
-  },
-  {
-    "platform": "leetcode",
     "id": "number-of-valid-subarrays",
     "title": "Number of Valid Subarrays",
     "url": "https://leetcode.com/problems/number-of-valid-subarrays/",
@@ -12067,30 +12427,6 @@
   },
   {
     "platform": "leetcode",
-    "id": "longest-palindromic-substring",
-    "title": "Longest Palindromic Substring",
-    "url": "https://leetcode.com/problems/longest-palindromic-substring/",
-    "language": "python3",
-    "solvedAt": "2022-02-08T10:32:09.000Z",
-    "difficulty": "Medium",
-    "frontendId": "5",
-    "questionId": "5",
-    "dir": "leetcode/5-longest-palindromic-substring",
-    "tags": [
-      "two-pointers",
-      "string",
-      "dynamic-programming",
-      "manacher"
-    ],
-    "tagNames": [
-      "Two Pointers",
-      "String",
-      "Dynamic Programming",
-      "Manacher"
-    ]
-  },
-  {
-    "platform": "leetcode",
     "id": "count-elements-with-strictly-smaller-and-greater-elements",
     "title": "Count Elements With Strictly Smaller and Greater Elements ",
     "url": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
@@ -12803,28 +13139,6 @@
       "Array",
       "Math",
       "Matrix"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "palindromic-substrings",
-    "title": "Palindromic Substrings",
-    "url": "https://leetcode.com/problems/palindromic-substrings/",
-    "language": "python3",
-    "solvedAt": "2021-08-02T04:47:48.000Z",
-    "difficulty": "Medium",
-    "frontendId": "647",
-    "questionId": "647",
-    "dir": "leetcode/647-palindromic-substrings",
-    "tags": [
-      "two-pointers",
-      "string",
-      "dynamic-programming"
-    ],
-    "tagNames": [
-      "Two Pointers",
-      "String",
-      "Dynamic Programming"
     ]
   },
   {

@@ -6,7 +6,7 @@
 **Tags:** Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack
 **Companies:** Google, Amazon, Microsoft, Pinterest, Bloomberg, Meta, Myntra
 **Language:** Python3
-**Runtime:** 119 ms (58.4%)
+**Runtime:** 117 ms (58.9%)
 **Memory:** 19.5 MB (60.6%)
 **Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/target-sum/

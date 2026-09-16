@@ -1,6 +1,33 @@
 [
   {
     "platform": "leetcode",
+    "id": "target-sum",
+    "title": "Target Sum",
+    "url": "https://leetcode.com/problems/target-sum/",
+    "language": "python3",
+    "solvedAt": "2026-09-16T20:02:54.000Z",
+    "_ts": 1789588974,
+    "difficulty": "Medium",
+    "frontendId": "494",
+    "questionId": "494",
+    "dir": "leetcode/494-target-sum",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "backtracking",
+      "knapsack-problem",
+      "0-1-knapsack"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "climbing-stairs",
     "title": "Climbing Stairs",
     "url": "https://leetcode.com/problems/climbing-stairs/",
@@ -6131,33 +6158,6 @@
     "tagNames": [
       "Array",
       "Dynamic Programming"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "target-sum",
-    "title": "Target Sum",
-    "url": "https://leetcode.com/problems/target-sum/",
-    "language": "python3",
-    "solvedAt": "2026-07-20T19:29:42.000Z",
-    "_ts": 1784575782,
-    "difficulty": "Medium",
-    "frontendId": "494",
-    "questionId": "494",
-    "dir": "leetcode/494-target-sum",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "backtracking",
-      "knapsack-problem",
-      "0-1-knapsack"
-    ],
-    "tagNames": [
-      "Array",
-      "Dynamic Programming",
-      "Backtracking",
-      "Knapsack Problem",
-      "0-1 Knapsack"
     ]
   },
   {

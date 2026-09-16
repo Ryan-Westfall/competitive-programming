@@ -6,8 +6,8 @@
 **Tags:** Array, Dynamic Programming
 **Companies:** Amazon, Google, Microsoft, Bloomberg, Apple, Meta, Infosys, tcs, TikTok, ByteDance, Databricks, Nvidia, Expedia, Walmart Labs, Anduril, Cisco, Uber, Goldman Sachs, Oracle, PayPal, Grab, Zoho, EPAM Systems, MakeMyTrip, Agoda, PhonePe, LinkedIn, Airbnb
 **Language:** Python3
-**Runtime:** 0 ms (100.0%)
-**Memory:** 19.3 MB (25.2%)
+**Runtime:** 43 ms (0.7%)
+**Memory:** 19.4 MB (6.5%)
 **Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/house-robber/
 

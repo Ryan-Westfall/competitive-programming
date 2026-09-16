@@ -1,0 +1,26 @@
+{
+  "questionId": "1725",
+  "frontendId": "1621",
+  "title": "Number of Sets of K Non-Overlapping Line Segments",
+  "titleSlug": "number-of-sets-of-k-non-overlapping-line-segments",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "dynamic-programming",
+    "combinatorics",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 2413,
+  "runtimePercentile": 23.27460000000003,
+  "memory": 781512000,
+  "memoryPercentile": 20.689299999999985,
+  "timestamp": 1789585804
+}

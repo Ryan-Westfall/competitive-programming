@@ -4,11 +4,11 @@
 **ID:** 70
 **Difficulty:** Easy
 **Tags:** Math, Dynamic Programming, Memoization
-**Companies:** Google, Amazon, Bloomberg, Infosys, Microsoft, Meta, Intuit, tcs, Oracle, Zoho, Qualcomm, Accenture, Rakuten, Media.net, Grammarly, TikTok, Agoda, Nvidia, IBM, Accolite, PayPal, Deloitte, Sigmoid, Josh Technology, Apple, Adobe
+**Companies:** Google, Amazon, Bloomberg, Microsoft, Infosys, Meta, Intuit, tcs, Zoho, Qualcomm, Accenture, Rakuten, Media.net, Grammarly, TikTok, Agoda, Nvidia, IBM, Oracle, Accolite, PayPal, Deloitte, Josh Technology, Apple, Adobe
 **Language:** Python3
 **Runtime:** 0 ms (100.0%)
-**Memory:** 19.2 MB (53.5%)
-**Submitted:** 2026-07-20
+**Memory:** 19.3 MB (54.1%)
+**Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/climbing-stairs/
 
 ## Description

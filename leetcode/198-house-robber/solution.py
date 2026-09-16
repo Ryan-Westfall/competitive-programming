@@ -1,19 +1,18 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
         n = len(nums)
-        dp = [0] * n
-        dp[0] = nums[0]
+        prev1 = 0
+        prev2 = 0
 
-        for i in range(1,n):
-            # Take + 2
-            take = nums[i]
-            if i >= 2:
-                take += dp[i-2]
-            # NoTake + 1
-            noTake = dp[i-1]
-            dp[i] = max(take, noTake)
+        for i in range(n):
+            take = nums[i] + prev2
+            noTake = prev1
 
-        return dp[n-1]
+            prev2 = prev1
+            prev1 = max(take, noTake)
+            
+
+        return prev1
 
         # @cache
         # def dp(i):

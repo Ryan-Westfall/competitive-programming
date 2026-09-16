@@ -1,16 +1,50 @@
 class Solution:
-    def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        self.memo = {}
-        
-        def dfs(index, curSum):
-            if index == len(nums):
-                return 1 if curSum == target else 0
+    def findTargetSumWays(self, nums: list[int], target: int) -> int:
+        n = len(nums)
 
-            if (index, curSum) in self.memo:
-                return self.memo[(index, curSum)]
+        if n == 1:
+            count = 0
+            if nums[0] == target:
+                count += 1
+            if -nums[0] == target:
+                count += 1
+            return count
 
-            res = dfs(index + 1, curSum + (nums[index])) + dfs(index + 1, curSum + (-nums[index]))
-            self.memo[(index, curSum)] = res
-            return res
+        total = sum(nums)
 
-        return dfs(0, 0)
+        if target < -total or target > total:
+            return 0
+
+        offset = total
+
+        dp = [[0] * (2 * total + 1) for _ in range(n)]
+
+        dp[0][offset + nums[0]] += 1
+        dp[0][offset - nums[0]] += 1
+
+        for i in range(1, n):
+            for curSum in range(-total, total + 1):
+                ways = dp[i - 1][offset + curSum]
+
+                if ways:
+                    dp[i][offset + curSum + nums[i]] += ways
+                    dp[i][offset + curSum - nums[i]] += ways
+
+        return dp[n - 1][offset + target]
+
+        # @cache
+        # def dp(i, curSum):
+        #     if curSum == target and i == n:
+        #         return 1
+
+        #     if i == n:
+        #         return 0
+
+        #     cur = 0
+        #     # plus
+        #     cur +=  dp(i + 1, curSum + nums[i])
+        #     # minus
+        #     cur +=  dp(i + 1, curSum - nums[i])
+        #     return cur
+
+        # return dp(0,0)

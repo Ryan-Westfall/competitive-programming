@@ -1,6 +1,28 @@
 [
   {
     "platform": "leetcode",
+    "id": "climbing-stairs",
+    "title": "Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "language": "python3",
+    "solvedAt": "2026-09-16T19:35:29.000Z",
+    "difficulty": "Easy",
+    "frontendId": "70",
+    "questionId": "70",
+    "dir": "leetcode/70-climbing-stairs",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "memoization"
+    ],
+    "tagNames": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "number-of-sets-of-k-non-overlapping-line-segments",
     "title": "Number of Sets of K Non-Overlapping Line Segments",
     "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
@@ -5879,28 +5901,6 @@
       "Backtracking",
       "Knapsack Problem",
       "0-1 Knapsack"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "climbing-stairs",
-    "title": "Climbing Stairs",
-    "url": "https://leetcode.com/problems/climbing-stairs/",
-    "language": "python3",
-    "solvedAt": "2026-07-20T02:31:48.000Z",
-    "difficulty": "Easy",
-    "frontendId": "70",
-    "questionId": "70",
-    "dir": "leetcode/70-climbing-stairs",
-    "tags": [
-      "math",
-      "dynamic-programming",
-      "memoization"
-    ],
-    "tagNames": [
-      "Math",
-      "Dynamic Programming",
-      "Memoization"
     ]
   },
   {

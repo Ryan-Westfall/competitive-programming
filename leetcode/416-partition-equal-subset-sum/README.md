@@ -6,8 +6,8 @@
 **Tags:** Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 **Companies:** Amazon, Google, Bloomberg, Meta, Microsoft, TikTok, tcs, Salesforce, eBay
 **Language:** Python3
-**Runtime:** 1577 ms (29.0%)
-**Memory:** 499.1 MB (5.0%)
+**Runtime:** 1602 ms (28.5%)
+**Memory:** 34.8 MB (37.4%)
 **Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/partition-equal-subset-sum/
 

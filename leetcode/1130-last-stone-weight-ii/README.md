@@ -7,7 +7,7 @@
 **Companies:** Apple, Google, Infosys, Amazon
 **Language:** Python3
 **Runtime:** 35 ms (11.9%)
-**Memory:** 31.9 MB (5.3%)
+**Memory:** 31.8 MB (5.3%)
 **Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/last-stone-weight-ii/
 

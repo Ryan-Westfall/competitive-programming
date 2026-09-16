@@ -1,23 +1,46 @@
 class Solution:
-    def canPartition(self, nums: List[int]) -> bool:
+    def canPartition(self, nums: list[int]) -> bool:
         total = sum(nums)
-        if total % 2 != 0:
-            return False
-        
-        target = total // 2
         n = len(nums)
-        memo = [[-1] * (target + 1) for _ in range(n + 1)]
 
-        def dfs(i, target):
-            if target == 0:
-                return True
-            if i >= n or target < 0:
+        # dp = [[0] * total for _ in range(n)]
+        # dp[0][nums[0]] = 1
+        # dp[0][0] = 1
+
+        # for i in range(1,n):
+        #     cur = nums[i]
+        #     for amount in range(total):
+
+        #         # NoTake
+        #         dp[i][amount] = dp[i-1][amount]
+
+        #         # Take
+        #         if 
+        #         dp[i][curTotal] += dp[]
+
+
+        # return len(dp[n-1][total//2])
+
+        n = len(nums)
+        total = sum(nums)
+
+        if total % 2:
+            return False
+
+        target = total // 2
+
+        @cache
+        def dp(i, cur):
+            if cur > target:
                 return False
-            if memo[i][target] != -1:
-                return memo[i][target]
-            
-            memo[i][target] = (dfs(i + 1, target) or 
-                               dfs(i + 1, target - nums[i]))
-            return memo[i][target]
 
-        return dfs(0, target)
+            if i == n:
+                return cur == target
+
+            return (
+                dp(i + 1, cur) or
+                dp(i + 1, cur + nums[i])
+            )
+
+        return dp(0, 0)
+

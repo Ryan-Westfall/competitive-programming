@@ -22,3 +22,7 @@ class Solution:
 
         return abs(sum(stones) - dp(0, 0) - dp(0,0))
 
+    
+
+
+

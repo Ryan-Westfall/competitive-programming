@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:33:31.453Z",
+  "updatedAt": "2026-09-16T22:35:39.789Z",
   "totalUniqueProblems": 602,
   "leetcodeCount": 602,
   "codeforcesCount": 0,
@@ -836,11 +836,11 @@
       "count": 3
     },
     {
-      "tag": "complete-knapsack",
+      "tag": "0-1-knapsack",
       "count": 2
     },
     {
-      "tag": "0-1-knapsack",
+      "tag": "complete-knapsack",
       "count": 2
     },
     {

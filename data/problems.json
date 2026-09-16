@@ -1,6 +1,32 @@
 [
   {
     "platform": "leetcode",
+    "id": "ones-and-zeroes",
+    "title": "Ones and Zeroes",
+    "url": "https://leetcode.com/problems/ones-and-zeroes/",
+    "language": "python3",
+    "solvedAt": "2026-09-16T23:37:51.000Z",
+    "difficulty": "Medium",
+    "frontendId": "474",
+    "questionId": "474",
+    "dir": "leetcode/474-ones-and-zeroes",
+    "tags": [
+      "array",
+      "string",
+      "dynamic-programming",
+      "knapsack-problem",
+      "0-1-knapsack"
+    ],
+    "tagNames": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "last-stone-weight-ii",
     "title": "Last Stone Weight II",
     "url": "https://leetcode.com/problems/last-stone-weight-ii/",

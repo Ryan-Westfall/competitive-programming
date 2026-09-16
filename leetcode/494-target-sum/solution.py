@@ -1,28 +1,21 @@
+from collections import defaultdict
+
 class Solution:
     def findTargetSumWays(self, nums: list[int], target: int) -> int:
         n = len(nums)
 
-        total = sum(nums)
+        dp = [defaultdict(int) for _ in range(n)]
 
-        if target < -total or target > total:
-            return 0
-
-        offset = total
-
-        dp = [[0] * (2 * total + 1) for _ in range(n)]
-
-        dp[0][offset + nums[0]] += 1
-        dp[0][offset - nums[0]] += 1
+        # First number
+        dp[0][nums[0]] += 1
+        dp[0][-nums[0]] += 1
 
         for i in range(1, n):
-            for curSum in range(-total, total + 1):
-                ways = dp[i - 1][offset + curSum]
+            for curSum, ways in dp[i - 1].items():
+                dp[i][curSum + nums[i]] += ways
+                dp[i][curSum - nums[i]] += ways
 
-                if ways:
-                    dp[i][offset + curSum + nums[i]] += ways
-                    dp[i][offset + curSum - nums[i]] += ways
-
-        return dp[n - 1][offset + target]
+        return dp[n - 1][target]
 
         # @cache
         # def dp(i, curSum):

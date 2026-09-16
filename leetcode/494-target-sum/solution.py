@@ -1,16 +1,31 @@
 class Solution:
-    def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        self.memo = {}
-        
-        def dfs(index, curSum):
-            if index == len(nums):
-                return 1 if curSum == target else 0
+    def findTargetSumWays(self, nums: list[int], target: int) -> int:
+        n = len(nums)
+        # # i, curTarget
+        # dp = [[0] * (n +1) for _ in range(sum(nums))]
+        # dp[1][nums[0]] = 1
 
-            if (index, curSum) in self.memo:
-                return self.memo[(index, curSum)]
+        # for i in range(2, n+1):
+        #     cur = dp[i-1]
 
-            res = dfs(index + 1, curSum + (nums[index])) + dfs(index + 1, curSum + (-nums[index]))
-            self.memo[(index, curSum)] = res
-            return res
+        #     dp[i] = nums[i-1]
 
-        return dfs(0, 0)
+
+        # return dp[n][target]
+
+        @cache
+        def dp(i, curSum):
+            if curSum == target and i == n:
+                return 1
+
+            if i == n:
+                return 0
+
+            cur = 0
+            # plus
+            cur +=  dp(i + 1, curSum + nums[i])
+            # minus
+            cur +=  dp(i + 1, curSum - nums[i])
+            return cur
+
+        return dp(1, -nums[0]) + dp(1, nums[0])

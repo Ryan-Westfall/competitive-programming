@@ -2,14 +2,6 @@ class Solution:
     def findTargetSumWays(self, nums: list[int], target: int) -> int:
         n = len(nums)
 
-        if n == 1:
-            count = 0
-            if nums[0] == target:
-                count += 1
-            if -nums[0] == target:
-                count += 1
-            return count
-
         total = sum(nums)
 
         if target < -total or target > total:

@@ -2,20 +2,20 @@ from collections import defaultdict
 
 class Solution:
     def findTargetSumWays(self, nums: list[int], target: int) -> int:
+        n = len(nums)
 
-        dp = defaultdict(int)
-        dp[0] = 1
+        dp = [defaultdict(int) for _ in range(n)]
 
-        for num in nums:
-            next_dp = defaultdict(int)
+        # First number
+        dp[0][nums[0]] += 1
+        dp[0][-nums[0]] += 1
 
-            for curSum, ways in dp.items():
-                next_dp[curSum + num] += ways
-                next_dp[curSum - num] += ways
+        for i in range(1, n):
+            for curSum, ways in dp[i - 1].items():
+                dp[i][curSum + nums[i]] += ways
+                dp[i][curSum - nums[i]] += ways
 
-            dp = next_dp
-
-        return dp[target]
+        return dp[n - 1][target]
 
         # @cache
         # def dp(i, curSum):

@@ -4,11 +4,11 @@
 **ID:** 198
 **Difficulty:** Medium
 **Tags:** Array, Dynamic Programming
-**Companies:** Amazon, Google, Microsoft, Bloomberg, Apple, Meta, Infosys, tcs, Databricks, ByteDance, TikTok, Nvidia, Expedia, Walmart Labs, Anduril, Cisco, Uber, Goldman Sachs, Oracle, Zoho, PayPal, Grab, EPAM Systems, MakeMyTrip, Agoda, PhonePe, LinkedIn, Airbnb
+**Companies:** Amazon, Google, Microsoft, Bloomberg, Apple, Meta, Infosys, tcs, TikTok, ByteDance, Databricks, Nvidia, Expedia, Walmart Labs, Anduril, Cisco, Uber, Goldman Sachs, Oracle, PayPal, Grab, Zoho, EPAM Systems, MakeMyTrip, Agoda, PhonePe, LinkedIn, Airbnb
 **Language:** Python3
-**Runtime:** 0 ms (100.0%)
-**Memory:** 19.4 MB (24.7%)
-**Submitted:** 2026-07-20
+**Runtime:** 51 ms (0.7%)
+**Memory:** 19.4 MB (6.5%)
+**Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/house-robber/
 
 ## Description

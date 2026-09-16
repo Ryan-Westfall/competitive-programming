@@ -1,18 +1,28 @@
+from collections import defaultdict
+
 class Solution:
-    def change(self, amount: int, coins: List[int]) -> int:
-        
-        @cache
-        def dfs(index, curAmount):
-            if index == len(coins):
-                return 1 if curAmount == 0 else 0 
+    def change(self, amount: int, coins: list[int]) -> int:
+        n = len(coins)
 
-            take = 0
-            if coins[index] <= curAmount:
-                take = dfs(index, curAmount - coins[index])
-            skip = dfs(index + 1, curAmount)
+        # dp[i][curAmount] =
+        # number of ways to make curAmount using coins[0...i]
+        dp = [defaultdict(int) for _ in range(n)]
 
-            return take + skip
+        # Base case: using only coins[0]
+        curVal = 0
+        while curVal <= amount:
+            dp[0][curVal] = 1
+            curVal += coins[0]
 
+        for i in range(1, n):
+            coin = coins[i]
 
+            for curAmount in range(amount + 1):
+                # Don't take coin
+                dp[i][curAmount] = dp[i - 1][curAmount]
 
-        return dfs(0, amount)
+                # Take coin
+                if curAmount >= coin:
+                    dp[i][curAmount] += dp[i][curAmount - coin]
+
+        return dp[n - 1][amount]

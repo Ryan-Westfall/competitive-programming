@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-15T20:44:09.101Z",
-  "totalUniqueProblems": 601,
-  "leetcodeCount": 601,
+  "updatedAt": "2026-09-16T19:10:25.204Z",
+  "totalUniqueProblems": 602,
+  "leetcodeCount": 602,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 173,
-    "Medium": 337,
+    "Medium": 338,
     "Hard": 91
   },
   "allTags": [
@@ -23,7 +23,7 @@
     },
     {
       "tag": "math",
-      "count": 103
+      "count": 104
     },
     {
       "tag": "depth-first-search",
@@ -31,7 +31,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "breadth-first-search",
@@ -95,7 +95,7 @@
     },
     {
       "tag": "prefix-sum",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "union-find",
@@ -250,6 +250,10 @@
       "count": 4
     },
     {
+      "tag": "combinatorics",
+      "count": 4
+    },
+    {
       "tag": "doubly-linked-list",
       "count": 4
     },
@@ -291,10 +295,6 @@
     },
     {
       "tag": "dp-on-trees",
-      "count": 3
-    },
-    {
-      "tag": "combinatorics",
       "count": 3
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "tag": "math",
-      "count": 103
+      "count": 104
     },
     {
       "tag": "depth-first-search",
@@ -533,7 +533,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 78
+      "count": 79
     },
     {
       "tag": "sorting",
@@ -597,7 +597,7 @@
     },
     {
       "tag": "prefix-sum",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "union-find",
@@ -736,6 +736,10 @@
       "count": 5
     },
     {
+      "tag": "combinatorics",
+      "count": 4
+    },
+    {
       "tag": "geometry",
       "count": 4
     },
@@ -773,10 +777,6 @@
     },
     {
       "tag": "data-stream",
-      "count": 3
-    },
-    {
-      "tag": "combinatorics",
       "count": 3
     },
     {

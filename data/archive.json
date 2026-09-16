@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "number-of-sets-of-k-non-overlapping-line-segments",
+    "title": "Number of Sets of K Non-Overlapping Line Segments",
+    "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+    "language": "python3",
+    "solvedAt": "2026-09-16T19:10:04.000Z",
+    "_ts": 1789585804,
+    "difficulty": "Medium",
+    "frontendId": "1621",
+    "questionId": "1725",
+    "dir": "leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "combinatorics",
+      "prefix-sum"
+    ],
+    "tagNames": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "buildings-with-an-ocean-view",
     "title": "Buildings With an Ocean View",
     "url": "https://leetcode.com/problems/buildings-with-an-ocean-view/",

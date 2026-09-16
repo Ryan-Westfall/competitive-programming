@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:31:52.389Z",
+  "updatedAt": "2026-09-16T21:41:38.020Z",
   "totalUniqueProblems": 602,
   "leetcodeCount": 602,
   "codeforcesCount": 0,
@@ -836,6 +836,10 @@
       "count": 3
     },
     {
+      "tag": "complete-knapsack",
+      "count": 2
+    },
+    {
       "tag": "0-1-knapsack",
       "count": 2
     },
@@ -877,10 +881,6 @@
     },
     {
       "tag": "reservoir-sampling",
-      "count": 2
-    },
-    {
-      "tag": "complete-knapsack",
       "count": 2
     },
     {

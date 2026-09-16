@@ -1,28 +1,10 @@
-from collections import defaultdict
-
 class Solution:
     def change(self, amount: int, coins: list[int]) -> int:
-        n = len(coins)
+        dp = [0] * (amount + 1)
+        dp[0] = 1
 
-        # dp[i][curAmount] =
-        # number of ways to make curAmount using coins[0...i]
-        dp = [defaultdict(int) for _ in range(n)]
+        for coin in coins:
+            for curAmount in range(coin, amount + 1):
+                dp[curAmount] += dp[curAmount - coin]
 
-        # Base case: using only coins[0]
-        curVal = 0
-        while curVal <= amount:
-            dp[0][curVal] = 1
-            curVal += coins[0]
-
-        for i in range(1, n):
-            coin = coins[i]
-
-            for curAmount in range(amount + 1):
-                # Don't take coin
-                dp[i][curAmount] = dp[i - 1][curAmount]
-
-                # Take coin
-                if curAmount >= coin:
-                    dp[i][curAmount] += dp[i][curAmount - coin]
-
-        return dp[n - 1][amount]
+        return dp[amount]

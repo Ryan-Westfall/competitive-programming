@@ -6,8 +6,8 @@
 **Tags:** Array, Dynamic Programming, Knapsack Problem, Complete Knapsack
 **Companies:** Google, Microsoft, Amazon, Infosys, Mastercard, Meta, Bloomberg, TikTok, DE Shaw, Pornhub
 **Language:** Python3
-**Runtime:** 894 ms (18.8%)
-**Memory:** 141.4 MB (19.5%)
+**Runtime:** 203 ms (91.2%)
+**Memory:** 19.5 MB (64.7%)
 **Submitted:** 2026-09-16
 **Link:** https://leetcode.com/problems/coin-change-ii/
 

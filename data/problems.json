@@ -1,6 +1,30 @@
 [
   {
     "platform": "leetcode",
+    "id": "last-stone-weight-ii",
+    "title": "Last Stone Weight II",
+    "url": "https://leetcode.com/problems/last-stone-weight-ii/",
+    "language": "python3",
+    "solvedAt": "2026-09-16T22:59:12.000Z",
+    "difficulty": "Medium",
+    "frontendId": "1049",
+    "questionId": "1130",
+    "dir": "leetcode/1130-last-stone-weight-ii",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "knapsack-problem",
+      "0-1-knapsack"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "partition-equal-subset-sum",
     "title": "Partition Equal Subset Sum",
     "url": "https://leetcode.com/problems/partition-equal-subset-sum/",

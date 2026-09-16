@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-16T22:40:57.583Z",
-  "totalUniqueProblems": 602,
-  "leetcodeCount": 602,
+  "updatedAt": "2026-09-16T22:59:29.250Z",
+  "totalUniqueProblems": 603,
+  "leetcodeCount": 603,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 173,
-    "Medium": 338,
+    "Medium": 339,
     "Hard": 91
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 312
+      "count": 313
     },
     {
       "tag": "string",
@@ -31,7 +31,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 79
+      "count": 80
     },
     {
       "tag": "breadth-first-search",
@@ -222,6 +222,10 @@
       "count": 5
     },
     {
+      "tag": "knapsack-problem",
+      "count": 5
+    },
+    {
       "tag": "prime-factorization",
       "count": 5
     },
@@ -266,10 +270,6 @@
       "count": 4
     },
     {
-      "tag": "knapsack-problem",
-      "count": 4
-    },
-    {
       "tag": "randomized",
       "count": 4
     },
@@ -279,6 +279,10 @@
     },
     {
       "tag": "pigeonhole-principle",
+      "count": 3
+    },
+    {
+      "tag": "0-1-knapsack",
       "count": 3
     },
     {
@@ -383,10 +387,6 @@
     },
     {
       "tag": "reservoir-sampling",
-      "count": 2
-    },
-    {
-      "tag": "0-1-knapsack",
       "count": 2
     },
     {
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 312
+      "count": 313
     },
     {
       "tag": "string",
@@ -533,7 +533,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 79
+      "count": 80
     },
     {
       "tag": "sorting",
@@ -716,6 +716,10 @@
       "count": 6
     },
     {
+      "tag": "knapsack-problem",
+      "count": 5
+    },
+    {
       "tag": "memoization",
       "count": 5
     },
@@ -734,10 +738,6 @@
     {
       "tag": "minimum-spanning-tree",
       "count": 5
-    },
-    {
-      "tag": "knapsack-problem",
-      "count": 4
     },
     {
       "tag": "combinatorics",
@@ -774,6 +774,10 @@
     {
       "tag": "quicksort",
       "count": 4
+    },
+    {
+      "tag": "0-1-knapsack",
+      "count": 3
     },
     {
       "tag": "data-stream",
@@ -834,10 +838,6 @@
     {
       "tag": "quickselect",
       "count": 3
-    },
-    {
-      "tag": "0-1-knapsack",
-      "count": 2
     },
     {
       "tag": "complete-knapsack",

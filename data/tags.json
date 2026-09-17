@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:54:19.910Z",
+  "updatedAt": "2026-09-17T21:09:20.816Z",
   "totalUniqueProblems": 609,
   "leetcodeCount": 609,
   "codeforcesCount": 0,
@@ -900,6 +900,10 @@
       "count": 2
     },
     {
+      "tag": "longest-increasing-subsequence",
+      "count": 1
+    },
+    {
       "tag": "bezouts-lemma",
       "count": 1
     },
@@ -985,10 +989,6 @@
     },
     {
       "tag": "newtons-method",
-      "count": 1
-    },
-    {
-      "tag": "longest-increasing-subsequence",
       "count": 1
     },
     {

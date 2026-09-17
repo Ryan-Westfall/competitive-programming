@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "longest-increasing-subsequence",
+    "title": "Longest Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T21:09:02.000Z",
+    "_ts": 1789679342,
+    "difficulty": "Medium",
+    "frontendId": "300",
+    "questionId": "300",
+    "dir": "leetcode/300-longest-increasing-subsequence",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "longest-increasing-subsequence"
+    ],
+    "tagNames": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "best-time-to-buy-and-sell-stock-iii",
     "title": "Best Time to Buy and Sell Stock III",
     "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
@@ -10381,31 +10406,6 @@
       "Math",
       "String",
       "Simulation"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "longest-increasing-subsequence",
-    "title": "Longest Increasing Subsequence",
-    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
-    "language": "python3",
-    "solvedAt": "2025-01-18T00:33:34.000Z",
-    "_ts": 1737160414,
-    "difficulty": "Medium",
-    "frontendId": "300",
-    "questionId": "300",
-    "dir": "leetcode/300-longest-increasing-subsequence",
-    "tags": [
-      "array",
-      "binary-search",
-      "dynamic-programming",
-      "longest-increasing-subsequence"
-    ],
-    "tagNames": [
-      "Array",
-      "Binary Search",
-      "Dynamic Programming",
-      "Longest Increasing Subsequence"
     ]
   },
   {

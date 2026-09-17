@@ -6,8 +6,8 @@
 **Tags:** Array, Dynamic Programming
 **Companies:** Google, Amazon, Meta, Microsoft
 **Language:** Python3
-**Runtime:** 203 ms (8.2%)
-**Memory:** 198.2 MB (6.5%)
+**Runtime:** 63 ms (57.6%)
+**Memory:** 56 MB (65.2%)
 **Submitted:** 2026-09-17
 **Link:** https://leetcode.com/problems/solving-questions-with-brainpower/
 

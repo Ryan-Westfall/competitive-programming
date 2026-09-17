@@ -4,11 +4,11 @@
 **ID:** 300
 **Difficulty:** Medium
 **Tags:** Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
-**Companies:** Google, Amazon, Microsoft, Bloomberg, Meta, ByteDance, PayPal, TikTok, Infosys, Square, Salesforce, Huawei, Nvidia, Walmart Labs, Oracle, Splunk, Yandex, Squarepoint Capital, Morgan Stanley, Accenture, Agoda
+**Companies:** Google, Amazon, Meta, Microsoft, Bloomberg, ByteDance, PayPal, Infosys, TikTok, Square, Salesforce, Huawei, Nvidia, Walmart Labs, Oracle, Yandex, Squarepoint Capital, Splunk, Morgan Stanley, Accenture, Agoda
 **Language:** Python3
-**Runtime:** 1761 ms (12.8%)
-**Memory:** 18.1 MB (100.0%)
-**Submitted:** 2025-01-18
+**Runtime:** 1826 ms (12.4%)
+**Memory:** 24.6 MB (6.9%)
+**Submitted:** 2026-09-17
 **Link:** https://leetcode.com/problems/longest-increasing-subsequence/
 
 ## Description

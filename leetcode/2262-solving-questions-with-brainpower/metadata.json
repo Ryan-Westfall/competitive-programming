@@ -1,0 +1,22 @@
+{
+  "questionId": "2262",
+  "frontendId": "2140",
+  "title": "Solving Questions With Brainpower",
+  "titleSlug": "solving-questions-with-brainpower",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 203,
+  "runtimePercentile": 8.16039999999998,
+  "memory": 198244000,
+  "memoryPercentile": 6.486099999999969,
+  "timestamp": 1789677174
+}

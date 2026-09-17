@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T23:04:05.900Z",
+  "updatedAt": "2026-09-17T23:26:49.802Z",
   "totalUniqueProblems": 610,
   "leetcodeCount": 610,
   "codeforcesCount": 0,
@@ -904,6 +904,10 @@
       "count": 2
     },
     {
+      "tag": "longest-common-subsequence",
+      "count": 1
+    },
+    {
       "tag": "bezouts-lemma",
       "count": 1
     },
@@ -1001,10 +1005,6 @@
     },
     {
       "tag": "monotonic-queue",
-      "count": 1
-    },
-    {
-      "tag": "longest-common-subsequence",
       "count": 1
     },
     {

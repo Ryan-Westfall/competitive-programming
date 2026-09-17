@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "longest-common-subsequence",
+    "title": "Longest Common Subsequence",
+    "url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T23:25:56.000Z",
+    "_ts": 1789687556,
+    "difficulty": "Medium",
+    "frontendId": "1143",
+    "questionId": "1250",
+    "dir": "leetcode/1250-longest-common-subsequence",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "longest-common-subsequence"
+    ],
+    "tagNames": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "russian-doll-envelopes",
     "title": "Russian Doll Envelopes",
     "url": "https://leetcode.com/problems/russian-doll-envelopes/",
@@ -13339,29 +13362,6 @@
     "tagNames": [
       "Array",
       "Dynamic Programming"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "longest-common-subsequence",
-    "title": "Longest Common Subsequence",
-    "url": "https://leetcode.com/problems/longest-common-subsequence/",
-    "language": "python3",
-    "solvedAt": "2022-01-13T20:49:54.000Z",
-    "_ts": 1642106994,
-    "difficulty": "Medium",
-    "frontendId": "1143",
-    "questionId": "1250",
-    "dir": "leetcode/1250-longest-common-subsequence",
-    "tags": [
-      "string",
-      "dynamic-programming",
-      "longest-common-subsequence"
-    ],
-    "tagNames": [
-      "String",
-      "Dynamic Programming",
-      "Longest Common Subsequence"
     ]
   },
   {

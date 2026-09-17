@@ -1,6 +1,28 @@
 [
   {
     "platform": "leetcode",
+    "id": "delete-and-earn",
+    "title": "Delete and Earn",
+    "url": "https://leetcode.com/problems/delete-and-earn/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T20:06:54.000Z",
+    "difficulty": "Medium",
+    "frontendId": "740",
+    "questionId": "740",
+    "dir": "leetcode/740-delete-and-earn",
+    "tags": [
+      "array",
+      "hash-table",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "filling-bookcase-shelves",
     "title": "Filling Bookcase Shelves",
     "url": "https://leetcode.com/problems/filling-bookcase-shelves/",

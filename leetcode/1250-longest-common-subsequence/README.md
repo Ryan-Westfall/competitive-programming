@@ -6,8 +6,8 @@
 **Tags:** String, Dynamic Programming, Longest Common Subsequence
 **Companies:** Amazon, Apple, Google, Microsoft, Bloomberg, Visa, Meta, TikTok, Salesforce, DoorDash, Morgan Stanley
 **Language:** Python3
-**Runtime:** 1781 ms (5.0%)
-**Memory:** 481.4 MB (5.6%)
+**Runtime:** 987 ms (18.7%)
+**Memory:** 319.3 MB (5.6%)
 **Submitted:** 2026-09-17
 **Link:** https://leetcode.com/problems/longest-common-subsequence/
 

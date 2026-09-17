@@ -6,8 +6,8 @@
 **Tags:** Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
 **Companies:** Google, Amazon, Meta, Microsoft, Bloomberg, ByteDance, PayPal, Infosys, TikTok, Square, Salesforce, Huawei, Nvidia, Walmart Labs, Oracle, Yandex, Squarepoint Capital, Splunk, Morgan Stanley, Accenture, Agoda
 **Language:** Python3
-**Runtime:** 1826 ms (12.4%)
-**Memory:** 24.6 MB (6.9%)
+**Runtime:** 1034 ms (69.1%)
+**Memory:** 19.4 MB (85.0%)
 **Submitted:** 2026-09-17
 **Link:** https://leetcode.com/problems/longest-increasing-subsequence/
 

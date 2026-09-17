@@ -4,11 +4,11 @@
 **ID:** 1143
 **Difficulty:** Medium
 **Tags:** String, Dynamic Programming, Longest Common Subsequence
-**Companies:** Amazon, Google, Apple, Microsoft, Bloomberg, Meta, TikTok, Salesforce, DoorDash, Morgan Stanley, Visa
+**Companies:** Amazon, Apple, Google, Microsoft, Bloomberg, Visa, Meta, TikTok, Salesforce, DoorDash, Morgan Stanley
 **Language:** Python3
-**Runtime:** 407 ms (36.8%)
-**Memory:** 22.9 MB (87.9%)
-**Submitted:** 2022-01-13
+**Runtime:** 1781 ms (5.0%)
+**Memory:** 481.4 MB (5.6%)
+**Submitted:** 2026-09-17
 **Link:** https://leetcode.com/problems/longest-common-subsequence/
 
 ## Description

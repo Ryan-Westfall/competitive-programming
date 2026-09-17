@@ -1,12 +1,33 @@
 [
   {
     "platform": "leetcode",
+    "id": "best-time-to-buy-and-sell-stock-iii",
+    "title": "Best Time to Buy and Sell Stock III",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T20:54:03.000Z",
+    "_ts": 1789678443,
+    "difficulty": "Hard",
+    "frontendId": "123",
+    "questionId": "123",
+    "dir": "leetcode/123-best-time-to-buy-and-sell-stock-iii",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "solving-questions-with-brainpower",
     "title": "Solving Questions With Brainpower",
     "url": "https://leetcode.com/problems/solving-questions-with-brainpower/",
     "language": "python3",
-    "solvedAt": "2026-09-17T20:32:54.000Z",
-    "_ts": 1789677174,
+    "solvedAt": "2026-09-17T20:44:12.000Z",
+    "_ts": 1789677852,
     "difficulty": "Medium",
     "frontendId": "2140",
     "questionId": "2262",

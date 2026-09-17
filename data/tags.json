@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-17T00:40:15.137Z",
-  "totalUniqueProblems": 605,
-  "leetcodeCount": 605,
+  "updatedAt": "2026-09-17T05:02:28.441Z",
+  "totalUniqueProblems": 606,
+  "leetcodeCount": 606,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 173,
-    "Medium": 341,
+    "Medium": 342,
     "Hard": 91
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 315
+      "count": 316
     },
     {
       "tag": "string",
@@ -26,12 +26,12 @@
       "count": 104
     },
     {
-      "tag": "depth-first-search",
+      "tag": "dynamic-programming",
       "count": 83
     },
     {
-      "tag": "dynamic-programming",
-      "count": 82
+      "tag": "depth-first-search",
+      "count": 83
     },
     {
       "tag": "breadth-first-search",
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 315
+      "count": 316
     },
     {
       "tag": "string",
@@ -528,12 +528,12 @@
       "count": 104
     },
     {
-      "tag": "depth-first-search",
+      "tag": "dynamic-programming",
       "count": 83
     },
     {
-      "tag": "dynamic-programming",
-      "count": 82
+      "tag": "depth-first-search",
+      "count": 83
     },
     {
       "tag": "sorting",

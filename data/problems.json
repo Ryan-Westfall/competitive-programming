@@ -1,6 +1,26 @@
 [
   {
     "platform": "leetcode",
+    "id": "filling-bookcase-shelves",
+    "title": "Filling Bookcase Shelves",
+    "url": "https://leetcode.com/problems/filling-bookcase-shelves/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T05:02:10.000Z",
+    "difficulty": "Medium",
+    "frontendId": "1105",
+    "questionId": "1196",
+    "dir": "leetcode/1196-filling-bookcase-shelves",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
     "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
     "url": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",

@@ -1,0 +1,28 @@
+{
+  "questionId": "354",
+  "frontendId": "354",
+  "title": "Russian Doll Envelopes",
+  "titleSlug": "russian-doll-envelopes",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "dynamic-programming",
+    "sorting",
+    "longest-increasing-subsequence"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting",
+    "Longest Increasing Subsequence"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 128,
+  "runtimePercentile": 58.66480000000004,
+  "memory": 54976000,
+  "memoryPercentile": 39.409400000000026,
+  "timestamp": 1789686229
+}

@@ -1,6 +1,26 @@
 [
   {
     "platform": "leetcode",
+    "id": "solving-questions-with-brainpower",
+    "title": "Solving Questions With Brainpower",
+    "url": "https://leetcode.com/problems/solving-questions-with-brainpower/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T20:32:54.000Z",
+    "difficulty": "Medium",
+    "frontendId": "2140",
+    "questionId": "2262",
+    "dir": "leetcode/2262-solving-questions-with-brainpower",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "delete-and-earn",
     "title": "Delete and Earn",
     "url": "https://leetcode.com/problems/delete-and-earn/",

@@ -15,20 +15,13 @@ class Solution:
 
         # return dp(0,0)
 
-        dp = [[0] * (jLen) for _ in range(iLen)]
-        for i in range(iLen):
-            for j in range(jLen):
-                if text1[i] == text2[j]:
-                    dp[i][j] = 1
-                    if i - 1 >= 0 and j - 1 >= 0:
-                        dp[i][j] += dp[i-1][j-1]
-                    continue
+        dp = [[0] * (jLen + 1) for _ in range(iLen + 1)]
 
-                maxPrev = 0
-                if i-1 >= 0:
-                    maxPrev = max(maxPrev, dp[i-1][j])
-                if j-1 >= 0:
-                    maxPrev = max(maxPrev, dp[i][j-1])
-                dp[i][j] = maxPrev
+        for i in range(1, iLen + 1):
+            for j in range(1, jLen + 1):
+                if text1[i-1] == text2[j-1]:
+                    dp[i][j] = dp[i-1][j-1] + 1
+                else:
+                    dp[i][j] = max(dp[i-1][j], dp[i][j-1])
 
-        return dp[iLen-1][jLen-1]
+        return dp[iLen][jLen]

@@ -1,0 +1,28 @@
+{
+  "questionId": "1573",
+  "frontendId": "1477",
+  "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+  "titleSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "binary-search",
+    "dynamic-programming",
+    "sliding-window"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 87,
+  "runtimePercentile": 97.2066,
+  "memory": 30984000,
+  "memoryPercentile": 93.85459999999999,
+  "timestamp": 1789605286
+}

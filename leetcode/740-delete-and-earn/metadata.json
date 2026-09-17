@@ -1,0 +1,24 @@
+{
+  "questionId": "740",
+  "frontendId": "740",
+  "title": "Delete and Earn",
+  "titleSlug": "delete-and-earn",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 19,
+  "runtimePercentile": 10.372100000000001,
+  "memory": 33228000,
+  "memoryPercentile": 5.043999999999997,
+  "timestamp": 1789675614
+}

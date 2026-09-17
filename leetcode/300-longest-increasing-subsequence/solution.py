@@ -1,11 +1,17 @@
 class Solution:
-    def lengthOfLIS(self, nums: List[int]) -> int:
-        LIS = [1] * len(nums)
+    def lengthOfLIS(self, nums: list[int]) -> int:
+        n = len(nums)
 
-        for i in range(len(nums) - 1, -1, -1):
-            for j in range(i + 1, len(nums)):
+        @cache
+        def dp(i):
+            if i == n:
+                return 0
+
+            maxTake = 1
+            for j in range(i+1, n):
                 if nums[i] < nums[j]:
-                    LIS[i] = max(LIS[i], LIS[j] + 1)
+                    maxTake = max(maxTake, dp(j) + 1)
 
-        return max(LIS)
+            return maxTake
 
+        return max([dp(i) for i in range(n)])

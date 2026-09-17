@@ -1,0 +1,22 @@
+{
+  "questionId": "123",
+  "frontendId": "123",
+  "title": "Best Time to Buy and Sell Stock III",
+  "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 2215,
+  "runtimePercentile": 5.035600000000548,
+  "memory": 673028000,
+  "memoryPercentile": 5.052500000000134,
+  "timestamp": 1789678443
+}

@@ -6,7 +6,7 @@
 **Tags:** Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window
 **Companies:** Google
 **Language:** Python3
-**Runtime:** 87 ms (97.2%)
+**Runtime:** 104 ms (82.1%)
 **Memory:** 31 MB (93.9%)
 **Submitted:** 2026-09-17
 **Link:** https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/

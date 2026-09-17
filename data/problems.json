@@ -1,6 +1,32 @@
 [
   {
     "platform": "leetcode",
+    "id": "russian-doll-envelopes",
+    "title": "Russian Doll Envelopes",
+    "url": "https://leetcode.com/problems/russian-doll-envelopes/",
+    "language": "python3",
+    "solvedAt": "2026-09-17T23:03:49.000Z",
+    "difficulty": "Hard",
+    "frontendId": "354",
+    "questionId": "354",
+    "dir": "leetcode/354-russian-doll-envelopes",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "sorting",
+      "longest-increasing-subsequence"
+    ],
+    "tagNames": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "longest-increasing-subsequence",
     "title": "Longest Increasing Subsequence",
     "url": "https://leetcode.com/problems/longest-increasing-subsequence/",

@@ -1,0 +1,22 @@
+{
+  "questionId": "1196",
+  "frontendId": "1105",
+  "title": "Filling Bookcase Shelves",
+  "titleSlug": "filling-bookcase-shelves",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 30.058999999999997,
+  "memory": 21204000,
+  "memoryPercentile": 15.520800000000012,
+  "timestamp": 1789621330
+}

@@ -6,9 +6,9 @@
 **Tags:** Array, Binary Search, Sliding Window, Prefix Sum
 **Companies:** Google, Meta, Bloomberg, Amazon, Microsoft, TikTok, DoorDash, Oracle, Nvidia, Apple
 **Language:** Python3
-**Runtime:** 11 ms (99.0%)
-**Memory:** 28.4 MB (100.0%)
-**Submitted:** 2024-12-20
+**Runtime:** 20 ms (29.4%)
+**Memory:** 30.6 MB (17.1%)
+**Submitted:** 2026-09-18
 **Link:** https://leetcode.com/problems/minimum-size-subarray-sum/
 
 ## Description

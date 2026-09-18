@@ -1,10 +1,19 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        output = []
-        def helper(start, temp, output):
-            output.append(temp)
-            for i in range(start, len(nums)):
-                helper(i+1, temp+[nums[i]], output)
-        helper(0,[],output)
-        return output
+    def subsets(self, nums: list[int]) -> list[list[int]]:
+        n = len(nums)
+        
+        def backtrack(cur, i):
+            if i == n:
+                return [cur[:]]
+
+            # noTake
+            noTake = backtrack(cur, i+1)
             
+            # take
+            cur.append(nums[i])
+            take = backtrack(cur, i+1)
+            cur.pop()
+
+            return noTake + take
+
+        return backtrack([], 0)

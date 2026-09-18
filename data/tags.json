@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-18T00:29:12.475Z",
-  "totalUniqueProblems": 610,
-  "leetcodeCount": 610,
+  "updatedAt": "2026-09-18T02:53:55.193Z",
+  "totalUniqueProblems": 611,
+  "leetcodeCount": 611,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 173,
     "Medium": 344,
-    "Hard": 93
+    "Hard": 94
   },
   "allTags": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "tag": "string",
-      "count": 124
+      "count": 125
     },
     {
       "tag": "hash-table",
-      "count": 111
+      "count": 112
     },
     {
       "tag": "math",
@@ -35,7 +35,7 @@
     },
     {
       "tag": "sorting",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "breadth-first-search",
@@ -62,12 +62,12 @@
       "count": 47
     },
     {
-      "tag": "linked-list",
+      "tag": "greedy",
       "count": 44
     },
     {
-      "tag": "greedy",
-      "count": 43
+      "tag": "linked-list",
+      "count": 44
     },
     {
       "tag": "graph",
@@ -517,11 +517,11 @@
     },
     {
       "tag": "string",
-      "count": 124
+      "count": 125
     },
     {
       "tag": "hash-table",
-      "count": 111
+      "count": 112
     },
     {
       "tag": "math",
@@ -537,7 +537,7 @@
     },
     {
       "tag": "sorting",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "breadth-first-search",
@@ -564,12 +564,12 @@
       "count": 47
     },
     {
-      "tag": "linked-list",
+      "tag": "greedy",
       "count": 44
     },
     {
-      "tag": "greedy",
-      "count": 43
+      "tag": "linked-list",
+      "count": 44
     },
     {
       "tag": "graph",

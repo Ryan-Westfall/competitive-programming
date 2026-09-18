@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "maximum-number-of-non-overlapping-substrings",
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+    "language": "python3",
+    "solvedAt": "2026-09-18T02:53:38.000Z",
+    "_ts": 1789700018,
+    "difficulty": "Hard",
+    "frontendId": "1520",
+    "questionId": "1644",
+    "dir": "leetcode/1644-maximum-number-of-non-overlapping-substrings",
+    "tags": [
+      "hash-table",
+      "string",
+      "greedy",
+      "sorting"
+    ],
+    "tagNames": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "edit-distance",
     "title": "Edit Distance",
     "url": "https://leetcode.com/problems/edit-distance/",

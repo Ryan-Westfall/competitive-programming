@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "minimum-size-subarray-sum",
+    "title": "Minimum Size Subarray Sum",
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "language": "python3",
+    "solvedAt": "2026-09-18T20:31:18.000Z",
+    "_ts": 1789763478,
+    "difficulty": "Medium",
+    "frontendId": "209",
+    "questionId": "209",
+    "dir": "leetcode/209-minimum-size-subarray-sum",
+    "tags": [
+      "array",
+      "binary-search",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "tagNames": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "maximum-number-of-non-overlapping-substrings",
     "title": "Maximum Number of Non-Overlapping Substrings",
     "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
@@ -11177,31 +11202,6 @@
       "Array",
       "Sorting",
       "Quicksort"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "minimum-size-subarray-sum",
-    "title": "Minimum Size Subarray Sum",
-    "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
-    "language": "python3",
-    "solvedAt": "2024-12-20T06:24:25.000Z",
-    "_ts": 1734675865,
-    "difficulty": "Medium",
-    "frontendId": "209",
-    "questionId": "209",
-    "dir": "leetcode/209-minimum-size-subarray-sum",
-    "tags": [
-      "array",
-      "binary-search",
-      "sliding-window",
-      "prefix-sum"
-    ],
-    "tagNames": [
-      "Array",
-      "Binary Search",
-      "Sliding Window",
-      "Prefix Sum"
     ]
   },
   {

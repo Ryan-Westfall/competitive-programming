@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-18T20:48:05.719Z",
-  "totalUniqueProblems": 611,
-  "leetcodeCount": 611,
+  "updatedAt": "2026-09-18T23:38:56.253Z",
+  "totalUniqueProblems": 612,
+  "leetcodeCount": 612,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 173,
-    "Medium": 344,
+    "Medium": 345,
     "Hard": 94
   },
   "allTags": [
@@ -31,7 +31,7 @@
     },
     {
       "tag": "depth-first-search",
-      "count": 83
+      "count": 84
     },
     {
       "tag": "sorting",
@@ -150,11 +150,11 @@
       "count": 12
     },
     {
-      "tag": "zero-sum-game",
-      "count": 10
+      "tag": "trie",
+      "count": 11
     },
     {
-      "tag": "trie",
+      "tag": "zero-sum-game",
       "count": 10
     },
     {
@@ -533,7 +533,7 @@
     },
     {
       "tag": "depth-first-search",
-      "count": 83
+      "count": 84
     },
     {
       "tag": "sorting",
@@ -652,11 +652,11 @@
       "count": 12
     },
     {
-      "tag": "zero-sum-game",
-      "count": 10
+      "tag": "trie",
+      "count": 11
     },
     {
-      "tag": "trie",
+      "tag": "zero-sum-game",
       "count": 10
     },
     {

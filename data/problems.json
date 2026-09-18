@@ -1,6 +1,26 @@
 [
   {
     "platform": "leetcode",
+    "id": "lexicographical-numbers",
+    "title": "Lexicographical Numbers",
+    "url": "https://leetcode.com/problems/lexicographical-numbers/",
+    "language": "python3",
+    "solvedAt": "2026-09-18T23:38:40.000Z",
+    "difficulty": "Medium",
+    "frontendId": "386",
+    "questionId": "386",
+    "dir": "leetcode/386-lexicographical-numbers",
+    "tags": [
+      "depth-first-search",
+      "trie"
+    ],
+    "tagNames": [
+      "Depth-First Search",
+      "Trie"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "subsets",
     "title": "Subsets",
     "url": "https://leetcode.com/problems/subsets/",

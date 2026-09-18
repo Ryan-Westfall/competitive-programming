@@ -4,11 +4,11 @@
 **ID:** 78
 **Difficulty:** Medium
 **Tags:** Array, Backtracking, Bit Manipulation
-**Companies:** Amazon, Microsoft, Google, Meta, Bloomberg, TikTok, Infosys, PayPal, Oracle, ByteDance, Wix, tcs, Uber, Coupang
+**Companies:** Amazon, Google, Microsoft, Meta, Bloomberg, TikTok, Infosys, PayPal, Oracle, Wix, tcs, Uber, Coupang
 **Language:** Python3
-**Runtime:** 36 ms (1.1%)
-**Memory:** 14.5 MB (100.0%)
-**Submitted:** 2021-07-25
+**Runtime:** 0 ms (100.0%)
+**Memory:** 19.4 MB (69.1%)
+**Submitted:** 2026-09-18
 **Link:** https://leetcode.com/problems/subsets/
 
 ## Description

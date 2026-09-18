@@ -1,6 +1,26 @@
 [
   {
     "platform": "leetcode",
+    "id": "edit-distance",
+    "title": "Edit Distance",
+    "url": "https://leetcode.com/problems/edit-distance/",
+    "language": "python3",
+    "solvedAt": "2026-09-18T00:28:56.000Z",
+    "difficulty": "Medium",
+    "frontendId": "72",
+    "questionId": "72",
+    "dir": "leetcode/72-edit-distance",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "longest-common-subsequence",
     "title": "Longest Common Subsequence",
     "url": "https://leetcode.com/problems/longest-common-subsequence/",
@@ -12609,26 +12629,6 @@
       "Design",
       "Segment Tree",
       "Ordered Set"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "edit-distance",
-    "title": "Edit Distance",
-    "url": "https://leetcode.com/problems/edit-distance/",
-    "language": "python3",
-    "solvedAt": "2022-02-15T04:08:02.000Z",
-    "difficulty": "Medium",
-    "frontendId": "72",
-    "questionId": "72",
-    "dir": "leetcode/72-edit-distance",
-    "tags": [
-      "string",
-      "dynamic-programming"
-    ],
-    "tagNames": [
-      "String",
-      "Dynamic Programming"
     ]
   },
   {

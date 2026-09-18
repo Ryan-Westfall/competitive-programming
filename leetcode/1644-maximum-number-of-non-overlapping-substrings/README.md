@@ -6,8 +6,8 @@
 **Tags:** Hash Table, String, Greedy, Sorting
 **Companies:** Amazon
 **Language:** Python3
-**Runtime:** 254 ms (38.9%)
-**Memory:** 22.8 MB (21.2%)
+**Runtime:** 276 ms (37.2%)
+**Memory:** 22.9 MB (20.8%)
 **Submitted:** 2026-09-18
 **Link:** https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 

@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "subsets",
+    "title": "Subsets",
+    "url": "https://leetcode.com/problems/subsets/",
+    "language": "python3",
+    "solvedAt": "2026-09-18T20:47:49.000Z",
+    "_ts": 1789764469,
+    "difficulty": "Medium",
+    "frontendId": "78",
+    "questionId": "78",
+    "dir": "leetcode/78-subsets",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "tagNames": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "minimum-size-subarray-sum",
     "title": "Minimum Size Subarray Sum",
     "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
@@ -13956,29 +13979,6 @@
       "Array",
       "Math",
       "Matrix"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "subsets",
-    "title": "Subsets",
-    "url": "https://leetcode.com/problems/subsets/",
-    "language": "python3",
-    "solvedAt": "2021-07-25T20:54:43.000Z",
-    "_ts": 1627246483,
-    "difficulty": "Medium",
-    "frontendId": "78",
-    "questionId": "78",
-    "dir": "leetcode/78-subsets",
-    "tags": [
-      "array",
-      "backtracking",
-      "bit-manipulation"
-    ],
-    "tagNames": [
-      "Array",
-      "Backtracking",
-      "Bit Manipulation"
     ]
   },
   {

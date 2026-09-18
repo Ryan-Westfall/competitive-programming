@@ -1,0 +1,26 @@
+{
+  "questionId": "1644",
+  "frontendId": "1520",
+  "title": "Maximum Number of Non-Overlapping Substrings",
+  "titleSlug": "maximum-number-of-non-overlapping-substrings",
+  "difficulty": "Hard",
+  "tags": [
+    "hash-table",
+    "string",
+    "greedy",
+    "sorting"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 254,
+  "runtimePercentile": 38.936800000000076,
+  "memory": 22792000,
+  "memoryPercentile": 21.23889999999999,
+  "timestamp": 1789700018
+}

@@ -1,49 +1,71 @@
 class Solution:
     def maxNumOfSubstrings(self, s: str) -> list[str]:
         n = len(s)
+
         firstOccurenceIndex = {}
         lastOccurenceIndex = {}
+
         for i in range(n):
             if s[i] not in firstOccurenceIndex:
                 firstOccurenceIndex[s[i]] = i
             lastOccurenceIndex[s[i]] = i
 
         subStringIndexes = []
+
         for i in range(n):
             if firstOccurenceIndex[s[i]] != i:
-                continue  # only start a candidate at a char's first occurrence
+                continue
 
-            start, end = i, lastOccurenceIndex[s[i]]
+            start = i
+            end = lastOccurenceIndex[s[i]]
+
             k = start
             valid = True
+
             while k <= end:
                 if firstOccurenceIndex[s[k]] < start:
-                    valid = False          # would have to extend left past start
+                    valid = False
                     break
-                end = max(end, lastOccurenceIndex[s[k]])  # extend right, keep scanning
+
+                end = max(end, lastOccurenceIndex[s[k]])
                 k += 1
 
             if valid:
                 subStringIndexes.append([start, end])
 
         subStringN = len(subStringIndexes)
+
         @cache
         def dp(i):
             if i >= subStringN:
-                return []
+                return (0, 0, [])
 
-            noTake = dp(i+1)
+            noTake = dp(i + 1)
+
             start, end = subStringIndexes[i]
-            nextI = bisect_right(subStringIndexes, end, key=lambda x: x[0])
-            take = [s[start:end+1]]
-            take.extend(dp(nextI))
+            nextI = bisect_right(
+                subStringIndexes,
+                end,
+                key=lambda x: x[0]
+            )
 
-            if len(noTake) > len(take):
-                return noTake
-            else:
-                if len(noTake) == len(take):
-                    return take if len("".join(take)) < len("".join(noTake)) else noTake
+            nextCount, nextLength, nextSubstrings = dp(nextI)
+
+            take = (
+                nextCount + 1,
+                nextLength + (end - start + 1),
+                [s[start:end + 1]] + nextSubstrings
+            )
+
+            if take[0] > noTake[0]:
                 return take
 
-        return dp(0)
+            if take[0] < noTake[0]:
+                return noTake
 
+            if take[1] < noTake[1]:
+                return take
+
+            return noTake
+
+        return dp(0)[2]

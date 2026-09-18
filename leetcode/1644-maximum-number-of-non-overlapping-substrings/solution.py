@@ -1,3 +1,6 @@
+from functools import cache
+from bisect import bisect_right
+
 class Solution:
     def maxNumOfSubstrings(self, s: str) -> list[str]:
         n = len(s)
@@ -12,12 +15,10 @@ class Solution:
 
         subStringIndexes = []
 
-        for i in range(n):
-            if firstOccurenceIndex[s[i]] != i:
-                continue
-
-            start = i
-            end = lastOccurenceIndex[s[i]]
+        # Find all valid intervals
+        for c in firstOccurenceIndex:
+            start = firstOccurenceIndex[c]
+            end = lastOccurenceIndex[c]
 
             k = start
             valid = True
@@ -33,16 +34,22 @@ class Solution:
             if valid:
                 subStringIndexes.append([start, end])
 
+        subStringIndexes.sort()
+
         subStringN = len(subStringIndexes)
 
         @cache
         def dp(i):
+            # (number of substrings, total length, actual substrings)
             if i >= subStringN:
                 return (0, 0, [])
 
+            # Don't take
             noTake = dp(i + 1)
 
+            # Take
             start, end = subStringIndexes[i]
+
             nextI = bisect_right(
                 subStringIndexes,
                 end,
@@ -63,6 +70,7 @@ class Solution:
             if take[0] < noTake[0]:
                 return noTake
 
+            # Tie: minimize total length
             if take[1] < noTake[1]:
                 return take
 

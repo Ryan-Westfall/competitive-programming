@@ -4,11 +4,11 @@
 **ID:** 72
 **Difficulty:** Medium
 **Tags:** String, Dynamic Programming
-**Companies:** Amazon, Infosys, Google, Meta, Apple, IBM, LinkedIn, Bloomberg, Cisco, Microsoft, Zoho, TikTok, Swiggy, Flipkart, Walmart Labs, Axon, HashedIn
+**Companies:** Infosys, Amazon, Google, Meta, Apple, Microsoft, LinkedIn, Bloomberg, Cisco, Zoho, Swiggy, IBM, TikTok, Flipkart, Walmart Labs, Axon, HashedIn
 **Language:** Python3
-**Runtime:** 212 ms (5.1%)
-**Memory:** 17.8 MB (100.0%)
-**Submitted:** 2022-02-15
+**Runtime:** 35 ms (83.4%)
+**Memory:** 26.2 MB (7.9%)
+**Submitted:** 2026-09-18
 **Link:** https://leetcode.com/problems/edit-distance/
 
 ## Description

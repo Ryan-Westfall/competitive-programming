@@ -1,0 +1,22 @@
+{
+  "questionId": "386",
+  "frontendId": "386",
+  "title": "Lexicographical Numbers",
+  "titleSlug": "lexicographical-numbers",
+  "difficulty": "Medium",
+  "tags": [
+    "depth-first-search",
+    "trie"
+  ],
+  "tagNames": [
+    "Depth-First Search",
+    "Trie"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 19,
+  "runtimePercentile": 23.784400000000005,
+  "memory": 24464000,
+  "memoryPercentile": 31.12309999999999,
+  "timestamp": 1789774720
+}

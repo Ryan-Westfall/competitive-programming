@@ -1,0 +1,24 @@
+{
+  "questionId": "131",
+  "frontendId": "131",
+  "title": "Palindrome Partitioning",
+  "titleSlug": "palindrome-partitioning",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "dynamic-programming",
+    "backtracking"
+  ],
+  "tagNames": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 63,
+  "runtimePercentile": 8.984700000000013,
+  "memory": 34348000,
+  "memoryPercentile": 19.265300000000032,
+  "timestamp": 1789776229
+}

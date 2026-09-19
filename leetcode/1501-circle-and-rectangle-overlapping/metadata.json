@@ -1,0 +1,22 @@
+{
+  "questionId": "1501",
+  "frontendId": "1401",
+  "title": "Circle and Rectangle Overlapping",
+  "titleSlug": "circle-and-rectangle-overlapping",
+  "difficulty": "Medium",
+  "tags": [
+    "math",
+    "geometry"
+  ],
+  "tagNames": [
+    "Math",
+    "Geometry"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 25,
+  "runtimePercentile": 1.999899999999994,
+  "memory": 19416000,
+  "memoryPercentile": 18.666600000000003,
+  "timestamp": 1789793701
+}

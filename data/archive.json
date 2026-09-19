@@ -1,6 +1,27 @@
 [
   {
     "platform": "leetcode",
+    "id": "circle-and-rectangle-overlapping",
+    "title": "Circle and Rectangle Overlapping",
+    "url": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
+    "language": "python3",
+    "solvedAt": "2026-09-19T04:55:01.000Z",
+    "_ts": 1789793701,
+    "difficulty": "Medium",
+    "frontendId": "1401",
+    "questionId": "1501",
+    "dir": "leetcode/1501-circle-and-rectangle-overlapping",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "tagNames": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "palindrome-partitioning",
     "title": "Palindrome Partitioning",
     "url": "https://leetcode.com/problems/palindrome-partitioning/",

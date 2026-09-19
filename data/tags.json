@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-19T00:19:09.839Z",
-  "totalUniqueProblems": 613,
-  "leetcodeCount": 613,
+  "updatedAt": "2026-09-19T04:55:17.578Z",
+  "totalUniqueProblems": 614,
+  "leetcodeCount": 614,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 173,
-    "Medium": 346,
+    "Medium": 347,
     "Hard": 94
   },
   "allTags": [
@@ -23,7 +23,7 @@
     },
     {
       "tag": "math",
-      "count": 104
+      "count": 105
     },
     {
       "tag": "dynamic-programming",
@@ -222,6 +222,10 @@
       "count": 5
     },
     {
+      "tag": "geometry",
+      "count": 5
+    },
+    {
       "tag": "minimum-spanning-tree",
       "count": 5
     },
@@ -236,10 +240,6 @@
     {
       "tag": "rolling-hash",
       "count": 5
-    },
-    {
-      "tag": "geometry",
-      "count": 4
     },
     {
       "tag": "0-1-knapsack",
@@ -525,7 +525,7 @@
     },
     {
       "tag": "math",
-      "count": 104
+      "count": 105
     },
     {
       "tag": "dynamic-programming",
@@ -720,6 +720,10 @@
       "count": 6
     },
     {
+      "tag": "geometry",
+      "count": 5
+    },
+    {
       "tag": "memoization",
       "count": 5
     },
@@ -745,10 +749,6 @@
     },
     {
       "tag": "combinatorics",
-      "count": 4
-    },
-    {
-      "tag": "geometry",
       "count": 4
     },
     {

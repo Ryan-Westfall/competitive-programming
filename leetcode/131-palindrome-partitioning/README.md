@@ -6,8 +6,8 @@
 **Tags:** String, Dynamic Programming, Backtracking
 **Companies:** Google, Amazon, Microsoft, Meta, Infosys, Bloomberg, Salesforce, Visa
 **Language:** Python3
-**Runtime:** 63 ms (9.0%)
-**Memory:** 34.3 MB (19.3%)
+**Runtime:** 36 ms (84.1%)
+**Memory:** 34.3 MB (32.2%)
 **Submitted:** 2026-09-19
 **Link:** https://leetcode.com/problems/palindrome-partitioning/
 

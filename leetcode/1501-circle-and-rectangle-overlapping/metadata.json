@@ -14,9 +14,9 @@
   ],
   "lang": "python3",
   "langVerbose": "Python3",
-  "runtime": 25,
-  "runtimePercentile": 1.999899999999994,
-  "memory": 19416000,
-  "memoryPercentile": 18.666600000000003,
-  "timestamp": 1789793701
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19320000,
+  "memoryPercentile": 49.3333,
+  "timestamp": 1789793828
 }

@@ -6,8 +6,8 @@
 **Tags:** Math, Geometry
 **Companies:** Google
 **Language:** Python3
-**Runtime:** 25 ms (2.0%)
-**Memory:** 19.4 MB (18.7%)
+**Runtime:** 0 ms (100.0%)
+**Memory:** 19.3 MB (49.3%)
 **Submitted:** 2026-09-19
 **Link:** https://leetcode.com/problems/circle-and-rectangle-overlapping/
 

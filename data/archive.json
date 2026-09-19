@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "palindrome-partitioning",
+    "title": "Palindrome Partitioning",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "language": "python3",
+    "solvedAt": "2026-09-19T00:03:49.000Z",
+    "_ts": 1789776229,
+    "difficulty": "Medium",
+    "frontendId": "131",
+    "questionId": "131",
+    "dir": "leetcode/131-palindrome-partitioning",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "backtracking"
+    ],
+    "tagNames": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "lexicographical-numbers",
     "title": "Lexicographical Numbers",
     "url": "https://leetcode.com/problems/lexicographical-numbers/",

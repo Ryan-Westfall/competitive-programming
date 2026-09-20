@@ -1,0 +1,28 @@
+{
+  "questionId": "4386",
+  "frontendId": "4027",
+  "title": "Elevator Requests III",
+  "titleSlug": "elevator-requests-iii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "dynamic-programming",
+    "bit-manipulation",
+    "sorting",
+    "bitmask"
+  ],
+  "tagNames": [
+    "Array",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Sorting",
+    "Bitmask"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 6583,
+  "runtimePercentile": 31.798099999998623,
+  "memory": 452124000,
+  "memoryPercentile": 7.8866999999999114,
+  "timestamp": 1789944935
+}

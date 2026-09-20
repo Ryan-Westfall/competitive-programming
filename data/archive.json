@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "maximum-subarray",
+    "title": "Maximum Subarray",
+    "url": "https://leetcode.com/problems/maximum-subarray/",
+    "language": "python3",
+    "solvedAt": "2026-09-20T04:29:53.000Z",
+    "_ts": 1789878593,
+    "difficulty": "Medium",
+    "frontendId": "53",
+    "questionId": "53",
+    "dir": "leetcode/53-maximum-subarray",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "reverse-degree-of-a-string",
     "title": "Reverse Degree of a String",
     "url": "https://leetcode.com/problems/reverse-degree-of-a-string/",
@@ -13906,29 +13929,6 @@
     "tagNames": [
       "Divide and Conquer",
       "Bit Manipulation"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "maximum-subarray",
-    "title": "Maximum Subarray",
-    "url": "https://leetcode.com/problems/maximum-subarray/",
-    "language": "python3",
-    "solvedAt": "2021-10-06T04:58:54.000Z",
-    "_ts": 1633496334,
-    "difficulty": "Medium",
-    "frontendId": "53",
-    "questionId": "53",
-    "dir": "leetcode/53-maximum-subarray",
-    "tags": [
-      "array",
-      "divide-and-conquer",
-      "dynamic-programming"
-    ],
-    "tagNames": [
-      "Array",
-      "Divide and Conquer",
-      "Dynamic Programming"
     ]
   },
   {

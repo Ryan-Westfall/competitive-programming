@@ -6,8 +6,8 @@
 **Tags:** String, Simulation
 **Companies:** Google
 **Language:** Python3
-**Runtime:** 11 ms (20.3%)
-**Memory:** 19.3 MB (19.1%)
+**Runtime:** 7 ms (70.0%)
+**Memory:** 19.4 MB (19.1%)
 **Submitted:** 2026-09-20
 **Link:** https://leetcode.com/problems/reverse-degree-of-a-string/
 

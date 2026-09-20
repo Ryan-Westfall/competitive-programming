@@ -1,6 +1,26 @@
 [
   {
     "platform": "leetcode",
+    "id": "jump-game-ix",
+    "title": "Jump Game IX",
+    "url": "https://leetcode.com/problems/jump-game-ix/",
+    "language": "python3",
+    "solvedAt": "2026-09-20T05:10:31.000Z",
+    "difficulty": "Medium",
+    "frontendId": "3660",
+    "questionId": "3981",
+    "dir": "leetcode/3981-jump-game-ix",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "maximum-subarray",
     "title": "Maximum Subarray",
     "url": "https://leetcode.com/problems/maximum-subarray/",

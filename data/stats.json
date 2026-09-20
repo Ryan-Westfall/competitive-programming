@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-20T04:30:07.804Z",
+  "updatedAt": "2026-09-20T05:10:46.141Z",
   "leetcode": {
-    "uniqueSolved": 615,
-    "totalSubmissions": 615
+    "uniqueSolved": 616,
+    "totalSubmissions": 616
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 615,
-    "submissions": 615
+    "uniqueSolved": 616,
+    "submissions": 616
   },
   "tags": [
     {
       "tag": "array",
-      "count": 320
+      "count": 321
     },
     {
       "tag": "string",
@@ -31,7 +31,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 88
+      "count": 89
     },
     {
       "tag": "depth-first-search",
@@ -96,7 +96,7 @@
   ],
   "difficulties": {
     "Easy": 174,
-    "Medium": 347,
+    "Medium": 348,
     "Hard": 94
   }
 }

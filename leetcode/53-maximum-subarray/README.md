@@ -4,11 +4,11 @@
 **ID:** 53
 **Difficulty:** Medium
 **Tags:** Array, Divide and Conquer, Dynamic Programming
-**Companies:** Google, Amazon, Microsoft, Meta, Bloomberg, Upstart, LinkedIn, tcs, Infosys, Apple, Oracle, Visa, Nvidia, Goldman Sachs, Cisco, TikTok, Squarepoint Capital, Tekion, PayPal, IBM, Accenture, Intel, SAP, Uber, Citadel, Coupang, ServiceNow, Walmart Labs, EPAM Systems, Cognizant, HCL, Turing, Vimeo, Criteo, Arista Networks, Zomato, Deloitte, Zeta Global, Wix
+**Companies:** Google, Amazon, Microsoft, Meta, Bloomberg, LinkedIn, tcs, Upstart, Infosys, Apple, Oracle, Visa, Nvidia, Goldman Sachs, Cisco, TikTok, Squarepoint Capital, Tekion, PayPal, IBM, Intel, SAP, Uber, Citadel, Coupang, ServiceNow, Walmart Labs, Accenture, EPAM Systems, Cognizant, HCL, Turing, Vimeo, Criteo, Arista Networks, Zomato, Deloitte, Zeta Global, Wix
 **Language:** Python3
-**Runtime:** 1192 ms (5.1%)
-**Memory:** 28.9 MB (100.0%)
-**Submitted:** 2021-10-06
+**Runtime:** 43 ms (33.2%)
+**Memory:** 31.5 MB (45.7%)
+**Submitted:** 2026-09-20
 **Link:** https://leetcode.com/problems/maximum-subarray/
 
 ## Description

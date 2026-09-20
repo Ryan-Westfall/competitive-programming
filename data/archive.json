@@ -1,6 +1,33 @@
 [
   {
     "platform": "leetcode",
+    "id": "elevator-requests-iii",
+    "title": "Elevator Requests III",
+    "url": "https://leetcode.com/problems/elevator-requests-iii/",
+    "language": "python3",
+    "solvedAt": "2026-09-20T22:55:35.000Z",
+    "_ts": 1789944935,
+    "difficulty": "Hard",
+    "frontendId": "4027",
+    "questionId": "4386",
+    "dir": "leetcode/4386-elevator-requests-iii",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "bit-manipulation",
+      "sorting",
+      "bitmask"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Sorting",
+      "Bitmask"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "elevator-requests-ii",
     "title": "Elevator Requests II",
     "url": "https://leetcode.com/problems/elevator-requests-ii/",

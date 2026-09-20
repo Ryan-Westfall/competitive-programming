@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-20T21:15:15.793Z",
-  "totalUniqueProblems": 617,
-  "leetcodeCount": 617,
+  "updatedAt": "2026-09-20T22:55:59.131Z",
+  "totalUniqueProblems": 618,
+  "leetcodeCount": 618,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 174,
     "Medium": 348,
-    "Hard": 95
+    "Hard": 96
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 322
+      "count": 323
     },
     {
       "tag": "string",
@@ -27,7 +27,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 90
+      "count": 91
     },
     {
       "tag": "depth-first-search",
@@ -35,7 +35,7 @@
     },
     {
       "tag": "sorting",
-      "count": 75
+      "count": 76
     },
     {
       "tag": "breadth-first-search",
@@ -91,7 +91,7 @@
     },
     {
       "tag": "bit-manipulation",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "prefix-sum",
@@ -266,6 +266,10 @@
       "count": 4
     },
     {
+      "tag": "bitmask",
+      "count": 4
+    },
+    {
       "tag": "bracket-sequences",
       "count": 4
     },
@@ -307,10 +311,6 @@
     },
     {
       "tag": "counting-sort",
-      "count": 3
-    },
-    {
-      "tag": "bitmask",
       "count": 3
     },
     {
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 322
+      "count": 323
     },
     {
       "tag": "string",
@@ -529,7 +529,7 @@
     },
     {
       "tag": "dynamic-programming",
-      "count": 90
+      "count": 91
     },
     {
       "tag": "depth-first-search",
@@ -537,7 +537,7 @@
     },
     {
       "tag": "sorting",
-      "count": 75
+      "count": 76
     },
     {
       "tag": "breadth-first-search",
@@ -593,7 +593,7 @@
     },
     {
       "tag": "bit-manipulation",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "prefix-sum",
@@ -744,6 +744,10 @@
       "count": 5
     },
     {
+      "tag": "bitmask",
+      "count": 4
+    },
+    {
       "tag": "0-1-knapsack",
       "count": 4
     },
@@ -793,10 +797,6 @@
     },
     {
       "tag": "primality-test",
-      "count": 3
-    },
-    {
-      "tag": "bitmask",
       "count": 3
     },
     {

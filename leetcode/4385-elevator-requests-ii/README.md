@@ -5,8 +5,8 @@
 **Difficulty:** Hard
 **Tags:** Array, Dynamic Programming, Sorting
 **Language:** Python3
-**Runtime:** 3744 ms (47.9%)
-**Memory:** 143.8 MB (43.9%)
+**Runtime:** 4000 ms (39.7%)
+**Memory:** 144.8 MB (43.7%)
 **Submitted:** 2026-09-20
 **Link:** https://leetcode.com/problems/elevator-requests-ii/
 

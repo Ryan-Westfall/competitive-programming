@@ -1,6 +1,28 @@
 [
   {
     "platform": "leetcode",
+    "id": "elevator-requests-ii",
+    "title": "Elevator Requests II",
+    "url": "https://leetcode.com/problems/elevator-requests-ii/",
+    "language": "python3",
+    "solvedAt": "2026-09-20T21:04:25.000Z",
+    "difficulty": "Hard",
+    "frontendId": "4023",
+    "questionId": "4385",
+    "dir": "leetcode/4385-elevator-requests-ii",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "jump-game-ix",
     "title": "Jump Game IX",
     "url": "https://leetcode.com/problems/jump-game-ix/",

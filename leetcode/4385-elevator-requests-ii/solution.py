@@ -6,48 +6,31 @@ class Solution:
 
         @lru_cache(maxsize=10000)
         def dp(l, r, side):
-            if l == 0 and r == n-1:
+            if l == 0 and r == n - 1:
                 return 0
 
-            if side == 1: # On Right Side
-                # GoRight
-                if r < n-1:
-                    distance = requests[r+1] - requests[r]
-                    cost = ((n - (r-l+1)) * distance)
-                    right = cost + dp(l, r+1, 1)
-                else:
-                    right = float('inf')
+            waiting = n - (r - l + 1)
+            pos = requests[l] if side == 0 else requests[r]
 
-                # GoLeft
-                if l > 0:
-                    distance = requests[r] - requests[l-1]
-                    cost = ((n - (r-l+1)) * distance)
-                    left = cost + dp(l-1, r, 0)
-                else:
-                    left = float('inf')
+            ans = float('inf')
 
-                return min(right, left)
+            # Serve next request on the left
+            if l > 0:
+                ans = min(
+                    ans,
+                    waiting * (pos - requests[l - 1])
+                    + dp(l - 1, r, 0)
+                )
 
-            else: # On Left Side
-                # GoRight
-                if r < n-1:
-                    distance = requests[r+1] - requests[l]
-                    cost = ((n - (r-l+1)) * distance)
-                    right = cost + dp(l, r+1, 1)
-                else:
-                    right = float('inf')
+            # Serve next request on the right
+            if r + 1 < n:
+                ans = min(
+                    ans,
+                    waiting * (requests[r + 1] - pos)
+                    + dp(l, r + 1, 1)
+                )
 
-                # GoLeft
-                if l > 0:
-                    distance = requests[l] - requests[l-1]
-                    cost = ((n - (r-l+1)) * distance)
-                    left = cost + dp(l-1, r, 0)
-                else:
-                    left = float('inf')
+            return ans
 
-                # print('l',l,'r',r,'left',left,'right',right)
-
-                return min(right, left)
-
-        s = requests.index(start)
-        return dp(s, s, 0)
+        start_idx = requests.index(start)
+        return dp(start_idx, start_idx, 0)

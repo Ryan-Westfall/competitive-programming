@@ -10303,33 +10303,6 @@
   },
   {
     "platform": "leetcode",
-    "id": "lowest-common-ancestor-of-a-binary-tree",
-    "title": "Lowest Common Ancestor of a Binary Tree",
-    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-    "language": "python3",
-    "solvedAt": "2025-02-06T04:33:06.000Z",
-    "_ts": 1738816386,
-    "difficulty": "Medium",
-    "frontendId": "236",
-    "questionId": "236",
-    "dir": "leetcode/236-lowest-common-ancestor-of-a-binary-tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-tree",
-      "binary-lifting",
-      "lowest-common-ancestor"
-    ],
-    "tagNames": [
-      "Tree",
-      "Depth-First Search",
-      "Binary Tree",
-      "Binary Lifting",
-      "Lowest Common Ancestor"
-    ]
-  },
-  {
-    "platform": "leetcode",
     "id": "valid-word-abbreviation",
     "title": "Valid Word Abbreviation",
     "url": "https://leetcode.com/problems/valid-word-abbreviation/",
@@ -10347,6 +10320,33 @@
     "tagNames": [
       "Two Pointers",
       "String"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "lowest-common-ancestor-of-a-binary-tree",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "language": "python3",
+    "solvedAt": "2025-02-03T06:35:31.000Z",
+    "_ts": 1738564531,
+    "difficulty": "Medium",
+    "frontendId": "236",
+    "questionId": "236",
+    "dir": "leetcode/236-lowest-common-ancestor-of-a-binary-tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree",
+      "binary-lifting",
+      "lowest-common-ancestor"
+    ],
+    "tagNames": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
     ]
   },
   {

@@ -13008,29 +13008,6 @@
   },
   {
     "platform": "leetcode",
-    "id": "valid-parentheses",
-    "title": "Valid Parentheses",
-    "url": "https://leetcode.com/problems/valid-parentheses/",
-    "language": "python3",
-    "solvedAt": "2024-11-09T04:59:07.000Z",
-    "_ts": 1731128347,
-    "difficulty": "Easy",
-    "frontendId": "20",
-    "questionId": "20",
-    "dir": "leetcode/20-valid-parentheses",
-    "tags": [
-      "string",
-      "stack",
-      "bracket-sequences"
-    ],
-    "tagNames": [
-      "String",
-      "Stack",
-      "Bracket Sequences"
-    ]
-  },
-  {
-    "platform": "leetcode",
     "id": "clone-graph",
     "title": "Clone Graph",
     "url": "https://leetcode.com/problems/clone-graph/",
@@ -14320,6 +14297,29 @@
       "Hash Table",
       "Linked List",
       "Two Pointers"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "language": "python3",
+    "solvedAt": "2021-07-09T03:51:41.000Z",
+    "_ts": 1625802701,
+    "difficulty": "Easy",
+    "frontendId": "20",
+    "questionId": "20",
+    "dir": "leetcode/20-valid-parentheses",
+    "tags": [
+      "string",
+      "stack",
+      "bracket-sequences"
+    ],
+    "tagNames": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
     ]
   },
   {

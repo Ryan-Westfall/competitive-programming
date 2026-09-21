@@ -6,9 +6,9 @@
 **Tags:** String, Stack, Bracket Sequences
 **Companies:** Google, Meta, Amazon, BlackRock, Microsoft, Bloomberg, Intuit, tcs, IBM, LinkedIn, Walmart Labs, Tripadvisor, Autodesk, Virtu Financial, Oracle, Nvidia, Apple, Epic Systems, Infosys, TikTok, Cognizant, Tesla, ServiceNow, Two Sigma, Qualcomm, Visa, Zoho, Wells Fargo, FreshWorks, Deloitte, Sony, Spotify, Yandex, Adobe, Turing, Roblox, EPAM Systems, opentext, Siemens, GoDaddy, Goldman Sachs, Intel, SAP, JPMorgan Chase, Lucid, Grab, Bank of America, Expedia, PayPal, eBay, Yahoo, Huawei, Booking.com, Cisco, Splunk, ByteDance, Toast, Ozon, AT&T, DE Shaw, HCL, X, Airbnb, Zenefits
 **Language:** Python3
-**Runtime:** 0 ms (100.0%)
-**Memory:** 16.7 MB (100.0%)
-**Submitted:** 2024-11-09
+**Runtime:** 36 ms (3.8%)
+**Memory:** 14.1 MB (100.0%)
+**Submitted:** 2021-07-09
 **Link:** https://leetcode.com/problems/valid-parentheses/
 
 ## Description

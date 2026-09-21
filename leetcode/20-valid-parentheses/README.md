@@ -4,7 +4,7 @@
 **ID:** 20
 **Difficulty:** Easy
 **Tags:** String, Stack, Bracket Sequences
-**Companies:** Google, Amazon, Meta, BlackRock, Bloomberg, Microsoft, Intuit, LinkedIn, IBM, tcs, Walmart Labs, Tripadvisor, Autodesk, Virtu Financial, Oracle, Nvidia, Apple, Epic Systems, TikTok, Infosys, Cognizant, Tesla, ServiceNow, Two Sigma, Qualcomm, Visa, Zoho, Wells Fargo, FreshWorks, Lucid, Deloitte, Sony, Spotify, Yandex, Turing, Adobe, Roblox, EPAM Systems, opentext, Siemens, GoDaddy, Goldman Sachs, Intel, SAP, JPMorgan Chase, Grab, Bank of America, Expedia, PayPal, eBay, Yahoo, Huawei, Booking.com, Cisco, Splunk, ByteDance, Paytm, Toast, Ozon, AT&T, DE Shaw, HCL, X, Airbnb, Zenefits
+**Companies:** Google, Meta, Amazon, BlackRock, Microsoft, Bloomberg, Intuit, tcs, IBM, LinkedIn, Walmart Labs, Tripadvisor, Autodesk, Virtu Financial, Oracle, Nvidia, Apple, Epic Systems, Infosys, TikTok, Cognizant, Tesla, ServiceNow, Two Sigma, Qualcomm, Visa, Zoho, Wells Fargo, FreshWorks, Deloitte, Sony, Spotify, Yandex, Adobe, Turing, Roblox, EPAM Systems, opentext, Siemens, GoDaddy, Goldman Sachs, Intel, SAP, JPMorgan Chase, Lucid, Grab, Bank of America, Expedia, PayPal, eBay, Yahoo, Huawei, Booking.com, Cisco, Splunk, ByteDance, Toast, Ozon, AT&T, DE Shaw, HCL, X, Airbnb, Zenefits
 **Language:** Python3
 **Runtime:** 0 ms (100.0%)
 **Memory:** 16.7 MB (100.0%)

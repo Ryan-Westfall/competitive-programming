@@ -1,27 +1,23 @@
 class TimeMap:
 
     def __init__(self):
-        self.cache = defaultdict(list)
+        self.map = collections.defaultdict(list)
         
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        self.cache[key].append((value, timestamp))
+        self.map[key].append((timestamp, value))
         
 
     def get(self, key: str, timestamp: int) -> str:
-        valuesList = self.cache[key]
-        res = ""
+        if key not in self.map:
+            return ""
 
-        l,r = 0, len(valuesList) - 1
-        while l <= r:
-            m = (l + r) // 2
-            if valuesList[m][1] > timestamp:
-                r = m - 1
-            else:
-                res = valuesList[m][0]
-                l = m + 1
+        orderedList = self.map[key]
+        i = bisect.bisect(orderedList, timestamp, key=lambda x: x[0])
+        if i == 0:
+            return ""
+        return str(orderedList[i-1][1])
         
-        return res
 
 
 # Your TimeMap object will be instantiated and called as such:

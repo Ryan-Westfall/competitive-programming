@@ -18,11 +18,13 @@ class Solution:
             left = dfs(node.left)
             right = dfs(node.right)
 
+
             if left and right:
                 return node
+            else:
+                return left or right
 
-            return left if left else right
 
         return dfs(root)
-
+                
 

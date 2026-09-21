@@ -1,0 +1,24 @@
+{
+  "questionId": "3831",
+  "frontendId": "3524",
+  "title": "Find X Value of Array I",
+  "titleSlug": "find-x-value-of-array-i",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "math",
+    "dynamic-programming"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1878,
+  "runtimePercentile": 6.5783000000000325,
+  "memory": 526204000,
+  "memoryPercentile": 5.263000000000004,
+  "timestamp": 1789951936
+}

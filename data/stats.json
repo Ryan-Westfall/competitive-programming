@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-20T22:55:59.135Z",
+  "updatedAt": "2026-09-21T00:12:32.375Z",
   "leetcode": {
-    "uniqueSolved": 618,
-    "totalSubmissions": 618
+    "uniqueSolved": 619,
+    "totalSubmissions": 619
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 618,
-    "submissions": 618
+    "uniqueSolved": 619,
+    "submissions": 619
   },
   "tags": [
     {
       "tag": "array",
-      "count": 323
+      "count": 324
     },
     {
       "tag": "string",
@@ -47,7 +47,7 @@
     },
     {
       "tag": "binary-search",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "tree",
@@ -97,6 +97,6 @@
   "difficulties": {
     "Easy": 174,
     "Medium": 348,
-    "Hard": 96
+    "Hard": 97
   }
 }

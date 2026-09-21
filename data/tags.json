@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-20T22:55:59.131Z",
-  "totalUniqueProblems": 618,
-  "leetcodeCount": 618,
+  "updatedAt": "2026-09-21T00:12:32.369Z",
+  "totalUniqueProblems": 619,
+  "leetcodeCount": 619,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 174,
     "Medium": 348,
-    "Hard": 96
+    "Hard": 97
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 323
+      "count": 324
     },
     {
       "tag": "string",
@@ -43,7 +43,7 @@
     },
     {
       "tag": "binary-search",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "tree",
@@ -126,15 +126,15 @@
       "count": 15
     },
     {
+      "tag": "enumeration",
+      "count": 15
+    },
+    {
       "tag": "number-theory",
       "count": 15
     },
     {
       "tag": "counting",
-      "count": 14
-    },
-    {
-      "tag": "enumeration",
       "count": 14
     },
     {
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 323
+      "count": 324
     },
     {
       "tag": "string",
@@ -545,7 +545,7 @@
     },
     {
       "tag": "binary-search",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "two-pointers",
@@ -624,16 +624,16 @@
       "count": 16
     },
     {
+      "tag": "enumeration",
+      "count": 15
+    },
+    {
       "tag": "monotonic-stack",
       "count": 15
     },
     {
       "tag": "number-theory",
       "count": 15
-    },
-    {
-      "tag": "enumeration",
-      "count": 14
     },
     {
       "tag": "counting",

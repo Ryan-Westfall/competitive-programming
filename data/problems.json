@@ -1,6 +1,28 @@
 [
   {
     "platform": "leetcode",
+    "id": "find-x-value-of-array-i",
+    "title": "Find X Value of Array I",
+    "url": "https://leetcode.com/problems/find-x-value-of-array-i/",
+    "language": "python3",
+    "solvedAt": "2026-09-21T00:52:16.000Z",
+    "difficulty": "Medium",
+    "frontendId": "3524",
+    "questionId": "3831",
+    "dir": "leetcode/3831-find-x-value-of-array-i",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming"
+    ],
+    "tagNames": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "smallest-substring-with-identical-characters-i",
     "title": "Smallest Substring With Identical Characters I",
     "url": "https://leetcode.com/problems/smallest-substring-with-identical-characters-i/",

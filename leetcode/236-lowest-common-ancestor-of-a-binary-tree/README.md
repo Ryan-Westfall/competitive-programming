@@ -4,11 +4,11 @@
 **ID:** 236
 **Difficulty:** Medium
 **Tags:** Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
-**Companies:** Amazon, Meta, Google, Bloomberg, BlackRock, LinkedIn, Microsoft, Atlassian, Apple, Oracle, Cisco, SAP, TikTok, Yandex, Adobe, Intuit, Wix
+**Companies:** Amazon, Meta, BlackRock, Bloomberg, Google, LinkedIn, Microsoft, Atlassian, Oracle, TikTok, SAP, Apple, Adobe, Yandex, Intuit, Cisco, Wix
 **Language:** Python3
-**Runtime:** 59 ms (100.0%)
-**Memory:** 21.9 MB (100.0%)
-**Submitted:** 2025-02-06
+**Runtime:** 52 ms (100.0%)
+**Memory:** 22.2 MB (100.0%)
+**Submitted:** 2025-02-03
 **Link:** https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 ## Description

@@ -4,11 +4,11 @@
 **ID:** 981
 **Difficulty:** Medium
 **Tags:** Hash Table, String, Binary Search, Design
-**Companies:** Amazon, Lyft, Apple, Google, Netflix, Axon, Uber, Citadel, Compass, Bloomberg, Databricks, Microsoft, Verkada, Oracle, Anduril, Meta, Gusto, Coinbase, MongoDB, Confluent, eBay, Instacart, Snowflake, TikTok, OpenAI, Flexport
+**Companies:** Amazon, Lyft, Apple, Citadel, Google, Uber, Netflix, Axon, Bloomberg, Compass, Databricks, Microsoft, Oracle, Verkada, Anduril, Meta, Gusto, OpenAI, Coinbase, MongoDB, Confluent, eBay, Snowflake, Instacart, TikTok, Flexport
 **Language:** Python3
-**Runtime:** 134 ms (49.4%)
-**Memory:** 73.5 MB (5.8%)
-**Submitted:** 2024-11-17
+**Runtime:** 80 ms (87.4%)
+**Memory:** 69.1 MB (53.4%)
+**Submitted:** 2026-09-21
 **Link:** https://leetcode.com/problems/time-based-key-value-store/
 
 ## Description

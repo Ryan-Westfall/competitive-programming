@@ -1,0 +1,26 @@
+{
+  "questionId": "931",
+  "frontendId": "895",
+  "title": "Maximum Frequency Stack",
+  "titleSlug": "maximum-frequency-stack",
+  "difficulty": "Hard",
+  "tags": [
+    "hash-table",
+    "stack",
+    "design",
+    "ordered-set"
+  ],
+  "tagNames": [
+    "Hash Table",
+    "Stack",
+    "Design",
+    "Ordered Set"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 81,
+  "runtimePercentile": 51.16409999999995,
+  "memory": 27916000,
+  "memoryPercentile": 39.2529,
+  "timestamp": 1789961460
+}

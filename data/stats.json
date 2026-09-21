@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-21T03:11:27.124Z",
+  "updatedAt": "2026-09-21T03:31:15.848Z",
   "leetcode": {
-    "uniqueSolved": 620,
-    "totalSubmissions": 620
+    "uniqueSolved": 621,
+    "totalSubmissions": 621
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 620,
-    "submissions": 620
+    "uniqueSolved": 621,
+    "submissions": 621
   },
   "tags": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 112
+      "count": 113
     },
     {
       "tag": "math",
@@ -78,16 +78,16 @@
       "count": 43
     },
     {
+      "tag": "stack",
+      "count": 41
+    },
+    {
       "tag": "heap-priority-queue",
       "count": 40
     },
     {
-      "tag": "stack",
-      "count": 40
-    },
-    {
       "tag": "design",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "backtracking",
@@ -97,6 +97,6 @@
   "difficulties": {
     "Easy": 174,
     "Medium": 349,
-    "Hard": 97
+    "Hard": 98
   }
 }

@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "maximum-frequency-stack",
+    "title": "Maximum Frequency Stack",
+    "url": "https://leetcode.com/problems/maximum-frequency-stack/",
+    "language": "python3",
+    "solvedAt": "2026-09-21T03:31:00.000Z",
+    "_ts": 1789961460,
+    "difficulty": "Hard",
+    "frontendId": "895",
+    "questionId": "931",
+    "dir": "leetcode/931-maximum-frequency-stack",
+    "tags": [
+      "hash-table",
+      "stack",
+      "design",
+      "ordered-set"
+    ],
+    "tagNames": [
+      "Hash Table",
+      "Stack",
+      "Design",
+      "Ordered Set"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "time-based-key-value-store",
     "title": "Time Based Key-Value Store",
     "url": "https://leetcode.com/problems/time-based-key-value-store/",

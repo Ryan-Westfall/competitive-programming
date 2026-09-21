@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-21T03:11:27.118Z",
-  "totalUniqueProblems": 620,
-  "leetcodeCount": 620,
+  "updatedAt": "2026-09-21T03:31:15.841Z",
+  "totalUniqueProblems": 621,
+  "leetcodeCount": 621,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 174,
     "Medium": 349,
-    "Hard": 97
+    "Hard": 98
   },
   "allTags": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 112
+      "count": 113
     },
     {
       "tag": "math",
@@ -74,16 +74,16 @@
       "count": 43
     },
     {
+      "tag": "stack",
+      "count": 41
+    },
+    {
       "tag": "heap-priority-queue",
       "count": 40
     },
     {
-      "tag": "stack",
-      "count": 40
-    },
-    {
       "tag": "design",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "backtracking",
@@ -174,11 +174,11 @@
       "count": 9
     },
     {
-      "tag": "directed-acyclic-graph",
-      "count": 8
+      "tag": "ordered-set",
+      "count": 9
     },
     {
-      "tag": "ordered-set",
+      "tag": "directed-acyclic-graph",
       "count": 8
     },
     {
@@ -521,7 +521,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 112
+      "count": 113
     },
     {
       "tag": "math",
@@ -577,7 +577,7 @@
     },
     {
       "tag": "stack",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "heap-priority-queue",
@@ -585,7 +585,7 @@
     },
     {
       "tag": "design",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "backtracking",
@@ -664,6 +664,10 @@
       "count": 10
     },
     {
+      "tag": "ordered-set",
+      "count": 9
+    },
+    {
       "tag": "topological-sort",
       "count": 9
     },
@@ -681,10 +685,6 @@
     },
     {
       "tag": "binary-indexed-tree",
-      "count": 8
-    },
-    {
-      "tag": "ordered-set",
       "count": 8
     },
     {

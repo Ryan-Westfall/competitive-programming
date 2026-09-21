@@ -1,0 +1,24 @@
+{
+  "questionId": "3690",
+  "frontendId": "3398",
+  "title": "Smallest Substring With Identical Characters I",
+  "titleSlug": "smallest-substring-with-identical-characters-i",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "binary-search",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Array",
+    "Binary Search",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 11,
+  "runtimePercentile": 41.46360000000001,
+  "memory": 19400000,
+  "memoryPercentile": 46.34150000000001,
+  "timestamp": 1789949534
+}

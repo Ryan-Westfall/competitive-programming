@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "time-based-key-value-store",
+    "title": "Time Based Key-Value Store",
+    "url": "https://leetcode.com/problems/time-based-key-value-store/",
+    "language": "python3",
+    "solvedAt": "2026-09-21T03:11:11.000Z",
+    "_ts": 1789960271,
+    "difficulty": "Medium",
+    "frontendId": "981",
+    "questionId": "1023",
+    "dir": "leetcode/1023-time-based-key-value-store",
+    "tags": [
+      "hash-table",
+      "string",
+      "binary-search",
+      "design"
+    ],
+    "tagNames": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "find-x-value-of-array-i",
     "title": "Find X Value of Array I",
     "url": "https://leetcode.com/problems/find-x-value-of-array-i/",
@@ -12603,31 +12628,6 @@
       "Array",
       "Binary Search",
       "Divide and Conquer"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "time-based-key-value-store",
-    "title": "Time Based Key-Value Store",
-    "url": "https://leetcode.com/problems/time-based-key-value-store/",
-    "language": "python3",
-    "solvedAt": "2024-11-17T07:18:08.000Z",
-    "_ts": 1731827888,
-    "difficulty": "Medium",
-    "frontendId": "981",
-    "questionId": "1023",
-    "dir": "leetcode/1023-time-based-key-value-store",
-    "tags": [
-      "hash-table",
-      "string",
-      "binary-search",
-      "design"
-    ],
-    "tagNames": [
-      "Hash Table",
-      "String",
-      "Binary Search",
-      "Design"
     ]
   },
   {

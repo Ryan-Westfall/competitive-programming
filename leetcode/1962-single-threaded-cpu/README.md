@@ -6,8 +6,8 @@
 **Tags:** Array, Sorting, Heap (Priority Queue)
 **Companies:** Amazon, Google, TikTok, DoorDash, Microsoft, Meta, IBM, Goldman Sachs
 **Language:** Python3
-**Runtime:** 700 ms (18.7%)
-**Memory:** 60.2 MB (86.8%)
+**Runtime:** 735 ms (15.8%)
+**Memory:** 59.2 MB (96.1%)
 **Submitted:** 2026-09-22
 **Link:** https://leetcode.com/problems/single-threaded-cpu/
 

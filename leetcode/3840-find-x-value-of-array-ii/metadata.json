@@ -1,0 +1,24 @@
+{
+  "questionId": "3840",
+  "frontendId": "3525",
+  "title": "Find X Value of Array II",
+  "titleSlug": "find-x-value-of-array-ii",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "math",
+    "segment-tree"
+  ],
+  "tagNames": [
+    "Array",
+    "Math",
+    "Segment Tree"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 5128,
+  "runtimePercentile": 37.254399999999904,
+  "memory": 114388000,
+  "memoryPercentile": 13.72479999999997,
+  "timestamp": 1790039093
+}

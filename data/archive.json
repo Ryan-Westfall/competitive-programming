@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "shortest-way-to-form-string",
+    "title": "Shortest Way to Form String",
+    "url": "https://leetcode.com/problems/shortest-way-to-form-string/",
+    "language": "python3",
+    "solvedAt": "2026-09-22T18:02:32.000Z",
+    "_ts": 1790100152,
+    "difficulty": "Medium",
+    "frontendId": "1055",
+    "questionId": "1051",
+    "dir": "leetcode/1051-shortest-way-to-form-string",
+    "tags": [
+      "two-pointers",
+      "string",
+      "binary-search",
+      "greedy"
+    ],
+    "tagNames": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Greedy"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "find-x-value-of-array-ii",
     "title": "Find X Value of Array II",
     "url": "https://leetcode.com/problems/find-x-value-of-array-ii/",
@@ -1538,31 +1563,6 @@
     "tagNames": [
       "Array",
       "Prefix Sum"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "shortest-way-to-form-string",
-    "title": "Shortest Way to Form String",
-    "url": "https://leetcode.com/problems/shortest-way-to-form-string/",
-    "language": "python3",
-    "solvedAt": "2026-09-04T00:12:07.000Z",
-    "_ts": 1788480727,
-    "difficulty": "Medium",
-    "frontendId": "1055",
-    "questionId": "1051",
-    "dir": "leetcode/1051-shortest-way-to-form-string",
-    "tags": [
-      "two-pointers",
-      "string",
-      "binary-search",
-      "greedy"
-    ],
-    "tagNames": [
-      "Two Pointers",
-      "String",
-      "Binary Search",
-      "Greedy"
     ]
   },
   {

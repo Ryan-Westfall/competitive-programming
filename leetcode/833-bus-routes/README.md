@@ -4,11 +4,11 @@
 **ID:** 815
 **Difficulty:** Hard
 **Tags:** Array, Hash Table, Breadth-First Search
-**Companies:** Uber, Pinterest, Google, Amazon, Snap, Bloomberg, Microsoft, PhonePe, TikTok, BitGo, Meta
+**Companies:** Pinterest, Uber, Google, Amazon, Snap, Bloomberg, Microsoft, PhonePe, TikTok, BitGo, Meta
 **Language:** Python3
-**Runtime:** 781 ms (29.9%)
-**Memory:** 42 MB (76.7%)
-**Submitted:** 2026-07-15
+**Runtime:** 776 ms (31.9%)
+**Memory:** 41.8 MB (85.7%)
+**Submitted:** 2026-09-22
 **Link:** https://leetcode.com/problems/bus-routes/
 
 ## Description

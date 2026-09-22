@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "find-x-value-of-array-ii",
+    "title": "Find X Value of Array II",
+    "url": "https://leetcode.com/problems/find-x-value-of-array-ii/",
+    "language": "python3",
+    "solvedAt": "2026-09-22T01:04:53.000Z",
+    "_ts": 1790039093,
+    "difficulty": "Hard",
+    "frontendId": "3525",
+    "questionId": "3840",
+    "dir": "leetcode/3840-find-x-value-of-array-ii",
+    "tags": [
+      "array",
+      "math",
+      "segment-tree"
+    ],
+    "tagNames": [
+      "Array",
+      "Math",
+      "Segment Tree"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "maximum-frequency-stack",
     "title": "Maximum Frequency Stack",
     "url": "https://leetcode.com/problems/maximum-frequency-stack/",

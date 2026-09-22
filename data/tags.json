@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-21T17:49:14.526Z",
-  "totalUniqueProblems": 621,
-  "leetcodeCount": 621,
+  "updatedAt": "2026-09-22T01:05:18.417Z",
+  "totalUniqueProblems": 622,
+  "leetcodeCount": 622,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 174,
     "Medium": 349,
-    "Hard": 98
+    "Hard": 99
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 325
+      "count": 326
     },
     {
       "tag": "string",
@@ -23,7 +23,7 @@
     },
     {
       "tag": "math",
-      "count": 106
+      "count": 107
     },
     {
       "tag": "dynamic-programming",
@@ -134,11 +134,11 @@
       "count": 15
     },
     {
-      "tag": "counting",
-      "count": 14
+      "tag": "segment-tree",
+      "count": 15
     },
     {
-      "tag": "segment-tree",
+      "tag": "counting",
       "count": 14
     },
     {
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 325
+      "count": 326
     },
     {
       "tag": "string",
@@ -525,7 +525,7 @@
     },
     {
       "tag": "math",
-      "count": 106
+      "count": 107
     },
     {
       "tag": "dynamic-programming",
@@ -624,6 +624,10 @@
       "count": 16
     },
     {
+      "tag": "segment-tree",
+      "count": 15
+    },
+    {
       "tag": "enumeration",
       "count": 15
     },
@@ -637,10 +641,6 @@
     },
     {
       "tag": "counting",
-      "count": 14
-    },
-    {
-      "tag": "segment-tree",
       "count": 14
     },
     {

@@ -1,0 +1,24 @@
+{
+  "questionId": "1962",
+  "frontendId": "1834",
+  "title": "Single-Threaded CPU",
+  "titleSlug": "single-threaded-cpu",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "sorting",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 700,
+  "runtimePercentile": 18.66609999999993,
+  "memory": 60208000,
+  "memoryPercentile": 86.79669999999994,
+  "timestamp": 1790112686
+}

@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-22T19:41:21.436Z",
+  "updatedAt": "2026-09-22T20:41:15.895Z",
   "leetcode": {
-    "uniqueSolved": 622,
-    "totalSubmissions": 622
+    "uniqueSolved": 623,
+    "totalSubmissions": 623
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 622,
-    "submissions": 622
+    "uniqueSolved": 623,
+    "submissions": 623
   },
   "tags": [
     {
       "tag": "array",
-      "count": 326
+      "count": 327
     },
     {
       "tag": "string",
@@ -78,12 +78,12 @@
       "count": 43
     },
     {
-      "tag": "stack",
+      "tag": "heap-priority-queue",
       "count": 41
     },
     {
-      "tag": "heap-priority-queue",
-      "count": 40
+      "tag": "stack",
+      "count": 41
     },
     {
       "tag": "design",
@@ -96,7 +96,7 @@
   ],
   "difficulties": {
     "Easy": 174,
-    "Medium": 349,
+    "Medium": 350,
     "Hard": 99
   }
 }

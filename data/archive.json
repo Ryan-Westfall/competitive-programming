@@ -1,6 +1,27 @@
 [
   {
     "platform": "leetcode",
+    "id": "process-tasks-using-servers",
+    "title": "Process Tasks Using Servers",
+    "url": "https://leetcode.com/problems/process-tasks-using-servers/",
+    "language": "python3",
+    "solvedAt": "2026-09-22T20:40:57.000Z",
+    "_ts": 1790109657,
+    "difficulty": "Medium",
+    "frontendId": "1882",
+    "questionId": "2012",
+    "dir": "leetcode/2012-process-tasks-using-servers",
+    "tags": [
+      "array",
+      "heap-priority-queue"
+    ],
+    "tagNames": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "bus-routes",
     "title": "Bus Routes",
     "url": "https://leetcode.com/problems/bus-routes/",

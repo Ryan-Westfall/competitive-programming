@@ -1,31 +1,35 @@
 class Solution:
-    def numBusesToDestination(self, routes: List[List[int]], source: int, target: int) -> int:
-        adjList = defaultdict(list)
+    def numBusesToDestination(
+        self, routes: list[list[int]], source: int, target: int
+    ) -> int:
+        if source == target:
+            return 0
+
+        stopToRoutes = defaultdict(list)
 
         for i, route in enumerate(routes):
             for stop in route:
-                adjList[stop].append(i)
+                stopToRoutes[stop].append(i)
 
-        queue = deque([source])
-        steps = 0
+        # print(stopToRoutes)
+
+        queue = deque(stopToRoutes[source])
+        visited = set(queue)
+        buses = 1
 
         while queue:
             for _ in range(len(queue)):
-                stop = queue.popleft()
+                route = queue.popleft()
 
-                if stop == target:
-                    return steps
+                if target in routes[route]:
+                    return buses
 
-                for routeIndex in adjList[stop]:
-                    route = routes[routeIndex]
+                for stop in routes[route]:
+                    for nei in stopToRoutes[stop]:
+                        if nei not in visited:
+                            visited.add(nei)
+                            queue.append(nei)
 
-                    if route:
-                        for nei in route:
-                            if nei != stop:
-                                queue.append(nei)
-
-                        route.clear()
-
-            steps += 1
+            buses += 1
 
         return -1

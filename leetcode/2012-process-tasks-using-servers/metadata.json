@@ -1,0 +1,22 @@
+{
+  "questionId": "2012",
+  "frontendId": "1882",
+  "title": "Process Tasks Using Servers",
+  "titleSlug": "process-tasks-using-servers",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 635,
+  "runtimePercentile": 29.79540000000018,
+  "memory": 62412000,
+  "memoryPercentile": 93.06100000000005,
+  "timestamp": 1790109657
+}

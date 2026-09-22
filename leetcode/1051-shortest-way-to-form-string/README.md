@@ -4,11 +4,11 @@
 **ID:** 1055
 **Difficulty:** Medium
 **Tags:** Two Pointers, String, Binary Search, Greedy
-**Companies:** Pinterest, Meta, Google
+**Companies:** Pinterest, Google
 **Language:** Python3
-**Runtime:** 11 ms (38.9%)
-**Memory:** 19.3 MB (76.3%)
-**Submitted:** 2026-09-04
+**Runtime:** 5 ms (71.1%)
+**Memory:** 19.4 MB (45.6%)
+**Submitted:** 2026-09-22
 **Link:** https://leetcode.com/problems/shortest-way-to-form-string/
 
 ## Description

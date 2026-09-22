@@ -1,18 +1,21 @@
 class Solution:
     def shortestWay(self, source: str, target: str) -> int:
-        
-        curTarget = 0
-        total = 0
-        while curTarget != len(target):
-            prev = curTarget
-
-            for i in range(len(source)):
-                if curTarget < len(target) and target[curTarget] == source[i]:
-                    curTarget += 1
-
-            if prev == curTarget:
+        targetI = 0
+        prevI = -1
+        ans = 0
+        while targetI < len(target):
+            if targetI == prevI:
                 return -1
-                
-            total += 1
+
+            prevI = targetI
+
+            for c in source:
+                if targetI < len(target) and target[targetI] == c:
+                    targetI += 1
+
+            ans += 1
+
+        return ans
+
+
         
-        return total

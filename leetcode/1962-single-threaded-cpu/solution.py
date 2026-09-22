@@ -1,23 +1,22 @@
 class Solution:
     def getOrder(self, tasks: list[list[int]]) -> list[int]:
-        notEnque = [(enqueTime, processingTime, i) for i, (enqueTime, processingTime) in enumerate(tasks)]
+        notEnque = [(enqueueTime, processingTime, i) for i, (enqueueTime, processingTime) in enumerate(tasks)]
         heapq.heapify(notEnque)
-        free = []
 
+        free = []
         ans = []
         curTime = 0
-        while free or notEnque:
+
+        while notEnque or free:
             while notEnque and curTime >= notEnque[0][0]:
-                enqueTime, processingTime, i = heapq.heappop(notEnque)
+                enqueueTime, processingTime, i = heapq.heappop(notEnque)
                 heapq.heappush(free, (processingTime, i))
 
             if free:
-                processTime, i = heapq.heappop(free)
-                curTime += processTime
+                processingTime, i = heapq.heappop(free)
+                curTime += processingTime
                 ans.append(i)
-            
-            # Speedup
-            if notEnque and not free:
-                curTime = max(notEnque[0][0], curTime)
+            else:
+                curTime = notEnque[0][0]
 
         return ans

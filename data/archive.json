@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "single-threaded-cpu",
+    "title": "Single-Threaded CPU",
+    "url": "https://leetcode.com/problems/single-threaded-cpu/",
+    "language": "python3",
+    "solvedAt": "2026-09-22T21:33:58.000Z",
+    "_ts": 1790112838,
+    "difficulty": "Medium",
+    "frontendId": "1834",
+    "questionId": "1962",
+    "dir": "leetcode/1962-single-threaded-cpu",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "tagNames": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "process-tasks-using-servers",
     "title": "Process Tasks Using Servers",
     "url": "https://leetcode.com/problems/process-tasks-using-servers/",

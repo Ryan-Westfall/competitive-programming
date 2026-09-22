@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "bus-routes",
+    "title": "Bus Routes",
+    "url": "https://leetcode.com/problems/bus-routes/",
+    "language": "python3",
+    "solvedAt": "2026-09-22T19:41:01.000Z",
+    "_ts": 1790106061,
+    "difficulty": "Hard",
+    "frontendId": "815",
+    "questionId": "833",
+    "dir": "leetcode/833-bus-routes",
+    "tags": [
+      "array",
+      "hash-table",
+      "breadth-first-search"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "shortest-way-to-form-string",
     "title": "Shortest Way to Form String",
     "url": "https://leetcode.com/problems/shortest-way-to-form-string/",
@@ -7407,29 +7430,6 @@
       "Heap (Priority Queue)",
       "Shortest Path",
       "Dijkstra's Algorithm"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "bus-routes",
-    "title": "Bus Routes",
-    "url": "https://leetcode.com/problems/bus-routes/",
-    "language": "python3",
-    "solvedAt": "2026-07-15T23:31:41.000Z",
-    "_ts": 1784158301,
-    "difficulty": "Hard",
-    "frontendId": "815",
-    "questionId": "833",
-    "dir": "leetcode/833-bus-routes",
-    "tags": [
-      "array",
-      "hash-table",
-      "breadth-first-search"
-    ],
-    "tagNames": [
-      "Array",
-      "Hash Table",
-      "Breadth-First Search"
     ]
   },
   {

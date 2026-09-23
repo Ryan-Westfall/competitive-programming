@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "expression-add-operators",
+    "title": "Expression Add Operators",
+    "url": "https://leetcode.com/problems/expression-add-operators/",
+    "language": "python3",
+    "solvedAt": "2026-09-23T00:10:35.000Z",
+    "_ts": 1790122235,
+    "difficulty": "Hard",
+    "frontendId": "282",
+    "questionId": "282",
+    "dir": "leetcode/282-expression-add-operators",
+    "tags": [
+      "math",
+      "string",
+      "backtracking"
+    ],
+    "tagNames": [
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "single-threaded-cpu",
     "title": "Single-Threaded CPU",
     "url": "https://leetcode.com/problems/single-threaded-cpu/",
@@ -9945,29 +9968,6 @@
       "Binary Search Tree",
       "Binary Tree",
       "Doubly-Linked List"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "expression-add-operators",
-    "title": "Expression Add Operators",
-    "url": "https://leetcode.com/problems/expression-add-operators/",
-    "language": "python3",
-    "solvedAt": "2025-02-17T03:41:56.000Z",
-    "_ts": 1739763716,
-    "difficulty": "Hard",
-    "frontendId": "282",
-    "questionId": "282",
-    "dir": "leetcode/282-expression-add-operators",
-    "tags": [
-      "math",
-      "string",
-      "backtracking"
-    ],
-    "tagNames": [
-      "Math",
-      "String",
-      "Backtracking"
     ]
   },
   {

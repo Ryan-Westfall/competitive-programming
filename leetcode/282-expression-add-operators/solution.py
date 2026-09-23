@@ -1,31 +1,47 @@
 class Solution:
-    def addOperators(self, num: str, target: int) -> List[str]:
-        result = []
+    def addOperators(self, num: str, target: int) -> list[str]:
+        ans = []
+        n = len(num)
 
-        def dfs(index, curArr, curSum, prev):
-            if index == len(num):
-                if curSum == target:
-                    result.append("".join(curArr))
+        def dfs(i, value, prev, expr):
+            if i == len(num):
+                if value == target:
+                    ans.append(expr)
                 return
-            else:
-                for i in range(index, len(num)):
-                    curStr = num[index: i + 1]
-                    curNum = int(curStr)
 
-                    if not curArr:
-                        dfs(i + 1, [curStr], curNum, curNum)
-                    else:
-                        dfs(i + 1, curArr + ['+'] + [curStr], curSum + curNum, curNum)
-                        dfs(i + 1, curArr + ['-'] + [curStr], curSum - curNum, -curNum)
-                        dfs(i + 1, curArr + ['*'] + [curStr], (curSum - prev) + (curNum * prev), curNum * prev)
+            for j in range(i, n):
+                if j > i and num[i] == '0':
+                    break
 
+                cur = int(num[i:j + 1])
 
-                    if num[index] == '0':
-                        break
+                if i == 0:
+                    # First number: no operator
+                    dfs(j + 1, cur, cur, str(cur))
+                else:
+                    # +
+                    dfs(
+                        j + 1,
+                        value + cur,
+                        cur,
+                        expr + '+' + str(cur)
+                    )
 
+                    # -
+                    dfs(
+                        j + 1,
+                        value - cur,
+                        -cur,
+                        expr + '-' + str(cur)
+                    )
 
-        dfs(0, [], 0, 0)
-        return result
+                    # *
+                    dfs(
+                        j + 1,
+                        value - prev + prev * cur,
+                        prev * cur,
+                        expr + '*' + str(cur)
+                    )
 
-        # Time Complexity: O(4^n) * n
-        # Space Complexity: O(n)
+        dfs(0, 0, 0, "")
+        return ans

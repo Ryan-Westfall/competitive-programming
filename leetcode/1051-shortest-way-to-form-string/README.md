@@ -6,9 +6,9 @@
 **Tags:** Two Pointers, String, Binary Search, Greedy
 **Companies:** Pinterest, Google
 **Language:** Python3
-**Runtime:** 71 ms (5.1%)
-**Memory:** 33 MB (5.5%)
-**Submitted:** 2026-09-22
+**Runtime:** 7 ms (66.6%)
+**Memory:** 19.2 MB (94.3%)
+**Submitted:** 2026-09-23
 **Link:** https://leetcode.com/problems/shortest-way-to-form-string/
 
 ## Description

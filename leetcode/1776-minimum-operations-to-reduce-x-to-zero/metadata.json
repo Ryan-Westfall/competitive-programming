@@ -1,0 +1,28 @@
+{
+  "questionId": "1776",
+  "frontendId": "1658",
+  "title": "Minimum Operations to Reduce X to Zero",
+  "titleSlug": "minimum-operations-to-reduce-x-to-zero",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "binary-search",
+    "sliding-window",
+    "prefix-sum"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 136,
+  "runtimePercentile": 18.145000000000017,
+  "memory": 30972000,
+  "memoryPercentile": 62.3271,
+  "timestamp": 1790124313
+}

@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-23T00:10:52.599Z",
-  "totalUniqueProblems": 624,
-  "leetcodeCount": 624,
+  "updatedAt": "2026-09-23T00:45:28.971Z",
+  "totalUniqueProblems": 625,
+  "leetcodeCount": 625,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 174,
-    "Medium": 351,
+    "Medium": 352,
     "Hard": 99
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 328
+      "count": 329
     },
     {
       "tag": "string",
@@ -19,7 +19,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 113
+      "count": 114
     },
     {
       "tag": "math",
@@ -43,7 +43,7 @@
     },
     {
       "tag": "binary-search",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "tree",
@@ -95,7 +95,7 @@
     },
     {
       "tag": "prefix-sum",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "union-find",
@@ -111,7 +111,7 @@
     },
     {
       "tag": "sliding-window",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "recursion",
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 328
+      "count": 329
     },
     {
       "tag": "string",
@@ -521,7 +521,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 113
+      "count": 114
     },
     {
       "tag": "math",
@@ -545,7 +545,7 @@
     },
     {
       "tag": "binary-search",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "two-pointers",
@@ -597,7 +597,7 @@
     },
     {
       "tag": "prefix-sum",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "union-find",
@@ -608,12 +608,12 @@
       "count": 24
     },
     {
-      "tag": "divide-and-conquer",
+      "tag": "sliding-window",
       "count": 23
     },
     {
-      "tag": "sliding-window",
-      "count": 22
+      "tag": "divide-and-conquer",
+      "count": 23
     },
     {
       "tag": "recursion",

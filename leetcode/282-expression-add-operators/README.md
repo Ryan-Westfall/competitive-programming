@@ -6,9 +6,9 @@
 **Tags:** Math, String, Backtracking
 **Companies:** Pinterest, Meta, Google, LinkedIn, Amazon
 **Language:** Python3
-**Runtime:** 537 ms (10.2%)
-**Memory:** 18.3 MB (100.0%)
-**Submitted:** 2025-02-17
+**Runtime:** 467 ms (28.1%)
+**Memory:** 19.6 MB (62.0%)
+**Submitted:** 2026-09-23
 **Link:** https://leetcode.com/problems/expression-add-operators/
 
 ## Description

@@ -6,7 +6,7 @@
 **Tags:** Array, Hash Table, Binary Search, Sliding Window, Prefix Sum
 **Companies:** Amazon, Google, Morgan Stanley
 **Language:** Python3
-**Runtime:** 136 ms (18.1%)
+**Runtime:** 74 ms (72.3%)
 **Memory:** 31 MB (62.3%)
 **Submitted:** 2026-09-23
 **Link:** https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/

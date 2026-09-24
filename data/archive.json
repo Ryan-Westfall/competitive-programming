@@ -1,6 +1,27 @@
 [
   {
     "platform": "leetcode",
+    "id": "smallest-index-with-digit-sum-equal-to-index",
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+    "language": "python3",
+    "solvedAt": "2026-09-24T01:37:47.000Z",
+    "_ts": 1790213867,
+    "difficulty": "Easy",
+    "frontendId": "3550",
+    "questionId": "3869",
+    "dir": "leetcode/3869-smallest-index-with-digit-sum-equal-to-index",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "tagNames": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "shortest-way-to-form-string",
     "title": "Shortest Way to Form String",
     "url": "https://leetcode.com/problems/shortest-way-to-form-string/",

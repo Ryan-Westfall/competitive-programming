@@ -1,0 +1,22 @@
+{
+  "questionId": "3869",
+  "frontendId": "3550",
+  "title": "Smallest Index With Digit Sum Equal to Index",
+  "titleSlug": "smallest-index-with-digit-sum-equal-to-index",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19316000,
+  "memoryPercentile": 29.4628,
+  "timestamp": 1790213867
+}

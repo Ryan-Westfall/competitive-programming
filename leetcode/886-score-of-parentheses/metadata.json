@@ -1,0 +1,24 @@
+{
+  "questionId": "886",
+  "frontendId": "856",
+  "title": "Score of Parentheses",
+  "titleSlug": "score-of-parentheses",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "stack",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19072000,
+  "memoryPercentile": 97.89469999999999,
+  "timestamp": 1791244509
+}

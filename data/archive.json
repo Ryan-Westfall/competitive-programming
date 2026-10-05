@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "score-of-parentheses",
+    "title": "Score of Parentheses",
+    "url": "https://leetcode.com/problems/score-of-parentheses/",
+    "language": "python3",
+    "solvedAt": "2026-10-05T23:55:09.000Z",
+    "_ts": 1791244509,
+    "difficulty": "Medium",
+    "frontendId": "856",
+    "questionId": "886",
+    "dir": "leetcode/886-score-of-parentheses",
+    "tags": [
+      "string",
+      "stack",
+      "bracket-sequences"
+    ],
+    "tagNames": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "smallest-index-with-digit-sum-equal-to-index",
     "title": "Smallest Index With Digit Sum Equal to Index",
     "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",

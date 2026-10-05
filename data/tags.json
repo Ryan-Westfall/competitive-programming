@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T01:38:02.629Z",
-  "totalUniqueProblems": 626,
-  "leetcodeCount": 626,
+  "updatedAt": "2026-10-05T23:55:30.676Z",
+  "totalUniqueProblems": 627,
+  "leetcodeCount": 627,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 175,
-    "Medium": 352,
+    "Medium": 353,
     "Hard": 99
   },
   "allTags": [
@@ -15,7 +15,7 @@
     },
     {
       "tag": "string",
-      "count": 127
+      "count": 128
     },
     {
       "tag": "hash-table",
@@ -79,7 +79,7 @@
     },
     {
       "tag": "stack",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "design",
@@ -242,6 +242,10 @@
       "count": 5
     },
     {
+      "tag": "bracket-sequences",
+      "count": 5
+    },
+    {
       "tag": "0-1-knapsack",
       "count": 4
     },
@@ -267,10 +271,6 @@
     },
     {
       "tag": "bitmask",
-      "count": 4
-    },
-    {
-      "tag": "bracket-sequences",
       "count": 4
     },
     {
@@ -517,7 +517,7 @@
     },
     {
       "tag": "string",
-      "count": 127
+      "count": 128
     },
     {
       "tag": "hash-table",
@@ -576,12 +576,12 @@
       "count": 43
     },
     {
-      "tag": "heap-priority-queue",
+      "tag": "stack",
       "count": 42
     },
     {
-      "tag": "stack",
-      "count": 41
+      "tag": "heap-priority-queue",
+      "count": 42
     },
     {
       "tag": "design",
@@ -720,6 +720,10 @@
       "count": 6
     },
     {
+      "tag": "bracket-sequences",
+      "count": 5
+    },
+    {
       "tag": "geometry",
       "count": 5
     },
@@ -761,10 +765,6 @@
     },
     {
       "tag": "sieve-theory",
-      "count": 4
-    },
-    {
-      "tag": "bracket-sequences",
       "count": 4
     },
     {

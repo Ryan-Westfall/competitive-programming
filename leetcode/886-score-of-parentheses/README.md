@@ -6,9 +6,9 @@
 **Tags:** String, Stack, Bracket Sequences
 **Companies:** Google, Meta, TikTok
 **Language:** Python3
-**Runtime:** 0 ms (100.0%)
-**Memory:** 19.1 MB (97.9%)
-**Submitted:** 2026-10-05
+**Runtime:** 51 ms
+**Memory:** 19.3 MB (16.8%)
+**Submitted:** 2026-10-06
 **Link:** https://leetcode.com/problems/score-of-parentheses/
 
 ## Description

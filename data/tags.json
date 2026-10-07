@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T00:06:09.048Z",
-  "totalUniqueProblems": 627,
-  "leetcodeCount": 627,
+  "updatedAt": "2026-10-07T23:45:21.140Z",
+  "totalUniqueProblems": 628,
+  "leetcodeCount": 628,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 175,
     "Medium": 353,
-    "Hard": 99
+    "Hard": 100
   },
   "allTags": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "tag": "string",
-      "count": 128
+      "count": 129
     },
     {
       "tag": "hash-table",
@@ -39,7 +39,7 @@
     },
     {
       "tag": "breadth-first-search",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "binary-search",
@@ -87,7 +87,7 @@
     },
     {
       "tag": "backtracking",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "bit-manipulation",
@@ -517,7 +517,7 @@
     },
     {
       "tag": "string",
-      "count": 128
+      "count": 129
     },
     {
       "tag": "hash-table",
@@ -541,7 +541,7 @@
     },
     {
       "tag": "breadth-first-search",
-      "count": 72
+      "count": 73
     },
     {
       "tag": "binary-search",
@@ -589,7 +589,7 @@
     },
     {
       "tag": "backtracking",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "bit-manipulation",

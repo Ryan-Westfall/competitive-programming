@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "remove-invalid-parentheses",
+    "title": "Remove Invalid Parentheses",
+    "url": "https://leetcode.com/problems/remove-invalid-parentheses/",
+    "language": "python3",
+    "solvedAt": "2026-10-07T23:45:03.000Z",
+    "_ts": 1791416703,
+    "difficulty": "Hard",
+    "frontendId": "301",
+    "questionId": "301",
+    "dir": "leetcode/301-remove-invalid-parentheses",
+    "tags": [
+      "string",
+      "backtracking",
+      "breadth-first-search"
+    ],
+    "tagNames": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "score-of-parentheses",
     "title": "Score of Parentheses",
     "url": "https://leetcode.com/problems/score-of-parentheses/",

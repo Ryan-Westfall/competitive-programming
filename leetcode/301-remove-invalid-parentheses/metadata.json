@@ -1,0 +1,24 @@
+{
+  "questionId": "301",
+  "frontendId": "301",
+  "title": "Remove Invalid Parentheses",
+  "titleSlug": "remove-invalid-parentheses",
+  "difficulty": "Hard",
+  "tags": [
+    "string",
+    "backtracking",
+    "breadth-first-search"
+  ],
+  "tagNames": [
+    "String",
+    "Backtracking",
+    "Breadth-First Search"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1507,
+  "runtimePercentile": 14.50759999999998,
+  "memory": 19500000,
+  "memoryPercentile": 80.25819999999999,
+  "timestamp": 1791416703
+}

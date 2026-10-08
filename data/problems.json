@@ -1,6 +1,28 @@
 [
   {
     "platform": "leetcode",
+    "id": "remove-outermost-parentheses",
+    "title": "Remove Outermost Parentheses",
+    "url": "https://leetcode.com/problems/remove-outermost-parentheses/",
+    "language": "python3",
+    "solvedAt": "2026-10-08T22:44:07.000Z",
+    "difficulty": "Easy",
+    "frontendId": "1021",
+    "questionId": "1078",
+    "dir": "leetcode/1078-remove-outermost-parentheses",
+    "tags": [
+      "string",
+      "stack",
+      "bracket-sequences"
+    ],
+    "tagNames": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "remove-invalid-parentheses",
     "title": "Remove Invalid Parentheses",
     "url": "https://leetcode.com/problems/remove-invalid-parentheses/",

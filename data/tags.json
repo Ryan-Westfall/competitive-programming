@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-07T23:45:21.140Z",
-  "totalUniqueProblems": 628,
-  "leetcodeCount": 628,
+  "updatedAt": "2026-10-08T22:44:23.648Z",
+  "totalUniqueProblems": 629,
+  "leetcodeCount": 629,
   "codeforcesCount": 0,
   "difficultyCounts": {
-    "Easy": 175,
+    "Easy": 176,
     "Medium": 353,
     "Hard": 100
   },
@@ -15,7 +15,7 @@
     },
     {
       "tag": "string",
-      "count": 129
+      "count": 130
     },
     {
       "tag": "hash-table",
@@ -70,15 +70,15 @@
       "count": 44
     },
     {
+      "tag": "stack",
+      "count": 43
+    },
+    {
       "tag": "graph",
       "count": 43
     },
     {
       "tag": "heap-priority-queue",
-      "count": 42
-    },
-    {
-      "tag": "stack",
       "count": 42
     },
     {
@@ -198,6 +198,10 @@
       "count": 7
     },
     {
+      "tag": "bracket-sequences",
+      "count": 6
+    },
+    {
       "tag": "knapsack-problem",
       "count": 6
     },
@@ -239,10 +243,6 @@
     },
     {
       "tag": "rolling-hash",
-      "count": 5
-    },
-    {
-      "tag": "bracket-sequences",
       "count": 5
     },
     {
@@ -517,7 +517,7 @@
     },
     {
       "tag": "string",
-      "count": 129
+      "count": 130
     },
     {
       "tag": "hash-table",
@@ -572,12 +572,12 @@
       "count": 44
     },
     {
-      "tag": "graph",
+      "tag": "stack",
       "count": 43
     },
     {
-      "tag": "stack",
-      "count": 42
+      "tag": "graph",
+      "count": 43
     },
     {
       "tag": "heap-priority-queue",
@@ -700,6 +700,10 @@
       "count": 7
     },
     {
+      "tag": "bracket-sequences",
+      "count": 6
+    },
+    {
       "tag": "knapsack-problem",
       "count": 6
     },
@@ -718,10 +722,6 @@
     {
       "tag": "knuth-morris-pratt-algorithm",
       "count": 6
-    },
-    {
-      "tag": "bracket-sequences",
-      "count": 5
     },
     {
       "tag": "geometry",

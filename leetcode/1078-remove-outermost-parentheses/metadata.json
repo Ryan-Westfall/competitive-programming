@@ -1,0 +1,24 @@
+{
+  "questionId": "1078",
+  "frontendId": "1021",
+  "title": "Remove Outermost Parentheses",
+  "titleSlug": "remove-outermost-parentheses",
+  "difficulty": "Easy",
+  "tags": [
+    "string",
+    "stack",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 43,
+  "runtimePercentile": 5.559399999999996,
+  "memory": 19340000,
+  "memoryPercentile": 32.1107,
+  "timestamp": 1791499447
+}

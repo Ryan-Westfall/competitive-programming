@@ -6,7 +6,7 @@
 **Tags:** String, Stack, Bracket Sequences
 **Companies:** Bloomberg, Amazon, Meta, Microsoft, Google
 **Language:** Python3
-**Runtime:** 43 ms (5.6%)
+**Runtime:** 3 ms (64.8%)
 **Memory:** 19.3 MB (32.1%)
 **Submitted:** 2026-10-08
 **Link:** https://leetcode.com/problems/remove-outermost-parentheses/

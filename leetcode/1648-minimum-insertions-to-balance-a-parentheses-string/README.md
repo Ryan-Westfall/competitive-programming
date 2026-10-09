@@ -4,9 +4,9 @@
 **ID:** 1541
 **Difficulty:** Medium
 **Tags:** String, Stack, Greedy, Bracket Sequences
-**Companies:** Meta, Amazon, Google
+**Companies:** Meta, Google
 **Language:** Python3
-**Runtime:** 105 ms (6.3%)
+**Runtime:** 57 ms (80.0%)
 **Memory:** 19.8 MB (59.3%)
 **Submitted:** 2026-10-09
 **Link:** https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/

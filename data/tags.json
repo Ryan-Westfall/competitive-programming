@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T22:44:23.648Z",
-  "totalUniqueProblems": 629,
-  "leetcodeCount": 629,
+  "updatedAt": "2026-10-09T02:55:47.922Z",
+  "totalUniqueProblems": 630,
+  "leetcodeCount": 630,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 176,
-    "Medium": 353,
+    "Medium": 354,
     "Hard": 100
   },
   "allTags": [
@@ -15,7 +15,7 @@
     },
     {
       "tag": "string",
-      "count": 130
+      "count": 131
     },
     {
       "tag": "hash-table",
@@ -63,15 +63,15 @@
     },
     {
       "tag": "greedy",
+      "count": 45
+    },
+    {
+      "tag": "stack",
       "count": 44
     },
     {
       "tag": "linked-list",
       "count": 44
-    },
-    {
-      "tag": "stack",
-      "count": 43
     },
     {
       "tag": "graph",
@@ -186,6 +186,10 @@
       "count": 8
     },
     {
+      "tag": "bracket-sequences",
+      "count": 7
+    },
+    {
       "tag": "greatest-common-divisor",
       "count": 7
     },
@@ -196,10 +200,6 @@
     {
       "tag": "merge-sort",
       "count": 7
-    },
-    {
-      "tag": "bracket-sequences",
-      "count": 6
     },
     {
       "tag": "knapsack-problem",
@@ -517,7 +517,7 @@
     },
     {
       "tag": "string",
-      "count": 130
+      "count": 131
     },
     {
       "tag": "hash-table",
@@ -565,15 +565,15 @@
     },
     {
       "tag": "greedy",
+      "count": 45
+    },
+    {
+      "tag": "stack",
       "count": 44
     },
     {
       "tag": "linked-list",
       "count": 44
-    },
-    {
-      "tag": "stack",
-      "count": 43
     },
     {
       "tag": "graph",
@@ -688,6 +688,10 @@
       "count": 8
     },
     {
+      "tag": "bracket-sequences",
+      "count": 7
+    },
+    {
       "tag": "shortest-path",
       "count": 7
     },
@@ -698,10 +702,6 @@
     {
       "tag": "merge-sort",
       "count": 7
-    },
-    {
-      "tag": "bracket-sequences",
-      "count": 6
     },
     {
       "tag": "knapsack-problem",

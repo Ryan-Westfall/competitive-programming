@@ -1,6 +1,31 @@
 [
   {
     "platform": "leetcode",
+    "id": "minimum-insertions-to-balance-a-parentheses-string",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+    "language": "python3",
+    "solvedAt": "2026-10-09T02:55:31.000Z",
+    "_ts": 1791514531,
+    "difficulty": "Medium",
+    "frontendId": "1541",
+    "questionId": "1648",
+    "dir": "leetcode/1648-minimum-insertions-to-balance-a-parentheses-string",
+    "tags": [
+      "string",
+      "stack",
+      "greedy",
+      "bracket-sequences"
+    ],
+    "tagNames": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "remove-outermost-parentheses",
     "title": "Remove Outermost Parentheses",
     "url": "https://leetcode.com/problems/remove-outermost-parentheses/",

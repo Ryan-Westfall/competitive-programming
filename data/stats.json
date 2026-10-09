@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-08T22:44:23.654Z",
+  "updatedAt": "2026-10-09T02:55:47.928Z",
   "leetcode": {
-    "uniqueSolved": 629,
-    "totalSubmissions": 629
+    "uniqueSolved": 630,
+    "totalSubmissions": 630
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 629,
-    "submissions": 629
+    "uniqueSolved": 630,
+    "submissions": 630
   },
   "tags": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "tag": "string",
-      "count": 130
+      "count": 131
     },
     {
       "tag": "hash-table",
@@ -67,15 +67,15 @@
     },
     {
       "tag": "greedy",
+      "count": 45
+    },
+    {
+      "tag": "stack",
       "count": 44
     },
     {
       "tag": "linked-list",
       "count": 44
-    },
-    {
-      "tag": "stack",
-      "count": 43
     },
     {
       "tag": "graph",
@@ -96,7 +96,7 @@
   ],
   "difficulties": {
     "Easy": 176,
-    "Medium": 353,
+    "Medium": 354,
     "Hard": 100
   }
 }

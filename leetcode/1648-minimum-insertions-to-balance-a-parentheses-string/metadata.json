@@ -1,0 +1,26 @@
+{
+  "questionId": "1648",
+  "frontendId": "1541",
+  "title": "Minimum Insertions to Balance a Parentheses String",
+  "titleSlug": "minimum-insertions-to-balance-a-parentheses-string",
+  "difficulty": "Medium",
+  "tags": [
+    "string",
+    "stack",
+    "greedy",
+    "bracket-sequences"
+  ],
+  "tagNames": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 105,
+  "runtimePercentile": 6.315100000000021,
+  "memory": 19824000,
+  "memoryPercentile": 59.29819999999999,
+  "timestamp": 1791514531
+}

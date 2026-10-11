@@ -1,0 +1,22 @@
+{
+  "questionId": "2844",
+  "frontendId": "2778",
+  "title": "Sum of Squares of Special Elements ",
+  "titleSlug": "sum-of-squares-of-special-elements",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "enumeration"
+  ],
+  "tagNames": [
+    "Array",
+    "Enumeration"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": "0 ms",
+  "runtimePercentile": 100,
+  "memory": 19156000,
+  "memoryPercentile": 86.1256,
+  "timestamp": 1791763144
+}

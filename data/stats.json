@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-09T16:52:27.185Z",
+  "updatedAt": "2026-10-11T23:59:20.512Z",
   "leetcode": {
-    "uniqueSolved": 630,
-    "totalSubmissions": 630
+    "uniqueSolved": 631,
+    "totalSubmissions": 631
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 630,
-    "submissions": 630
+    "uniqueSolved": 631,
+    "submissions": 631
   },
   "tags": [
     {
       "tag": "array",
-      "count": 330
+      "count": 331
     },
     {
       "tag": "string",
@@ -95,7 +95,7 @@
     }
   ],
   "difficulties": {
-    "Easy": 176,
+    "Easy": 177,
     "Medium": 354,
     "Hard": 100
   }

@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T16:52:27.180Z",
-  "totalUniqueProblems": 630,
-  "leetcodeCount": 630,
+  "updatedAt": "2026-10-11T23:59:20.508Z",
+  "totalUniqueProblems": 631,
+  "leetcodeCount": 631,
   "codeforcesCount": 0,
   "difficultyCounts": {
-    "Easy": 176,
+    "Easy": 177,
     "Medium": 354,
     "Hard": 100
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 330
+      "count": 331
     },
     {
       "tag": "string",
@@ -122,11 +122,11 @@
       "count": 16
     },
     {
-      "tag": "monotonic-stack",
-      "count": 15
+      "tag": "enumeration",
+      "count": 16
     },
     {
-      "tag": "enumeration",
+      "tag": "monotonic-stack",
       "count": 15
     },
     {
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 330
+      "count": 331
     },
     {
       "tag": "string",
@@ -616,6 +616,10 @@
       "count": 23
     },
     {
+      "tag": "enumeration",
+      "count": 16
+    },
+    {
       "tag": "recursion",
       "count": 16
     },
@@ -625,10 +629,6 @@
     },
     {
       "tag": "segment-tree",
-      "count": 15
-    },
-    {
-      "tag": "enumeration",
       "count": 15
     },
     {

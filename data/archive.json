@@ -1,6 +1,27 @@
 [
   {
     "platform": "leetcode",
+    "id": "sum-of-squares-of-special-elements",
+    "title": "Sum of Squares of Special Elements ",
+    "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+    "language": "python3",
+    "solvedAt": "2026-10-11T23:59:04.000Z",
+    "_ts": 1791763144,
+    "difficulty": "Easy",
+    "frontendId": "2778",
+    "questionId": "2844",
+    "dir": "leetcode/2844-sum-of-squares-of-special-elements",
+    "tags": [
+      "array",
+      "enumeration"
+    ],
+    "tagNames": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "minimum-insertions-to-balance-a-parentheses-string",
     "title": "Minimum Insertions to Balance a Parentheses String",
     "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",

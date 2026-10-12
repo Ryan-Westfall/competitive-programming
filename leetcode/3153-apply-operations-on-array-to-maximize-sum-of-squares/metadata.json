@@ -1,0 +1,26 @@
+{
+  "questionId": "3153",
+  "frontendId": "2897",
+  "title": "Apply Operations on Array to Maximize Sum of Squares",
+  "titleSlug": "apply-operations-on-array-to-maximize-sum-of-squares",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "greedy",
+    "bit-manipulation"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1491,
+  "runtimePercentile": 39.21519999999992,
+  "memory": 31920000,
+  "memoryPercentile": 78.4314,
+  "timestamp": 1791849550
+}

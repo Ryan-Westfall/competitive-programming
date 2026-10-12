@@ -5,9 +5,9 @@
 **Difficulty:** Easy
 **Tags:** Array, Enumeration
 **Language:** Python3
-**Runtime:** 0 ms (100.0%)
-**Memory:** 19.2 MB (86.1%)
-**Submitted:** 2026-10-11
+**Runtime:** 7 ms (5.0%)
+**Memory:** 19.3 MB (51.7%)
+**Submitted:** 2026-10-12
 **Link:** https://leetcode.com/problems/sum-of-squares-of-special-elements/
 
 ## Description

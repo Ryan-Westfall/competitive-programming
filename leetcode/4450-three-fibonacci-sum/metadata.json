@@ -1,0 +1,16 @@
+{
+  "questionId": "4450",
+  "frontendId": "4078",
+  "title": "Three Fibonacci Sum",
+  "titleSlug": "three-fibonacci-sum",
+  "difficulty": "Easy",
+  "tags": [],
+  "tagNames": [],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 1,
+  "runtimePercentile": 41.2567,
+  "memory": 19308000,
+  "memoryPercentile": 20.31669999999999,
+  "timestamp": 1792117741
+}

@@ -5,8 +5,8 @@
 **Difficulty:** Easy
 **Tags:** N/A
 **Language:** Python3
-**Runtime:** 1 ms (41.3%)
-**Memory:** 19.3 MB (20.3%)
+**Runtime:** 52 ms (5.7%)
+**Memory:** 19.1 MB (98.0%)
 **Submitted:** 2026-10-16
 **Link:** https://leetcode.com/problems/three-fibonacci-sum/
 

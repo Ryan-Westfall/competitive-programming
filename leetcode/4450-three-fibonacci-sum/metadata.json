@@ -8,8 +8,8 @@
   "tagNames": [],
   "lang": "python3",
   "langVerbose": "Python3",
-  "runtime": 52,
-  "runtimePercentile": 5.660300000000004,
+  "runtime": 1,
+  "runtimePercentile": 41.2567,
   "memory": 19052000,
   "memoryPercentile": 97.9785,
   "timestamp": 1792117985

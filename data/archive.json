@@ -1,6 +1,33 @@
 [
   {
     "platform": "leetcode",
+    "id": "optimal-account-balancing",
+    "title": "Optimal Account Balancing",
+    "url": "https://leetcode.com/problems/optimal-account-balancing/",
+    "language": "python3",
+    "solvedAt": "2026-10-16T00:29:00.000Z",
+    "_ts": 1792110540,
+    "difficulty": "Hard",
+    "frontendId": "465",
+    "questionId": "465",
+    "dir": "leetcode/465-optimal-account-balancing",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "backtracking",
+      "bit-manipulation",
+      "bitmask"
+    ],
+    "tagNames": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "apply-operations-on-array-to-maximize-sum-of-squares",
     "title": "Apply Operations on Array to Maximize Sum of Squares",
     "url": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
@@ -5904,33 +5931,6 @@
       "Hash Table",
       "Math",
       "String"
-    ]
-  },
-  {
-    "platform": "leetcode",
-    "id": "optimal-account-balancing",
-    "title": "Optimal Account Balancing",
-    "url": "https://leetcode.com/problems/optimal-account-balancing/",
-    "language": "python3",
-    "solvedAt": "2026-07-27T22:30:26.000Z",
-    "_ts": 1785191426,
-    "difficulty": "Hard",
-    "frontendId": "465",
-    "questionId": "465",
-    "dir": "leetcode/465-optimal-account-balancing",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "backtracking",
-      "bit-manipulation",
-      "bitmask"
-    ],
-    "tagNames": [
-      "Array",
-      "Dynamic Programming",
-      "Backtracking",
-      "Bit Manipulation",
-      "Bitmask"
     ]
   },
   {

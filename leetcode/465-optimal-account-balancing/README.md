@@ -4,11 +4,11 @@
 **ID:** 465
 **Difficulty:** Hard
 **Tags:** Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask
-**Companies:** Pinterest, Salesforce, Google, Amazon, Goldman Sachs, Intuit, Uber, ZScaler, Affirm, Rippling
+**Companies:** Pinterest, Salesforce, Virtu Financial, Google, Amazon, Goldman Sachs, Uber, ZScaler, Affirm, Intuit
 **Language:** Python3
-**Runtime:** 80 ms (73.3%)
-**Memory:** 19.2 MB (78.9%)
-**Submitted:** 2026-07-27
+**Runtime:** 87 ms (62.5%)
+**Memory:** 19.3 MB (75.0%)
+**Submitted:** 2026-10-16
 **Link:** https://leetcode.com/problems/optimal-account-balancing/
 
 ## Description

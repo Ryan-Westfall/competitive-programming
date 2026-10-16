@@ -1,6 +1,21 @@
 [
   {
     "platform": "leetcode",
+    "id": "three-fibonacci-sum",
+    "title": "Three Fibonacci Sum",
+    "url": "https://leetcode.com/problems/three-fibonacci-sum/",
+    "language": "python3",
+    "solvedAt": "2026-10-16T02:29:01.000Z",
+    "_ts": 1792117741,
+    "difficulty": "Easy",
+    "frontendId": "4078",
+    "questionId": "4450",
+    "dir": "leetcode/4450-three-fibonacci-sum",
+    "tags": [],
+    "tagNames": []
+  },
+  {
+    "platform": "leetcode",
     "id": "optimal-account-balancing",
     "title": "Optimal Account Balancing",
     "url": "https://leetcode.com/problems/optimal-account-balancing/",

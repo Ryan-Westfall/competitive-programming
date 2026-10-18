@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "shortest-path-to-get-food",
+    "title": "Shortest Path to Get Food",
+    "url": "https://leetcode.com/problems/shortest-path-to-get-food/",
+    "language": "python3",
+    "solvedAt": "2026-10-18T23:59:28.000Z",
+    "_ts": 1792367968,
+    "difficulty": "Medium",
+    "frontendId": "1730",
+    "questionId": "550",
+    "dir": "leetcode/550-shortest-path-to-get-food",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "tagNames": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "three-fibonacci-sum",
     "title": "Three Fibonacci Sum",
     "url": "https://leetcode.com/problems/three-fibonacci-sum/",

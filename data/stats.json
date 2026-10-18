@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-16T03:27:06.246Z",
+  "updatedAt": "2026-10-18T23:59:41.838Z",
   "leetcode": {
-    "uniqueSolved": 633,
-    "totalSubmissions": 633
+    "uniqueSolved": 634,
+    "totalSubmissions": 634
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 633,
-    "submissions": 633
+    "uniqueSolved": 634,
+    "submissions": 634
   },
   "tags": [
     {
       "tag": "array",
-      "count": 332
+      "count": 333
     },
     {
       "tag": "string",
@@ -43,7 +43,7 @@
     },
     {
       "tag": "breadth-first-search",
-      "count": 73
+      "count": 74
     },
     {
       "tag": "binary-search",
@@ -63,7 +63,7 @@
     },
     {
       "tag": "matrix",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "greedy",
@@ -96,7 +96,7 @@
   ],
   "difficulties": {
     "Easy": 178,
-    "Medium": 354,
+    "Medium": 355,
     "Hard": 101
   }
 }

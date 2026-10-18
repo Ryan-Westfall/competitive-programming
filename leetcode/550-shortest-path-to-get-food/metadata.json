@@ -1,0 +1,24 @@
+{
+  "questionId": "550",
+  "frontendId": "1730",
+  "title": "Shortest Path to Get Food",
+  "titleSlug": "shortest-path-to-get-food",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "breadth-first-search",
+    "matrix"
+  ],
+  "tagNames": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 59,
+  "runtimePercentile": 72.6143,
+  "memory": 28720000,
+  "memoryPercentile": 22.821899999999964,
+  "timestamp": 1792367968
+}

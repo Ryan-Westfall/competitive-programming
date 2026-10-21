@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-18T23:59:41.838Z",
+  "updatedAt": "2026-10-21T23:47:33.636Z",
   "leetcode": {
-    "uniqueSolved": 634,
-    "totalSubmissions": 634
+    "uniqueSolved": 635,
+    "totalSubmissions": 635
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 634,
-    "submissions": 634
+    "uniqueSolved": 635,
+    "submissions": 635
   },
   "tags": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "tag": "string",
-      "count": 131
+      "count": 132
     },
     {
       "tag": "hash-table",
@@ -96,7 +96,7 @@
   ],
   "difficulties": {
     "Easy": 178,
-    "Medium": 355,
+    "Medium": 356,
     "Hard": 101
   }
 }

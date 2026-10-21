@@ -1,6 +1,25 @@
 [
   {
     "platform": "leetcode",
+    "id": "minimum-operations-to-sort-a-string",
+    "title": "Minimum Operations to Sort a String",
+    "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+    "language": "python3",
+    "solvedAt": "2026-10-21T23:47:17.000Z",
+    "_ts": 1792626437,
+    "difficulty": "Medium",
+    "frontendId": "3863",
+    "questionId": "4220",
+    "dir": "leetcode/4220-minimum-operations-to-sort-a-string",
+    "tags": [
+      "string"
+    ],
+    "tagNames": [
+      "String"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "shortest-path-to-get-food",
     "title": "Shortest Path to Get Food",
     "url": "https://leetcode.com/problems/shortest-path-to-get-food/",

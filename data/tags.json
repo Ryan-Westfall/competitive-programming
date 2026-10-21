@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T23:59:41.831Z",
-  "totalUniqueProblems": 634,
-  "leetcodeCount": 634,
+  "updatedAt": "2026-10-21T23:47:33.630Z",
+  "totalUniqueProblems": 635,
+  "leetcodeCount": 635,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 178,
-    "Medium": 355,
+    "Medium": 356,
     "Hard": 101
   },
   "allTags": [
@@ -15,7 +15,7 @@
     },
     {
       "tag": "string",
-      "count": 131
+      "count": 132
     },
     {
       "tag": "hash-table",
@@ -517,7 +517,7 @@
     },
     {
       "tag": "string",
-      "count": 131
+      "count": 132
     },
     {
       "tag": "hash-table",

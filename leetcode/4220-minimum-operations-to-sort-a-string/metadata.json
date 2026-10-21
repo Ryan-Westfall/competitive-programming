@@ -1,0 +1,20 @@
+{
+  "questionId": "4220",
+  "frontendId": "3863",
+  "title": "Minimum Operations to Sort a String",
+  "titleSlug": "minimum-operations-to-sort-a-string",
+  "difficulty": "Medium",
+  "tags": [
+    "string"
+  ],
+  "tagNames": [
+    "String"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 93,
+  "runtimePercentile": 67.20000000000002,
+  "memory": 20024000,
+  "memoryPercentile": 58.4,
+  "timestamp": 1792626437
+}

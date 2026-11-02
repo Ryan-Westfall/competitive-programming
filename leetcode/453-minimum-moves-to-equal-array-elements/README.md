@@ -6,8 +6,8 @@
 **Tags:** Array, Math
 **Companies:** Infosys, Bloomberg, Amazon, Google, Coursera, Indeed
 **Language:** Python3
-**Runtime:** 82 ms (5.8%)
-**Memory:** 20.5 MB (68.6%)
+**Runtime:** 7 ms (52.0%)
+**Memory:** 20.3 MB (86.7%)
 **Submitted:** 2026-11-02
 **Link:** https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 

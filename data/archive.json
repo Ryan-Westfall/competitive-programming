@@ -1,6 +1,29 @@
 [
   {
     "platform": "leetcode",
+    "id": "minimum-moves-to-equal-array-elements-ii",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+    "language": "python3",
+    "solvedAt": "2026-11-02T23:31:40.000Z",
+    "_ts": 1793662300,
+    "difficulty": "Medium",
+    "frontendId": "462",
+    "questionId": "462",
+    "dir": "leetcode/462-minimum-moves-to-equal-array-elements-ii",
+    "tags": [
+      "array",
+      "math",
+      "sorting"
+    ],
+    "tagNames": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "minimum-moves-to-equal-array-elements",
     "title": "Minimum Moves to Equal Array Elements",
     "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",

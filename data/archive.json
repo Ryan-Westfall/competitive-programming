@@ -1,6 +1,27 @@
 [
   {
     "platform": "leetcode",
+    "id": "minimum-moves-to-equal-array-elements",
+    "title": "Minimum Moves to Equal Array Elements",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+    "language": "python3",
+    "solvedAt": "2026-11-02T17:26:28.000Z",
+    "_ts": 1793640388,
+    "difficulty": "Medium",
+    "frontendId": "453",
+    "questionId": "453",
+    "dir": "leetcode/453-minimum-moves-to-equal-array-elements",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "tagNames": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "minimum-operations-to-sort-a-string",
     "title": "Minimum Operations to Sort a String",
     "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",

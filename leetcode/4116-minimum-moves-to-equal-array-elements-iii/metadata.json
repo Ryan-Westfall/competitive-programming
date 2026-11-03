@@ -1,0 +1,22 @@
+{
+  "questionId": "4116",
+  "frontendId": "3736",
+  "title": "Minimum Moves to Equal Array Elements III",
+  "titleSlug": "minimum-moves-to-equal-array-elements-iii",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "math"
+  ],
+  "tagNames": [
+    "Array",
+    "Math"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 4,
+  "runtimePercentile": 13.076899999999995,
+  "memory": 18952000,
+  "memoryPercentile": 98.4615,
+  "timestamp": 1793720356
+}

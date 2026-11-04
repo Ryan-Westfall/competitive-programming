@@ -1,0 +1,30 @@
+{
+  "questionId": "3717",
+  "frontendId": "3505",
+  "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+  "titleSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+  "difficulty": "Hard",
+  "tags": [
+    "array",
+    "hash-table",
+    "math",
+    "dynamic-programming",
+    "sliding-window",
+    "heap-priority-queue"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Heap (Priority Queue)"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 3602,
+  "runtimePercentile": 59.70249999999984,
+  "memory": 37660000,
+  "memoryPercentile": 92.5373,
+  "timestamp": 1793835881
+}

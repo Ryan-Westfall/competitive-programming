@@ -1,6 +1,34 @@
 [
   {
     "platform": "leetcode",
+    "id": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "url": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+    "language": "python3",
+    "solvedAt": "2026-11-04T23:44:41.000Z",
+    "difficulty": "Hard",
+    "frontendId": "3505",
+    "questionId": "3717",
+    "dir": "leetcode/3717-minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "dynamic-programming",
+      "sliding-window",
+      "heap-priority-queue"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "minimum-moves-to-equal-array-elements-iii",
     "title": "Minimum Moves to Equal Array Elements III",
     "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",

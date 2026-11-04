@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T15:39:37.080Z",
-  "totalUniqueProblems": 638,
-  "leetcodeCount": 638,
+  "updatedAt": "2026-11-04T23:45:01.223Z",
+  "totalUniqueProblems": 639,
+  "leetcodeCount": 639,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 179,
     "Medium": 358,
-    "Hard": 101
+    "Hard": 102
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 336
+      "count": 337
     },
     {
       "tag": "string",
@@ -19,15 +19,15 @@
     },
     {
       "tag": "hash-table",
-      "count": 115
+      "count": 116
     },
     {
       "tag": "math",
-      "count": 111
+      "count": 112
     },
     {
       "tag": "dynamic-programming",
-      "count": 92
+      "count": 93
     },
     {
       "tag": "depth-first-search",
@@ -74,12 +74,12 @@
       "count": 44
     },
     {
-      "tag": "graph",
+      "tag": "heap-priority-queue",
       "count": 43
     },
     {
-      "tag": "heap-priority-queue",
-      "count": 42
+      "tag": "graph",
+      "count": 43
     },
     {
       "tag": "design",
@@ -102,15 +102,15 @@
       "count": 25
     },
     {
+      "tag": "sliding-window",
+      "count": 24
+    },
+    {
       "tag": "simulation",
       "count": 24
     },
     {
       "tag": "divide-and-conquer",
-      "count": 23
-    },
-    {
-      "tag": "sliding-window",
       "count": 23
     },
     {
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 336
+      "count": 337
     },
     {
       "tag": "string",
@@ -521,15 +521,15 @@
     },
     {
       "tag": "hash-table",
-      "count": 115
+      "count": 116
     },
     {
       "tag": "math",
-      "count": 111
+      "count": 112
     },
     {
       "tag": "dynamic-programming",
-      "count": 92
+      "count": 93
     },
     {
       "tag": "depth-first-search",
@@ -576,12 +576,12 @@
       "count": 44
     },
     {
-      "tag": "graph",
+      "tag": "heap-priority-queue",
       "count": 43
     },
     {
-      "tag": "heap-priority-queue",
-      "count": 42
+      "tag": "graph",
+      "count": 43
     },
     {
       "tag": "design",
@@ -604,12 +604,12 @@
       "count": 25
     },
     {
-      "tag": "simulation",
+      "tag": "sliding-window",
       "count": 24
     },
     {
-      "tag": "sliding-window",
-      "count": 23
+      "tag": "simulation",
+      "count": 24
     },
     {
       "tag": "divide-and-conquer",

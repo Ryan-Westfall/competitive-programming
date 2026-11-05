@@ -1,0 +1,26 @@
+{
+  "questionId": "1486",
+  "frontendId": "1385",
+  "title": "Find the Distance Value Between Two Arrays",
+  "titleSlug": "find-the-distance-value-between-two-arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "two-pointers",
+    "binary-search",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 17,
+  "runtimePercentile": 53.778700000000015,
+  "memory": 19244000,
+  "memoryPercentile": 69.33200000000001,
+  "timestamp": 1793921614
+}

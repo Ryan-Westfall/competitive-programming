@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T23:34:34.523Z",
-  "totalUniqueProblems": 639,
-  "leetcodeCount": 639,
+  "updatedAt": "2026-11-06T23:07:30.421Z",
+  "totalUniqueProblems": 641,
+  "leetcodeCount": 641,
   "codeforcesCount": 0,
   "difficultyCounts": {
-    "Easy": 179,
-    "Medium": 358,
+    "Easy": 180,
+    "Medium": 359,
     "Hard": 102
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 337
+      "count": 339
     },
     {
       "tag": "string",
@@ -19,7 +19,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 116
+      "count": 117
     },
     {
       "tag": "math",
@@ -35,7 +35,7 @@
     },
     {
       "tag": "sorting",
-      "count": 78
+      "count": 80
     },
     {
       "tag": "breadth-first-search",
@@ -43,14 +43,14 @@
     },
     {
       "tag": "binary-search",
-      "count": 64
-    },
-    {
-      "tag": "tree",
-      "count": 58
+      "count": 65
     },
     {
       "tag": "two-pointers",
+      "count": 59
+    },
+    {
+      "tag": "tree",
       "count": 58
     },
     {
@@ -98,12 +98,12 @@
       "count": 27
     },
     {
-      "tag": "union-find",
+      "tag": "sliding-window",
       "count": 25
     },
     {
-      "tag": "sliding-window",
-      "count": 24
+      "tag": "union-find",
+      "count": 25
     },
     {
       "tag": "simulation",
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 337
+      "count": 339
     },
     {
       "tag": "string",
@@ -521,7 +521,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 116
+      "count": 117
     },
     {
       "tag": "math",
@@ -537,7 +537,7 @@
     },
     {
       "tag": "sorting",
-      "count": 78
+      "count": 80
     },
     {
       "tag": "breadth-first-search",
@@ -545,11 +545,11 @@
     },
     {
       "tag": "binary-search",
-      "count": 64
+      "count": 65
     },
     {
       "tag": "two-pointers",
-      "count": 58
+      "count": 59
     },
     {
       "tag": "tree",
@@ -600,12 +600,12 @@
       "count": 27
     },
     {
-      "tag": "union-find",
+      "tag": "sliding-window",
       "count": 25
     },
     {
-      "tag": "sliding-window",
-      "count": 24
+      "tag": "union-find",
+      "count": 25
     },
     {
       "tag": "simulation",

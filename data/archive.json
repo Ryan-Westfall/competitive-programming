@@ -1,6 +1,56 @@
 [
   {
     "platform": "leetcode",
+    "id": "count-zero-request-servers",
+    "title": "Count Zero Request Servers",
+    "url": "https://leetcode.com/problems/count-zero-request-servers/",
+    "language": "python3",
+    "solvedAt": "2026-11-06T23:07:13.000Z",
+    "_ts": 1794006433,
+    "difficulty": "Medium",
+    "frontendId": "2747",
+    "questionId": "2833",
+    "dir": "leetcode/2833-count-zero-request-servers",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window",
+      "sorting"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "platform": "leetcode",
+    "id": "find-the-distance-value-between-two-arrays",
+    "title": "Find the Distance Value Between Two Arrays",
+    "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+    "language": "python3",
+    "solvedAt": "2026-11-05T23:33:34.000Z",
+    "_ts": 1793921614,
+    "difficulty": "Easy",
+    "frontendId": "1385",
+    "questionId": "1486",
+    "dir": "leetcode/1486-find-the-distance-value-between-two-arrays",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "sorting"
+    ],
+    "tagNames": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "minimum-operations-to-make-elements-within-k-subarrays-equal",
     "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
     "url": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",

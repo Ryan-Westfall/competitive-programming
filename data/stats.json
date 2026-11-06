@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-05T23:34:34.606Z",
+  "updatedAt": "2026-11-06T23:07:30.427Z",
   "leetcode": {
-    "uniqueSolved": 639,
-    "totalSubmissions": 639
+    "uniqueSolved": 641,
+    "totalSubmissions": 641
   },
   "codeforces": {
     "uniqueSolved": 0,
     "totalSubmissions": 0
   },
   "total": {
-    "uniqueSolved": 639,
-    "submissions": 639
+    "uniqueSolved": 641,
+    "submissions": 641
   },
   "tags": [
     {
       "tag": "array",
-      "count": 337
+      "count": 339
     },
     {
       "tag": "string",
@@ -23,7 +23,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 116
+      "count": 117
     },
     {
       "tag": "math",
@@ -39,7 +39,7 @@
     },
     {
       "tag": "sorting",
-      "count": 78
+      "count": 80
     },
     {
       "tag": "breadth-first-search",
@@ -47,14 +47,14 @@
     },
     {
       "tag": "binary-search",
-      "count": 64
-    },
-    {
-      "tag": "tree",
-      "count": 58
+      "count": 65
     },
     {
       "tag": "two-pointers",
+      "count": 59
+    },
+    {
+      "tag": "tree",
       "count": 58
     },
     {
@@ -95,8 +95,8 @@
     }
   ],
   "difficulties": {
-    "Easy": 179,
-    "Medium": 358,
+    "Easy": 180,
+    "Medium": 359,
     "Hard": 102
   }
 }

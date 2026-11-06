@@ -1,0 +1,26 @@
+{
+  "questionId": "2833",
+  "frontendId": "2747",
+  "title": "Count Zero Request Servers",
+  "titleSlug": "count-zero-request-servers",
+  "difficulty": "Medium",
+  "tags": [
+    "array",
+    "hash-table",
+    "sliding-window",
+    "sorting"
+  ],
+  "tagNames": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Sorting"
+  ],
+  "lang": "python3",
+  "langVerbose": "Python3",
+  "runtime": 189,
+  "runtimePercentile": 31.034300000000144,
+  "memory": 69472000,
+  "memoryPercentile": 54.310500000000005,
+  "timestamp": 1794006433
+}

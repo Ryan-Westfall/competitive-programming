@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T22:50:06.664Z",
-  "totalUniqueProblems": 641,
-  "leetcodeCount": 641,
+  "updatedAt": "2026-11-07T23:09:15.568Z",
+  "totalUniqueProblems": 642,
+  "leetcodeCount": 642,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 180,
-    "Medium": 359,
+    "Medium": 360,
     "Hard": 102
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 339
+      "count": 340
     },
     {
       "tag": "string",
@@ -19,7 +19,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 117
+      "count": 118
     },
     {
       "tag": "math",
@@ -59,7 +59,7 @@
     },
     {
       "tag": "matrix",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "greedy",
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 339
+      "count": 340
     },
     {
       "tag": "string",
@@ -521,7 +521,7 @@
     },
     {
       "tag": "hash-table",
-      "count": 117
+      "count": 118
     },
     {
       "tag": "math",
@@ -561,7 +561,7 @@
     },
     {
       "tag": "matrix",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "greedy",

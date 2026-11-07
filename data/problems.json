@@ -1,6 +1,28 @@
 [
   {
     "platform": "leetcode",
+    "id": "lonely-pixel-i",
+    "title": "Lonely Pixel I",
+    "url": "https://leetcode.com/problems/lonely-pixel-i/",
+    "language": "python3",
+    "solvedAt": "2026-11-07T23:09:01.000Z",
+    "difficulty": "Medium",
+    "frontendId": "531",
+    "questionId": "531",
+    "dir": "leetcode/531-lonely-pixel-i",
+    "tags": [
+      "array",
+      "hash-table",
+      "matrix"
+    ],
+    "tagNames": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "platform": "leetcode",
     "id": "process-tasks-using-servers",
     "title": "Process Tasks Using Servers",
     "url": "https://leetcode.com/problems/process-tasks-using-servers/",

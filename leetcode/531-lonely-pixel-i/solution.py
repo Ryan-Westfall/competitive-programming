@@ -4,8 +4,8 @@ class Solution:
         n = len(picture)
         m = len(picture[0])
 
-        rowCount = [0] * n
-        colCount = [0] * m
+        rowCount = defaultdict(int)
+        colCount = defaultdict(int)
 
         for r in range(n):
             for c in range(m):

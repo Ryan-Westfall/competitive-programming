@@ -4,11 +4,11 @@
 **ID:** 1882
 **Difficulty:** Medium
 **Tags:** Array, Heap (Priority Queue)
-**Companies:** Google, LinkedIn, Amazon, X
+**Companies:** Google, LinkedIn, X
 **Language:** Python3
-**Runtime:** 635 ms (29.8%)
-**Memory:** 62.4 MB (93.1%)
-**Submitted:** 2026-09-22
+**Runtime:** 584 ms (71.7%)
+**Memory:** 64.7 MB (66.9%)
+**Submitted:** 2026-11-07
 **Link:** https://leetcode.com/problems/process-tasks-using-servers/
 
 ## Description

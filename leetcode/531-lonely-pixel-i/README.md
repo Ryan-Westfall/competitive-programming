@@ -7,7 +7,7 @@
 **Companies:** Google
 **Language:** Python3
 **Runtime:** 21 ms (23.4%)
-**Memory:** 23.5 MB (26.5%)
+**Memory:** 23.5 MB (51.9%)
 **Submitted:** 2026-11-07
 **Link:** https://leetcode.com/problems/lonely-pixel-i/
 

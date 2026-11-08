@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T23:09:54.654Z",
-  "totalUniqueProblems": 642,
-  "leetcodeCount": 642,
+  "updatedAt": "2026-11-08T03:42:17.427Z",
+  "totalUniqueProblems": 643,
+  "leetcodeCount": 643,
   "codeforcesCount": 0,
   "difficultyCounts": {
     "Easy": 180,
-    "Medium": 360,
+    "Medium": 361,
     "Hard": 102
   },
   "allTags": [
     {
       "tag": "array",
-      "count": 340
+      "count": 341
     },
     {
       "tag": "string",
@@ -31,7 +31,7 @@
     },
     {
       "tag": "depth-first-search",
-      "count": 84
+      "count": 85
     },
     {
       "tag": "sorting",
@@ -39,7 +39,7 @@
     },
     {
       "tag": "breadth-first-search",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "binary-search",
@@ -59,7 +59,7 @@
     },
     {
       "tag": "matrix",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "greedy",
@@ -98,11 +98,11 @@
       "count": 27
     },
     {
-      "tag": "sliding-window",
-      "count": 25
+      "tag": "union-find",
+      "count": 26
     },
     {
-      "tag": "union-find",
+      "tag": "sliding-window",
       "count": 25
     },
     {
@@ -126,6 +126,10 @@
       "count": 16
     },
     {
+      "tag": "counting",
+      "count": 15
+    },
+    {
       "tag": "monotonic-stack",
       "count": 15
     },
@@ -136,10 +140,6 @@
     {
       "tag": "segment-tree",
       "count": 15
-    },
-    {
-      "tag": "counting",
-      "count": 14
     },
     {
       "tag": "game-theory",
@@ -513,7 +513,7 @@
   "leetcodeTags": [
     {
       "tag": "array",
-      "count": 340
+      "count": 341
     },
     {
       "tag": "string",
@@ -533,7 +533,7 @@
     },
     {
       "tag": "depth-first-search",
-      "count": 84
+      "count": 85
     },
     {
       "tag": "sorting",
@@ -541,7 +541,7 @@
     },
     {
       "tag": "breadth-first-search",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "binary-search",
@@ -561,7 +561,7 @@
     },
     {
       "tag": "matrix",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "greedy",
@@ -600,11 +600,11 @@
       "count": 27
     },
     {
-      "tag": "sliding-window",
-      "count": 25
+      "tag": "union-find",
+      "count": 26
     },
     {
-      "tag": "union-find",
+      "tag": "sliding-window",
       "count": 25
     },
     {
@@ -628,6 +628,10 @@
       "count": 16
     },
     {
+      "tag": "counting",
+      "count": 15
+    },
+    {
       "tag": "segment-tree",
       "count": 15
     },
@@ -638,10 +642,6 @@
     {
       "tag": "number-theory",
       "count": 15
-    },
-    {
-      "tag": "counting",
-      "count": 14
     },
     {
       "tag": "game-theory",
